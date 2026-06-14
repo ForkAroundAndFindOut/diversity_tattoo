@@ -1,0 +1,1541 @@
+[
+  {
+    "source_route": "artist.html",
+    "source_type": "static_page",
+    "source_status": "available",
+    "content_area": "Artists",
+    "canonical_target": "artists/index.html",
+    "destination_status": "rebuilt section page",
+    "exception": ""
+  },
+  {
+    "source_route": "blog/categories/getting-started.html",
+    "source_type": "blog_category",
+    "source_status": "available",
+    "content_area": "Blog / Guides",
+    "canonical_target": "blog/index.html",
+    "destination_status": "redirect to rebuilt destination",
+    "exception": ""
+  },
+  {
+    "source_route": "blog/categories/your-community.html",
+    "source_type": "blog_category",
+    "source_status": "available",
+    "content_area": "Blog / Guides",
+    "canonical_target": "blog/index.html",
+    "destination_status": "redirect to rebuilt destination",
+    "exception": ""
+  },
+  {
+    "source_route": "blog/davinci-miqro.html",
+    "source_type": "blog_redirect",
+    "source_status": "available",
+    "content_area": "Blog / Guides",
+    "canonical_target": "blog/davinci-miqro.html",
+    "destination_status": "redirect to rebuilt destination",
+    "exception": ""
+  },
+  {
+    "source_route": "blog/kandypens-k-stick.html",
+    "source_type": "blog_redirect",
+    "source_status": "available",
+    "content_area": "Blog / Guides",
+    "canonical_target": "blog/kandypens-k-stick.html",
+    "destination_status": "redirect to rebuilt destination",
+    "exception": ""
+  },
+  {
+    "source_route": "blog/levo-oil-butter-maker.html",
+    "source_type": "blog_redirect",
+    "source_status": "available",
+    "content_area": "Blog / Guides",
+    "canonical_target": "blog/levo-oil-butter-maker.html",
+    "destination_status": "redirect to rebuilt destination",
+    "exception": ""
+  },
+  {
+    "source_route": "blog/now-in-store-dr-dabber-switch.html",
+    "source_type": "blog_redirect",
+    "source_status": "available",
+    "content_area": "Blog / Guides",
+    "canonical_target": "blog/now-in-store-dr-dabber-switch.html",
+    "destination_status": "redirect to rebuilt destination",
+    "exception": ""
+  },
+  {
+    "source_route": "blog.html",
+    "source_type": "blog_index",
+    "source_status": "available",
+    "content_area": "Blog / Guides",
+    "canonical_target": "blog/index.html",
+    "destination_status": "rebuilt section page",
+    "exception": ""
+  },
+  {
+    "source_route": "bodypiercing.html",
+    "source_type": "static_page",
+    "source_status": "available",
+    "content_area": "Piercing",
+    "canonical_target": "services/bodypiercing.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "charlie.html",
+    "source_type": "static_page",
+    "source_status": "available",
+    "content_area": "Artists",
+    "canonical_target": "artists/charlie.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "contact.html",
+    "source_type": "static_page",
+    "source_status": "available",
+    "content_area": "Location / Contact",
+    "canonical_target": "services/contact.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "faq.html",
+    "source_type": "static_page",
+    "source_status": "available",
+    "content_area": "FAQ",
+    "canonical_target": "services/faq.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "gallery.html",
+    "source_type": "static_page",
+    "source_status": "available",
+    "content_area": "Tattoo Services",
+    "canonical_target": "services/gallery.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "home.html",
+    "source_type": "static_page",
+    "source_status": "available",
+    "content_area": "Home",
+    "canonical_target": "index.html",
+    "destination_status": "rebuilt primary page",
+    "exception": ""
+  },
+  {
+    "source_route": "index.html",
+    "source_type": "static_page",
+    "source_status": "available",
+    "content_area": "Home",
+    "canonical_target": "index.html",
+    "destination_status": "rebuilt primary page",
+    "exception": ""
+  },
+  {
+    "source_route": "locations.html",
+    "source_type": "static_page",
+    "source_status": "available",
+    "content_area": "Location / Contact",
+    "canonical_target": "services/locations.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "post/are-detox-cleanses-permanent.html",
+    "source_type": "blog_post",
+    "source_status": "available",
+    "content_area": "Blog / Guides",
+    "canonical_target": "blog/are-detox-cleanses-permanent.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "post/can-my-tattoo-be-covered-up.html",
+    "source_type": "blog_post",
+    "source_status": "available",
+    "content_area": "Blog / Guides",
+    "canonical_target": "blog/can-my-tattoo-be-covered-up.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "post/cbdforpets.html",
+    "source_type": "blog_post",
+    "source_status": "available",
+    "content_area": "Blog / Guides",
+    "canonical_target": "blog/cbdforpets.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "post/cbdforpets1.html",
+    "source_type": "blog_post",
+    "source_status": "available",
+    "content_area": "Blog / Guides",
+    "canonical_target": "blog/cbdforpets1.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "post/cbdforpets2.html",
+    "source_type": "blog_post",
+    "source_status": "available",
+    "content_area": "Blog / Guides",
+    "canonical_target": "blog/cbdforpets2.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "post/davinci-miqro.html",
+    "source_type": "blog_post",
+    "source_status": "available",
+    "content_area": "Blog / Guides",
+    "canonical_target": "blog/davinci-miqro.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "post/firsttattoo.html",
+    "source_type": "blog_post",
+    "source_status": "available",
+    "content_area": "Blog / Guides",
+    "canonical_target": "blog/firsttattoo.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "post/honeystick-beekeeper-conceal-essential-oil-vaporizer.html",
+    "source_type": "blog_post",
+    "source_status": "available",
+    "content_area": "Blog / Guides",
+    "canonical_target": "blog/honeystick-beekeeper-conceal-essential-oil-vaporizer.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "post/kandypens-k-stick.html",
+    "source_type": "blog_post",
+    "source_status": "available",
+    "content_area": "Blog / Guides",
+    "canonical_target": "blog/kandypens-k-stick.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "post/levo-oil-butter-maker.html",
+    "source_type": "blog_post",
+    "source_status": "available",
+    "content_area": "Blog / Guides",
+    "canonical_target": "blog/levo-oil-butter-maker.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "post/now-in-store-dr-dabber-switch.html",
+    "source_type": "blog_post",
+    "source_status": "available",
+    "content_area": "Blog / Guides",
+    "canonical_target": "blog/now-in-store-dr-dabber-switch.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "post/tattooaftercare.html",
+    "source_type": "blog_post",
+    "source_status": "available",
+    "content_area": "Blog / Guides",
+    "canonical_target": "blog/tattooaftercare.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "post/tips-for-a-successful-cover-up-tattoo.html",
+    "source_type": "blog_post",
+    "source_status": "available",
+    "content_area": "Blog / Guides",
+    "canonical_target": "blog/tips-for-a-successful-cover-up-tattoo.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "post/what-is-detox.html",
+    "source_type": "blog_post",
+    "source_status": "available",
+    "content_area": "Blog / Guides",
+    "canonical_target": "blog/what-is-detox.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "post/what-to-do-if-your-tattoo-or-piercing-itches.html",
+    "source_type": "blog_post",
+    "source_status": "available",
+    "content_area": "Blog / Guides",
+    "canonical_target": "blog/what-to-do-if-your-tattoo-or-piercing-itches.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "price-list-1.html",
+    "source_type": "static_page",
+    "source_status": "available",
+    "content_area": "Piercing",
+    "canonical_target": "services/price-list-1.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/additive-x-stream-synthentic-urine.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/additive-x-stream-synthentic-urine.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/ascent-oil-jars.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/ascent-oil-jars.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/ascentst-g-adapter.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/ascentst-g-adapter.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/ascentst-u-adapter.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/ascentst-u-adapter.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/assisted-dug-cut.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/assisted-dug-cut.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/asvape-michael-box.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/asvape-michael-box.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/atmos-grinder.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/atmos-grinder.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/atmosnail.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/atmosnail.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/badwood-g-pen.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/badwood-g-pen.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/bb-st-0g-5-8.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/bb-st-0g-5-8.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/bb-st-10g-1-2.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/bb-st-10g-1-2.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/bb-st-10g-3-4.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/bb-st-10g-3-4.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/bb-st-12g-1-2.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/bb-st-12g-1-2.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/bb-st-12g-5-8.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/bb-st-12g-5-8.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/bb-st-12g-7-16.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/bb-st-12g-7-16.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/bb-st-12g-7-8.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/bb-st-12g-7-8.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/bb-st-14g-7-8.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/bb-st-14g-7-8.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/bb-st-2g-5-8.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/bb-st-2g-5-8.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/bb-st-6g-5-8.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/bb-st-6g-5-8.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/bubbler.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/bubbler.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/cbb-st-10g-1-2-cone.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/cbb-st-10g-1-2-cone.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/cbb-st-10g-1-2-reg-ball.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/cbb-st-10g-1-2-reg-ball.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/cbb-st-12g-3-8-cone.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/cbb-st-12g-3-8-cone.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/cbb-st-12g-7-16-gem-reg-clear.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/cbb-st-12g-7-16-gem-reg-clear.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/cbr-st-10g-1-2-gem-ball-clear.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/cbr-st-10g-1-2-gem-ball-clear.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/cbr-st-12g-1-2-1.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/cbr-st-12g-1-2-1.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/cbr-st-12g-1-2-gem-ball-clear.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/cbr-st-12g-1-2-gem-ball-clear.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/cbr-st-12g-1-2.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/cbr-st-12g-1-2.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/cbr-st-12g-3-8.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/cbr-st-12g-3-8.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/cbr-st-12g-5-8-1.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/cbr-st-12g-5-8-1.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/cbr-st-12g-5-8.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/cbr-st-12g-5-8.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/cbr-st-12g-7-16-1.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/cbr-st-12g-7-16-1.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/cbr-st-12g-7-16.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/cbr-st-12g-7-16.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/cbr-st-8g-1-2-gem-ball-clear.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/cbr-st-8g-1-2-gem-ball-clear.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/clear-hit-1.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/clear-hit-1.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/clear-hit.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/clear-hit.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/copy-of-atmos-nail.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/copy-of-atmos-nail.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/copy-of-cbr-st-12g3-8.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/copy-of-cbr-st-12g3-8.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/copy-of-glass-pipe.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/copy-of-glass-pipe.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/detoxify-ever-clean.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/detoxify-ever-clean.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/detoxify-green-clean.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/detoxify-green-clean.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/detoxify-instant-clean.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/detoxify-instant-clean.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/detoxify-mega-clean.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/detoxify-mega-clean.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/detoxify-mighty-clean.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/detoxify-mighty-clean.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/detoxify-pre-cleanse-caps.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/detoxify-pre-cleanse-caps.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/detoxify-ready-clean-grape-tropical-orange.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/detoxify-ready-clean-grape-tropical-orange.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/detoxify-xxtra-clean.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/detoxify-xxtra-clean.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/dr-dabber-switch.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/dr-dabber-switch.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/dr-greens-cool-rinse-mouthwash.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/dr-greens-cool-rinse-mouthwash.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/dr-greens-field-kit.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/dr-greens-field-kit.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/e-cig-hibron-h10.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/e-cig-hibron-h10.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/e-pipe-mod.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/e-pipe-mod.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/evolve-d-dry-herb-pen-from-yocan.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/evolve-d-dry-herb-pen-from-yocan.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/g-pen-slim-quartz.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/g-pen-slim-quartz.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/glass-pipe-1.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/glass-pipe-1.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/glass-pipe-2.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/glass-pipe-2.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/glass-pipe.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/glass-pipe.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/grinder-rasta.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/grinder-rasta.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/grinder-sm-metal.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/grinder-sm-metal.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/grinder-sm-plastic.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/grinder-sm-plastic.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/grinder.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/grinder.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/high-voltage-2-pk-32-oz.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/high-voltage-2-pk-32-oz.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/high-voltage-double-flush.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/high-voltage-double-flush.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/high-voltage-mouthwash.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/high-voltage-mouthwash.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/high-voltage-permanent-tropical-5-day-cleanse.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/high-voltage-permanent-tropical-5-day-cleanse.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/high-voltage-regular-strength-16-oz.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/high-voltage-regular-strength-16-oz.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/high-voltage-shampoo.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/high-voltage-shampoo.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/high-voltage-xl-shot.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/high-voltage-xl-shot.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/hip-vape.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/hip-vape.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/hookah-coals.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/hookah-coals.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/i-o-lite-vaporizer.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/i-o-lite-vaporizer.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/just-chill-jungle.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/just-chill-jungle.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/just-chill-strawberry.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/just-chill-strawberry.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/k-stick-supreme.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/k-stick-supreme.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/kamry-30-box.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/kamry-30-box.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/levo-ii.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/levo-ii.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/metal-pipe.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/metal-pipe.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/mini-2-hose-hookah.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/mini-2-hose-hookah.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/nail-crown-silk-lblue.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/nail-crown-silk-lblue.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/naked-vape-juice.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/naked-vape-juice.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/nano-nbw-waxy-kit.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/nano-nbw-waxy-kit.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/p-sure.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/p-sure.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/pax-3.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/pax-3.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/phoenix-drip-tip.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/phoenix-drip-tip.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/plastic-grinder.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/plastic-grinder.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/q-carbo-32.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/q-carbo-32.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/randy-aqua-pilot.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/randy-aqua-pilot.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/raw-classic-artesano-1.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/raw-classic-artesano-1.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/raw-classic-king-size-rolls.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/raw-classic-king-size-rolls.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/raw-classic-kingsize-slim.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/raw-classic-kingsize-slim.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/raw-classic-single-wide.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/raw-classic-single-wide.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/raw-hemp-plastic-roller.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/raw-hemp-plastic-roller.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/raw-hemp-wick-10ft.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/raw-hemp-wick-10ft.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/raw-organic-hemp-1.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/raw-organic-hemp-1.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/raw-pre-rolled-tips.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/raw-pre-rolled-tips.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/raw-rolling-mat.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/raw-rolling-mat.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/small-glass-pipe.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/small-glass-pipe.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/snail-lookah.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/snail-lookah.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/stat-1-hr-flush-caps.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/stat-1-hr-flush-caps.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/studs.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/studs.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/the-yocan-evolve-dual-quartz-wax-pen.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/the-yocan-evolve-dual-quartz-wax-pen.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/the-yocan-evolve-plus.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/the-yocan-evolve-plus.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/ultra-eliminex.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/ultra-eliminex.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/vapir-oxygen-w-battery.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/vapir-oxygen-w-battery.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/vaporizer-arizer-solo.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/vaporizer-arizer-solo.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/vitacig.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/vitacig.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/wp-sillicon-1.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/wp-sillicon-1.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/wp-sillicon-10-geometric.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/wp-sillicon-10-geometric.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/wp-sillicon-2.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/wp-sillicon-2.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/wp-sillicon-elephant.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/wp-sillicon-elephant.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/wp-sillicon-glow.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/wp-sillicon-glow.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/wp-sillicon-heart.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/wp-sillicon-heart.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/wp-sillicon-jar.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/wp-sillicon-jar.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/wp-sillicon-l-n-monster.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/wp-sillicon-l-n-monster.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/wp-sillicon-pad.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/wp-sillicon-pad.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/wp-sillicon-pipe-metal.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/wp-sillicon-pipe-metal.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/wp-sillicon-pumpkin.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/wp-sillicon-pumpkin.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/wp-sillicon-rasta.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/wp-sillicon-rasta.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/wp-sillicon-riffle.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/wp-sillicon-riffle.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/wp-sillicon-skull-pink.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/wp-sillicon-skull-pink.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/wp-sillicon-skull.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/wp-sillicon-skull.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/wp-sillicon.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/wp-sillicon.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/yocan-nyx.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/yocan-nyx.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "product-page/zydot-shampoo.html",
+    "source_type": "product",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "products/zydot-shampoo.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "profile/diversitytattoo702/blog-comments.html",
+    "source_type": "profile",
+    "source_status": "available",
+    "content_area": "Utility / Member Account",
+    "canonical_target": "utility/account-unavailable.html",
+    "destination_status": "intentionally excluded utility route",
+    "exception": "yes"
+  },
+  {
+    "source_route": "profile/diversitytattoo702/blog-likes.html",
+    "source_type": "profile",
+    "source_status": "available",
+    "content_area": "Utility / Member Account",
+    "canonical_target": "utility/account-unavailable.html",
+    "destination_status": "intentionally excluded utility route",
+    "exception": "yes"
+  },
+  {
+    "source_route": "profile/diversitytattoo702/blog-posts.html",
+    "source_type": "profile",
+    "source_status": "available",
+    "content_area": "Utility / Member Account",
+    "canonical_target": "utility/account-unavailable.html",
+    "destination_status": "intentionally excluded utility route",
+    "exception": "yes"
+  },
+  {
+    "source_route": "profile/diversitytattoo702/profile.html",
+    "source_type": "profile",
+    "source_status": "available",
+    "content_area": "Utility / Member Account",
+    "canonical_target": "utility/account-unavailable.html",
+    "destination_status": "intentionally excluded utility route",
+    "exception": "yes"
+  },
+  {
+    "source_route": "reviews.html",
+    "source_type": "static_page",
+    "source_status": "available",
+    "content_area": "Reviews",
+    "canonical_target": "services/reviews.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "shop.11a4aa134b.html",
+    "source_type": "shop_page",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "shop/index.html",
+    "destination_status": "redirect to rebuilt destination",
+    "exception": ""
+  },
+  {
+    "source_route": "shop.1d9c95299e.html",
+    "source_type": "shop_page",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "shop/index.html",
+    "destination_status": "redirect to rebuilt destination",
+    "exception": ""
+  },
+  {
+    "source_route": "shop.6066c9f139.html",
+    "source_type": "shop_page",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "shop/index.html",
+    "destination_status": "redirect to rebuilt destination",
+    "exception": ""
+  },
+  {
+    "source_route": "shop.68c4a30e84.html",
+    "source_type": "shop_page",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "shop/index.html",
+    "destination_status": "redirect to rebuilt destination",
+    "exception": ""
+  },
+  {
+    "source_route": "shop.b941a131dc.html",
+    "source_type": "shop_page",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "shop/index.html",
+    "destination_status": "redirect to rebuilt destination",
+    "exception": ""
+  },
+  {
+    "source_route": "shop.e397427b93.html",
+    "source_type": "shop_page",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "shop/index.html",
+    "destination_status": "redirect to rebuilt destination",
+    "exception": ""
+  },
+  {
+    "source_route": "shop.html",
+    "source_type": "shop_page",
+    "source_status": "available",
+    "content_area": "Shop / Product Catalog",
+    "canonical_target": "shop/index.html",
+    "destination_status": "rebuilt section page",
+    "exception": ""
+  },
+  {
+    "source_route": "smoke-shop.html",
+    "source_type": "static_page",
+    "source_status": "available",
+    "content_area": "Smoke Shop",
+    "canonical_target": "services/smoke-shop.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "tank.html",
+    "source_type": "static_page",
+    "source_status": "available",
+    "content_area": "Artists",
+    "canonical_target": "artists/tank.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  },
+  {
+    "source_route": "toothgems.html",
+    "source_type": "static_page",
+    "source_status": "available",
+    "content_area": "Tooth Gems",
+    "canonical_target": "services/toothgems.html",
+    "destination_status": "rebuilt detail page",
+    "exception": ""
+  }
+]

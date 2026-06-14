@@ -1,0 +1,1550 @@
+[
+  {
+    "path": "artist/index.html",
+    "url": "/artist",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/artists/index.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "blog/categories/getting-started/index.html",
+    "url": "/blog/categories/getting-started",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/blog/index.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "blog/categories/your-community/index.html",
+    "url": "/blog/categories/your-community",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/blog/index.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "blog/davinci-miqro/index.html",
+    "url": "/blog/davinci-miqro",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/blog/davinci-miqro.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "blog/kandypens-k-stick/index.html",
+    "url": "/blog/kandypens-k-stick",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/blog/kandypens-k-stick.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "blog/levo-oil-butter-maker/index.html",
+    "url": "/blog/levo-oil-butter-maker",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/blog/levo-oil-butter-maker.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "blog/now-in-store-dr-dabber-switch/index.html",
+    "url": "/blog/now-in-store-dr-dabber-switch",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/blog/now-in-store-dr-dabber-switch.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "bodypiercing/index.html",
+    "url": "/bodypiercing",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/services/bodypiercing.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "charlie/index.html",
+    "url": "/charlie",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/artists/charlie.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "contact/index.html",
+    "url": "/contact",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/services/contact.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "faq/index.html",
+    "url": "/faq",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/services/faq.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "gallery/index.html",
+    "url": "/gallery",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/services/gallery.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "home/index.html",
+    "url": "/home",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/index.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "locations/index.html",
+    "url": "/locations",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/services/locations.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "post/are-detox-cleanses-permanent.html",
+    "url": "/post/are-detox-cleanses-permanent.html",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/blog/are-detox-cleanses-permanent.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "post/are-detox-cleanses-permanent/index.html",
+    "url": "/post/are-detox-cleanses-permanent",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/blog/are-detox-cleanses-permanent.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "post/can-my-tattoo-be-covered-up/index.html",
+    "url": "/post/can-my-tattoo-be-covered-up",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/blog/can-my-tattoo-be-covered-up.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "post/categories/getting-started.html",
+    "url": "/post/categories/getting-started.html",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/blog/index.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "post/categories/your-community.html",
+    "url": "/post/categories/your-community.html",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/blog/index.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "post/cbdforpets/index.html",
+    "url": "/post/cbdforpets",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/blog/cbdforpets.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "post/cbdforpets1/index.html",
+    "url": "/post/cbdforpets1",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/blog/cbdforpets1.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "post/cbdforpets2/index.html",
+    "url": "/post/cbdforpets2",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/blog/cbdforpets2.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "post/davinci-miqro.html",
+    "url": "/post/davinci-miqro.html",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/blog/davinci-miqro.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "post/davinci-miqro/index.html",
+    "url": "/post/davinci-miqro",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/blog/davinci-miqro.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "post/firsttattoo/index.html",
+    "url": "/post/firsttattoo",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/blog/firsttattoo.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "post/honeystick-beekeeper-conceal-essential-oil-vaporizer.html",
+    "url": "/post/honeystick-beekeeper-conceal-essential-oil-vaporizer.html",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/blog/honeystick-beekeeper-conceal-essential-oil-vaporizer.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "post/honeystick-beekeeper-conceal-essential-oil-vaporizer/index.html",
+    "url": "/post/honeystick-beekeeper-conceal-essential-oil-vaporizer",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/blog/honeystick-beekeeper-conceal-essential-oil-vaporizer.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "post/kandypens-k-stick.html",
+    "url": "/post/kandypens-k-stick.html",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/blog/kandypens-k-stick.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "post/kandypens-k-stick/index.html",
+    "url": "/post/kandypens-k-stick",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/blog/kandypens-k-stick.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "post/levo-oil-butter-maker.html",
+    "url": "/post/levo-oil-butter-maker.html",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/blog/levo-oil-butter-maker.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "post/levo-oil-butter-maker/index.html",
+    "url": "/post/levo-oil-butter-maker",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/blog/levo-oil-butter-maker.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "post/now-in-store-dr-dabber-switch.html",
+    "url": "/post/now-in-store-dr-dabber-switch.html",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/blog/now-in-store-dr-dabber-switch.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "post/now-in-store-dr-dabber-switch/index.html",
+    "url": "/post/now-in-store-dr-dabber-switch",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/blog/now-in-store-dr-dabber-switch.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "post/tattooaftercare/index.html",
+    "url": "/post/tattooaftercare",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/blog/tattooaftercare.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "post/tips-for-a-successful-cover-up-tattoo/index.html",
+    "url": "/post/tips-for-a-successful-cover-up-tattoo",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/blog/tips-for-a-successful-cover-up-tattoo.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "post/what-is-detox.html",
+    "url": "/post/what-is-detox.html",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/blog/what-is-detox.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "post/what-is-detox/index.html",
+    "url": "/post/what-is-detox",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/blog/what-is-detox.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "post/what-to-do-if-your-tattoo-or-piercing-itches/index.html",
+    "url": "/post/what-to-do-if-your-tattoo-or-piercing-itches",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/blog/what-to-do-if-your-tattoo-or-piercing-itches.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "price-list-1/index.html",
+    "url": "/price-list-1",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/services/price-list-1.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/additive-x-stream-synthentic-urine/index.html",
+    "url": "/product-page/additive-x-stream-synthentic-urine",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/additive-x-stream-synthentic-urine.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/ascent-oil-jars/index.html",
+    "url": "/product-page/ascent-oil-jars",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/ascent-oil-jars.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/ascentst-g-adapter/index.html",
+    "url": "/product-page/ascentst-g-adapter",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/ascentst-g-adapter.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/ascentst-u-adapter/index.html",
+    "url": "/product-page/ascentst-u-adapter",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/ascentst-u-adapter.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/assisted-dug-cut/index.html",
+    "url": "/product-page/assisted-dug-cut",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/assisted-dug-cut.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/asvape-michael-box/index.html",
+    "url": "/product-page/asvape-michael-box",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/asvape-michael-box.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/atmos-grinder/index.html",
+    "url": "/product-page/atmos-grinder",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/atmos-grinder.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/atmosnail/index.html",
+    "url": "/product-page/atmosnail",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/atmosnail.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/badwood-g-pen/index.html",
+    "url": "/product-page/badwood-g-pen",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/badwood-g-pen.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/bb-st-0g-5-8/index.html",
+    "url": "/product-page/bb-st-0g-5-8",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/bb-st-0g-5-8.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/bb-st-10g-1-2/index.html",
+    "url": "/product-page/bb-st-10g-1-2",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/bb-st-10g-1-2.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/bb-st-10g-3-4/index.html",
+    "url": "/product-page/bb-st-10g-3-4",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/bb-st-10g-3-4.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/bb-st-12g-1-2/index.html",
+    "url": "/product-page/bb-st-12g-1-2",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/bb-st-12g-1-2.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/bb-st-12g-5-8/index.html",
+    "url": "/product-page/bb-st-12g-5-8",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/bb-st-12g-5-8.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/bb-st-12g-7-16/index.html",
+    "url": "/product-page/bb-st-12g-7-16",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/bb-st-12g-7-16.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/bb-st-12g-7-8/index.html",
+    "url": "/product-page/bb-st-12g-7-8",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/bb-st-12g-7-8.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/bb-st-14g-7-8/index.html",
+    "url": "/product-page/bb-st-14g-7-8",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/bb-st-14g-7-8.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/bb-st-2g-5-8/index.html",
+    "url": "/product-page/bb-st-2g-5-8",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/bb-st-2g-5-8.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/bb-st-6g-5-8/index.html",
+    "url": "/product-page/bb-st-6g-5-8",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/bb-st-6g-5-8.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/bubbler/index.html",
+    "url": "/product-page/bubbler",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/bubbler.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/cbb-st-10g-1-2-cone/index.html",
+    "url": "/product-page/cbb-st-10g-1-2-cone",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/cbb-st-10g-1-2-cone.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/cbb-st-10g-1-2-reg-ball/index.html",
+    "url": "/product-page/cbb-st-10g-1-2-reg-ball",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/cbb-st-10g-1-2-reg-ball.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/cbb-st-12g-3-8-cone/index.html",
+    "url": "/product-page/cbb-st-12g-3-8-cone",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/cbb-st-12g-3-8-cone.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/cbb-st-12g-7-16-gem-reg-clear/index.html",
+    "url": "/product-page/cbb-st-12g-7-16-gem-reg-clear",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/cbb-st-12g-7-16-gem-reg-clear.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/cbr-st-10g-1-2-gem-ball-clear/index.html",
+    "url": "/product-page/cbr-st-10g-1-2-gem-ball-clear",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/cbr-st-10g-1-2-gem-ball-clear.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/cbr-st-12g-1-2-1/index.html",
+    "url": "/product-page/cbr-st-12g-1-2-1",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/cbr-st-12g-1-2-1.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/cbr-st-12g-1-2-gem-ball-clear/index.html",
+    "url": "/product-page/cbr-st-12g-1-2-gem-ball-clear",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/cbr-st-12g-1-2-gem-ball-clear.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/cbr-st-12g-1-2/index.html",
+    "url": "/product-page/cbr-st-12g-1-2",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/cbr-st-12g-1-2.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/cbr-st-12g-3-8/index.html",
+    "url": "/product-page/cbr-st-12g-3-8",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/cbr-st-12g-3-8.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/cbr-st-12g-5-8-1/index.html",
+    "url": "/product-page/cbr-st-12g-5-8-1",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/cbr-st-12g-5-8-1.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/cbr-st-12g-5-8/index.html",
+    "url": "/product-page/cbr-st-12g-5-8",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/cbr-st-12g-5-8.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/cbr-st-12g-7-16-1/index.html",
+    "url": "/product-page/cbr-st-12g-7-16-1",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/cbr-st-12g-7-16-1.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/cbr-st-12g-7-16/index.html",
+    "url": "/product-page/cbr-st-12g-7-16",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/cbr-st-12g-7-16.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/cbr-st-8g-1-2-gem-ball-clear/index.html",
+    "url": "/product-page/cbr-st-8g-1-2-gem-ball-clear",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/cbr-st-8g-1-2-gem-ball-clear.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/clear-hit-1/index.html",
+    "url": "/product-page/clear-hit-1",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/clear-hit-1.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/clear-hit/index.html",
+    "url": "/product-page/clear-hit",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/clear-hit.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/copy-of-atmos-nail/index.html",
+    "url": "/product-page/copy-of-atmos-nail",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/copy-of-atmos-nail.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/copy-of-cbr-st-12g3-8/index.html",
+    "url": "/product-page/copy-of-cbr-st-12g3-8",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/copy-of-cbr-st-12g3-8.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/copy-of-glass-pipe/index.html",
+    "url": "/product-page/copy-of-glass-pipe",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/copy-of-glass-pipe.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/detoxify-ever-clean/index.html",
+    "url": "/product-page/detoxify-ever-clean",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/detoxify-ever-clean.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/detoxify-green-clean/index.html",
+    "url": "/product-page/detoxify-green-clean",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/detoxify-green-clean.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/detoxify-instant-clean/index.html",
+    "url": "/product-page/detoxify-instant-clean",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/detoxify-instant-clean.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/detoxify-mega-clean/index.html",
+    "url": "/product-page/detoxify-mega-clean",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/detoxify-mega-clean.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/detoxify-mighty-clean/index.html",
+    "url": "/product-page/detoxify-mighty-clean",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/detoxify-mighty-clean.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/detoxify-pre-cleanse-caps/index.html",
+    "url": "/product-page/detoxify-pre-cleanse-caps",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/detoxify-pre-cleanse-caps.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/detoxify-ready-clean-grape-tropical-orange/index.html",
+    "url": "/product-page/detoxify-ready-clean-grape-tropical-orange",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/detoxify-ready-clean-grape-tropical-orange.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/detoxify-xxtra-clean/index.html",
+    "url": "/product-page/detoxify-xxtra-clean",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/detoxify-xxtra-clean.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/dr-dabber-switch/index.html",
+    "url": "/product-page/dr-dabber-switch",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/dr-dabber-switch.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/dr-greens-cool-rinse-mouthwash/index.html",
+    "url": "/product-page/dr-greens-cool-rinse-mouthwash",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/dr-greens-cool-rinse-mouthwash.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/dr-greens-field-kit/index.html",
+    "url": "/product-page/dr-greens-field-kit",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/dr-greens-field-kit.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/e-cig-hibron-h10/index.html",
+    "url": "/product-page/e-cig-hibron-h10",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/e-cig-hibron-h10.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/e-pipe-mod/index.html",
+    "url": "/product-page/e-pipe-mod",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/e-pipe-mod.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/evolve-d-dry-herb-pen-from-yocan/index.html",
+    "url": "/product-page/evolve-d-dry-herb-pen-from-yocan",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/evolve-d-dry-herb-pen-from-yocan.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/g-pen-slim-quartz/index.html",
+    "url": "/product-page/g-pen-slim-quartz",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/g-pen-slim-quartz.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/glass-pipe-1/index.html",
+    "url": "/product-page/glass-pipe-1",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/glass-pipe-1.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/glass-pipe-2/index.html",
+    "url": "/product-page/glass-pipe-2",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/glass-pipe-2.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/glass-pipe/index.html",
+    "url": "/product-page/glass-pipe",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/glass-pipe.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/grinder-rasta/index.html",
+    "url": "/product-page/grinder-rasta",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/grinder-rasta.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/grinder-sm-metal/index.html",
+    "url": "/product-page/grinder-sm-metal",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/grinder-sm-metal.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/grinder-sm-plastic/index.html",
+    "url": "/product-page/grinder-sm-plastic",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/grinder-sm-plastic.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/grinder/index.html",
+    "url": "/product-page/grinder",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/grinder.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/high-voltage-2-pk-32-oz/index.html",
+    "url": "/product-page/high-voltage-2-pk-32-oz",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/high-voltage-2-pk-32-oz.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/high-voltage-double-flush/index.html",
+    "url": "/product-page/high-voltage-double-flush",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/high-voltage-double-flush.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/high-voltage-mouthwash/index.html",
+    "url": "/product-page/high-voltage-mouthwash",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/high-voltage-mouthwash.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/high-voltage-permanent-tropical-5-day-cleanse/index.html",
+    "url": "/product-page/high-voltage-permanent-tropical-5-day-cleanse",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/high-voltage-permanent-tropical-5-day-cleanse.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/high-voltage-regular-strength-16-oz/index.html",
+    "url": "/product-page/high-voltage-regular-strength-16-oz",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/high-voltage-regular-strength-16-oz.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/high-voltage-shampoo/index.html",
+    "url": "/product-page/high-voltage-shampoo",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/high-voltage-shampoo.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/high-voltage-xl-shot/index.html",
+    "url": "/product-page/high-voltage-xl-shot",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/high-voltage-xl-shot.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/hip-vape/index.html",
+    "url": "/product-page/hip-vape",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/hip-vape.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/hookah-coals/index.html",
+    "url": "/product-page/hookah-coals",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/hookah-coals.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/i-o-lite-vaporizer/index.html",
+    "url": "/product-page/i-o-lite-vaporizer",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/i-o-lite-vaporizer.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/just-chill-jungle/index.html",
+    "url": "/product-page/just-chill-jungle",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/just-chill-jungle.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/just-chill-strawberry/index.html",
+    "url": "/product-page/just-chill-strawberry",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/just-chill-strawberry.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/k-stick-supreme/index.html",
+    "url": "/product-page/k-stick-supreme",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/k-stick-supreme.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/kamry-30-box/index.html",
+    "url": "/product-page/kamry-30-box",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/kamry-30-box.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/levo-ii/index.html",
+    "url": "/product-page/levo-ii",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/levo-ii.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/metal-pipe/index.html",
+    "url": "/product-page/metal-pipe",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/metal-pipe.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/mini-2-hose-hookah/index.html",
+    "url": "/product-page/mini-2-hose-hookah",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/mini-2-hose-hookah.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/nail-crown-silk-lblue/index.html",
+    "url": "/product-page/nail-crown-silk-lblue",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/nail-crown-silk-lblue.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/naked-vape-juice/index.html",
+    "url": "/product-page/naked-vape-juice",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/naked-vape-juice.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/nano-nbw-waxy-kit/index.html",
+    "url": "/product-page/nano-nbw-waxy-kit",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/nano-nbw-waxy-kit.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/p-sure/index.html",
+    "url": "/product-page/p-sure",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/p-sure.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/pax-3/index.html",
+    "url": "/product-page/pax-3",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/pax-3.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/phoenix-drip-tip/index.html",
+    "url": "/product-page/phoenix-drip-tip",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/phoenix-drip-tip.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/plastic-grinder/index.html",
+    "url": "/product-page/plastic-grinder",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/plastic-grinder.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/q-carbo-32/index.html",
+    "url": "/product-page/q-carbo-32",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/q-carbo-32.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/randy-aqua-pilot/index.html",
+    "url": "/product-page/randy-aqua-pilot",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/randy-aqua-pilot.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/raw-classic-artesano-1/index.html",
+    "url": "/product-page/raw-classic-artesano-1",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/raw-classic-artesano-1.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/raw-classic-king-size-rolls/index.html",
+    "url": "/product-page/raw-classic-king-size-rolls",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/raw-classic-king-size-rolls.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/raw-classic-kingsize-slim/index.html",
+    "url": "/product-page/raw-classic-kingsize-slim",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/raw-classic-kingsize-slim.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/raw-classic-single-wide/index.html",
+    "url": "/product-page/raw-classic-single-wide",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/raw-classic-single-wide.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/raw-hemp-plastic-roller/index.html",
+    "url": "/product-page/raw-hemp-plastic-roller",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/raw-hemp-plastic-roller.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/raw-hemp-wick-10ft/index.html",
+    "url": "/product-page/raw-hemp-wick-10ft",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/raw-hemp-wick-10ft.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/raw-organic-hemp-1/index.html",
+    "url": "/product-page/raw-organic-hemp-1",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/raw-organic-hemp-1.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/raw-pre-rolled-tips/index.html",
+    "url": "/product-page/raw-pre-rolled-tips",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/raw-pre-rolled-tips.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/raw-rolling-mat/index.html",
+    "url": "/product-page/raw-rolling-mat",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/raw-rolling-mat.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/small-glass-pipe/index.html",
+    "url": "/product-page/small-glass-pipe",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/small-glass-pipe.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/snail-lookah/index.html",
+    "url": "/product-page/snail-lookah",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/snail-lookah.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/stat-1-hr-flush-caps/index.html",
+    "url": "/product-page/stat-1-hr-flush-caps",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/stat-1-hr-flush-caps.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/studs/index.html",
+    "url": "/product-page/studs",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/studs.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/the-yocan-evolve-dual-quartz-wax-pen/index.html",
+    "url": "/product-page/the-yocan-evolve-dual-quartz-wax-pen",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/the-yocan-evolve-dual-quartz-wax-pen.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/the-yocan-evolve-plus/index.html",
+    "url": "/product-page/the-yocan-evolve-plus",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/the-yocan-evolve-plus.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/ultra-eliminex/index.html",
+    "url": "/product-page/ultra-eliminex",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/ultra-eliminex.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/vapir-oxygen-w-battery/index.html",
+    "url": "/product-page/vapir-oxygen-w-battery",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/vapir-oxygen-w-battery.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/vaporizer-arizer-solo/index.html",
+    "url": "/product-page/vaporizer-arizer-solo",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/vaporizer-arizer-solo.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/vitacig/index.html",
+    "url": "/product-page/vitacig",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/vitacig.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/wp-sillicon-1/index.html",
+    "url": "/product-page/wp-sillicon-1",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/wp-sillicon-1.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/wp-sillicon-10-geometric/index.html",
+    "url": "/product-page/wp-sillicon-10-geometric",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/wp-sillicon-10-geometric.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/wp-sillicon-2/index.html",
+    "url": "/product-page/wp-sillicon-2",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/wp-sillicon-2.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/wp-sillicon-elephant/index.html",
+    "url": "/product-page/wp-sillicon-elephant",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/wp-sillicon-elephant.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/wp-sillicon-glow/index.html",
+    "url": "/product-page/wp-sillicon-glow",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/wp-sillicon-glow.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/wp-sillicon-heart/index.html",
+    "url": "/product-page/wp-sillicon-heart",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/wp-sillicon-heart.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/wp-sillicon-jar/index.html",
+    "url": "/product-page/wp-sillicon-jar",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/wp-sillicon-jar.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/wp-sillicon-l-n-monster/index.html",
+    "url": "/product-page/wp-sillicon-l-n-monster",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/wp-sillicon-l-n-monster.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/wp-sillicon-pad/index.html",
+    "url": "/product-page/wp-sillicon-pad",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/wp-sillicon-pad.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/wp-sillicon-pipe-metal/index.html",
+    "url": "/product-page/wp-sillicon-pipe-metal",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/wp-sillicon-pipe-metal.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/wp-sillicon-pumpkin/index.html",
+    "url": "/product-page/wp-sillicon-pumpkin",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/wp-sillicon-pumpkin.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/wp-sillicon-rasta/index.html",
+    "url": "/product-page/wp-sillicon-rasta",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/wp-sillicon-rasta.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/wp-sillicon-riffle/index.html",
+    "url": "/product-page/wp-sillicon-riffle",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/wp-sillicon-riffle.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/wp-sillicon-skull-pink/index.html",
+    "url": "/product-page/wp-sillicon-skull-pink",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/wp-sillicon-skull-pink.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/wp-sillicon-skull/index.html",
+    "url": "/product-page/wp-sillicon-skull",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/wp-sillicon-skull.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/wp-sillicon/index.html",
+    "url": "/product-page/wp-sillicon",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/wp-sillicon.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/yocan-nyx/index.html",
+    "url": "/product-page/yocan-nyx",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/yocan-nyx.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "product-page/zydot-shampoo/index.html",
+    "url": "/product-page/zydot-shampoo",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/products/zydot-shampoo.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "profile/diversitytattoo702/blog-comments/index.html",
+    "url": "/profile/diversitytattoo702/blog-comments",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/utility/account-unavailable.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "profile/diversitytattoo702/blog-likes/index.html",
+    "url": "/profile/diversitytattoo702/blog-likes",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/utility/account-unavailable.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "profile/diversitytattoo702/blog-posts/index.html",
+    "url": "/profile/diversitytattoo702/blog-posts",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/utility/account-unavailable.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "profile/diversitytattoo702/profile/index.html",
+    "url": "/profile/diversitytattoo702/profile",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/utility/account-unavailable.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "reviews/index.html",
+    "url": "/reviews",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/services/reviews.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "smoke-shop/index.html",
+    "url": "/smoke-shop",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/services/smoke-shop.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "tank/index.html",
+    "url": "/tank",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/artists/tank.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "toothgems/index.html",
+    "url": "/toothgems",
+    "classification": "compatibility_alias",
+    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
+    "canonical_target": "/services/toothgems.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
+  },
+  {
+    "path": "utility/account-unavailable.html",
+    "url": "/utility/account-unavailable.html",
+    "classification": "utility_or_account",
+    "reason": "Utility or member-account route; not a customer-facing SEO page.",
+    "canonical_target": "/utility/account-unavailable.html",
+    "owner": "SEO/content owner",
+    "removal_condition": "Remove if the utility page becomes a public conversion page."
+  }
+]

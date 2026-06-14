@@ -1,0 +1,1199 @@
+[
+  {
+    "old_url": "/artist",
+    "generated_alias_path": "artist/index.html",
+    "canonical_target": "/artists/index.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/blog/categories/getting-started",
+    "generated_alias_path": "blog/categories/getting-started/index.html",
+    "canonical_target": "/blog/index.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/blog/categories/your-community",
+    "generated_alias_path": "blog/categories/your-community/index.html",
+    "canonical_target": "/blog/index.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/blog/davinci-miqro",
+    "generated_alias_path": "blog/davinci-miqro/index.html",
+    "canonical_target": "/blog/davinci-miqro.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/blog/kandypens-k-stick",
+    "generated_alias_path": "blog/kandypens-k-stick/index.html",
+    "canonical_target": "/blog/kandypens-k-stick.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/blog/levo-oil-butter-maker",
+    "generated_alias_path": "blog/levo-oil-butter-maker/index.html",
+    "canonical_target": "/blog/levo-oil-butter-maker.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/blog/now-in-store-dr-dabber-switch",
+    "generated_alias_path": "blog/now-in-store-dr-dabber-switch/index.html",
+    "canonical_target": "/blog/now-in-store-dr-dabber-switch.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/bodypiercing",
+    "generated_alias_path": "bodypiercing/index.html",
+    "canonical_target": "/services/bodypiercing.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/charlie",
+    "generated_alias_path": "charlie/index.html",
+    "canonical_target": "/artists/charlie.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/contact",
+    "generated_alias_path": "contact/index.html",
+    "canonical_target": "/services/contact.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/faq",
+    "generated_alias_path": "faq/index.html",
+    "canonical_target": "/services/faq.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/gallery",
+    "generated_alias_path": "gallery/index.html",
+    "canonical_target": "/services/gallery.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/home",
+    "generated_alias_path": "home/index.html",
+    "canonical_target": "/index.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/locations",
+    "generated_alias_path": "locations/index.html",
+    "canonical_target": "/services/locations.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/post/are-detox-cleanses-permanent",
+    "generated_alias_path": "post/are-detox-cleanses-permanent/index.html",
+    "canonical_target": "/blog/are-detox-cleanses-permanent.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/post/can-my-tattoo-be-covered-up",
+    "generated_alias_path": "post/can-my-tattoo-be-covered-up/index.html",
+    "canonical_target": "/blog/can-my-tattoo-be-covered-up.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/post/cbdforpets",
+    "generated_alias_path": "post/cbdforpets/index.html",
+    "canonical_target": "/blog/cbdforpets.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/post/cbdforpets1",
+    "generated_alias_path": "post/cbdforpets1/index.html",
+    "canonical_target": "/blog/cbdforpets1.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/post/cbdforpets2",
+    "generated_alias_path": "post/cbdforpets2/index.html",
+    "canonical_target": "/blog/cbdforpets2.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/post/davinci-miqro",
+    "generated_alias_path": "post/davinci-miqro/index.html",
+    "canonical_target": "/blog/davinci-miqro.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/post/firsttattoo",
+    "generated_alias_path": "post/firsttattoo/index.html",
+    "canonical_target": "/blog/firsttattoo.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/post/honeystick-beekeeper-conceal-essential-oil-vaporizer",
+    "generated_alias_path": "post/honeystick-beekeeper-conceal-essential-oil-vaporizer/index.html",
+    "canonical_target": "/blog/honeystick-beekeeper-conceal-essential-oil-vaporizer.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/post/kandypens-k-stick",
+    "generated_alias_path": "post/kandypens-k-stick/index.html",
+    "canonical_target": "/blog/kandypens-k-stick.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/post/levo-oil-butter-maker",
+    "generated_alias_path": "post/levo-oil-butter-maker/index.html",
+    "canonical_target": "/blog/levo-oil-butter-maker.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/post/now-in-store-dr-dabber-switch",
+    "generated_alias_path": "post/now-in-store-dr-dabber-switch/index.html",
+    "canonical_target": "/blog/now-in-store-dr-dabber-switch.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/post/tattooaftercare",
+    "generated_alias_path": "post/tattooaftercare/index.html",
+    "canonical_target": "/blog/tattooaftercare.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/post/tips-for-a-successful-cover-up-tattoo",
+    "generated_alias_path": "post/tips-for-a-successful-cover-up-tattoo/index.html",
+    "canonical_target": "/blog/tips-for-a-successful-cover-up-tattoo.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/post/what-is-detox",
+    "generated_alias_path": "post/what-is-detox/index.html",
+    "canonical_target": "/blog/what-is-detox.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/post/what-to-do-if-your-tattoo-or-piercing-itches",
+    "generated_alias_path": "post/what-to-do-if-your-tattoo-or-piercing-itches/index.html",
+    "canonical_target": "/blog/what-to-do-if-your-tattoo-or-piercing-itches.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/price-list-1",
+    "generated_alias_path": "price-list-1/index.html",
+    "canonical_target": "/services/price-list-1.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/additive-x-stream-synthentic-urine",
+    "generated_alias_path": "product-page/additive-x-stream-synthentic-urine/index.html",
+    "canonical_target": "/products/additive-x-stream-synthentic-urine.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/ascent-oil-jars",
+    "generated_alias_path": "product-page/ascent-oil-jars/index.html",
+    "canonical_target": "/products/ascent-oil-jars.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/ascentst-g-adapter",
+    "generated_alias_path": "product-page/ascentst-g-adapter/index.html",
+    "canonical_target": "/products/ascentst-g-adapter.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/ascentst-u-adapter",
+    "generated_alias_path": "product-page/ascentst-u-adapter/index.html",
+    "canonical_target": "/products/ascentst-u-adapter.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/assisted-dug-cut",
+    "generated_alias_path": "product-page/assisted-dug-cut/index.html",
+    "canonical_target": "/products/assisted-dug-cut.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/asvape-michael-box",
+    "generated_alias_path": "product-page/asvape-michael-box/index.html",
+    "canonical_target": "/products/asvape-michael-box.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/atmos-grinder",
+    "generated_alias_path": "product-page/atmos-grinder/index.html",
+    "canonical_target": "/products/atmos-grinder.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/atmosnail",
+    "generated_alias_path": "product-page/atmosnail/index.html",
+    "canonical_target": "/products/atmosnail.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/badwood-g-pen",
+    "generated_alias_path": "product-page/badwood-g-pen/index.html",
+    "canonical_target": "/products/badwood-g-pen.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/bb-st-0g-5-8",
+    "generated_alias_path": "product-page/bb-st-0g-5-8/index.html",
+    "canonical_target": "/products/bb-st-0g-5-8.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/bb-st-10g-1-2",
+    "generated_alias_path": "product-page/bb-st-10g-1-2/index.html",
+    "canonical_target": "/products/bb-st-10g-1-2.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/bb-st-10g-3-4",
+    "generated_alias_path": "product-page/bb-st-10g-3-4/index.html",
+    "canonical_target": "/products/bb-st-10g-3-4.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/bb-st-12g-1-2",
+    "generated_alias_path": "product-page/bb-st-12g-1-2/index.html",
+    "canonical_target": "/products/bb-st-12g-1-2.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/bb-st-12g-5-8",
+    "generated_alias_path": "product-page/bb-st-12g-5-8/index.html",
+    "canonical_target": "/products/bb-st-12g-5-8.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/bb-st-12g-7-16",
+    "generated_alias_path": "product-page/bb-st-12g-7-16/index.html",
+    "canonical_target": "/products/bb-st-12g-7-16.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/bb-st-12g-7-8",
+    "generated_alias_path": "product-page/bb-st-12g-7-8/index.html",
+    "canonical_target": "/products/bb-st-12g-7-8.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/bb-st-14g-7-8",
+    "generated_alias_path": "product-page/bb-st-14g-7-8/index.html",
+    "canonical_target": "/products/bb-st-14g-7-8.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/bb-st-2g-5-8",
+    "generated_alias_path": "product-page/bb-st-2g-5-8/index.html",
+    "canonical_target": "/products/bb-st-2g-5-8.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/bb-st-6g-5-8",
+    "generated_alias_path": "product-page/bb-st-6g-5-8/index.html",
+    "canonical_target": "/products/bb-st-6g-5-8.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/bubbler",
+    "generated_alias_path": "product-page/bubbler/index.html",
+    "canonical_target": "/products/bubbler.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/cbb-st-10g-1-2-cone",
+    "generated_alias_path": "product-page/cbb-st-10g-1-2-cone/index.html",
+    "canonical_target": "/products/cbb-st-10g-1-2-cone.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/cbb-st-10g-1-2-reg-ball",
+    "generated_alias_path": "product-page/cbb-st-10g-1-2-reg-ball/index.html",
+    "canonical_target": "/products/cbb-st-10g-1-2-reg-ball.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/cbb-st-12g-3-8-cone",
+    "generated_alias_path": "product-page/cbb-st-12g-3-8-cone/index.html",
+    "canonical_target": "/products/cbb-st-12g-3-8-cone.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/cbb-st-12g-7-16-gem-reg-clear",
+    "generated_alias_path": "product-page/cbb-st-12g-7-16-gem-reg-clear/index.html",
+    "canonical_target": "/products/cbb-st-12g-7-16-gem-reg-clear.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/cbr-st-10g-1-2-gem-ball-clear",
+    "generated_alias_path": "product-page/cbr-st-10g-1-2-gem-ball-clear/index.html",
+    "canonical_target": "/products/cbr-st-10g-1-2-gem-ball-clear.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/cbr-st-12g-1-2-1",
+    "generated_alias_path": "product-page/cbr-st-12g-1-2-1/index.html",
+    "canonical_target": "/products/cbr-st-12g-1-2-1.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/cbr-st-12g-1-2-gem-ball-clear",
+    "generated_alias_path": "product-page/cbr-st-12g-1-2-gem-ball-clear/index.html",
+    "canonical_target": "/products/cbr-st-12g-1-2-gem-ball-clear.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/cbr-st-12g-1-2",
+    "generated_alias_path": "product-page/cbr-st-12g-1-2/index.html",
+    "canonical_target": "/products/cbr-st-12g-1-2.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/cbr-st-12g-3-8",
+    "generated_alias_path": "product-page/cbr-st-12g-3-8/index.html",
+    "canonical_target": "/products/cbr-st-12g-3-8.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/cbr-st-12g-5-8-1",
+    "generated_alias_path": "product-page/cbr-st-12g-5-8-1/index.html",
+    "canonical_target": "/products/cbr-st-12g-5-8-1.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/cbr-st-12g-5-8",
+    "generated_alias_path": "product-page/cbr-st-12g-5-8/index.html",
+    "canonical_target": "/products/cbr-st-12g-5-8.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/cbr-st-12g-7-16-1",
+    "generated_alias_path": "product-page/cbr-st-12g-7-16-1/index.html",
+    "canonical_target": "/products/cbr-st-12g-7-16-1.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/cbr-st-12g-7-16",
+    "generated_alias_path": "product-page/cbr-st-12g-7-16/index.html",
+    "canonical_target": "/products/cbr-st-12g-7-16.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/cbr-st-8g-1-2-gem-ball-clear",
+    "generated_alias_path": "product-page/cbr-st-8g-1-2-gem-ball-clear/index.html",
+    "canonical_target": "/products/cbr-st-8g-1-2-gem-ball-clear.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/clear-hit-1",
+    "generated_alias_path": "product-page/clear-hit-1/index.html",
+    "canonical_target": "/products/clear-hit-1.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/clear-hit",
+    "generated_alias_path": "product-page/clear-hit/index.html",
+    "canonical_target": "/products/clear-hit.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/copy-of-atmos-nail",
+    "generated_alias_path": "product-page/copy-of-atmos-nail/index.html",
+    "canonical_target": "/products/copy-of-atmos-nail.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/copy-of-cbr-st-12g3-8",
+    "generated_alias_path": "product-page/copy-of-cbr-st-12g3-8/index.html",
+    "canonical_target": "/products/copy-of-cbr-st-12g3-8.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/copy-of-glass-pipe",
+    "generated_alias_path": "product-page/copy-of-glass-pipe/index.html",
+    "canonical_target": "/products/copy-of-glass-pipe.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/detoxify-ever-clean",
+    "generated_alias_path": "product-page/detoxify-ever-clean/index.html",
+    "canonical_target": "/products/detoxify-ever-clean.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/detoxify-green-clean",
+    "generated_alias_path": "product-page/detoxify-green-clean/index.html",
+    "canonical_target": "/products/detoxify-green-clean.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/detoxify-instant-clean",
+    "generated_alias_path": "product-page/detoxify-instant-clean/index.html",
+    "canonical_target": "/products/detoxify-instant-clean.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/detoxify-mega-clean",
+    "generated_alias_path": "product-page/detoxify-mega-clean/index.html",
+    "canonical_target": "/products/detoxify-mega-clean.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/detoxify-mighty-clean",
+    "generated_alias_path": "product-page/detoxify-mighty-clean/index.html",
+    "canonical_target": "/products/detoxify-mighty-clean.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/detoxify-pre-cleanse-caps",
+    "generated_alias_path": "product-page/detoxify-pre-cleanse-caps/index.html",
+    "canonical_target": "/products/detoxify-pre-cleanse-caps.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/detoxify-ready-clean-grape-tropical-orange",
+    "generated_alias_path": "product-page/detoxify-ready-clean-grape-tropical-orange/index.html",
+    "canonical_target": "/products/detoxify-ready-clean-grape-tropical-orange.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/detoxify-xxtra-clean",
+    "generated_alias_path": "product-page/detoxify-xxtra-clean/index.html",
+    "canonical_target": "/products/detoxify-xxtra-clean.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/dr-dabber-switch",
+    "generated_alias_path": "product-page/dr-dabber-switch/index.html",
+    "canonical_target": "/products/dr-dabber-switch.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/dr-greens-cool-rinse-mouthwash",
+    "generated_alias_path": "product-page/dr-greens-cool-rinse-mouthwash/index.html",
+    "canonical_target": "/products/dr-greens-cool-rinse-mouthwash.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/dr-greens-field-kit",
+    "generated_alias_path": "product-page/dr-greens-field-kit/index.html",
+    "canonical_target": "/products/dr-greens-field-kit.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/e-cig-hibron-h10",
+    "generated_alias_path": "product-page/e-cig-hibron-h10/index.html",
+    "canonical_target": "/products/e-cig-hibron-h10.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/e-pipe-mod",
+    "generated_alias_path": "product-page/e-pipe-mod/index.html",
+    "canonical_target": "/products/e-pipe-mod.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/evolve-d-dry-herb-pen-from-yocan",
+    "generated_alias_path": "product-page/evolve-d-dry-herb-pen-from-yocan/index.html",
+    "canonical_target": "/products/evolve-d-dry-herb-pen-from-yocan.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/g-pen-slim-quartz",
+    "generated_alias_path": "product-page/g-pen-slim-quartz/index.html",
+    "canonical_target": "/products/g-pen-slim-quartz.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/glass-pipe-1",
+    "generated_alias_path": "product-page/glass-pipe-1/index.html",
+    "canonical_target": "/products/glass-pipe-1.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/glass-pipe-2",
+    "generated_alias_path": "product-page/glass-pipe-2/index.html",
+    "canonical_target": "/products/glass-pipe-2.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/glass-pipe",
+    "generated_alias_path": "product-page/glass-pipe/index.html",
+    "canonical_target": "/products/glass-pipe.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/grinder-rasta",
+    "generated_alias_path": "product-page/grinder-rasta/index.html",
+    "canonical_target": "/products/grinder-rasta.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/grinder-sm-metal",
+    "generated_alias_path": "product-page/grinder-sm-metal/index.html",
+    "canonical_target": "/products/grinder-sm-metal.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/grinder-sm-plastic",
+    "generated_alias_path": "product-page/grinder-sm-plastic/index.html",
+    "canonical_target": "/products/grinder-sm-plastic.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/grinder",
+    "generated_alias_path": "product-page/grinder/index.html",
+    "canonical_target": "/products/grinder.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/high-voltage-2-pk-32-oz",
+    "generated_alias_path": "product-page/high-voltage-2-pk-32-oz/index.html",
+    "canonical_target": "/products/high-voltage-2-pk-32-oz.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/high-voltage-double-flush",
+    "generated_alias_path": "product-page/high-voltage-double-flush/index.html",
+    "canonical_target": "/products/high-voltage-double-flush.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/high-voltage-mouthwash",
+    "generated_alias_path": "product-page/high-voltage-mouthwash/index.html",
+    "canonical_target": "/products/high-voltage-mouthwash.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/high-voltage-permanent-tropical-5-day-cleanse",
+    "generated_alias_path": "product-page/high-voltage-permanent-tropical-5-day-cleanse/index.html",
+    "canonical_target": "/products/high-voltage-permanent-tropical-5-day-cleanse.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/high-voltage-regular-strength-16-oz",
+    "generated_alias_path": "product-page/high-voltage-regular-strength-16-oz/index.html",
+    "canonical_target": "/products/high-voltage-regular-strength-16-oz.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/high-voltage-shampoo",
+    "generated_alias_path": "product-page/high-voltage-shampoo/index.html",
+    "canonical_target": "/products/high-voltage-shampoo.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/high-voltage-xl-shot",
+    "generated_alias_path": "product-page/high-voltage-xl-shot/index.html",
+    "canonical_target": "/products/high-voltage-xl-shot.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/hip-vape",
+    "generated_alias_path": "product-page/hip-vape/index.html",
+    "canonical_target": "/products/hip-vape.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/hookah-coals",
+    "generated_alias_path": "product-page/hookah-coals/index.html",
+    "canonical_target": "/products/hookah-coals.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/i-o-lite-vaporizer",
+    "generated_alias_path": "product-page/i-o-lite-vaporizer/index.html",
+    "canonical_target": "/products/i-o-lite-vaporizer.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/just-chill-jungle",
+    "generated_alias_path": "product-page/just-chill-jungle/index.html",
+    "canonical_target": "/products/just-chill-jungle.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/just-chill-strawberry",
+    "generated_alias_path": "product-page/just-chill-strawberry/index.html",
+    "canonical_target": "/products/just-chill-strawberry.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/k-stick-supreme",
+    "generated_alias_path": "product-page/k-stick-supreme/index.html",
+    "canonical_target": "/products/k-stick-supreme.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/kamry-30-box",
+    "generated_alias_path": "product-page/kamry-30-box/index.html",
+    "canonical_target": "/products/kamry-30-box.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/levo-ii",
+    "generated_alias_path": "product-page/levo-ii/index.html",
+    "canonical_target": "/products/levo-ii.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/metal-pipe",
+    "generated_alias_path": "product-page/metal-pipe/index.html",
+    "canonical_target": "/products/metal-pipe.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/mini-2-hose-hookah",
+    "generated_alias_path": "product-page/mini-2-hose-hookah/index.html",
+    "canonical_target": "/products/mini-2-hose-hookah.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/nail-crown-silk-lblue",
+    "generated_alias_path": "product-page/nail-crown-silk-lblue/index.html",
+    "canonical_target": "/products/nail-crown-silk-lblue.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/naked-vape-juice",
+    "generated_alias_path": "product-page/naked-vape-juice/index.html",
+    "canonical_target": "/products/naked-vape-juice.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/nano-nbw-waxy-kit",
+    "generated_alias_path": "product-page/nano-nbw-waxy-kit/index.html",
+    "canonical_target": "/products/nano-nbw-waxy-kit.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/p-sure",
+    "generated_alias_path": "product-page/p-sure/index.html",
+    "canonical_target": "/products/p-sure.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/pax-3",
+    "generated_alias_path": "product-page/pax-3/index.html",
+    "canonical_target": "/products/pax-3.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/phoenix-drip-tip",
+    "generated_alias_path": "product-page/phoenix-drip-tip/index.html",
+    "canonical_target": "/products/phoenix-drip-tip.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/plastic-grinder",
+    "generated_alias_path": "product-page/plastic-grinder/index.html",
+    "canonical_target": "/products/plastic-grinder.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/q-carbo-32",
+    "generated_alias_path": "product-page/q-carbo-32/index.html",
+    "canonical_target": "/products/q-carbo-32.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/randy-aqua-pilot",
+    "generated_alias_path": "product-page/randy-aqua-pilot/index.html",
+    "canonical_target": "/products/randy-aqua-pilot.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/raw-classic-artesano-1",
+    "generated_alias_path": "product-page/raw-classic-artesano-1/index.html",
+    "canonical_target": "/products/raw-classic-artesano-1.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/raw-classic-king-size-rolls",
+    "generated_alias_path": "product-page/raw-classic-king-size-rolls/index.html",
+    "canonical_target": "/products/raw-classic-king-size-rolls.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/raw-classic-kingsize-slim",
+    "generated_alias_path": "product-page/raw-classic-kingsize-slim/index.html",
+    "canonical_target": "/products/raw-classic-kingsize-slim.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/raw-classic-single-wide",
+    "generated_alias_path": "product-page/raw-classic-single-wide/index.html",
+    "canonical_target": "/products/raw-classic-single-wide.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/raw-hemp-plastic-roller",
+    "generated_alias_path": "product-page/raw-hemp-plastic-roller/index.html",
+    "canonical_target": "/products/raw-hemp-plastic-roller.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/raw-hemp-wick-10ft",
+    "generated_alias_path": "product-page/raw-hemp-wick-10ft/index.html",
+    "canonical_target": "/products/raw-hemp-wick-10ft.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/raw-organic-hemp-1",
+    "generated_alias_path": "product-page/raw-organic-hemp-1/index.html",
+    "canonical_target": "/products/raw-organic-hemp-1.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/raw-pre-rolled-tips",
+    "generated_alias_path": "product-page/raw-pre-rolled-tips/index.html",
+    "canonical_target": "/products/raw-pre-rolled-tips.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/raw-rolling-mat",
+    "generated_alias_path": "product-page/raw-rolling-mat/index.html",
+    "canonical_target": "/products/raw-rolling-mat.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/small-glass-pipe",
+    "generated_alias_path": "product-page/small-glass-pipe/index.html",
+    "canonical_target": "/products/small-glass-pipe.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/snail-lookah",
+    "generated_alias_path": "product-page/snail-lookah/index.html",
+    "canonical_target": "/products/snail-lookah.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/stat-1-hr-flush-caps",
+    "generated_alias_path": "product-page/stat-1-hr-flush-caps/index.html",
+    "canonical_target": "/products/stat-1-hr-flush-caps.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/studs",
+    "generated_alias_path": "product-page/studs/index.html",
+    "canonical_target": "/products/studs.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/the-yocan-evolve-dual-quartz-wax-pen",
+    "generated_alias_path": "product-page/the-yocan-evolve-dual-quartz-wax-pen/index.html",
+    "canonical_target": "/products/the-yocan-evolve-dual-quartz-wax-pen.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/the-yocan-evolve-plus",
+    "generated_alias_path": "product-page/the-yocan-evolve-plus/index.html",
+    "canonical_target": "/products/the-yocan-evolve-plus.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/ultra-eliminex",
+    "generated_alias_path": "product-page/ultra-eliminex/index.html",
+    "canonical_target": "/products/ultra-eliminex.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/vapir-oxygen-w-battery",
+    "generated_alias_path": "product-page/vapir-oxygen-w-battery/index.html",
+    "canonical_target": "/products/vapir-oxygen-w-battery.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/vaporizer-arizer-solo",
+    "generated_alias_path": "product-page/vaporizer-arizer-solo/index.html",
+    "canonical_target": "/products/vaporizer-arizer-solo.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/vitacig",
+    "generated_alias_path": "product-page/vitacig/index.html",
+    "canonical_target": "/products/vitacig.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/wp-sillicon-1",
+    "generated_alias_path": "product-page/wp-sillicon-1/index.html",
+    "canonical_target": "/products/wp-sillicon-1.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/wp-sillicon-10-geometric",
+    "generated_alias_path": "product-page/wp-sillicon-10-geometric/index.html",
+    "canonical_target": "/products/wp-sillicon-10-geometric.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/wp-sillicon-2",
+    "generated_alias_path": "product-page/wp-sillicon-2/index.html",
+    "canonical_target": "/products/wp-sillicon-2.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/wp-sillicon-elephant",
+    "generated_alias_path": "product-page/wp-sillicon-elephant/index.html",
+    "canonical_target": "/products/wp-sillicon-elephant.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/wp-sillicon-glow",
+    "generated_alias_path": "product-page/wp-sillicon-glow/index.html",
+    "canonical_target": "/products/wp-sillicon-glow.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/wp-sillicon-heart",
+    "generated_alias_path": "product-page/wp-sillicon-heart/index.html",
+    "canonical_target": "/products/wp-sillicon-heart.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/wp-sillicon-jar",
+    "generated_alias_path": "product-page/wp-sillicon-jar/index.html",
+    "canonical_target": "/products/wp-sillicon-jar.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/wp-sillicon-l-n-monster",
+    "generated_alias_path": "product-page/wp-sillicon-l-n-monster/index.html",
+    "canonical_target": "/products/wp-sillicon-l-n-monster.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/wp-sillicon-pad",
+    "generated_alias_path": "product-page/wp-sillicon-pad/index.html",
+    "canonical_target": "/products/wp-sillicon-pad.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/wp-sillicon-pipe-metal",
+    "generated_alias_path": "product-page/wp-sillicon-pipe-metal/index.html",
+    "canonical_target": "/products/wp-sillicon-pipe-metal.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/wp-sillicon-pumpkin",
+    "generated_alias_path": "product-page/wp-sillicon-pumpkin/index.html",
+    "canonical_target": "/products/wp-sillicon-pumpkin.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/wp-sillicon-rasta",
+    "generated_alias_path": "product-page/wp-sillicon-rasta/index.html",
+    "canonical_target": "/products/wp-sillicon-rasta.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/wp-sillicon-riffle",
+    "generated_alias_path": "product-page/wp-sillicon-riffle/index.html",
+    "canonical_target": "/products/wp-sillicon-riffle.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/wp-sillicon-skull-pink",
+    "generated_alias_path": "product-page/wp-sillicon-skull-pink/index.html",
+    "canonical_target": "/products/wp-sillicon-skull-pink.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/wp-sillicon-skull",
+    "generated_alias_path": "product-page/wp-sillicon-skull/index.html",
+    "canonical_target": "/products/wp-sillicon-skull.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/wp-sillicon",
+    "generated_alias_path": "product-page/wp-sillicon/index.html",
+    "canonical_target": "/products/wp-sillicon.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/yocan-nyx",
+    "generated_alias_path": "product-page/yocan-nyx/index.html",
+    "canonical_target": "/products/yocan-nyx.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/product-page/zydot-shampoo",
+    "generated_alias_path": "product-page/zydot-shampoo/index.html",
+    "canonical_target": "/products/zydot-shampoo.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/profile/diversitytattoo702/blog-comments",
+    "generated_alias_path": "profile/diversitytattoo702/blog-comments/index.html",
+    "canonical_target": "/utility/account-unavailable.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/profile/diversitytattoo702/blog-likes",
+    "generated_alias_path": "profile/diversitytattoo702/blog-likes/index.html",
+    "canonical_target": "/utility/account-unavailable.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/profile/diversitytattoo702/blog-posts",
+    "generated_alias_path": "profile/diversitytattoo702/blog-posts/index.html",
+    "canonical_target": "/utility/account-unavailable.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/profile/diversitytattoo702/profile",
+    "generated_alias_path": "profile/diversitytattoo702/profile/index.html",
+    "canonical_target": "/utility/account-unavailable.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/reviews",
+    "generated_alias_path": "reviews/index.html",
+    "canonical_target": "/services/reviews.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/smoke-shop",
+    "generated_alias_path": "smoke-shop/index.html",
+    "canonical_target": "/services/smoke-shop.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/tank",
+    "generated_alias_path": "tank/index.html",
+    "canonical_target": "/artists/tank.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/toothgems",
+    "generated_alias_path": "toothgems/index.html",
+    "canonical_target": "/services/toothgems.html",
+    "reason": "legacy_redirect",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/post/now-in-store-dr-dabber-switch.html",
+    "generated_alias_path": "post/now-in-store-dr-dabber-switch.html",
+    "canonical_target": "/blog/now-in-store-dr-dabber-switch.html",
+    "reason": "observed_404_alias",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/post/categories/getting-started.html",
+    "generated_alias_path": "post/categories/getting-started.html",
+    "canonical_target": "/blog/index.html",
+    "reason": "observed_404_alias",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/post/categories/your-community.html",
+    "generated_alias_path": "post/categories/your-community.html",
+    "canonical_target": "/blog/index.html",
+    "reason": "observed_404_alias",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/post/honeystick-beekeeper-conceal-essential-oil-vaporizer.html",
+    "generated_alias_path": "post/honeystick-beekeeper-conceal-essential-oil-vaporizer.html",
+    "canonical_target": "/blog/honeystick-beekeeper-conceal-essential-oil-vaporizer.html",
+    "reason": "observed_404_alias",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/post/what-is-detox.html",
+    "generated_alias_path": "post/what-is-detox.html",
+    "canonical_target": "/blog/what-is-detox.html",
+    "reason": "observed_404_alias",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/post/are-detox-cleanses-permanent.html",
+    "generated_alias_path": "post/are-detox-cleanses-permanent.html",
+    "canonical_target": "/blog/are-detox-cleanses-permanent.html",
+    "reason": "observed_404_alias",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/post/levo-oil-butter-maker.html",
+    "generated_alias_path": "post/levo-oil-butter-maker.html",
+    "canonical_target": "/blog/levo-oil-butter-maker.html",
+    "reason": "observed_404_alias",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/post/davinci-miqro.html",
+    "generated_alias_path": "post/davinci-miqro.html",
+    "canonical_target": "/blog/davinci-miqro.html",
+    "reason": "observed_404_alias",
+    "noindex_status": "noindex"
+  },
+  {
+    "old_url": "/post/kandypens-k-stick.html",
+    "generated_alias_path": "post/kandypens-k-stick.html",
+    "canonical_target": "/blog/kandypens-k-stick.html",
+    "reason": "observed_404_alias",
+    "noindex_status": "noindex"
+  }
+]

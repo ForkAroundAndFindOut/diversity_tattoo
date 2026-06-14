@@ -1,0 +1,1199 @@
+[
+  {
+    "source": "/artist",
+    "target": "/artists/index.html",
+    "status": "rebuilt section page",
+    "route": "artist.html",
+    "type": "static_page"
+  },
+  {
+    "source": "/blog/categories/getting-started",
+    "target": "/blog/index.html",
+    "status": "redirect to rebuilt destination",
+    "route": "blog/categories/getting-started.html",
+    "type": "blog_category"
+  },
+  {
+    "source": "/blog/categories/your-community",
+    "target": "/blog/index.html",
+    "status": "redirect to rebuilt destination",
+    "route": "blog/categories/your-community.html",
+    "type": "blog_category"
+  },
+  {
+    "source": "/blog/davinci-miqro",
+    "target": "/blog/davinci-miqro.html",
+    "status": "redirect to rebuilt destination",
+    "route": "blog/davinci-miqro.html",
+    "type": "blog_redirect"
+  },
+  {
+    "source": "/blog/kandypens-k-stick",
+    "target": "/blog/kandypens-k-stick.html",
+    "status": "redirect to rebuilt destination",
+    "route": "blog/kandypens-k-stick.html",
+    "type": "blog_redirect"
+  },
+  {
+    "source": "/blog/levo-oil-butter-maker",
+    "target": "/blog/levo-oil-butter-maker.html",
+    "status": "redirect to rebuilt destination",
+    "route": "blog/levo-oil-butter-maker.html",
+    "type": "blog_redirect"
+  },
+  {
+    "source": "/blog/now-in-store-dr-dabber-switch",
+    "target": "/blog/now-in-store-dr-dabber-switch.html",
+    "status": "redirect to rebuilt destination",
+    "route": "blog/now-in-store-dr-dabber-switch.html",
+    "type": "blog_redirect"
+  },
+  {
+    "source": "/blog",
+    "target": "/blog/index.html",
+    "status": "rebuilt section page",
+    "route": "blog.html",
+    "type": "blog_index"
+  },
+  {
+    "source": "/bodypiercing",
+    "target": "/services/bodypiercing.html",
+    "status": "rebuilt detail page",
+    "route": "bodypiercing.html",
+    "type": "static_page"
+  },
+  {
+    "source": "/charlie",
+    "target": "/artists/charlie.html",
+    "status": "rebuilt detail page",
+    "route": "charlie.html",
+    "type": "static_page"
+  },
+  {
+    "source": "/contact",
+    "target": "/services/contact.html",
+    "status": "rebuilt detail page",
+    "route": "contact.html",
+    "type": "static_page"
+  },
+  {
+    "source": "/faq",
+    "target": "/services/faq.html",
+    "status": "rebuilt detail page",
+    "route": "faq.html",
+    "type": "static_page"
+  },
+  {
+    "source": "/gallery",
+    "target": "/services/gallery.html",
+    "status": "rebuilt detail page",
+    "route": "gallery.html",
+    "type": "static_page"
+  },
+  {
+    "source": "/home",
+    "target": "/index.html",
+    "status": "rebuilt primary page",
+    "route": "home.html",
+    "type": "static_page"
+  },
+  {
+    "source": "/",
+    "target": "/index.html",
+    "status": "rebuilt primary page",
+    "route": "index.html",
+    "type": "static_page"
+  },
+  {
+    "source": "/locations",
+    "target": "/services/locations.html",
+    "status": "rebuilt detail page",
+    "route": "locations.html",
+    "type": "static_page"
+  },
+  {
+    "source": "/post/are-detox-cleanses-permanent",
+    "target": "/blog/are-detox-cleanses-permanent.html",
+    "status": "rebuilt detail page",
+    "route": "post/are-detox-cleanses-permanent.html",
+    "type": "blog_post"
+  },
+  {
+    "source": "/post/can-my-tattoo-be-covered-up",
+    "target": "/blog/can-my-tattoo-be-covered-up.html",
+    "status": "rebuilt detail page",
+    "route": "post/can-my-tattoo-be-covered-up.html",
+    "type": "blog_post"
+  },
+  {
+    "source": "/post/cbdforpets",
+    "target": "/blog/cbdforpets.html",
+    "status": "rebuilt detail page",
+    "route": "post/cbdforpets.html",
+    "type": "blog_post"
+  },
+  {
+    "source": "/post/cbdforpets1",
+    "target": "/blog/cbdforpets1.html",
+    "status": "rebuilt detail page",
+    "route": "post/cbdforpets1.html",
+    "type": "blog_post"
+  },
+  {
+    "source": "/post/cbdforpets2",
+    "target": "/blog/cbdforpets2.html",
+    "status": "rebuilt detail page",
+    "route": "post/cbdforpets2.html",
+    "type": "blog_post"
+  },
+  {
+    "source": "/post/davinci-miqro",
+    "target": "/blog/davinci-miqro.html",
+    "status": "rebuilt detail page",
+    "route": "post/davinci-miqro.html",
+    "type": "blog_post"
+  },
+  {
+    "source": "/post/firsttattoo",
+    "target": "/blog/firsttattoo.html",
+    "status": "rebuilt detail page",
+    "route": "post/firsttattoo.html",
+    "type": "blog_post"
+  },
+  {
+    "source": "/post/honeystick-beekeeper-conceal-essential-oil-vaporizer",
+    "target": "/blog/honeystick-beekeeper-conceal-essential-oil-vaporizer.html",
+    "status": "rebuilt detail page",
+    "route": "post/honeystick-beekeeper-conceal-essential-oil-vaporizer.html",
+    "type": "blog_post"
+  },
+  {
+    "source": "/post/kandypens-k-stick",
+    "target": "/blog/kandypens-k-stick.html",
+    "status": "rebuilt detail page",
+    "route": "post/kandypens-k-stick.html",
+    "type": "blog_post"
+  },
+  {
+    "source": "/post/levo-oil-butter-maker",
+    "target": "/blog/levo-oil-butter-maker.html",
+    "status": "rebuilt detail page",
+    "route": "post/levo-oil-butter-maker.html",
+    "type": "blog_post"
+  },
+  {
+    "source": "/post/now-in-store-dr-dabber-switch",
+    "target": "/blog/now-in-store-dr-dabber-switch.html",
+    "status": "rebuilt detail page",
+    "route": "post/now-in-store-dr-dabber-switch.html",
+    "type": "blog_post"
+  },
+  {
+    "source": "/post/tattooaftercare",
+    "target": "/blog/tattooaftercare.html",
+    "status": "rebuilt detail page",
+    "route": "post/tattooaftercare.html",
+    "type": "blog_post"
+  },
+  {
+    "source": "/post/tips-for-a-successful-cover-up-tattoo",
+    "target": "/blog/tips-for-a-successful-cover-up-tattoo.html",
+    "status": "rebuilt detail page",
+    "route": "post/tips-for-a-successful-cover-up-tattoo.html",
+    "type": "blog_post"
+  },
+  {
+    "source": "/post/what-is-detox",
+    "target": "/blog/what-is-detox.html",
+    "status": "rebuilt detail page",
+    "route": "post/what-is-detox.html",
+    "type": "blog_post"
+  },
+  {
+    "source": "/post/what-to-do-if-your-tattoo-or-piercing-itches",
+    "target": "/blog/what-to-do-if-your-tattoo-or-piercing-itches.html",
+    "status": "rebuilt detail page",
+    "route": "post/what-to-do-if-your-tattoo-or-piercing-itches.html",
+    "type": "blog_post"
+  },
+  {
+    "source": "/price-list-1",
+    "target": "/services/price-list-1.html",
+    "status": "rebuilt detail page",
+    "route": "price-list-1.html",
+    "type": "static_page"
+  },
+  {
+    "source": "/product-page/additive-x-stream-synthentic-urine",
+    "target": "/products/additive-x-stream-synthentic-urine.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/additive-x-stream-synthentic-urine.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/ascent-oil-jars",
+    "target": "/products/ascent-oil-jars.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/ascent-oil-jars.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/ascentst-g-adapter",
+    "target": "/products/ascentst-g-adapter.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/ascentst-g-adapter.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/ascentst-u-adapter",
+    "target": "/products/ascentst-u-adapter.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/ascentst-u-adapter.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/assisted-dug-cut",
+    "target": "/products/assisted-dug-cut.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/assisted-dug-cut.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/asvape-michael-box",
+    "target": "/products/asvape-michael-box.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/asvape-michael-box.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/atmos-grinder",
+    "target": "/products/atmos-grinder.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/atmos-grinder.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/atmosnail",
+    "target": "/products/atmosnail.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/atmosnail.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/badwood-g-pen",
+    "target": "/products/badwood-g-pen.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/badwood-g-pen.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/bb-st-0g-5-8",
+    "target": "/products/bb-st-0g-5-8.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/bb-st-0g-5-8.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/bb-st-10g-1-2",
+    "target": "/products/bb-st-10g-1-2.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/bb-st-10g-1-2.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/bb-st-10g-3-4",
+    "target": "/products/bb-st-10g-3-4.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/bb-st-10g-3-4.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/bb-st-12g-1-2",
+    "target": "/products/bb-st-12g-1-2.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/bb-st-12g-1-2.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/bb-st-12g-5-8",
+    "target": "/products/bb-st-12g-5-8.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/bb-st-12g-5-8.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/bb-st-12g-7-16",
+    "target": "/products/bb-st-12g-7-16.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/bb-st-12g-7-16.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/bb-st-12g-7-8",
+    "target": "/products/bb-st-12g-7-8.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/bb-st-12g-7-8.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/bb-st-14g-7-8",
+    "target": "/products/bb-st-14g-7-8.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/bb-st-14g-7-8.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/bb-st-2g-5-8",
+    "target": "/products/bb-st-2g-5-8.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/bb-st-2g-5-8.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/bb-st-6g-5-8",
+    "target": "/products/bb-st-6g-5-8.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/bb-st-6g-5-8.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/bubbler",
+    "target": "/products/bubbler.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/bubbler.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/cbb-st-10g-1-2-cone",
+    "target": "/products/cbb-st-10g-1-2-cone.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/cbb-st-10g-1-2-cone.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/cbb-st-10g-1-2-reg-ball",
+    "target": "/products/cbb-st-10g-1-2-reg-ball.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/cbb-st-10g-1-2-reg-ball.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/cbb-st-12g-3-8-cone",
+    "target": "/products/cbb-st-12g-3-8-cone.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/cbb-st-12g-3-8-cone.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/cbb-st-12g-7-16-gem-reg-clear",
+    "target": "/products/cbb-st-12g-7-16-gem-reg-clear.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/cbb-st-12g-7-16-gem-reg-clear.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/cbr-st-10g-1-2-gem-ball-clear",
+    "target": "/products/cbr-st-10g-1-2-gem-ball-clear.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/cbr-st-10g-1-2-gem-ball-clear.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/cbr-st-12g-1-2-1",
+    "target": "/products/cbr-st-12g-1-2-1.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/cbr-st-12g-1-2-1.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/cbr-st-12g-1-2-gem-ball-clear",
+    "target": "/products/cbr-st-12g-1-2-gem-ball-clear.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/cbr-st-12g-1-2-gem-ball-clear.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/cbr-st-12g-1-2",
+    "target": "/products/cbr-st-12g-1-2.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/cbr-st-12g-1-2.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/cbr-st-12g-3-8",
+    "target": "/products/cbr-st-12g-3-8.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/cbr-st-12g-3-8.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/cbr-st-12g-5-8-1",
+    "target": "/products/cbr-st-12g-5-8-1.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/cbr-st-12g-5-8-1.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/cbr-st-12g-5-8",
+    "target": "/products/cbr-st-12g-5-8.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/cbr-st-12g-5-8.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/cbr-st-12g-7-16-1",
+    "target": "/products/cbr-st-12g-7-16-1.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/cbr-st-12g-7-16-1.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/cbr-st-12g-7-16",
+    "target": "/products/cbr-st-12g-7-16.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/cbr-st-12g-7-16.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/cbr-st-8g-1-2-gem-ball-clear",
+    "target": "/products/cbr-st-8g-1-2-gem-ball-clear.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/cbr-st-8g-1-2-gem-ball-clear.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/clear-hit-1",
+    "target": "/products/clear-hit-1.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/clear-hit-1.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/clear-hit",
+    "target": "/products/clear-hit.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/clear-hit.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/copy-of-atmos-nail",
+    "target": "/products/copy-of-atmos-nail.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/copy-of-atmos-nail.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/copy-of-cbr-st-12g3-8",
+    "target": "/products/copy-of-cbr-st-12g3-8.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/copy-of-cbr-st-12g3-8.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/copy-of-glass-pipe",
+    "target": "/products/copy-of-glass-pipe.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/copy-of-glass-pipe.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/detoxify-ever-clean",
+    "target": "/products/detoxify-ever-clean.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/detoxify-ever-clean.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/detoxify-green-clean",
+    "target": "/products/detoxify-green-clean.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/detoxify-green-clean.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/detoxify-instant-clean",
+    "target": "/products/detoxify-instant-clean.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/detoxify-instant-clean.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/detoxify-mega-clean",
+    "target": "/products/detoxify-mega-clean.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/detoxify-mega-clean.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/detoxify-mighty-clean",
+    "target": "/products/detoxify-mighty-clean.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/detoxify-mighty-clean.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/detoxify-pre-cleanse-caps",
+    "target": "/products/detoxify-pre-cleanse-caps.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/detoxify-pre-cleanse-caps.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/detoxify-ready-clean-grape-tropical-orange",
+    "target": "/products/detoxify-ready-clean-grape-tropical-orange.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/detoxify-ready-clean-grape-tropical-orange.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/detoxify-xxtra-clean",
+    "target": "/products/detoxify-xxtra-clean.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/detoxify-xxtra-clean.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/dr-dabber-switch",
+    "target": "/products/dr-dabber-switch.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/dr-dabber-switch.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/dr-greens-cool-rinse-mouthwash",
+    "target": "/products/dr-greens-cool-rinse-mouthwash.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/dr-greens-cool-rinse-mouthwash.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/dr-greens-field-kit",
+    "target": "/products/dr-greens-field-kit.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/dr-greens-field-kit.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/e-cig-hibron-h10",
+    "target": "/products/e-cig-hibron-h10.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/e-cig-hibron-h10.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/e-pipe-mod",
+    "target": "/products/e-pipe-mod.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/e-pipe-mod.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/evolve-d-dry-herb-pen-from-yocan",
+    "target": "/products/evolve-d-dry-herb-pen-from-yocan.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/evolve-d-dry-herb-pen-from-yocan.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/g-pen-slim-quartz",
+    "target": "/products/g-pen-slim-quartz.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/g-pen-slim-quartz.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/glass-pipe-1",
+    "target": "/products/glass-pipe-1.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/glass-pipe-1.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/glass-pipe-2",
+    "target": "/products/glass-pipe-2.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/glass-pipe-2.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/glass-pipe",
+    "target": "/products/glass-pipe.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/glass-pipe.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/grinder-rasta",
+    "target": "/products/grinder-rasta.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/grinder-rasta.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/grinder-sm-metal",
+    "target": "/products/grinder-sm-metal.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/grinder-sm-metal.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/grinder-sm-plastic",
+    "target": "/products/grinder-sm-plastic.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/grinder-sm-plastic.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/grinder",
+    "target": "/products/grinder.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/grinder.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/high-voltage-2-pk-32-oz",
+    "target": "/products/high-voltage-2-pk-32-oz.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/high-voltage-2-pk-32-oz.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/high-voltage-double-flush",
+    "target": "/products/high-voltage-double-flush.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/high-voltage-double-flush.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/high-voltage-mouthwash",
+    "target": "/products/high-voltage-mouthwash.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/high-voltage-mouthwash.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/high-voltage-permanent-tropical-5-day-cleanse",
+    "target": "/products/high-voltage-permanent-tropical-5-day-cleanse.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/high-voltage-permanent-tropical-5-day-cleanse.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/high-voltage-regular-strength-16-oz",
+    "target": "/products/high-voltage-regular-strength-16-oz.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/high-voltage-regular-strength-16-oz.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/high-voltage-shampoo",
+    "target": "/products/high-voltage-shampoo.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/high-voltage-shampoo.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/high-voltage-xl-shot",
+    "target": "/products/high-voltage-xl-shot.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/high-voltage-xl-shot.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/hip-vape",
+    "target": "/products/hip-vape.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/hip-vape.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/hookah-coals",
+    "target": "/products/hookah-coals.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/hookah-coals.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/i-o-lite-vaporizer",
+    "target": "/products/i-o-lite-vaporizer.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/i-o-lite-vaporizer.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/just-chill-jungle",
+    "target": "/products/just-chill-jungle.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/just-chill-jungle.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/just-chill-strawberry",
+    "target": "/products/just-chill-strawberry.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/just-chill-strawberry.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/k-stick-supreme",
+    "target": "/products/k-stick-supreme.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/k-stick-supreme.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/kamry-30-box",
+    "target": "/products/kamry-30-box.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/kamry-30-box.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/levo-ii",
+    "target": "/products/levo-ii.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/levo-ii.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/metal-pipe",
+    "target": "/products/metal-pipe.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/metal-pipe.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/mini-2-hose-hookah",
+    "target": "/products/mini-2-hose-hookah.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/mini-2-hose-hookah.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/nail-crown-silk-lblue",
+    "target": "/products/nail-crown-silk-lblue.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/nail-crown-silk-lblue.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/naked-vape-juice",
+    "target": "/products/naked-vape-juice.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/naked-vape-juice.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/nano-nbw-waxy-kit",
+    "target": "/products/nano-nbw-waxy-kit.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/nano-nbw-waxy-kit.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/p-sure",
+    "target": "/products/p-sure.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/p-sure.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/pax-3",
+    "target": "/products/pax-3.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/pax-3.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/phoenix-drip-tip",
+    "target": "/products/phoenix-drip-tip.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/phoenix-drip-tip.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/plastic-grinder",
+    "target": "/products/plastic-grinder.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/plastic-grinder.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/q-carbo-32",
+    "target": "/products/q-carbo-32.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/q-carbo-32.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/randy-aqua-pilot",
+    "target": "/products/randy-aqua-pilot.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/randy-aqua-pilot.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/raw-classic-artesano-1",
+    "target": "/products/raw-classic-artesano-1.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/raw-classic-artesano-1.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/raw-classic-king-size-rolls",
+    "target": "/products/raw-classic-king-size-rolls.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/raw-classic-king-size-rolls.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/raw-classic-kingsize-slim",
+    "target": "/products/raw-classic-kingsize-slim.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/raw-classic-kingsize-slim.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/raw-classic-single-wide",
+    "target": "/products/raw-classic-single-wide.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/raw-classic-single-wide.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/raw-hemp-plastic-roller",
+    "target": "/products/raw-hemp-plastic-roller.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/raw-hemp-plastic-roller.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/raw-hemp-wick-10ft",
+    "target": "/products/raw-hemp-wick-10ft.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/raw-hemp-wick-10ft.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/raw-organic-hemp-1",
+    "target": "/products/raw-organic-hemp-1.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/raw-organic-hemp-1.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/raw-pre-rolled-tips",
+    "target": "/products/raw-pre-rolled-tips.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/raw-pre-rolled-tips.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/raw-rolling-mat",
+    "target": "/products/raw-rolling-mat.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/raw-rolling-mat.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/small-glass-pipe",
+    "target": "/products/small-glass-pipe.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/small-glass-pipe.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/snail-lookah",
+    "target": "/products/snail-lookah.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/snail-lookah.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/stat-1-hr-flush-caps",
+    "target": "/products/stat-1-hr-flush-caps.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/stat-1-hr-flush-caps.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/studs",
+    "target": "/products/studs.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/studs.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/the-yocan-evolve-dual-quartz-wax-pen",
+    "target": "/products/the-yocan-evolve-dual-quartz-wax-pen.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/the-yocan-evolve-dual-quartz-wax-pen.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/the-yocan-evolve-plus",
+    "target": "/products/the-yocan-evolve-plus.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/the-yocan-evolve-plus.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/ultra-eliminex",
+    "target": "/products/ultra-eliminex.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/ultra-eliminex.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/vapir-oxygen-w-battery",
+    "target": "/products/vapir-oxygen-w-battery.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/vapir-oxygen-w-battery.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/vaporizer-arizer-solo",
+    "target": "/products/vaporizer-arizer-solo.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/vaporizer-arizer-solo.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/vitacig",
+    "target": "/products/vitacig.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/vitacig.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/wp-sillicon-1",
+    "target": "/products/wp-sillicon-1.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/wp-sillicon-1.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/wp-sillicon-10-geometric",
+    "target": "/products/wp-sillicon-10-geometric.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/wp-sillicon-10-geometric.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/wp-sillicon-2",
+    "target": "/products/wp-sillicon-2.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/wp-sillicon-2.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/wp-sillicon-elephant",
+    "target": "/products/wp-sillicon-elephant.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/wp-sillicon-elephant.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/wp-sillicon-glow",
+    "target": "/products/wp-sillicon-glow.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/wp-sillicon-glow.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/wp-sillicon-heart",
+    "target": "/products/wp-sillicon-heart.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/wp-sillicon-heart.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/wp-sillicon-jar",
+    "target": "/products/wp-sillicon-jar.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/wp-sillicon-jar.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/wp-sillicon-l-n-monster",
+    "target": "/products/wp-sillicon-l-n-monster.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/wp-sillicon-l-n-monster.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/wp-sillicon-pad",
+    "target": "/products/wp-sillicon-pad.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/wp-sillicon-pad.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/wp-sillicon-pipe-metal",
+    "target": "/products/wp-sillicon-pipe-metal.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/wp-sillicon-pipe-metal.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/wp-sillicon-pumpkin",
+    "target": "/products/wp-sillicon-pumpkin.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/wp-sillicon-pumpkin.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/wp-sillicon-rasta",
+    "target": "/products/wp-sillicon-rasta.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/wp-sillicon-rasta.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/wp-sillicon-riffle",
+    "target": "/products/wp-sillicon-riffle.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/wp-sillicon-riffle.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/wp-sillicon-skull-pink",
+    "target": "/products/wp-sillicon-skull-pink.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/wp-sillicon-skull-pink.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/wp-sillicon-skull",
+    "target": "/products/wp-sillicon-skull.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/wp-sillicon-skull.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/wp-sillicon",
+    "target": "/products/wp-sillicon.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/wp-sillicon.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/yocan-nyx",
+    "target": "/products/yocan-nyx.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/yocan-nyx.html",
+    "type": "product"
+  },
+  {
+    "source": "/product-page/zydot-shampoo",
+    "target": "/products/zydot-shampoo.html",
+    "status": "rebuilt detail page",
+    "route": "product-page/zydot-shampoo.html",
+    "type": "product"
+  },
+  {
+    "source": "/profile/diversitytattoo702/blog-comments",
+    "target": "/utility/account-unavailable.html",
+    "status": "intentionally excluded utility route",
+    "route": "profile/diversitytattoo702/blog-comments.html",
+    "type": "profile"
+  },
+  {
+    "source": "/profile/diversitytattoo702/blog-likes",
+    "target": "/utility/account-unavailable.html",
+    "status": "intentionally excluded utility route",
+    "route": "profile/diversitytattoo702/blog-likes.html",
+    "type": "profile"
+  },
+  {
+    "source": "/profile/diversitytattoo702/blog-posts",
+    "target": "/utility/account-unavailable.html",
+    "status": "intentionally excluded utility route",
+    "route": "profile/diversitytattoo702/blog-posts.html",
+    "type": "profile"
+  },
+  {
+    "source": "/profile/diversitytattoo702/profile",
+    "target": "/utility/account-unavailable.html",
+    "status": "intentionally excluded utility route",
+    "route": "profile/diversitytattoo702/profile.html",
+    "type": "profile"
+  },
+  {
+    "source": "/reviews",
+    "target": "/services/reviews.html",
+    "status": "rebuilt detail page",
+    "route": "reviews.html",
+    "type": "static_page"
+  },
+  {
+    "source": "/shop?page=4",
+    "target": "/shop/index.html",
+    "status": "redirect to rebuilt destination",
+    "route": "shop.11a4aa134b.html",
+    "type": "shop_page"
+  },
+  {
+    "source": "/shop?page=5",
+    "target": "/shop/index.html",
+    "status": "redirect to rebuilt destination",
+    "route": "shop.1d9c95299e.html",
+    "type": "shop_page"
+  },
+  {
+    "source": "/shop?page=3",
+    "target": "/shop/index.html",
+    "status": "redirect to rebuilt destination",
+    "route": "shop.6066c9f139.html",
+    "type": "shop_page"
+  },
+  {
+    "source": "/shop?page=6",
+    "target": "/shop/index.html",
+    "status": "redirect to rebuilt destination",
+    "route": "shop.68c4a30e84.html",
+    "type": "shop_page"
+  },
+  {
+    "source": "/shop?page=2",
+    "target": "/shop/index.html",
+    "status": "redirect to rebuilt destination",
+    "route": "shop.b941a131dc.html",
+    "type": "shop_page"
+  },
+  {
+    "source": "/shop?page=7",
+    "target": "/shop/index.html",
+    "status": "redirect to rebuilt destination",
+    "route": "shop.e397427b93.html",
+    "type": "shop_page"
+  },
+  {
+    "source": "/shop",
+    "target": "/shop/index.html",
+    "status": "rebuilt section page",
+    "route": "shop.html",
+    "type": "shop_page"
+  },
+  {
+    "source": "/smoke-shop",
+    "target": "/services/smoke-shop.html",
+    "status": "rebuilt detail page",
+    "route": "smoke-shop.html",
+    "type": "static_page"
+  },
+  {
+    "source": "/tank",
+    "target": "/artists/tank.html",
+    "status": "rebuilt detail page",
+    "route": "tank.html",
+    "type": "static_page"
+  },
+  {
+    "source": "/toothgems",
+    "target": "/services/toothgems.html",
+    "status": "rebuilt detail page",
+    "route": "toothgems.html",
+    "type": "static_page"
+  }
+]

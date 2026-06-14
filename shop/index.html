@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shop | Diversity Tattoo</title>
+    <meta name="description" content="Browse body jewelry, detox products, smoke accessories, vaporizers and other products available through Diversity Tattoo." />
+    <link rel="canonical" href="/shop/" />
+    <meta name="robots" content="index, follow" />
+    <link rel="stylesheet" href="../styles.css?v=1.2.0" />
+  </head>
+  <body class="detail-page">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header is-stuck">
+      <a class="brand-mark" href="../index.html#top" aria-label="Diversity Tattoo home">
+        <img src="../assets/static.wixstatic.com/media/8d0ab0_6a77779840c44b9586da1fefe272017b_mv2_d_3300_2550_s_4_2.png" alt="Diversity Tattoo" />
+      </a>
+      <nav class="site-nav is-detail-nav" aria-label="Shop navigation">
+        <a href="../index.html#tattoo">Tattoo</a>
+        <a href="../index.html#piercing">Piercing</a>
+        <a href="../blog/index.html">Blog</a>
+        <a href="../index.html#visit">Visit</a>
+      </nav>
+    </header>
+    <main id="main" class="detail-shell">
+      <section class="section product-catalog" id="shop-catalog">
+        <div class="section-intro">
+          <p class="eyebrow">Shop</p>
+          <h1>Browse products before you visit.</h1>
+          <p>Filter by category, search by product details and sort the full catalog on one page. Call the studio to confirm availability before stopping in.</p>
+        </div>
+        
+      <div class="product-toolbar" aria-label="Shop controls">
+        <div class="filter-list" id="product-category-filter-list"></div>
+        <label class="field-label" for="product-search">Search products</label>
+        <input id="product-search" name="q" type="search" autocomplete="off" placeholder="Search by name, use or details" />
+        <label class="field-label" for="product-sort">Sort products</label>
+        <select id="product-sort" name="sort">
+          <option value="category-name">Category then A-Z</option>
+          <option value="name-asc">Name A-Z</option>
+          <option value="price-asc">Price Low-High</option>
+          <option value="price-desc">Price High-Low</option>
+          <option value="stock-first">In-stock first</option>
+        </select>
+        <button class="button secondary" type="button" id="product-clear-filters" hidden>Clear filters</button>
+      </div>
+      <p class="catalog-count" id="product-filter-summary" aria-live="polite"></p>
+      <div class="product-grid" id="product-grid" data-stagger></div>
+      <script src="../site-data.js"></script>
+      <script src="../content-render.js"></script>
+
+      </section>
+    </main>
+  </body>
+</html>
