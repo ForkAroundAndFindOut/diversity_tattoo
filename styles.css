@@ -630,8 +630,9 @@ h3 {
 .product-card,
 .guide-card,
 .profile-card {
+  --card-media-height: 220px;
   display: grid;
-  grid-template-rows: 220px 1fr;
+  grid-template-rows: var(--card-media-height) minmax(0, auto);
   min-width: 0;
   overflow: hidden;
   border: 1px solid var(--line);
@@ -649,19 +650,27 @@ h3 {
   outline-offset: 4px;
 }
 
-.product-card img,
-.guide-card img,
-.profile-card img {
+.product-card > img,
+.guide-card > img,
+.profile-card > img {
+  display: block;
+  grid-row: 1;
   width: 100%;
-  height: 100%;
+  height: var(--card-media-height);
+  min-height: var(--card-media-height);
+  max-height: var(--card-media-height);
   object-fit: cover;
 }
 
-.product-card div,
-.guide-card div,
-.profile-card div {
+.product-card > div,
+.guide-card > div,
+.profile-card > div {
+  position: relative;
+  z-index: 1;
+  grid-row: 2;
   min-width: 0;
   padding: 20px;
+  background: var(--panel);
 }
 
 .product-card span,
@@ -1417,7 +1426,7 @@ h3 {
   .product-card,
   .guide-card,
   .profile-card {
-    grid-template-rows: 180px 1fr;
+    --card-media-height: 180px;
   }
 
   .intent-card img,
@@ -1445,9 +1454,9 @@ h3 {
     margin-top: 14px;
   }
 
-  .product-card div,
-  .guide-card div,
-  .profile-card div {
+  .product-card > div,
+  .guide-card > div,
+  .profile-card > div {
     padding: 18px;
   }
 

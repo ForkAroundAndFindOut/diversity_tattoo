@@ -1325,7 +1325,7 @@ def html_page(
     <title>{escape(title)} | Diversity Tattoo</title>
     <meta name="description" content="{escape(clean_text(body, 155))}" />
 {canonical_html}    <meta name="robots" content="{escape(robots)}" />
-    <link rel="stylesheet" href="../styles.css?v=1.2.0" />
+    <link rel="stylesheet" href="../styles.css?v=1.2.1" />
   </head>
   <body class="detail-page">
     <a class="skip-link" href="#main">Skip to content</a>
@@ -1399,7 +1399,7 @@ def write_blog_archive(data: dict) -> None:
     <meta name="description" content="Tattoo, piercing, smoke shop and product education from Diversity Tattoo in Las Vegas." />
     <link rel="canonical" href="/blog/" />
     <meta name="robots" content="index, follow" />
-    <link rel="stylesheet" href="../styles.css?v=1.2.0" />
+    <link rel="stylesheet" href="../styles.css?v=1.2.1" />
   </head>
   <body class="detail-page">
     <a class="skip-link" href="#main">Skip to content</a>
@@ -1507,7 +1507,7 @@ def write_shop_page(data: dict) -> None:
     <meta name="description" content="Browse body jewelry, detox products, smoke accessories, vaporizers and other products available through Diversity Tattoo." />
     <link rel="canonical" href="/shop/" />
     <meta name="robots" content="index, follow" />
-    <link rel="stylesheet" href="../styles.css?v=1.2.0" />
+    <link rel="stylesheet" href="../styles.css?v=1.2.1" />
   </head>
   <body class="detail-page">
     <a class="skip-link" href="#main">Skip to content</a>
@@ -2068,7 +2068,7 @@ def write_support_files(data: dict) -> None:
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Page Not Found | Diversity Tattoo</title>
-    <link rel="stylesheet" href="styles.css?v=1.2.0" />
+    <link rel="stylesheet" href="styles.css?v=1.2.1" />
   </head>
   <body class="detail-page">
     <main id="main" class="detail-shell">
