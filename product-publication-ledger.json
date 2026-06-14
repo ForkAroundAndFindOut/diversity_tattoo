@@ -11,7 +11,11 @@
     "price": "$34.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/additive-x-stream-synthentic-urine/additive-x-stream-synthentic-urine.jpg"
+    "image": "assets/products/additive-x-stream-synthentic-urine/additive-x-stream-synthentic-urine.jpg",
+    "image_width": 217,
+    "image_height": 300,
+    "image_bytes": 24465,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/ascent-oil-jars.html",
@@ -25,7 +29,11 @@
     "price": "$14.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/ascent-oil-jars/ascent-oil-jars.jpg"
+    "image": "assets/products/ascent-oil-jars/ascent-oil-jars.jpg",
+    "image_width": 1000,
+    "image_height": 668,
+    "image_bytes": 205875,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/ascentst-g-adapter.html",
@@ -39,7 +47,11 @@
     "price": "$29.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/ascentst-g-adapter/ascentst-g-adapter.jpg"
+    "image": "assets/products/ascentst-g-adapter/ascentst-g-adapter.jpg",
+    "image_width": 1000,
+    "image_height": 668,
+    "image_bytes": 205875,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/ascentst-u-adapter.html",
@@ -53,7 +65,11 @@
     "price": "$42.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/ascentst-u-adapter/ascentst-u-adapter.jpg"
+    "image": "assets/products/ascentst-u-adapter/ascentst-u-adapter.jpg",
+    "image_width": 1000,
+    "image_height": 668,
+    "image_bytes": 205875,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/assisted-dug-cut.html",
@@ -67,7 +83,11 @@
     "price": "$12.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/assisted-dug-cut/assisted-dug-cut.jpg"
+    "image": "assets/products/assisted-dug-cut/assisted-dug-cut.jpg",
+    "image_width": 280,
+    "image_height": 500,
+    "image_bytes": 40737,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/asvape-michael-box.html",
@@ -81,7 +101,11 @@
     "price": "$75.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/asvape-michael-box/asvape-michael-box.jpg"
+    "image": "assets/products/asvape-michael-box/asvape-michael-box.jpg",
+    "image_width": 1000,
+    "image_height": 1000,
+    "image_bytes": 151001,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/atmos-grinder.html",
@@ -95,7 +119,11 @@
     "price": "$35.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/atmos-grinder/atmos-grinder.jpg"
+    "image": "assets/products/atmos-grinder/atmos-grinder.jpg",
+    "image_width": 1000,
+    "image_height": 1500,
+    "image_bytes": 390597,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/atmosnail.html",
@@ -109,7 +137,11 @@
     "price": "$65.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/atmosnail/atmosnail.jpg"
+    "image": "assets/products/atmosnail/atmosnail.jpg",
+    "image_width": 1000,
+    "image_height": 1500,
+    "image_bytes": 390597,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/badwood-g-pen.html",
@@ -123,7 +155,11 @@
     "price": "$150.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/badwood-g-pen/badwood-g-pen.jpg"
+    "image": "assets/products/badwood-g-pen/badwood-g-pen.jpg",
+    "image_width": 1000,
+    "image_height": 1000,
+    "image_bytes": 151001,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/bb-st-0g-5-8.html",
@@ -137,7 +173,11 @@
     "price": "$12.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/bb-st-0g-5-8/bb-st-0g-5-8.jpg"
+    "image": "assets/products/bb-st-0g-5-8/bb-st-0g-5-8.jpg",
+    "image_width": 500,
+    "image_height": 319,
+    "image_bytes": 62091,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/bb-st-10g-1-2.html",
@@ -151,7 +191,11 @@
     "price": "$12.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/bb-st-10g-1-2/bb-st-10g-1-2.jpg"
+    "image": "assets/products/bb-st-10g-1-2/bb-st-10g-1-2.jpg",
+    "image_width": 906,
+    "image_height": 906,
+    "image_bytes": 52472,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/bb-st-10g-3-4.html",
@@ -165,7 +209,11 @@
     "price": "$12.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/bb-st-10g-3-4/bb-st-10g-3-4.jpg"
+    "image": "assets/products/bb-st-10g-3-4/bb-st-10g-3-4.jpg",
+    "image_width": 906,
+    "image_height": 906,
+    "image_bytes": 52472,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/bb-st-12g-1-2.html",
@@ -179,7 +227,11 @@
     "price": "$12.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/bb-st-12g-1-2/bb-st-12g-1-2.jpg"
+    "image": "assets/products/bb-st-12g-1-2/bb-st-12g-1-2.jpg",
+    "image_width": 906,
+    "image_height": 906,
+    "image_bytes": 52472,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/bb-st-12g-5-8.html",
@@ -193,7 +245,11 @@
     "price": "$12.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/bb-st-12g-5-8/bb-st-12g-5-8.jpg"
+    "image": "assets/products/bb-st-12g-5-8/bb-st-12g-5-8.jpg",
+    "image_width": 906,
+    "image_height": 906,
+    "image_bytes": 52472,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/bb-st-12g-7-16.html",
@@ -207,7 +263,11 @@
     "price": "$12.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/bb-st-12g-7-16/bb-st-12g-7-16.jpg"
+    "image": "assets/products/bb-st-12g-7-16/bb-st-12g-7-16.jpg",
+    "image_width": 906,
+    "image_height": 906,
+    "image_bytes": 52472,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/bb-st-12g-7-8.html",
@@ -221,7 +281,11 @@
     "price": "$12.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/bb-st-12g-7-8/bb-st-12g-7-8.jpg"
+    "image": "assets/products/bb-st-12g-7-8/bb-st-12g-7-8.jpg",
+    "image_width": 500,
+    "image_height": 500,
+    "image_bytes": 29471,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/bb-st-14g-7-8.html",
@@ -235,7 +299,11 @@
     "price": "$12.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/bb-st-14g-7-8/bb-st-14g-7-8.jpg"
+    "image": "assets/products/bb-st-14g-7-8/bb-st-14g-7-8.jpg",
+    "image_width": 906,
+    "image_height": 906,
+    "image_bytes": 52472,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/bb-st-2g-5-8.html",
@@ -249,7 +317,11 @@
     "price": "$12.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/bb-st-2g-5-8/bb-st-2g-5-8.jpg"
+    "image": "assets/products/bb-st-2g-5-8/bb-st-2g-5-8.jpg",
+    "image_width": 299,
+    "image_height": 323,
+    "image_bytes": 4572,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/bb-st-6g-5-8.html",
@@ -263,7 +335,11 @@
     "price": "$12.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/bb-st-6g-5-8/bb-st-6g-5-8.jpg"
+    "image": "assets/products/bb-st-6g-5-8/bb-st-6g-5-8.jpg",
+    "image_width": 500,
+    "image_height": 500,
+    "image_bytes": 6247,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/bubbler.html",
@@ -277,7 +353,11 @@
     "price": "$24.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/bubbler/bubbler.jpg"
+    "image": "assets/products/bubbler/bubbler.jpg",
+    "image_width": 376,
+    "image_height": 500,
+    "image_bytes": 74881,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/cbb-st-10g-1-2-cone.html",
@@ -291,7 +371,11 @@
     "price": "$10.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/cbb-st-10g-1-2-cone/cbb-st-10g-1-2-cone.jpg"
+    "image": "assets/products/cbb-st-10g-1-2-cone/cbb-st-10g-1-2-cone.jpg",
+    "image_width": 460,
+    "image_height": 499,
+    "image_bytes": 22156,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/cbb-st-10g-1-2-reg-ball.html",
@@ -305,7 +389,11 @@
     "price": "$10.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/cbb-st-10g-1-2-reg-ball/cbb-st-10g-1-2-reg-ball.jpg"
+    "image": "assets/products/cbb-st-10g-1-2-reg-ball/cbb-st-10g-1-2-reg-ball.jpg",
+    "image_width": 383,
+    "image_height": 500,
+    "image_bytes": 24423,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/cbb-st-12g-3-8-cone.html",
@@ -319,7 +407,11 @@
     "price": "$10.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/cbb-st-12g-3-8-cone/cbb-st-12g-3-8-cone.jpg"
+    "image": "assets/products/cbb-st-12g-3-8-cone/cbb-st-12g-3-8-cone.jpg",
+    "image_width": 460,
+    "image_height": 499,
+    "image_bytes": 22156,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/cbb-st-12g-7-16-gem-reg-clear.html",
@@ -333,7 +425,11 @@
     "price": "$10.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/cbb-st-12g-7-16-gem-reg-clear/cbb-st-12g-7-16-gem-reg-clear.jpg"
+    "image": "assets/products/cbb-st-12g-7-16-gem-reg-clear/cbb-st-12g-7-16-gem-reg-clear.jpg",
+    "image_width": 383,
+    "image_height": 500,
+    "image_bytes": 24423,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/cbr-st-10g-1-2-gem-ball-clear.html",
@@ -347,7 +443,11 @@
     "price": "$12.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/cbr-st-10g-1-2-gem-ball-clear/cbr-st-10g-1-2-gem-ball-clear.jpg"
+    "image": "assets/products/cbr-st-10g-1-2-gem-ball-clear/cbr-st-10g-1-2-gem-ball-clear.jpg",
+    "image_width": 466,
+    "image_height": 500,
+    "image_bytes": 25535,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/cbr-st-12g-1-2-1.html",
@@ -361,7 +461,11 @@
     "price": "$12.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/cbr-st-12g-1-2-1/cbr-st-12g-1-2-1.jpg"
+    "image": "assets/products/cbr-st-12g-1-2-1/cbr-st-12g-1-2-1.jpg",
+    "image_width": 466,
+    "image_height": 500,
+    "image_bytes": 25535,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/cbr-st-12g-1-2-gem-ball-clear.html",
@@ -375,7 +479,11 @@
     "price": "$12.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/cbr-st-12g-1-2-gem-ball-clear/cbr-st-12g-1-2-gem-ball-clear.jpg"
+    "image": "assets/products/cbr-st-12g-1-2-gem-ball-clear/cbr-st-12g-1-2-gem-ball-clear.jpg",
+    "image_width": 466,
+    "image_height": 500,
+    "image_bytes": 25535,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/cbr-st-12g-1-2.html",
@@ -389,7 +497,11 @@
     "price": "$12.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/cbr-st-12g-1-2/cbr-st-12g-1-2.jpg"
+    "image": "assets/products/cbr-st-12g-1-2/cbr-st-12g-1-2.jpg",
+    "image_width": 906,
+    "image_height": 906,
+    "image_bytes": 52472,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/cbr-st-12g-3-8.html",
@@ -403,7 +515,11 @@
     "price": "$12.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/cbr-st-12g-3-8/cbr-st-12g-3-8.jpg"
+    "image": "assets/products/cbr-st-12g-3-8/cbr-st-12g-3-8.jpg",
+    "image_width": 466,
+    "image_height": 500,
+    "image_bytes": 25535,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/cbr-st-12g-5-8-1.html",
@@ -417,7 +533,11 @@
     "price": "$12.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/cbr-st-12g-5-8-1/cbr-st-12g-5-8-1.jpg"
+    "image": "assets/products/cbr-st-12g-5-8-1/cbr-st-12g-5-8-1.jpg",
+    "image_width": 466,
+    "image_height": 500,
+    "image_bytes": 25535,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/cbr-st-12g-5-8.html",
@@ -431,7 +551,11 @@
     "price": "$12.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/cbr-st-12g-5-8/cbr-st-12g-5-8.jpg"
+    "image": "assets/products/cbr-st-12g-5-8/cbr-st-12g-5-8.jpg",
+    "image_width": 906,
+    "image_height": 906,
+    "image_bytes": 52472,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/cbr-st-12g-7-16-1.html",
@@ -445,7 +569,11 @@
     "price": "$12.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/cbr-st-12g-7-16-1/cbr-st-12g-7-16-1.jpg"
+    "image": "assets/products/cbr-st-12g-7-16-1/cbr-st-12g-7-16-1.jpg",
+    "image_width": 466,
+    "image_height": 500,
+    "image_bytes": 25535,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/cbr-st-12g-7-16.html",
@@ -459,7 +587,11 @@
     "price": "$12.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/cbr-st-12g-7-16/cbr-st-12g-7-16.jpg"
+    "image": "assets/products/cbr-st-12g-7-16/cbr-st-12g-7-16.jpg",
+    "image_width": 906,
+    "image_height": 906,
+    "image_bytes": 52472,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/cbr-st-8g-1-2-gem-ball-clear.html",
@@ -473,7 +605,11 @@
     "price": "$12.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/cbr-st-8g-1-2-gem-ball-clear/cbr-st-8g-1-2-gem-ball-clear.jpg"
+    "image": "assets/products/cbr-st-8g-1-2-gem-ball-clear/cbr-st-8g-1-2-gem-ball-clear.jpg",
+    "image_width": 466,
+    "image_height": 500,
+    "image_bytes": 25535,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/clear-hit-1.html",
@@ -487,7 +623,11 @@
     "price": "$39.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/clear-hit-1/clear-hit-1.jpg"
+    "image": "assets/products/clear-hit-1/clear-hit-1.jpg",
+    "image_width": 500,
+    "image_height": 342,
+    "image_bytes": 45074,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/clear-hit.html",
@@ -501,7 +641,11 @@
     "price": "$19.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/clear-hit/clear-hit.jpg"
+    "image": "assets/products/clear-hit/clear-hit.jpg",
+    "image_width": 500,
+    "image_height": 300,
+    "image_bytes": 39772,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/copy-of-atmos-nail.html",
@@ -515,7 +659,11 @@
     "price": "$19.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/copy-of-atmos-nail/copy-of-atmos-nail.jpg"
+    "image": "assets/products/copy-of-atmos-nail/copy-of-atmos-nail.jpg",
+    "image_width": 1000,
+    "image_height": 668,
+    "image_bytes": 205875,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/copy-of-cbr-st-12g3-8.html",
@@ -529,7 +677,11 @@
     "price": "$12.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/copy-of-cbr-st-12g3-8/copy-of-cbr-st-12g3-8.jpg"
+    "image": "assets/products/copy-of-cbr-st-12g3-8/copy-of-cbr-st-12g3-8.jpg",
+    "image_width": 1000,
+    "image_height": 668,
+    "image_bytes": 205875,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/copy-of-glass-pipe.html",
@@ -543,7 +695,11 @@
     "price": "$16.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/copy-of-glass-pipe/copy-of-glass-pipe.jpg"
+    "image": "assets/products/copy-of-glass-pipe/copy-of-glass-pipe.jpg",
+    "image_width": 280,
+    "image_height": 500,
+    "image_bytes": 45917,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/detoxify-ever-clean.html",
@@ -557,7 +713,11 @@
     "price": "$74.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/detoxify-ever-clean/detoxify-ever-clean.jpeg"
+    "image": "assets/products/detoxify-ever-clean/detoxify-ever-clean.jpeg",
+    "image_width": 450,
+    "image_height": 450,
+    "image_bytes": 25251,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/detoxify-green-clean.html",
@@ -571,7 +731,11 @@
     "price": "$45.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/detoxify-green-clean/detoxify-green-clean.jpg"
+    "image": "assets/products/detoxify-green-clean/detoxify-green-clean.jpg",
+    "image_width": 1000,
+    "image_height": 1500,
+    "image_bytes": 222712,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/detoxify-instant-clean.html",
@@ -585,7 +749,11 @@
     "price": "$54.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/detoxify-instant-clean/detoxify-instant-clean.jpg"
+    "image": "assets/products/detoxify-instant-clean/detoxify-instant-clean.jpg",
+    "image_width": 1000,
+    "image_height": 1500,
+    "image_bytes": 222712,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/detoxify-mega-clean.html",
@@ -599,7 +767,11 @@
     "price": "$54.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/detoxify-mega-clean/detoxify-mega-clean.jpeg"
+    "image": "assets/products/detoxify-mega-clean/detoxify-mega-clean.jpeg",
+    "image_width": 225,
+    "image_height": 225,
+    "image_bytes": 14861,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/detoxify-mighty-clean.html",
@@ -613,7 +785,11 @@
     "price": "$74.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/detoxify-mighty-clean/detoxify-mighty-clean.jpeg"
+    "image": "assets/products/detoxify-mighty-clean/detoxify-mighty-clean.jpeg",
+    "image_width": 198,
+    "image_height": 198,
+    "image_bytes": 7380,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/detoxify-pre-cleanse-caps.html",
@@ -627,7 +803,11 @@
     "price": "$10.49",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/detoxify-pre-cleanse-caps/detoxify-pre-cleanse-caps.jpg"
+    "image": "assets/products/detoxify-pre-cleanse-caps/detoxify-pre-cleanse-caps.jpg",
+    "image_width": 1000,
+    "image_height": 1500,
+    "image_bytes": 222712,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/detoxify-ready-clean-grape-tropical-orange.html",
@@ -641,7 +821,11 @@
     "price": "$25.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/detoxify-ready-clean-grape-tropical-orange/detoxify-ready-clean-grape-tropical-orange.jpg"
+    "image": "assets/products/detoxify-ready-clean-grape-tropical-orange/detoxify-ready-clean-grape-tropical-orange.jpg",
+    "image_width": 1000,
+    "image_height": 1500,
+    "image_bytes": 222712,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/detoxify-xxtra-clean.html",
@@ -655,7 +839,11 @@
     "price": "$40.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/detoxify-xxtra-clean/detoxify-xxtra-clean.jpeg"
+    "image": "assets/products/detoxify-xxtra-clean/detoxify-xxtra-clean.jpeg",
+    "image_width": 225,
+    "image_height": 225,
+    "image_bytes": 19783,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/dr-dabber-switch.html",
@@ -669,7 +857,11 @@
     "price": "$499.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/dr-dabber-switch/dr-dabber-switch.jpg"
+    "image": "assets/products/dr-dabber-switch/dr-dabber-switch.jpg",
+    "image_width": 394,
+    "image_height": 234,
+    "image_bytes": 9017,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/dr-greens-cool-rinse-mouthwash.html",
@@ -683,7 +875,11 @@
     "price": "$29.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/dr-greens-cool-rinse-mouthwash/dr-greens-cool-rinse-mouthwash.jpeg"
+    "image": "assets/products/dr-greens-cool-rinse-mouthwash/dr-greens-cool-rinse-mouthwash.jpeg",
+    "image_width": 225,
+    "image_height": 225,
+    "image_bytes": 9449,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/dr-greens-field-kit.html",
@@ -697,7 +893,11 @@
     "price": "$64.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/dr-greens-field-kit/dr-greens-field-kit.jpeg"
+    "image": "assets/products/dr-greens-field-kit/dr-greens-field-kit.jpeg",
+    "image_width": 198,
+    "image_height": 198,
+    "image_bytes": 17309,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/e-cig-hibron-h10.html",
@@ -711,7 +911,11 @@
     "price": "$29.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/e-cig-hibron-h10/e-cig-hibron-h10.jpg"
+    "image": "assets/products/e-cig-hibron-h10/e-cig-hibron-h10.jpg",
+    "image_width": 1000,
+    "image_height": 668,
+    "image_bytes": 205875,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/e-pipe-mod.html",
@@ -725,7 +929,11 @@
     "price": "$25.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/e-pipe-mod/e-pipe-mod.jpg"
+    "image": "assets/products/e-pipe-mod/e-pipe-mod.jpg",
+    "image_width": 1000,
+    "image_height": 1500,
+    "image_bytes": 390597,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/evolve-d-dry-herb-pen-from-yocan.html",
@@ -739,7 +947,11 @@
     "price": "$39.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/evolve-d-dry-herb-pen-from-yocan/evolve-d-dry-herb-pen-from-yocan.jpg"
+    "image": "assets/products/evolve-d-dry-herb-pen-from-yocan/evolve-d-dry-herb-pen-from-yocan.jpg",
+    "image_width": 280,
+    "image_height": 500,
+    "image_bytes": 26291,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/g-pen-slim-quartz.html",
@@ -753,7 +965,11 @@
     "price": "$22.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/g-pen-slim-quartz/g-pen-slim-quartz.jpg"
+    "image": "assets/products/g-pen-slim-quartz/g-pen-slim-quartz.jpg",
+    "image_width": 281,
+    "image_height": 500,
+    "image_bytes": 36763,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/glass-pipe-1.html",
@@ -767,7 +983,11 @@
     "price": "$14.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/glass-pipe-1/glass-pipe-1.jpg"
+    "image": "assets/products/glass-pipe-1/glass-pipe-1.jpg",
+    "image_width": 280,
+    "image_height": 500,
+    "image_bytes": 53145,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/glass-pipe-2.html",
@@ -781,7 +1001,11 @@
     "price": "$12.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/glass-pipe-2/glass-pipe-2.jpg"
+    "image": "assets/products/glass-pipe-2/glass-pipe-2.jpg",
+    "image_width": 500,
+    "image_height": 280,
+    "image_bytes": 50279,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/glass-pipe.html",
@@ -795,7 +1019,11 @@
     "price": "$12.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/glass-pipe/glass-pipe.jpg"
+    "image": "assets/products/glass-pipe/glass-pipe.jpg",
+    "image_width": 500,
+    "image_height": 280,
+    "image_bytes": 52495,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/grinder-rasta.html",
@@ -809,7 +1037,11 @@
     "price": "$12.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/grinder-rasta/grinder-rasta.jpg"
+    "image": "assets/products/grinder-rasta/grinder-rasta.jpg",
+    "image_width": 280,
+    "image_height": 500,
+    "image_bytes": 41277,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/grinder-sm-metal.html",
@@ -823,7 +1055,11 @@
     "price": "$7.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/grinder-sm-metal/grinder-sm-metal.jpg"
+    "image": "assets/products/grinder-sm-metal/grinder-sm-metal.jpg",
+    "image_width": 280,
+    "image_height": 500,
+    "image_bytes": 35888,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/grinder-sm-plastic.html",
@@ -837,7 +1073,11 @@
     "price": "$6.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/grinder-sm-plastic/grinder-sm-plastic.jpg"
+    "image": "assets/products/grinder-sm-plastic/grinder-sm-plastic.jpg",
+    "image_width": 280,
+    "image_height": 500,
+    "image_bytes": 52665,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/grinder.html",
@@ -851,7 +1091,11 @@
     "price": "$16.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/grinder/grinder.jpg"
+    "image": "assets/products/grinder/grinder.jpg",
+    "image_width": 280,
+    "image_height": 500,
+    "image_bytes": 40882,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/high-voltage-2-pk-32-oz.html",
@@ -865,7 +1109,11 @@
     "price": "$39.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/high-voltage-2-pk-32-oz/high-voltage-2-pk-32-oz.jpg"
+    "image": "assets/products/high-voltage-2-pk-32-oz/high-voltage-2-pk-32-oz.jpg",
+    "image_width": 500,
+    "image_height": 500,
+    "image_bytes": 101390,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/high-voltage-double-flush.html",
@@ -879,7 +1127,11 @@
     "price": "$39.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/high-voltage-double-flush/high-voltage-double-flush.jpg"
+    "image": "assets/products/high-voltage-double-flush/high-voltage-double-flush.jpg",
+    "image_width": 198,
+    "image_height": 198,
+    "image_bytes": 21437,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/high-voltage-mouthwash.html",
@@ -893,7 +1145,11 @@
     "price": "$29.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/high-voltage-mouthwash/high-voltage-mouthwash.jpg"
+    "image": "assets/products/high-voltage-mouthwash/high-voltage-mouthwash.jpg",
+    "image_width": 480,
+    "image_height": 480,
+    "image_bytes": 46897,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/high-voltage-permanent-tropical-5-day-cleanse.html",
@@ -907,7 +1163,11 @@
     "price": "$69.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/high-voltage-permanent-tropical-5-day-cleanse/high-voltage-permanent-tropical-5-day-cleanse.jpg"
+    "image": "assets/products/high-voltage-permanent-tropical-5-day-cleanse/high-voltage-permanent-tropical-5-day-cleanse.jpg",
+    "image_width": 366,
+    "image_height": 500,
+    "image_bytes": 65583,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/high-voltage-regular-strength-16-oz.html",
@@ -921,7 +1181,11 @@
     "price": "$24.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/high-voltage-regular-strength-16-oz/high-voltage-regular-strength-16-oz.jpg"
+    "image": "assets/products/high-voltage-regular-strength-16-oz/high-voltage-regular-strength-16-oz.jpg",
+    "image_width": 198,
+    "image_height": 198,
+    "image_bytes": 19011,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/high-voltage-shampoo.html",
@@ -935,7 +1199,11 @@
     "price": "$35.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/high-voltage-shampoo/high-voltage-shampoo.jpeg"
+    "image": "assets/products/high-voltage-shampoo/high-voltage-shampoo.jpeg",
+    "image_width": 198,
+    "image_height": 198,
+    "image_bytes": 14646,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/high-voltage-xl-shot.html",
@@ -949,7 +1217,11 @@
     "price": "$44.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/high-voltage-xl-shot/high-voltage-xl-shot.jpg"
+    "image": "assets/products/high-voltage-xl-shot/high-voltage-xl-shot.jpg",
+    "image_width": 500,
+    "image_height": 500,
+    "image_bytes": 90172,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/hip-vape.html",
@@ -963,7 +1235,11 @@
     "price": "$100.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/hip-vape/hip-vape.jpg"
+    "image": "assets/products/hip-vape/hip-vape.jpg",
+    "image_width": 1000,
+    "image_height": 1000,
+    "image_bytes": 151001,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/hookah-coals.html",
@@ -977,7 +1253,11 @@
     "price": "$3.49",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/hookah-coals/hookah-coals.jpg"
+    "image": "assets/products/hookah-coals/hookah-coals.jpg",
+    "image_width": 420,
+    "image_height": 500,
+    "image_bytes": 96392,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/i-o-lite-vaporizer.html",
@@ -991,7 +1271,11 @@
     "price": "$50.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/i-o-lite-vaporizer/i-o-lite-vaporizer.jpg"
+    "image": "assets/products/i-o-lite-vaporizer/i-o-lite-vaporizer.jpg",
+    "image_width": 500,
+    "image_height": 251,
+    "image_bytes": 39396,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/just-chill-jungle.html",
@@ -1005,7 +1289,11 @@
     "price": "$39.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/just-chill-jungle/just-chill-jungle.jpg"
+    "image": "assets/products/just-chill-jungle/just-chill-jungle.jpg",
+    "image_width": 1000,
+    "image_height": 668,
+    "image_bytes": 205875,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/just-chill-strawberry.html",
@@ -1019,7 +1307,11 @@
     "price": "$39.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/just-chill-strawberry/just-chill-strawberry.jpg"
+    "image": "assets/products/just-chill-strawberry/just-chill-strawberry.jpg",
+    "image_width": 1000,
+    "image_height": 668,
+    "image_bytes": 205875,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/k-stick-supreme.html",
@@ -1033,7 +1325,11 @@
     "price": "$26.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/k-stick-supreme/k-stick-supreme.jpg"
+    "image": "assets/products/k-stick-supreme/k-stick-supreme.jpg",
+    "image_width": 281,
+    "image_height": 500,
+    "image_bytes": 47907,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/kamry-30-box.html",
@@ -1047,7 +1343,11 @@
     "price": "$40.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/kamry-30-box/kamry-30-box.jpeg"
+    "image": "assets/products/kamry-30-box/kamry-30-box.jpeg",
+    "image_width": 281,
+    "image_height": 500,
+    "image_bytes": 24673,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/levo-ii.html",
@@ -1061,7 +1361,11 @@
     "price": "$260.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/levo-ii/levo-ii.png"
+    "image": "assets/products/levo-ii/levo-ii.png",
+    "image_width": 350,
+    "image_height": 350,
+    "image_bytes": 69625,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/metal-pipe.html",
@@ -1075,7 +1379,11 @@
     "price": "$11.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/metal-pipe/metal-pipe.jpg"
+    "image": "assets/products/metal-pipe/metal-pipe.jpg",
+    "image_width": 280,
+    "image_height": 500,
+    "image_bytes": 38427,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/mini-2-hose-hookah.html",
@@ -1089,7 +1397,11 @@
     "price": "$21.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/mini-2-hose-hookah/mini-2-hose-hookah.jpg"
+    "image": "assets/products/mini-2-hose-hookah/mini-2-hose-hookah.jpg",
+    "image_width": 280,
+    "image_height": 500,
+    "image_bytes": 54391,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/nail-crown-silk-lblue.html",
@@ -1103,7 +1415,11 @@
     "price": "$19.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/nail-crown-silk-lblue/nail-crown-silk-lblue.jpg"
+    "image": "assets/products/nail-crown-silk-lblue/nail-crown-silk-lblue.jpg",
+    "image_width": 1000,
+    "image_height": 668,
+    "image_bytes": 205875,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/naked-vape-juice.html",
@@ -1117,7 +1433,11 @@
     "price": "$19.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/naked-vape-juice/naked-vape-juice.jpg"
+    "image": "assets/products/naked-vape-juice/naked-vape-juice.jpg",
+    "image_width": 280,
+    "image_height": 500,
+    "image_bytes": 35709,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/nano-nbw-waxy-kit.html",
@@ -1131,7 +1451,11 @@
     "price": "$19.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/nano-nbw-waxy-kit/nano-nbw-waxy-kit.jpg"
+    "image": "assets/products/nano-nbw-waxy-kit/nano-nbw-waxy-kit.jpg",
+    "image_width": 281,
+    "image_height": 500,
+    "image_bytes": 53210,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/p-sure.html",
@@ -1145,7 +1469,11 @@
     "price": "$29.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/p-sure/p-sure.png"
+    "image": "assets/products/p-sure/p-sure.png",
+    "image_width": 353,
+    "image_height": 500,
+    "image_bytes": 328980,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/pax-3.html",
@@ -1159,7 +1487,11 @@
     "price": "$274.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/pax-3/pax-3.jpg"
+    "image": "assets/products/pax-3/pax-3.jpg",
+    "image_width": 420,
+    "image_height": 500,
+    "image_bytes": 31805,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/phoenix-drip-tip.html",
@@ -1173,7 +1505,11 @@
     "price": "$12.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/phoenix-drip-tip/phoenix-drip-tip.jpeg"
+    "image": "assets/products/phoenix-drip-tip/phoenix-drip-tip.jpeg",
+    "image_width": 281,
+    "image_height": 500,
+    "image_bytes": 29461,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/plastic-grinder.html",
@@ -1187,7 +1523,11 @@
     "price": "$10.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/plastic-grinder/plastic-grinder.jpg"
+    "image": "assets/products/plastic-grinder/plastic-grinder.jpg",
+    "image_width": 280,
+    "image_height": 500,
+    "image_bytes": 57968,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/q-carbo-32.html",
@@ -1201,7 +1541,11 @@
     "price": "$39.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/q-carbo-32/q-carbo-32.jpg"
+    "image": "assets/products/q-carbo-32/q-carbo-32.jpg",
+    "image_width": 280,
+    "image_height": 500,
+    "image_bytes": 45271,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/randy-aqua-pilot.html",
@@ -1215,7 +1559,11 @@
     "price": "$130.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/randy-aqua-pilot/randy-aqua-pilot.jpg"
+    "image": "assets/products/randy-aqua-pilot/randy-aqua-pilot.jpg",
+    "image_width": 1000,
+    "image_height": 668,
+    "image_bytes": 205875,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/raw-classic-artesano-1.html",
@@ -1229,7 +1577,11 @@
     "price": "$4.50",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/raw-classic-artesano-1/raw-classic-artesano-1.png"
+    "image": "assets/products/raw-classic-artesano-1/raw-classic-artesano-1.png",
+    "image_width": 493,
+    "image_height": 327,
+    "image_bytes": 386938,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/raw-classic-king-size-rolls.html",
@@ -1243,7 +1595,11 @@
     "price": "$3.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/raw-classic-king-size-rolls/raw-classic-king-size-rolls.png"
+    "image": "assets/products/raw-classic-king-size-rolls/raw-classic-king-size-rolls.png",
+    "image_width": 500,
+    "image_height": 280,
+    "image_bytes": 335182,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/raw-classic-kingsize-slim.html",
@@ -1257,7 +1613,11 @@
     "price": "$2.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/raw-classic-kingsize-slim/raw-classic-kingsize-slim.png"
+    "image": "assets/products/raw-classic-kingsize-slim/raw-classic-kingsize-slim.png",
+    "image_width": 500,
+    "image_height": 125,
+    "image_bytes": 135625,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/raw-classic-single-wide.html",
@@ -1271,7 +1631,11 @@
     "price": "$2.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/raw-classic-single-wide/raw-classic-single-wide.png"
+    "image": "assets/products/raw-classic-single-wide/raw-classic-single-wide.png",
+    "image_width": 445,
+    "image_height": 268,
+    "image_bytes": 240773,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/raw-hemp-plastic-roller.html",
@@ -1285,7 +1649,11 @@
     "price": "$7.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/raw-hemp-plastic-roller/raw-hemp-plastic-roller.png"
+    "image": "assets/products/raw-hemp-plastic-roller/raw-hemp-plastic-roller.png",
+    "image_width": 459,
+    "image_height": 352,
+    "image_bytes": 326729,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/raw-hemp-wick-10ft.html",
@@ -1299,7 +1667,11 @@
     "price": "$1.75",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/raw-hemp-wick-10ft/raw-hemp-wick-10ft.png"
+    "image": "assets/products/raw-hemp-wick-10ft/raw-hemp-wick-10ft.png",
+    "image_width": 435,
+    "image_height": 387,
+    "image_bytes": 282094,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/raw-organic-hemp-1.html",
@@ -1313,7 +1685,11 @@
     "price": "$2.69",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/raw-organic-hemp-1/raw-organic-hemp-1.png"
+    "image": "assets/products/raw-organic-hemp-1/raw-organic-hemp-1.png",
+    "image_width": 495,
+    "image_height": 169,
+    "image_bytes": 165914,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/raw-pre-rolled-tips.html",
@@ -1327,7 +1703,11 @@
     "price": "$1.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/raw-pre-rolled-tips/raw-pre-rolled-tips.png"
+    "image": "assets/products/raw-pre-rolled-tips/raw-pre-rolled-tips.png",
+    "image_width": 446,
+    "image_height": 403,
+    "image_bytes": 385351,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/raw-rolling-mat.html",
@@ -1341,7 +1721,11 @@
     "price": "$2.49",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/raw-rolling-mat/raw-rolling-mat.png"
+    "image": "assets/products/raw-rolling-mat/raw-rolling-mat.png",
+    "image_width": 500,
+    "image_height": 143,
+    "image_bytes": 103317,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/small-glass-pipe.html",
@@ -1355,7 +1739,11 @@
     "price": "$9.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/small-glass-pipe/small-glass-pipe.jpg"
+    "image": "assets/products/small-glass-pipe/small-glass-pipe.jpg",
+    "image_width": 280,
+    "image_height": 500,
+    "image_bytes": 41686,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/snail-lookah.html",
@@ -1369,7 +1757,11 @@
     "price": "$19.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/snail-lookah/snail-lookah.jpg"
+    "image": "assets/products/snail-lookah/snail-lookah.jpg",
+    "image_width": 375,
+    "image_height": 500,
+    "image_bytes": 37844,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/stat-1-hr-flush-caps.html",
@@ -1383,7 +1775,11 @@
     "price": "$40.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/stat-1-hr-flush-caps/stat-1-hr-flush-caps.jpg"
+    "image": "assets/products/stat-1-hr-flush-caps/stat-1-hr-flush-caps.jpg",
+    "image_width": 1000,
+    "image_height": 668,
+    "image_bytes": 205875,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/studs.html",
@@ -1397,7 +1793,11 @@
     "price": "$14.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/studs/studs.jpg"
+    "image": "assets/products/studs/studs.jpg",
+    "image_width": 500,
+    "image_height": 484,
+    "image_bytes": 89048,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/the-yocan-evolve-dual-quartz-wax-pen.html",
@@ -1411,7 +1811,11 @@
     "price": "$39.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/the-yocan-evolve-dual-quartz-wax-pen/the-yocan-evolve-dual-quartz-wax-pen.jpg"
+    "image": "assets/products/the-yocan-evolve-dual-quartz-wax-pen/the-yocan-evolve-dual-quartz-wax-pen.jpg",
+    "image_width": 500,
+    "image_height": 454,
+    "image_bytes": 54392,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/the-yocan-evolve-plus.html",
@@ -1425,7 +1829,11 @@
     "price": "$49.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/the-yocan-evolve-plus/the-yocan-evolve-plus.jpg"
+    "image": "assets/products/the-yocan-evolve-plus/the-yocan-evolve-plus.jpg",
+    "image_width": 389,
+    "image_height": 500,
+    "image_bytes": 50300,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/ultra-eliminex.html",
@@ -1439,7 +1847,11 @@
     "price": "$65.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/ultra-eliminex/ultra-eliminex.jpg"
+    "image": "assets/products/ultra-eliminex/ultra-eliminex.jpg",
+    "image_width": 267,
+    "image_height": 500,
+    "image_bytes": 41841,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/vapir-oxygen-w-battery.html",
@@ -1453,7 +1865,11 @@
     "price": "$35.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/vapir-oxygen-w-battery/vapir-oxygen-w-battery.png"
+    "image": "assets/products/vapir-oxygen-w-battery/vapir-oxygen-w-battery.png",
+    "image_width": 500,
+    "image_height": 357,
+    "image_bytes": 327593,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/vaporizer-arizer-solo.html",
@@ -1467,7 +1883,11 @@
     "price": "$180.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/vaporizer-arizer-solo/vaporizer-arizer-solo.jpeg"
+    "image": "assets/products/vaporizer-arizer-solo/vaporizer-arizer-solo.jpeg",
+    "image_width": 281,
+    "image_height": 500,
+    "image_bytes": 30708,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/vitacig.html",
@@ -1481,7 +1901,11 @@
     "price": "$3.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/vitacig/vitacig.jpg"
+    "image": "assets/products/vitacig/vitacig.jpg",
+    "image_width": 227,
+    "image_height": 302,
+    "image_bytes": 11955,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/wp-sillicon-1.html",
@@ -1495,7 +1919,11 @@
     "price": "$19.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/wp-sillicon-1/wp-sillicon-1.jpg"
+    "image": "assets/products/wp-sillicon-1/wp-sillicon-1.jpg",
+    "image_width": 375,
+    "image_height": 500,
+    "image_bytes": 45093,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/wp-sillicon-10-geometric.html",
@@ -1509,7 +1937,11 @@
     "price": "$42.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/wp-sillicon-10-geometric/wp-sillicon-10-geometric.jpg"
+    "image": "assets/products/wp-sillicon-10-geometric/wp-sillicon-10-geometric.jpg",
+    "image_width": 469,
+    "image_height": 500,
+    "image_bytes": 75275,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/wp-sillicon-2.html",
@@ -1523,7 +1955,11 @@
     "price": "$19.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/wp-sillicon-2/wp-sillicon-2.jpg"
+    "image": "assets/products/wp-sillicon-2/wp-sillicon-2.jpg",
+    "image_width": 375,
+    "image_height": 500,
+    "image_bytes": 49214,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/wp-sillicon-elephant.html",
@@ -1537,7 +1973,11 @@
     "price": "$19.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/wp-sillicon-elephant/wp-sillicon-elephant.jpg"
+    "image": "assets/products/wp-sillicon-elephant/wp-sillicon-elephant.jpg",
+    "image_width": 500,
+    "image_height": 414,
+    "image_bytes": 61535,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/wp-sillicon-glow.html",
@@ -1551,7 +1991,11 @@
     "price": "$50.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/wp-sillicon-glow/wp-sillicon-glow.jpg"
+    "image": "assets/products/wp-sillicon-glow/wp-sillicon-glow.jpg",
+    "image_width": 375,
+    "image_height": 500,
+    "image_bytes": 49720,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/wp-sillicon-heart.html",
@@ -1565,7 +2009,11 @@
     "price": "$19.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/wp-sillicon-heart/wp-sillicon-heart.jpg"
+    "image": "assets/products/wp-sillicon-heart/wp-sillicon-heart.jpg",
+    "image_width": 375,
+    "image_height": 500,
+    "image_bytes": 47465,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/wp-sillicon-jar.html",
@@ -1579,7 +2027,11 @@
     "price": "$3.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/wp-sillicon-jar/wp-sillicon-jar.jpg"
+    "image": "assets/products/wp-sillicon-jar/wp-sillicon-jar.jpg",
+    "image_width": 375,
+    "image_height": 500,
+    "image_bytes": 39640,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/wp-sillicon-l-n-monster.html",
@@ -1593,7 +2045,11 @@
     "price": "$24.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/wp-sillicon-l-n-monster/wp-sillicon-l-n-monster.jpg"
+    "image": "assets/products/wp-sillicon-l-n-monster/wp-sillicon-l-n-monster.jpg",
+    "image_width": 375,
+    "image_height": 500,
+    "image_bytes": 46364,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/wp-sillicon-pad.html",
@@ -1607,7 +2063,11 @@
     "price": "$19.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/wp-sillicon-pad/wp-sillicon-pad.jpg"
+    "image": "assets/products/wp-sillicon-pad/wp-sillicon-pad.jpg",
+    "image_width": 500,
+    "image_height": 500,
+    "image_bytes": 107923,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/wp-sillicon-pipe-metal.html",
@@ -1621,7 +2081,11 @@
     "price": "$12.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/wp-sillicon-pipe-metal/wp-sillicon-pipe-metal.jpg"
+    "image": "assets/products/wp-sillicon-pipe-metal/wp-sillicon-pipe-metal.jpg",
+    "image_width": 227,
+    "image_height": 302,
+    "image_bytes": 6966,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/wp-sillicon-pumpkin.html",
@@ -1635,7 +2099,11 @@
     "price": "$25.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/wp-sillicon-pumpkin/wp-sillicon-pumpkin.jpg"
+    "image": "assets/products/wp-sillicon-pumpkin/wp-sillicon-pumpkin.jpg",
+    "image_width": 307,
+    "image_height": 500,
+    "image_bytes": 49304,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/wp-sillicon-rasta.html",
@@ -1649,7 +2117,11 @@
     "price": "$42.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/wp-sillicon-rasta/wp-sillicon-rasta.jpg"
+    "image": "assets/products/wp-sillicon-rasta/wp-sillicon-rasta.jpg",
+    "image_width": 375,
+    "image_height": 500,
+    "image_bytes": 59742,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/wp-sillicon-riffle.html",
@@ -1663,7 +2135,11 @@
     "price": "$9.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/wp-sillicon-riffle/wp-sillicon-riffle.jpg"
+    "image": "assets/products/wp-sillicon-riffle/wp-sillicon-riffle.jpg",
+    "image_width": 375,
+    "image_height": 500,
+    "image_bytes": 59278,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/wp-sillicon-skull-pink.html",
@@ -1677,7 +2153,11 @@
     "price": "$42.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/wp-sillicon-skull-pink/wp-sillicon-skull-pink.jpg"
+    "image": "assets/products/wp-sillicon-skull-pink/wp-sillicon-skull-pink.jpg",
+    "image_width": 253,
+    "image_height": 500,
+    "image_bytes": 45339,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/wp-sillicon-skull.html",
@@ -1691,7 +2171,11 @@
     "price": "$42.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/wp-sillicon-skull/wp-sillicon-skull.jpg"
+    "image": "assets/products/wp-sillicon-skull/wp-sillicon-skull.jpg",
+    "image_width": 375,
+    "image_height": 500,
+    "image_bytes": 44679,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/wp-sillicon.html",
@@ -1705,7 +2189,11 @@
     "price": "$19.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/wp-sillicon/wp-sillicon.jpg"
+    "image": "assets/products/wp-sillicon/wp-sillicon.jpg",
+    "image_width": 375,
+    "image_height": 500,
+    "image_bytes": 49163,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/yocan-nyx.html",
@@ -1719,7 +2207,11 @@
     "price": "$18.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/yocan-nyx/yocan-nyx.jpeg"
+    "image": "assets/products/yocan-nyx/yocan-nyx.jpeg",
+    "image_width": 500,
+    "image_height": 281,
+    "image_bytes": 24398,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/zydot-shampoo.html",
@@ -1733,6 +2225,10 @@
     "price": "$35.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/zydot-shampoo/zydot-shampoo.jpeg"
+    "image": "assets/products/zydot-shampoo/zydot-shampoo.jpeg",
+    "image_width": 194,
+    "image_height": 259,
+    "image_bytes": 10775,
+    "image_source_status": "local"
   }
 ]

@@ -149,12 +149,12 @@
         .map(
           (group) => `
             <article class="service-record is-visible">
-              <span>${escapeHtml(group.pages.length)} route${group.pages.length === 1 ? "" : "s"}</span>
+              <span>${escapeHtml(group.pages.length)} page${group.pages.length === 1 ? "" : "s"}</span>
               <h3>${escapeHtml(group.category)}</h3>
               <p>${escapeHtml(group.pages[0].excerpt)}</p>
               <div class="route-pills">
                 ${group.pages
-                  .map((page) => `<a href="${escapeHtml(rebuildPath(page.destinationPath))}">${escapeHtml(page.route)}</a>`)
+                  .map((page) => `<a href="${escapeHtml(rebuildPath(page.destinationPath))}">${escapeHtml(page.title)}</a>`)
                   .join("")}
               </div>
             </article>
@@ -264,7 +264,7 @@
         ? products
         .map(
           (product) => `
-            <article class="product-card hover-lift is-visible" data-category="${escapeHtml(normalizeKey(product.category))}">
+            <a class="product-card hover-lift is-visible" data-category="${escapeHtml(normalizeKey(product.category))}" href="${escapeHtml(rebuildPath(product.destinationPath))}">
               <img src="${escapeHtml(assetPath(product.image))}" alt="${escapeHtml(product.title)}" loading="lazy" />
               <div>
                 <span>${escapeHtml(CATEGORY_LABELS[product.category] || product.categoryLabel)}</span>
@@ -272,10 +272,10 @@
                 <p>${escapeHtml(product.excerpt)}</p>
                 <div class="card-meta">
                   <strong>${escapeHtml(product.price)}</strong>
-                  <a href="${escapeHtml(rebuildPath(product.destinationPath))}">Details</a>
+                  <span class="details-link">Details</span>
                 </div>
               </div>
-            </article>
+            </a>
           `
         )
         .join("")

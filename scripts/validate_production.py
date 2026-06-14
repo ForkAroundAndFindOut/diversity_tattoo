@@ -3,6 +3,7 @@ from __future__ import annotations
 import json
 import re
 import sys
+import struct
 from collections import Counter
 from pathlib import Path
 from urllib.parse import urlparse
@@ -12,6 +13,14 @@ ROOT = Path(__file__).resolve().parents[1]
 PUBLIC_DIR = ROOT / "public"
 REPORT_PATH = ROOT / "production-readiness.txt"
 NOINDEX_LEDGER_PATH = ROOT / "noindex-ledger.json"
+MIN_PRODUCT_IMAGE_EDGE = 180
+MIN_PRODUCT_SLIM_IMAGE_EDGE = 120
+MIN_PRODUCT_SLIM_IMAGE_LONG_EDGE = 360
+MIN_PRODUCT_SLIM_IMAGE_AREA = 45000
+MIN_BLOG_IMAGE_EDGE = 180
+MIN_BLOG_BODY_CHARS = 120
+BLOG_NAVIGATION_TEXT = "All Posts Getting Started Your Community Search"
+BLOG_SIDEBAR_TEXT = "Recent Posts See All"
 
 REQUIRED_FILES = [
     "index.html",
@@ -67,6 +76,9 @@ FORBIDDEN_COPY_PATTERNS = [
         r"\bmedia risk",
         r"\broute ledger\b",
         r"\bshould become\b",
+        r"\bLegacy source\b",
+        r"\bOlder category URLs\b",
+        re.escape(BLOG_SIDEBAR_TEXT),
     ]
 ]
 
@@ -170,6 +182,66 @@ def load_site_data() -> dict:
     if not text.startswith(prefix):
         return {}
     return json.loads(text[len(prefix) :].rstrip().rstrip(";"))
+
+
+def image_size(path: Path) -> tuple[int, int]:
+    try:
+        data = path.read_bytes()
+    except OSError:
+        return (0, 0)
+    if len(data) < 24:
+        return (0, 0)
+    if data.startswith(b"\x89PNG\r\n\x1a\n"):
+        return struct.unpack(">II", data[16:24])
+    if data[:2] == b"\xff\xd8":
+        offset = 2
+        while offset + 9 < len(data):
+            if data[offset] != 0xFF:
+                offset += 1
+                continue
+            marker = data[offset + 1]
+            offset += 2
+            if marker in {0xD8, 0xD9}:
+                continue
+            if offset + 2 > len(data):
+                break
+            length = struct.unpack(">H", data[offset : offset + 2])[0]
+            if length < 2 or offset + length > len(data):
+                break
+            if marker in {0xC0, 0xC1, 0xC2, 0xC3, 0xC5, 0xC6, 0xC7, 0xC9, 0xCA, 0xCB, 0xCD, 0xCE, 0xCF}:
+                height = struct.unpack(">H", data[offset + 3 : offset + 5])[0]
+                width = struct.unpack(">H", data[offset + 5 : offset + 7])[0]
+                return (width, height)
+            offset += length
+    if data.startswith(b"RIFF") and data[8:12] == b"WEBP":
+        chunk = data[12:16]
+        if chunk == b"VP8X" and len(data) >= 30:
+            return (1 + int.from_bytes(data[24:27], "little"), 1 + int.from_bytes(data[27:30], "little"))
+        if chunk == b"VP8L" and len(data) >= 25:
+            bits = int.from_bytes(data[21:25], "little")
+            return (1 + (bits & 0x3FFF), 1 + ((bits >> 14) & 0x3FFF))
+        if chunk == b"VP8 " and len(data) >= 30:
+            return (struct.unpack("<H", data[26:28])[0] & 0x3FFF, struct.unpack("<H", data[28:30])[0] & 0x3FFF)
+    return (0, 0)
+
+
+def image_meets_quality(
+    width: int,
+    height: int,
+    min_edge: int,
+    *,
+    slim_min_edge: int = 0,
+    slim_min_long_edge: int = 0,
+    slim_min_area: int = 0,
+) -> bool:
+    if min(width, height) >= min_edge:
+        return True
+    return bool(
+        slim_min_edge
+        and min(width, height) >= slim_min_edge
+        and max(width, height) >= slim_min_long_edge
+        and width * height >= slim_min_area
+    )
 
 
 def product_image_exceptions() -> set[str]:
@@ -307,6 +379,7 @@ def validate() -> tuple[bool, list[str], list[str]]:
     missing_product_images: list[str] = []
     missing_product_slugs = 0
     non_product_specific_images: list[str] = []
+    low_resolution_product_images: list[str] = []
     for product in products:
         slug = product_slug(product)
         if not slug:
@@ -319,6 +392,18 @@ def validate() -> tuple[bool, list[str], list[str]]:
             non_product_specific_images.append(slug)
         if "assets/static.wixstatic.com/" in image and slug not in exceptions:
             category_fallbacks[image] += 1
+        image_path = PUBLIC_DIR / image
+        if image and image_path.exists() and slug not in exceptions:
+            width, height = image_size(image_path)
+            if not image_meets_quality(
+                width,
+                height,
+                MIN_PRODUCT_IMAGE_EDGE,
+                slim_min_edge=MIN_PRODUCT_SLIM_IMAGE_EDGE,
+                slim_min_long_edge=MIN_PRODUCT_SLIM_IMAGE_LONG_EDGE,
+                slim_min_area=MIN_PRODUCT_SLIM_IMAGE_AREA,
+            ):
+                low_resolution_product_images.append(f"{slug} ({width}x{height})")
     if missing_product_slugs:
         errors.append(f"products missing derivable slugs: {missing_product_slugs}")
     if missing_product_images:
@@ -333,6 +418,12 @@ def validate() -> tuple[bool, list[str], list[str]]:
             "product-specific media gate failed: product image paths still look like shared/category fallback assets "
             f"({sum(category_fallbacks.values())} products)"
         )
+    if low_resolution_product_images:
+        errors.append(
+            f"product image quality gate failed: {len(low_resolution_product_images)} product images below accepted "
+            "resolution thresholds"
+        )
+        warnings.extend(f"{item} :: low-resolution product image" for item in low_resolution_product_images[:30])
 
     searchable_files = [
         path
@@ -396,13 +487,50 @@ def validate() -> tuple[bool, list[str], list[str]]:
     guide_records = site_data.get("guides", []) if isinstance(site_data, dict) else []
     blog_posts = [item for item in guide_records if item.get("type") == "blog_post"]
     missing_blog_posts: list[str] = []
+    thin_blog_posts: list[str] = []
+    noisy_blog_posts: list[str] = []
+    missing_blog_images: list[str] = []
+    low_resolution_blog_images: list[str] = []
     for post in blog_posts:
         slug = source_slug(post)
         if slug and not (PUBLIC_DIR / "blog" / f"{slug}.html").exists():
             missing_blog_posts.append(slug)
+        body = str(post.get("body", ""))
+        if len(body) < MIN_BLOG_BODY_CHARS:
+            thin_blog_posts.append(slug or str(post.get("title", "")))
+        if BLOG_NAVIGATION_TEXT in body or BLOG_NAVIGATION_TEXT in str(post.get("excerpt", "")):
+            noisy_blog_posts.append(slug or str(post.get("title", "")))
+        image = str(post.get("image", ""))
+        image_path = PUBLIC_DIR / image
+        if not image or not image_path.exists():
+            missing_blog_images.append(slug or str(post.get("title", "")))
+        elif image.startswith("assets/"):
+            width, height = image_size(image_path)
+            if min(width, height) < MIN_BLOG_IMAGE_EDGE:
+                low_resolution_blog_images.append(f"{slug} ({width}x{height})")
     if missing_blog_posts:
         errors.append(f"canonical blog post pages missing from /blog/: {len(missing_blog_posts)}")
         warnings.extend(f"blog/{slug}.html :: missing canonical blog post" for slug in missing_blog_posts[:30])
+    if thin_blog_posts:
+        errors.append(f"blog content quality gate failed: {len(thin_blog_posts)} posts have thin extracted bodies")
+        warnings.extend(f"{slug} :: thin blog body" for slug in thin_blog_posts[:30])
+    if noisy_blog_posts:
+        errors.append(f"blog content quality gate failed: {len(noisy_blog_posts)} posts still contain navigation text")
+        warnings.extend(f"{slug} :: blog navigation text leaked into body/excerpt" for slug in noisy_blog_posts[:30])
+    if missing_blog_images:
+        errors.append(f"blog image gate failed: {len(missing_blog_images)} posts have missing image paths")
+        warnings.extend(f"{slug} :: missing blog image" for slug in missing_blog_images[:30])
+    if low_resolution_blog_images:
+        errors.append(
+            f"blog image quality gate failed: {len(low_resolution_blog_images)} blog images below "
+            f"{MIN_BLOG_IMAGE_EDGE}px on one edge"
+        )
+        warnings.extend(f"{item} :: low-resolution blog image" for item in low_resolution_blog_images[:30])
+
+    renderer = PUBLIC_DIR / "content-render.js"
+    renderer_text = renderer.read_text(encoding="utf-8", errors="ignore") if renderer.exists() else ""
+    if 'class="product-card hover-lift is-visible"' not in renderer_text or 'href="${escapeHtml(rebuildPath(product.destinationPath))}"' not in renderer_text:
+        errors.append("product card click contract failed: product-card is not rendered as a full-card link")
 
     missing_shop_markers = [
         name for name, markers in SHOP_REQUIRED_MARKERS.items() if not any(marker in combined_public_text for marker in markers)

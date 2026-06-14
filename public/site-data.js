@@ -87,7 +87,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Detox / Cleanses",
       "price": "$34.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 217,
+      "imageHeight": 300,
+      "imageBytes": 24465,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "ASCENT OIL JARS",
@@ -99,7 +103,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Other Products",
       "price": "$14.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 1000,
+      "imageHeight": 668,
+      "imageBytes": 205875,
+      "imageSourceStatus": "local"
     },
     {
       "title": "ASCENTST G/ADAPTER",
@@ -111,7 +119,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Other Products",
       "price": "$29.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 1000,
+      "imageHeight": 668,
+      "imageBytes": 205875,
+      "imageSourceStatus": "local"
     },
     {
       "title": "ASCENTST U/ADAPTER",
@@ -123,7 +135,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Other Products",
       "price": "$42.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 1000,
+      "imageHeight": 668,
+      "imageBytes": 205875,
+      "imageSourceStatus": "local"
     },
     {
       "title": "Assisted Dug Cut",
@@ -135,7 +151,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Smoke Accessories",
       "price": "$12.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 280,
+      "imageHeight": 500,
+      "imageBytes": 40737,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "ASvape MICHAEL Box",
@@ -147,7 +167,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Vaporizers",
       "price": "$75.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 1000,
+      "imageHeight": 1000,
+      "imageBytes": 151001,
+      "imageSourceStatus": "local"
     },
     {
       "title": "ATMOS GRINDER",
@@ -159,7 +183,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Smoke Accessories",
       "price": "$35.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 1000,
+      "imageHeight": 1500,
+      "imageBytes": 390597,
+      "imageSourceStatus": "local"
     },
     {
       "title": "ATMOS NAIL",
@@ -171,7 +199,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Smoke Accessories",
       "price": "$65.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 1000,
+      "imageHeight": 1500,
+      "imageBytes": 390597,
+      "imageSourceStatus": "local"
     },
     {
       "title": "BADWOOD G-PEN",
@@ -183,7 +215,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Vaporizers",
       "price": "$150.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 1000,
+      "imageHeight": 1000,
+      "imageBytes": 151001,
+      "imageSourceStatus": "local"
     },
     {
       "title": "BB-ST-0G 5/8",
@@ -195,7 +231,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Body Jewelry",
       "price": "$12.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 500,
+      "imageHeight": 319,
+      "imageBytes": 62091,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "BB-ST-10G 1/2",
@@ -207,7 +247,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Body Jewelry",
       "price": "$12.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 906,
+      "imageHeight": 906,
+      "imageBytes": 52472,
+      "imageSourceStatus": "local"
     },
     {
       "title": "BB-ST-10G 3/4",
@@ -219,7 +263,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Body Jewelry",
       "price": "$12.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 906,
+      "imageHeight": 906,
+      "imageBytes": 52472,
+      "imageSourceStatus": "local"
     },
     {
       "title": "BB-ST-12G 1/2",
@@ -231,7 +279,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Body Jewelry",
       "price": "$12.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 906,
+      "imageHeight": 906,
+      "imageBytes": 52472,
+      "imageSourceStatus": "local"
     },
     {
       "title": "BB-ST-12G 5/8",
@@ -243,7 +295,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Body Jewelry",
       "price": "$12.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 906,
+      "imageHeight": 906,
+      "imageBytes": 52472,
+      "imageSourceStatus": "local"
     },
     {
       "title": "BB-ST-12G 7/16",
@@ -255,7 +311,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Body Jewelry",
       "price": "$12.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 906,
+      "imageHeight": 906,
+      "imageBytes": 52472,
+      "imageSourceStatus": "local"
     },
     {
       "title": "BB-ST-12G 7/8",
@@ -267,7 +327,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Body Jewelry",
       "price": "$12.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 500,
+      "imageHeight": 500,
+      "imageBytes": 29471,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "BB-ST-14G 7/8",
@@ -279,7 +343,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Body Jewelry",
       "price": "$12.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 906,
+      "imageHeight": 906,
+      "imageBytes": 52472,
+      "imageSourceStatus": "local"
     },
     {
       "title": "BB-ST-2G 5/8",
@@ -291,7 +359,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Body Jewelry",
       "price": "$12.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 299,
+      "imageHeight": 323,
+      "imageBytes": 4572,
+      "imageSourceStatus": "local"
     },
     {
       "title": "BB-ST-6G 5/8",
@@ -303,7 +375,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Body Jewelry",
       "price": "$12.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 500,
+      "imageHeight": 500,
+      "imageBytes": 6247,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "Bubbler",
@@ -315,7 +391,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Smoke Accessories",
       "price": "$24.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 376,
+      "imageHeight": 500,
+      "imageBytes": 74881,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "CBB-ST-10G 1/2 CONE",
@@ -327,7 +407,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Body Jewelry",
       "price": "$10.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 460,
+      "imageHeight": 499,
+      "imageBytes": 22156,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "CBB-ST-10G 1/2 REG BALL",
@@ -339,7 +423,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Body Jewelry",
       "price": "$10.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 383,
+      "imageHeight": 500,
+      "imageBytes": 24423,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "CBB-ST-12G 3/8 CONE",
@@ -351,7 +439,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Body Jewelry",
       "price": "$10.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 460,
+      "imageHeight": 499,
+      "imageBytes": 22156,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "CBB-ST-12G 7/16 REG BALL",
@@ -363,7 +455,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Body Jewelry",
       "price": "$10.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 383,
+      "imageHeight": 500,
+      "imageBytes": 24423,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "CBR-ST-10G 1/2 GEM BALL CLEAR",
@@ -375,7 +471,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Body Jewelry",
       "price": "$12.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 466,
+      "imageHeight": 500,
+      "imageBytes": 25535,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "CBR-ST-12G 1/2",
@@ -387,7 +487,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Body Jewelry",
       "price": "$12.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 466,
+      "imageHeight": 500,
+      "imageBytes": 25535,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "CBR-ST-12G 1/2 GEM BALL CLEAR",
@@ -399,7 +503,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Body Jewelry",
       "price": "$12.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 466,
+      "imageHeight": 500,
+      "imageBytes": 25535,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "CBR-ST 12G 1/2",
@@ -411,7 +519,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Body Jewelry",
       "price": "$12.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 906,
+      "imageHeight": 906,
+      "imageBytes": 52472,
+      "imageSourceStatus": "local"
     },
     {
       "title": "CBR-ST-12G 3/8",
@@ -423,7 +535,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Body Jewelry",
       "price": "$12.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 466,
+      "imageHeight": 500,
+      "imageBytes": 25535,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "CBR-ST-12G 5/8",
@@ -435,7 +551,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Body Jewelry",
       "price": "$12.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 466,
+      "imageHeight": 500,
+      "imageBytes": 25535,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "CBR-ST 12G 5/8",
@@ -447,7 +567,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Body Jewelry",
       "price": "$12.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 906,
+      "imageHeight": 906,
+      "imageBytes": 52472,
+      "imageSourceStatus": "local"
     },
     {
       "title": "CBR-ST-12G 7/16",
@@ -459,7 +583,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Body Jewelry",
       "price": "$12.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 466,
+      "imageHeight": 500,
+      "imageBytes": 25535,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "CBR-ST 12G 7/16",
@@ -471,7 +599,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Body Jewelry",
       "price": "$12.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 906,
+      "imageHeight": 906,
+      "imageBytes": 52472,
+      "imageSourceStatus": "local"
     },
     {
       "title": "CBR-ST-8G 1/2 GEM BALL CLEAR",
@@ -483,7 +615,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Body Jewelry",
       "price": "$12.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 466,
+      "imageHeight": 500,
+      "imageBytes": 25535,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "Clear Hit",
@@ -495,7 +631,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Smoke Accessories",
       "price": "$39.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 500,
+      "imageHeight": 342,
+      "imageBytes": 45074,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "Clear Hit",
@@ -507,7 +647,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Smoke Accessories",
       "price": "$19.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 500,
+      "imageHeight": 300,
+      "imageBytes": 39772,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "NAIL CROWN SILK BLACK",
@@ -519,7 +663,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Other Products",
       "price": "$19.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 1000,
+      "imageHeight": 668,
+      "imageBytes": 205875,
+      "imageSourceStatus": "local"
     },
     {
       "title": "CBR-ST 12G 3/8",
@@ -531,7 +679,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Other Products",
       "price": "$12.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 1000,
+      "imageHeight": 668,
+      "imageBytes": 205875,
+      "imageSourceStatus": "local"
     },
     {
       "title": "Glass Pipe",
@@ -543,7 +695,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Smoke Accessories",
       "price": "$16.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 280,
+      "imageHeight": 500,
+      "imageBytes": 45917,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "DETOXIFY EVER CLEAN",
@@ -555,7 +711,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Detox / Cleanses",
       "price": "$74.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 450,
+      "imageHeight": 450,
+      "imageBytes": 25251,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "DETOXIFY GREEN CLEAN",
@@ -567,7 +727,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Detox / Cleanses",
       "price": "$45.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 1000,
+      "imageHeight": 1500,
+      "imageBytes": 222712,
+      "imageSourceStatus": "local"
     },
     {
       "title": "DETOXIFY INSTANT CLEAN",
@@ -579,7 +743,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Detox / Cleanses",
       "price": "$54.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 1000,
+      "imageHeight": 1500,
+      "imageBytes": 222712,
+      "imageSourceStatus": "local"
     },
     {
       "title": "DETOXIFY MEGA CLEAN",
@@ -591,7 +759,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Detox / Cleanses",
       "price": "$54.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 225,
+      "imageHeight": 225,
+      "imageBytes": 14861,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "DETOXIFY MIGHTY CLEAN",
@@ -603,7 +775,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Detox / Cleanses",
       "price": "$74.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 198,
+      "imageHeight": 198,
+      "imageBytes": 7380,
+      "imageSourceStatus": "local"
     },
     {
       "title": "\u2022 DETOXIFY PRE CLEANSE CAPS",
@@ -615,7 +791,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Detox / Cleanses",
       "price": "$10.49",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 1000,
+      "imageHeight": 1500,
+      "imageBytes": 222712,
+      "imageSourceStatus": "local"
     },
     {
       "title": "DETOXIFY READY CLEAN GRAPE, TROPICAL, ORANGE",
@@ -627,7 +807,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Detox / Cleanses",
       "price": "$25.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 1000,
+      "imageHeight": 1500,
+      "imageBytes": 222712,
+      "imageSourceStatus": "local"
     },
     {
       "title": "DETOXIFY XXTRA CLEAN",
@@ -639,7 +823,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Detox / Cleanses",
       "price": "$40.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 225,
+      "imageHeight": 225,
+      "imageBytes": 19783,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "DR. DABBER SWITCH",
@@ -651,7 +839,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Other Products",
       "price": "$499.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 394,
+      "imageHeight": 234,
+      "imageBytes": 9017,
+      "imageSourceStatus": "local"
     },
     {
       "title": "DR GREENS COOL RINSE MOUTHWASH",
@@ -663,7 +855,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Detox / Cleanses",
       "price": "$29.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 225,
+      "imageHeight": 225,
+      "imageBytes": 9449,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "DR GREENS FIELD KIT",
@@ -675,7 +871,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Detox / Cleanses",
       "price": "$64.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 198,
+      "imageHeight": 198,
+      "imageBytes": 17309,
+      "imageSourceStatus": "local"
     },
     {
       "title": "E-CIG HIBRON H10",
@@ -687,7 +887,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Other Products",
       "price": "$29.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 1000,
+      "imageHeight": 668,
+      "imageBytes": 205875,
+      "imageSourceStatus": "local"
     },
     {
       "title": "E-PIPE MOD",
@@ -699,7 +903,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Smoke Accessories",
       "price": "$25.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 1000,
+      "imageHeight": 1500,
+      "imageBytes": 390597,
+      "imageSourceStatus": "local"
     },
     {
       "title": "Evolve-D Dry Herb Pen from Yocan",
@@ -711,7 +919,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Vaporizers",
       "price": "$39.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 280,
+      "imageHeight": 500,
+      "imageBytes": 26291,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "G PEN Slim Quartz",
@@ -723,7 +935,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Vaporizers",
       "price": "$22.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 281,
+      "imageHeight": 500,
+      "imageBytes": 36763,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "Glass Pipe",
@@ -735,7 +951,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Smoke Accessories",
       "price": "$14.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 280,
+      "imageHeight": 500,
+      "imageBytes": 53145,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "Glass Pipe",
@@ -747,7 +967,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Smoke Accessories",
       "price": "$12.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 500,
+      "imageHeight": 280,
+      "imageBytes": 50279,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "Glass Pipe",
@@ -759,7 +983,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Smoke Accessories",
       "price": "$12.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 500,
+      "imageHeight": 280,
+      "imageBytes": 52495,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "Grinder Rasta",
@@ -771,7 +999,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Smoke Accessories",
       "price": "$12.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 280,
+      "imageHeight": 500,
+      "imageBytes": 41277,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "Grinder sm Metal",
@@ -783,7 +1015,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Smoke Accessories",
       "price": "$7.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 280,
+      "imageHeight": 500,
+      "imageBytes": 35888,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "Grinder sm Plastic",
@@ -795,7 +1031,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Smoke Accessories",
       "price": "$6.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 280,
+      "imageHeight": 500,
+      "imageBytes": 52665,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "Grinder",
@@ -807,7 +1047,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Smoke Accessories",
       "price": "$16.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 280,
+      "imageHeight": 500,
+      "imageBytes": 40882,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "HIGH VOLTAGE 2 PK 32 OZ",
@@ -819,7 +1063,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Detox / Cleanses",
       "price": "$39.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 500,
+      "imageHeight": 500,
+      "imageBytes": 101390,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "HIGH VOLTAGE DOUBLE FLUSH",
@@ -831,7 +1079,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Detox / Cleanses",
       "price": "$39.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 198,
+      "imageHeight": 198,
+      "imageBytes": 21437,
+      "imageSourceStatus": "local"
     },
     {
       "title": "HIGH VOLTAGE MOUTHWASH",
@@ -843,7 +1095,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Detox / Cleanses",
       "price": "$29.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 480,
+      "imageHeight": 480,
+      "imageBytes": 46897,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "HIGH VOLTAGE PERMANENT TROPICAL 5 DAY CLEANSE",
@@ -855,7 +1111,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Detox / Cleanses",
       "price": "$69.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 366,
+      "imageHeight": 500,
+      "imageBytes": 65583,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "HIGH VOLTAGE REGULAR STRENGTH 16 OZ",
@@ -867,7 +1127,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Detox / Cleanses",
       "price": "$24.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 198,
+      "imageHeight": 198,
+      "imageBytes": 19011,
+      "imageSourceStatus": "local"
     },
     {
       "title": "HIGH VOLTAGE SHAMPOO",
@@ -879,7 +1143,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Detox / Cleanses",
       "price": "$35.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 198,
+      "imageHeight": 198,
+      "imageBytes": 14646,
+      "imageSourceStatus": "local"
     },
     {
       "title": "HIGH VOLTAGE XL SHOT",
@@ -891,7 +1159,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Detox / Cleanses",
       "price": "$44.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 500,
+      "imageHeight": 500,
+      "imageBytes": 90172,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "HIP VAPE",
@@ -903,7 +1175,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Vaporizers",
       "price": "$100.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 1000,
+      "imageHeight": 1000,
+      "imageBytes": 151001,
+      "imageSourceStatus": "local"
     },
     {
       "title": "Hookah Coals",
@@ -915,7 +1191,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Smoke Accessories",
       "price": "$3.49",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 420,
+      "imageHeight": 500,
+      "imageBytes": 96392,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "I-O LITE vaporizer",
@@ -927,7 +1207,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Vaporizers",
       "price": "$50.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 500,
+      "imageHeight": 251,
+      "imageBytes": 39396,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "JUST CHILL JUNGLE",
@@ -939,7 +1223,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Other Products",
       "price": "$39.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 1000,
+      "imageHeight": 668,
+      "imageBytes": 205875,
+      "imageSourceStatus": "local"
     },
     {
       "title": "JUST CHILL STRAWBERRY",
@@ -951,7 +1239,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Other Products",
       "price": "$39.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 1000,
+      "imageHeight": 668,
+      "imageBytes": 205875,
+      "imageSourceStatus": "local"
     },
     {
       "title": "K-Stick Supreme",
@@ -963,7 +1255,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Vaporizers",
       "price": "$26.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 281,
+      "imageHeight": 500,
+      "imageBytes": 47907,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "Kamry 30 BOX",
@@ -975,7 +1271,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Vaporizers",
       "price": "$40.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 281,
+      "imageHeight": 500,
+      "imageBytes": 24673,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "LEVO II",
@@ -987,7 +1287,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Other Products",
       "price": "$260.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 350,
+      "imageHeight": 350,
+      "imageBytes": 69625,
+      "imageSourceStatus": "local"
     },
     {
       "title": "Metal Pipe",
@@ -999,7 +1303,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Smoke Accessories",
       "price": "$11.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 280,
+      "imageHeight": 500,
+      "imageBytes": 38427,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "Mini 2 Hose Hookah",
@@ -1011,7 +1319,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Smoke Accessories",
       "price": "$21.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 280,
+      "imageHeight": 500,
+      "imageBytes": 54391,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "NAIL CROWN SILK LBLUE",
@@ -1023,7 +1335,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Other Products",
       "price": "$19.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 1000,
+      "imageHeight": 668,
+      "imageBytes": 205875,
+      "imageSourceStatus": "local"
     },
     {
       "title": "Naked Vape Juice",
@@ -1035,7 +1351,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Vaporizers",
       "price": "$19.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 280,
+      "imageHeight": 500,
+      "imageBytes": 35709,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "NANO NBW WAXY KIT",
@@ -1047,7 +1367,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Other Products",
       "price": "$19.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 281,
+      "imageHeight": 500,
+      "imageBytes": 53210,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "P-SURE",
@@ -1059,7 +1383,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Detox / Cleanses",
       "price": "$29.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 353,
+      "imageHeight": 500,
+      "imageBytes": 328980,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "PAX 3",
@@ -1071,7 +1399,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Vaporizers",
       "price": "$274.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 420,
+      "imageHeight": 500,
+      "imageBytes": 31805,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "Phoenix Drip Tip",
@@ -1083,7 +1415,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Other Products",
       "price": "$12.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 281,
+      "imageHeight": 500,
+      "imageBytes": 29461,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "Plastic Grinder",
@@ -1095,7 +1431,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Smoke Accessories",
       "price": "$10.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 280,
+      "imageHeight": 500,
+      "imageBytes": 57968,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "Q Carbo 32",
@@ -1107,7 +1447,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Detox / Cleanses",
       "price": "$39.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 280,
+      "imageHeight": 500,
+      "imageBytes": 45271,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "Randy Aqua Pilot",
@@ -1119,7 +1463,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Other Products",
       "price": "$130.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 1000,
+      "imageHeight": 668,
+      "imageBytes": 205875,
+      "imageSourceStatus": "local"
     },
     {
       "title": "RAW Classic Artesano 1\u00bc",
@@ -1131,7 +1479,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Smoke Accessories",
       "price": "$4.50",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 493,
+      "imageHeight": 327,
+      "imageBytes": 386938,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "RAW Classic King Size Rolls",
@@ -1143,7 +1495,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Smoke Accessories",
       "price": "$3.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 500,
+      "imageHeight": 280,
+      "imageBytes": 335182,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "RAW Classic Kingsize Slim",
@@ -1155,7 +1511,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Smoke Accessories",
       "price": "$2.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 500,
+      "imageHeight": 125,
+      "imageBytes": 135625,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "RAW Classic Single Wide",
@@ -1167,7 +1527,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Smoke Accessories",
       "price": "$2.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 445,
+      "imageHeight": 268,
+      "imageBytes": 240773,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "RAW Hemp Plastic Roller",
@@ -1179,7 +1543,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Smoke Accessories",
       "price": "$7.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 459,
+      "imageHeight": 352,
+      "imageBytes": 326729,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "RAW Hemp Wick - 10ft",
@@ -1191,7 +1559,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Smoke Accessories",
       "price": "$1.75",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 435,
+      "imageHeight": 387,
+      "imageBytes": 282094,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "RAW Organic Hemp 1\u00bc",
@@ -1203,7 +1575,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Smoke Accessories",
       "price": "$2.69",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 495,
+      "imageHeight": 169,
+      "imageBytes": 165914,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "RAW Pre-Rolled Tips",
@@ -1215,7 +1591,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Smoke Accessories",
       "price": "$1.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 446,
+      "imageHeight": 403,
+      "imageBytes": 385351,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "RAW Rolling Mat",
@@ -1227,7 +1607,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Smoke Accessories",
       "price": "$2.49",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 500,
+      "imageHeight": 143,
+      "imageBytes": 103317,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "Small Glass Pipe",
@@ -1239,7 +1623,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Smoke Accessories",
       "price": "$9.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 280,
+      "imageHeight": 500,
+      "imageBytes": 41686,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "Snail Lookah",
@@ -1251,7 +1639,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Smoke Accessories",
       "price": "$19.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 375,
+      "imageHeight": 500,
+      "imageBytes": 37844,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "STAT 1 HR FLUSH CAPS",
@@ -1263,7 +1655,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Other Products",
       "price": "$40.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 1000,
+      "imageHeight": 668,
+      "imageBytes": 205875,
+      "imageSourceStatus": "local"
     },
     {
       "title": "Studs",
@@ -1275,7 +1671,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Body Jewelry",
       "price": "$14.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 500,
+      "imageHeight": 484,
+      "imageBytes": 89048,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "The Yocan Evolve Dual Quartz Wax Pen",
@@ -1287,7 +1687,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Vaporizers",
       "price": "$39.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 500,
+      "imageHeight": 454,
+      "imageBytes": 54392,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "The Yocan Evolve Plus",
@@ -1299,7 +1703,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Vaporizers",
       "price": "$49.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 389,
+      "imageHeight": 500,
+      "imageBytes": 50300,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "Ultra Eliminex",
@@ -1311,7 +1719,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Detox / Cleanses",
       "price": "$65.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 267,
+      "imageHeight": 500,
+      "imageBytes": 41841,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "Vapir Oxygen w/ Battery",
@@ -1323,7 +1735,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Other Products",
       "price": "$35.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 500,
+      "imageHeight": 357,
+      "imageBytes": 327593,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "Vaporizer Arizer Solo",
@@ -1335,7 +1751,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Vaporizers",
       "price": "$180.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 281,
+      "imageHeight": 500,
+      "imageBytes": 30708,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "VITACIG",
@@ -1347,7 +1767,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Vaporizers",
       "price": "$3.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 227,
+      "imageHeight": 302,
+      "imageBytes": 11955,
+      "imageSourceStatus": "local"
     },
     {
       "title": "WP-SILLICON 1",
@@ -1359,7 +1783,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Other Products",
       "price": "$19.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 375,
+      "imageHeight": 500,
+      "imageBytes": 45093,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "WP-SILLICON 10\" GEOMETRIC",
@@ -1371,7 +1799,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Other Products",
       "price": "$42.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 469,
+      "imageHeight": 500,
+      "imageBytes": 75275,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "WP-SILLICON 2",
@@ -1383,7 +1815,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Other Products",
       "price": "$19.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 375,
+      "imageHeight": 500,
+      "imageBytes": 49214,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "WP-SILLICON ELEPHANT",
@@ -1395,7 +1831,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Other Products",
       "price": "$19.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 500,
+      "imageHeight": 414,
+      "imageBytes": 61535,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "WP-SILLICON GLOW",
@@ -1407,7 +1847,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Other Products",
       "price": "$50.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 375,
+      "imageHeight": 500,
+      "imageBytes": 49720,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "WP-SILLICON HEART",
@@ -1419,7 +1863,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Other Products",
       "price": "$19.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 375,
+      "imageHeight": 500,
+      "imageBytes": 47465,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "WP-SILLICON JAR",
@@ -1431,7 +1879,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Other Products",
       "price": "$3.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 375,
+      "imageHeight": 500,
+      "imageBytes": 39640,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "WP-SILLICON L/N MONSTER",
@@ -1443,7 +1895,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Other Products",
       "price": "$24.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 375,
+      "imageHeight": 500,
+      "imageBytes": 46364,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "WP-SILLICON PAD",
@@ -1455,7 +1911,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Other Products",
       "price": "$19.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 500,
+      "imageHeight": 500,
+      "imageBytes": 107923,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "WP-SILLICON PIPE METAL",
@@ -1467,7 +1927,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Smoke Accessories",
       "price": "$12.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 227,
+      "imageHeight": 302,
+      "imageBytes": 6966,
+      "imageSourceStatus": "local"
     },
     {
       "title": "WP-SILLICON PUMPKIN",
@@ -1479,7 +1943,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Other Products",
       "price": "$25.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 307,
+      "imageHeight": 500,
+      "imageBytes": 49304,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "WP-SILLICON RASTA",
@@ -1491,7 +1959,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Other Products",
       "price": "$42.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 375,
+      "imageHeight": 500,
+      "imageBytes": 59742,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "WP-SILLICON RIFFLE",
@@ -1503,7 +1975,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Other Products",
       "price": "$9.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 375,
+      "imageHeight": 500,
+      "imageBytes": 59278,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "WP-SILLICON SKULL PINK",
@@ -1515,7 +1991,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Other Products",
       "price": "$42.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 253,
+      "imageHeight": 500,
+      "imageBytes": 45339,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "WP-SILLICON SKULL",
@@ -1527,7 +2007,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Other Products",
       "price": "$42.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 375,
+      "imageHeight": 500,
+      "imageBytes": 44679,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "WP-SILLICON",
@@ -1539,7 +2023,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Other Products",
       "price": "$19.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 375,
+      "imageHeight": 500,
+      "imageBytes": 49163,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "Yocan NYX",
@@ -1551,7 +2039,11 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Vaporizers",
       "price": "$18.99",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 500,
+      "imageHeight": 281,
+      "imageBytes": 24398,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "ZYDOT SHAMPOO",
@@ -1563,144 +2055,238 @@ window.DIVERSITY_SITE_DATA = {
       "categoryLabel": "Detox / Cleanses",
       "price": "$35.00",
       "inventoryStatus": "in_stock",
-      "isInStock": true
+      "isInStock": true,
+      "imageWidth": 194,
+      "imageHeight": 259,
+      "imageBytes": 10775,
+      "imageSourceStatus": "local"
     }
   ],
   "guides": [
     {
       "title": "Are Detox Cleanses Permanent?",
       "destinationPath": "blog/are-detox-cleanses-permanent.html",
-      "excerpt": "All Posts Getting Started Your Community Search",
-      "body": "All Posts Getting Started Your Community Search",
-      "image": "assets/i.ytimg.com/vi/vDo3KTFHb0k/hqdefault.jpg",
+      "excerpt": "If you\u2019re considering a cleanse, one of the questions that you may be asking yourself is whether or not it will be a permanent detox or a just temporary solution. These days, the word \u201ccleanse\u201d means a variety of things; you could be avoiding alcohol for a...",
+      "body": "If you\u2019re considering a cleanse, one of the questions that you may be asking yourself is whether or not it will be a permanent detox or a just temporary solution. These days, the word \u201ccleanse\u201d means a variety of things; you could be avoiding alcohol for a week and call it a cleanse, or you could be drinking cold-pressed juices 4x a day and call it a cleanse. Or, you fall in the middle ground and are just looking for a solution to clean your body up for its next big adventure.\n\nThe short answer is that not all cleanses are permanent. Some work for a few hours, others take a few days to work and then you\u2019re clean for good. The long answer starts with whether or not you plan on reintroducing toxins into your system and ends with how committed you are to your decision to keep your body clean.\n\nEach of our bodies contains systems that are designed to cleanse us of toxins that we encounter in our daily lives. Whether you\u2019re smoking at the show, drinking at the bar, taking prescriptions or eating unhealthy, your body is designed to clean up the mess you leave behind. When you undergo a cleanse, you\u2019re helping your body do its job a bit better, and a bit faster.\n\nFor temporary cleanses, like and Mighty Clean , think of it like you hired a temp worker or a super-charged intern for a few hours to help out around the place, cleaning up the toxins and waste that you encounter every day, and then they left to go home and the workload returned to its normal pace. Your body is cleaner than it would be normally thanks to the extra help, but it won\u2019t always have that extra help. Just like a business, your body will continue to work to get rid of toxins and waste, but it won\u2019t be as efficient and some may pile up again while it works to catch up with your intake.\n\nFor permanent cleanses like Ever Clean , think of it like consultant to get you started; you\u2019re making a commitment to work together for a better, cleaner body. Just like a consultant would coach your business, you\u2019ll use your cleanse to train your body to adjust to a lack of toxins that it may be accustomed to. Your cleanse will help you for the first week, but the commitment and practice are on you to remain toxin-free and continue with the foundation that your cleanse gave you. Your consultant will have done his job in the first week, but it is your job to keep your body permanently toxin-free.\n\nIn both temporary and permanent cleansing situations, whether or not you reintroduce toxins into your body will drastically affect the results that you experience and how permanent your cleanse will be. Detoxify offers a wide range of herbal cleanses to fit your needs in any cleansing scenario, ranging from temporary body cleanses to long term, multi-day herbal cleansing programs designed to permanently rid your body of toxins.",
+      "image": "assets/blog/are-detox-cleanses-permanent/are-detox-cleanses-permanent.png",
       "type": "blog_post",
-      "category": "Retail Education"
+      "category": "Retail Education",
+      "pubDate": "Wed, 27 May 2020 06:28:29 GMT",
+      "archiveOrder": 3,
+      "imageWidth": 1000,
+      "imageHeight": 1000,
+      "imageBytes": 362739,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "Can My Tattoo Be Covered Up???",
       "destinationPath": "blog/can-my-tattoo-be-covered-up.html",
-      "excerpt": "All Posts Getting Started Your Community Search",
-      "body": "All Posts Getting Started Your Community Search",
-      "image": "assets/i.ytimg.com/vi/vDo3KTFHb0k/hqdefault.jpg",
+      "excerpt": "Saddly, bad tattoos happen to the best of us. Maybe you let a novice practice on you and s/he gave you a truly bad tattoo, or maybe you have a well-done tattoo that's of something you no longer love... like your ex's name. Whatever the reason, if you have a...",
+      "body": "Saddly, bad tattoos happen to the best of us. Maybe you let a novice practice on you and s/he gave you a truly bad tattoo, or maybe you have a well-done tattoo that's of something you no longer love... like your ex's name. Whatever the reason, if you have a tattoo you aren't fond of anymore, a cover-up tattoo may be the best option for you.\n\nCan any tattoo be covered up, even if it's solid black? What kind of designs work best as cover-up tattoos? What do you need to know to ensure you get the best cover-up tattoo possible? Read on to learn how you can cover up a tattoo you don't like with one you're sure to love!",
+      "image": "assets/blog/can-my-tattoo-be-covered-up/can-my-tattoo-be-covered-up.jpg",
       "type": "blog_post",
-      "category": "Tattoo Planning"
+      "category": "Tattoo Planning",
+      "pubDate": "Wed, 27 May 2020 06:28:29 GMT",
+      "archiveOrder": 5,
+      "imageWidth": 994,
+      "imageHeight": 378,
+      "imageBytes": 41191,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "What Medical Conditions CBD for Dogs Help With",
       "destinationPath": "blog/cbdforpets.html",
-      "excerpt": "All Posts Getting Started Your Community Search",
-      "body": "All Posts Getting Started Your Community Search",
-      "image": "assets/static.wixstatic.com/b99142ec9d528464.jpg",
+      "excerpt": "While its most common use is treating pain associated with arthritis, cancer, and other chronic ailments, CBD oil for dogs can be used for a host of other conditions as well, though it must be said that a large portion of the veterinary community remains...",
+      "body": "While its most common use is treating pain associated with arthritis, cancer, and other chronic ailments, CBD oil for dogs can be used for a host of other conditions as well, though it must be said that a large portion of the veterinary community remains skeptical over its effectiveness, due unfortunately to a lack in published research studies.\n\nThe American Veterinary Medical Association (AVMA) will not approve the use of cannabis in pets until an acceptable amount of research and data is put forth on the subject. And while we understands they need for medication and drug functioning to be quantitatively backed up by science, she also bemoans the fact that animals are suffering unnecessarily through pain, nausea, stress, and anxiety when there is such a viable treatment method available.\n\nFortunately, there is a large component of veterinarians and researchers out there who won\u2019t hesitate to recommend CBD\u2019s far-reaching therapeutic qualities.\n\nDr. Shu, says that the interaction of cannabidiol with the endocannabinoid system in dogs can provide relief from a wide variety of physiological and neurological conditions, by \u2018modulating the chemical components\u2019 responsible for nausea, stress, anxiety, pain, and even gastrointestinal conditions brought on by infection.\n\nAdditionally, he goes on to say that unlike other traditional prescription medications that veterinary clinics might suggest, CBD has no significant or life-threatening side effects if administered in the proper dose.\n\nIt also, he claims, does not do any damage to internal organs, nor does it get the dog high \u2014 unlike sedative medications which alleviate symptoms by simply \u2018masking\u2019 the underlying condition, cannabidiol is a physiological component that actively works to reverse \u201cnon-normal\u201d functioning.\n\nIn addition to alleviating pain and nausea, CBD oil for dogs is also increasingly being used to mollify overly-aggressive dogs, or easily frightened/skittish dogs that are sent into panic mode by things like loud noises, mailmen, or their owner\u2019s roommates.",
+      "image": "assets/blog/cbdforpets/cbdforpets.jpg",
       "type": "blog_post",
-      "category": "Your Community"
+      "category": "Your Community",
+      "pubDate": "Wed, 27 May 2020 06:28:29 GMT",
+      "archiveOrder": 15,
+      "imageWidth": 940,
+      "imageHeight": 788,
+      "imageBytes": 90249,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "Ways to Give your Dog CBD",
       "destinationPath": "blog/cbdforpets1.html",
-      "excerpt": "All Posts Getting Started Your Community Search",
-      "body": "All Posts Getting Started Your Community Search",
-      "image": "assets/i.ytimg.com/vi/vDo3KTFHb0k/hqdefault.jpg",
+      "excerpt": "Understanding the benefits and health advantages of CBD oil for dogs is one thing, but getting them to actually take it or ingest it can be another thing altogether.",
+      "body": "Understanding the benefits and health advantages of CBD oil for dogs is one thing, but getting them to actually take it or ingest it can be another thing altogether.\n\nIf you\u2019ve ever tried to give your pup their heartworm or tick/flea medication without administering some kind of sly meat-related trickery, you know exactly what we\u2019re talking about.\n\nAnd needless to say, CBD oil in its natural state won\u2019t exactly get your canine slobbering at the mouth like a platter of bacon or a slab of cooked chicken breast will.\n\nFortunately, there are some simple enough methods and techniques you can use to get your old hound to down his medication like the good boy that he is.\n\nTinctures that come in a dropper bottle allow for virtually immediate relief from symptoms (check out this adorable little guy whose seizure went away about 30 seconds after his owner gave him two drops), and are great for measuring out exact doses. When placed under the tongue, they\u2019re absorbed directly into the bloodstream, allowing them to work quicker than topicals or edibles.\n\nFor dogs suffering from rashes, skin allergies, arthritis, or other general forms of muscle aches/joint pains (due to old age or otherwise), CBD topicals (salves and creams) are a popular and convenient way to go \u2014 they\u2019re reliable, convenient, efficient for acute pain, and for the most part, are super easy to administer (have you ever know a dog that doesn\u2019t love a good rub-down?).\n\nOf course, though, nothing is likely easier or more convenient than good old-fashioned doggy biscuits, which are currently available from several different companies in a wide arrangement of sizes, flavors, and CBD dosages.",
+      "image": "assets/blog/cbdforpets1/cbdforpets1.jpg",
       "type": "blog_post",
-      "category": "Your Community"
+      "category": "Your Community",
+      "pubDate": "Wed, 27 May 2020 06:28:29 GMT",
+      "archiveOrder": 12,
+      "imageWidth": 480,
+      "imageHeight": 360,
+      "imageBytes": 24709,
+      "imageSourceStatus": "local"
     },
     {
       "title": "Benefits of CBD Dog Treats",
       "destinationPath": "blog/cbdforpets2.html",
-      "excerpt": "All Posts Getting Started Your Community Search",
-      "body": "All Posts Getting Started Your Community Search",
-      "image": "assets/i.ytimg.com/vi/vDo3KTFHb0k/hqdefault.jpg",
+      "excerpt": "Obviously, the #1 benefit of CBD treats for dogs is that your dog will love them \u2013 products like Chicken-Flavored Treats or Infused CBD Biscuits for Dogs are every bit as slobber-inducing as a normal doggy bone.",
+      "body": "Obviously, the #1 benefit of CBD treats for dogs is that your dog will love them \u2013 products like Chicken-Flavored Treats or Infused CBD Biscuits for Dogs are every bit as slobber-inducing as a normal doggy bone.\n\nAnother good thing about CBD biscuits for dogs is that they come in a huge range of sizes and doses \u2014 most will be labeled directly on the package what weight/size dog they\u2019re appropriate for, which is great for eliminating the uncertainty that often comes along with trying to determine a proper tincture dose.\n\nThe only thing you might hear some people say is that they\u2019re a little wary of how effective some of the treats and doggy edibles really are \u2014 like we mentioned earlier there\u2019s been more than a few cases of the FDA busting companies with bogus products, so it\u2019s important to choose wisely when selecting the right option for your dog.",
+      "image": "assets/blog/cbdforpets2/cbdforpets2.jpg",
       "type": "blog_post",
-      "category": "Your Community"
+      "category": "Your Community",
+      "pubDate": "Wed, 27 May 2020 06:28:29 GMT",
+      "archiveOrder": 11,
+      "imageWidth": 480,
+      "imageHeight": 360,
+      "imageBytes": 24709,
+      "imageSourceStatus": "local"
     },
     {
       "title": "DAVINCI MIQRO",
       "destinationPath": "blog/davinci-miqro.html",
-      "excerpt": "All Posts Getting Started Your Community Search",
-      "body": "All Posts Getting Started Your Community Search",
-      "image": "assets/i.ytimg.com/vi/vDo3KTFHb0k/hqdefault.jpg",
+      "excerpt": "he DaVinci MIQRO is a portable vaporizer unlike any other. Placing the innovative technology of its bigger brother, the IQ, into a 31% smaller design, the MIQRO places powerful vapor production in your palm. This pocket-friendly work of art features 4...",
+      "body": "he DaVinci MIQRO is a portable vaporizer unlike any other. Placing the innovative technology of its bigger brother, the IQ, into a 31% smaller design, the MIQRO places powerful vapor production in your palm. This pocket-friendly work of art features 4 advanced Smart Path\u2122 heat settings, each offering a unique range of flavors, aromas, and effects. Transition to precision temperature to turn the dry herb you have into the vapor you want. The MIQRO preserves vapor purity with a 100% ceramic zirconia vapor path, delivering smooth, flavor-rich hits. An adjustable ceramic oven allows you to alter bowl size by up to 50%, delivering maximum vapor quality even with smaller loads. The DaVinci MIQRO makes vaping smarter, easier, and more delightful.\n\nEXPLORE WITH SMART PATH\n\nDesigned for connoisseurs by connoisseurs, the DaVinci MIQRO enables you to explore previously unknown vapor profiles with 4 Smart Path heat settings. Each Smart Path spans a range of 20 degrees, gradually climbing from the lowest to highest temperature over the course of your session. As temperature increases, new flavors and effects are released, achieving a complex, ever-changing vapor profile. Experiment with different flavor and potency levels with a few clicks. There's a Smart Path for every experience, from euphoria and creativity to calmness and sleep. For rapid hits, toggle to Power Boost mode. The DaVinci MIQRO also boasts the most precise heating available, allowing you to enjoy vapor how you want, when you want.\n\nCERAMIC ZIRCONIA AIRPATH\n\nEngineered for optimal flavor extraction, the DaVinci MIQRO features a ceramic zirconia vapor path for conserving the utmost purity. This high-grade material is extremely resistant to heat, ensuring that essential flavors are maintained from heating chamber to mouthpiece. A ceramic oven extracts intense flavor notes with zero combustion, generating smooth, delicious vapor. Rugged and reliable, the MIQRO's vapor path promises premium performance. The bowl size can be adjusted to accommodate the amount of material used each session. For the thickest vapor, we recommend firmly packing the bowl with finely ground herb.\n\nSMALLER & SMARTER\n\nWith a 31% more pocket-friendly design, the DaVinci MIQRO proves that good things come in small packages. Easily concealed in your palm or pocket, this 3\" tall device offers power that's anything but mini. The compact and lightweight MIQRO features an anodized aluminum casing for an elegant, ergonomic, and rugged feel. A replaceable 18350 battery boasts 1.5-2 hours of continuous use, charging conveniently via USB. An adjustable bowl size delivers excellent vapor production, no matter how little dry herb is loaded. With 71 positive affirmations displayed when the device is off, the DaVinci MIQRO is a personal guru cleverly disguised as a portable vaporizer. The DaVinci MIQRO lets you carry powerful vapor production wherever life leads you.",
+      "image": "assets/blog/davinci-miqro/davinci-miqro.jpg",
       "type": "blog_post",
-      "category": "Your Community"
+      "category": "Your Community",
+      "pubDate": "Wed, 27 May 2020 06:28:29 GMT",
+      "archiveOrder": 9,
+      "imageWidth": 358,
+      "imageHeight": 268,
+      "imageBytes": 11306,
+      "imageSourceStatus": "local"
     },
     {
       "title": "Tips for choosing your first Tattoo",
       "destinationPath": "blog/firsttattoo.html",
-      "excerpt": "All Posts Getting Started Your Community Search",
-      "body": "All Posts Getting Started Your Community Search",
-      "image": "assets/static.wixstatic.com/b99142ec9d528464.jpg",
+      "excerpt": "There are a lot of mixed thoughts and emotions you may experience before getting your first tattoo. You may feel excited, happy, impatient, and even a little nervous. Let us help to put your mind at ease with these 11 tips that are sure to help your first...",
+      "body": "There are a lot of mixed thoughts and emotions you may experience before getting your first tattoo. You may feel excited, happy, impatient, and even a little nervous. Let us help to put your mind at ease with these 11 tips that are sure to help your first tattoo experience go smoothly.\n\n1. Don\u2019t rush.\n\nThe design is quite possibly the most important step, followed closely by where you get it done. If you\u2019re not sure that you\u2019re 100% happy with how the preliminary sketches look, talk to your artist about it. They can adjust the drawing and answer your questions.\n\n2. Research the shop.\n\nRead the online reviews and visit in person to check out the health standards, clientele, and tattoo artists. It\u2019s important to make sure you\u2019re comfortable in the shop, so do your tattoo research well ahead of time.\n\n3. Research design ideas ahead of time.\n\nResearch the design ideas you like ahead of time and come in with as much reference material necessary to deliver an articulate description for your tattoo. We will use your base description as a guideline to create a custom piece of art just for you. If you are considering a portrait, it\u2019s best to supply a large (preferably 8x10) clear image to work from so the detail can be captured as much as possible.\n\n4. Question.\n\nDon\u2019t be afraid to ask questions, questions, and more questions. A good tattoo artist will answer every single one and take the time to make sure you\u2019re comfortable before they start the process with you. If they don\u2019t answer to your satisfaction, you\u2019re just not connecting, or if they seem shady, leave.\n\n5. Consider placement.\n\nYour first tattoo is a special experience in and of itself, you may not want to choose something really huge or extremely visible (such as your face/neck/hands) for your first one. First of all, it\u2019s a big commitment and it could make it difficult to get employment depending upon your field. We've got a whole blog post about advice on tattoos and jobs.\n\n6. Don\u2019t be too thrifty.\n\nYou don\u2019t want your first tattoo to end up on Fail Blogs. Go ahead and shop around until you get an idea of fair pricing, but it\u2019s a great idea to choose a shop based on the artists\u2019 skills, experience, and health standards, rather than price.\n\n7. Take care of yourself.\n\nDon\u2019t go to the shop drunk (impaired judgment + tattooing = bad idea), and make sure you eat a decent meal and drink lots of water beforehand.\n\n8. Mentally prepare.\n\nIt\u2019s going to hurt a little and you\u2019re going to bleed a little, but it never hurts to know what you\u2019re getting into when tattoo machines are involved. Trust us, it\u2019s worth it. And it doesn't hurt all that bad.\n\n9. Wear comfortable clothes.\n\nDepending upon where the tattoo will be, you\u2019ll want to wear clothes that will allow easy access to that part of your body (if you\u2019re going to get a leg tattoo, don\u2019t wear skinny jeans). Also, if the tattoo is large, you may be there for awhile, so wear something that\u2019s comfortable to sit in.\n\n10. Take care of it.\n\nTattoo aftercare is something you should take seriously \u2013 we do. Healing your tattoo is just as important as the process itself, so don\u2019t use any type of ointment or left over tattoo wax or goo from 5 years ago. After all you and your tattoo deserve the best. If you want it to stay looking great for years to come, check out our tattoo aftercare instructions.\n\n11. Relax!\n\nThis should be an enjoyable process, and a great story to tell in the future. Have fun with it!",
+      "image": "assets/blog/firsttattoo/firsttattoo.jpg",
       "type": "blog_post",
-      "category": "Your Community"
+      "category": "Getting Started",
+      "pubDate": "Wed, 27 May 2020 06:28:29 GMT",
+      "archiveOrder": 14,
+      "imageWidth": 940,
+      "imageHeight": 788,
+      "imageBytes": 134095,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "Honeystick Beekeeper - Conceal Essential Oil Vaporizer",
       "destinationPath": "blog/honeystick-beekeeper-conceal-essential-oil-vaporizer.html",
-      "excerpt": "All Posts Getting Started Your Community Search",
-      "body": "All Posts Getting Started Your Community Search",
-      "image": "assets/i.ytimg.com/vi/vDo3KTFHb0k/hqdefault.jpg",
+      "excerpt": "Honeystick Beekeeper - Conceal Essential Oil Vaporizer is a studio media post from Diversity Tattoo. Contact the studio for current product availability, service questions, and visit details.",
+      "body": "Honeystick Beekeeper - Conceal Essential Oil Vaporizer is a studio media post from Diversity Tattoo. Contact the studio for current product availability, service questions, and visit details.",
+      "image": "assets/blog/honeystick-beekeeper-conceal-essential-oil-vaporizer/honeystick-beekeeper-conceal-essential-oil-vaporizer.jpg",
       "type": "blog_post",
-      "category": "Tattoo Planning"
+      "category": "Tattoo Planning",
+      "pubDate": "Wed, 27 May 2020 06:28:29 GMT",
+      "archiveOrder": 1,
+      "imageWidth": 480,
+      "imageHeight": 360,
+      "imageBytes": 24709,
+      "imageSourceStatus": "local"
     },
     {
       "title": "KANDYPENS K-STICK",
       "destinationPath": "blog/kandypens-k-stick.html",
-      "excerpt": "All Posts Getting Started Your Community Search",
-      "body": "All Posts Getting Started Your Community Search",
-      "image": "assets/i.ytimg.com/vi/vDo3KTFHb0k/hqdefault.jpg",
+      "excerpt": "The KandyPens K-Stick Supreme is a sleek, sexy, and super compact vape pen for waxy oil consumption. Upgraded with a quartz rod atomizer, variable voltage, a sophisticated high grade metal build, and an ergonomic rubbery mouthpiece, the K-Stick Supreme...",
+      "body": "The KandyPens K-Stick Supreme is a sleek, sexy, and super compact vape pen for waxy oil consumption. Upgraded with a quartz rod atomizer, variable voltage, a sophisticated high grade metal build, and an ergonomic rubbery mouthpiece, the K-Stick Supreme offers a premium on-the-go vaping experience with an extremely pocket-friendly pen-style design. Users choose between three voltages: Low, Medium, and High. A color-coded LED light on the bottom of the battery flashes when the unit is powered on or off, when the firing button has been pressed, and when voltage has been changed. This stealthy wax pen is extremely easy to conceal for smart vaping. Available in Gunmetal/Gold, Rose Gold/Gold, and Gold/Rose Gold, the KandyPens K-Stick Supreme is a compact yet powerful vape pen with style.\n\nQUARTZ COIL ATOMIZER\n\nThe K-Stick Supreme vaporizer features a single rod atomizer made of high quality quartz crystal with a titanium coil. Just load a small bit of wax on the coil and the K-Stick will produce thick, potent vapor in a matter of seconds. The quartz rod extracts immense flavor from waxy oils while creating huge clouds. Four miniature glass portholes on the side of the atomizer allow you to view inside the chamber. The K-Stick Supreme atomizer is connected via 510-threading for easy attachment. A leak-proof design prevents melted wax from leaking out of the chamber and clogging the airway. Vapor travels through tiny air-holes at the base of the mouthpiece, cooling and purifying each hit.\n\nVARIABLE VOLTAGE\n\nK-Stick Supreme allows you toggle through voltage settings to customize your vaping sessions. The upgraded variable voltage battery features a single control button that powers the unit on, changes voltages, and fires the atomizer. Simply click the button five times to turn the K-Stick Supreme vape on or off, and three times to shuffle through voltages. A color-coded light on the base of the battery tells you which voltage you\u2019re on, flashing green, blue or red. The lower voltage creates small, flavor-rich hits, while the higher temp will create big robust clouds. Charge up the battery using the included USB Charger attachment. Simply remove the atomizer then screw the USB attachment before connecting to a USB power source.\n\nSLEEK, POCKET FRIENDLY DESIGN\n\nSolid yet lightweight, the new K-Stick Supreme is ready for any adventure. The elegant metal build features a smooth, reflective surface with the KandyPens logo embellished near the bottom of the battery. This vape pen only measures 5 inches in length with the width of an office pen, making it one of the most compact units on the market. The KandyPens K-Stick Supreme is perfect for waxy oil enthusiasts who want great vapor production that they can enjoy on-the-go and in a discreet manner.",
+      "image": "assets/blog/kandypens-k-stick/kandypens-k-stick.jpg",
       "type": "blog_post",
-      "category": "Retail Education"
+      "category": "Retail Education",
+      "pubDate": "Wed, 27 May 2020 06:28:29 GMT",
+      "archiveOrder": 7,
+      "imageWidth": 318,
+      "imageHeight": 318,
+      "imageBytes": 10555,
+      "imageSourceStatus": "local"
     },
     {
       "title": "LEVO oil & butter maker.",
       "destinationPath": "blog/levo-oil-butter-maker.html",
-      "excerpt": "All Posts Getting Started Your Community Search",
-      "body": "All Posts Getting Started Your Community Search",
-      "image": "assets/static.wixstatic.com/51e14d6cf5226fed.png",
+      "excerpt": "The LEVO Oil Infuser is taking the pot world by storm. This popular appliance infuses flavors of all kinds of healthy food, including a variety of herbs, fruits, and more. It allows you to manufacture oils yourself, custom-made at home, which you can use to...",
+      "body": "The LEVO Oil Infuser is taking the pot world by storm. This popular appliance infuses flavors of all kinds of healthy food, including a variety of herbs, fruits, and more. It allows you to manufacture oils yourself, custom-made at home, which you can use to create a myriad of delightful dishes and edibles. The LEVO is so easy to use that anyone can use it, even stoners wanting to try something new with their stash.\n\nSince the LEVO Oil Infuser was launched, it has been a success. And that\u2019s because, this oil infuser is a versatile machine used to make just about anything. You can make any oil you want, including palm, coconut, canola, and more. As for herbs, it works with all of them, the most popular of which are basil, rosemary, thyme, and naturally, cannabis. You can make recipes or scrubs and other beauty products.\n\nWhy LEVO?\n\nAt LEVO, we\u2019re passionate about discovering natural paths to wellness, especially by making DIY more accessible. Infusing at home, with fresh ingredients, unlocks a myriad of customizable recipes \u2013 from marinades to lip balm \u2013 that optimize the benefits of wholesome herbs. Our products empower you to choose each of your ingredients and give you the utmost control in what you consume.\n\nThe process of herbal infusion has been utilized for centuries among some of the world\u2019s earliest civilizations for cooking and medicinal practice. Today, it\u2019s often found behind-the-scenes as the secret sauce of restaurant chefs and your favorite skincare brands. By extracting the components of the whole plant, the full spectrum of superior nutritional, therapeutic and medicinal benefits of infusions can be realized.\n\nFor many of us, our store-bought options are increasingly limited as more products marketed as \u201cnatural\u201d are over-processed and riddled with additives. At a minimum, most products infused with herbs contain solvents of some kind. With LEVO, there\u2019s no such need! Healthy ingredients; healthy infusions. No fine print.\n\nWe\u2019re dedicated to empowering people to live their best life through our commitment to a higher standard for infuse-it-yourself wellness. Welcome to the infusion revolution.",
+      "image": "assets/blog/levo-oil-butter-maker/levo-oil-butter-maker.png",
       "type": "blog_post",
-      "category": "Retail Education"
+      "category": "Retail Education",
+      "pubDate": "Wed, 27 May 2020 06:28:29 GMT",
+      "archiveOrder": 8,
+      "imageWidth": 350,
+      "imageHeight": 350,
+      "imageBytes": 69625,
+      "imageSourceStatus": "local"
     },
     {
       "title": "NOW in Store DR. Dabber SWITCH",
       "destinationPath": "blog/now-in-store-dr-dabber-switch.html",
-      "excerpt": "All Posts Getting Started Your Community Search",
-      "body": "All Posts Getting Started Your Community Search",
-      "image": "assets/i.ytimg.com/vi/vDo3KTFHb0k/hqdefault.jpg",
+      "excerpt": "The Dr. Dabber SWITCH is an advanced dual-use vaporizer that utilizes induction heat technology, significantly faster than other methods, induction heating creates an even surface temperature with less hot-spots, providing a consistent flavor during the...",
+      "body": "The Dr. Dabber SWITCH is an advanced dual-use vaporizer that utilizes induction heat technology, significantly faster than other methods, induction heating creates an even surface temperature with less hot-spots, providing a consistent flavor during the vaporizing experience and is quite simply, this ones are the next generation of vaporizer, the SWITCH delivers unparalleled performance with absolutely no compromise. This IS the next level.\n\nBecause there are no atomizers to replace, the device's electronics are shielded from the vaporization environment, meaning the unit is completely leak proof. Designed to reduce or eliminate oxygen from the vaporization process, the SWITCH prevents combustion and oxidation, resulting in a smoother vapor.\n\nEngineered with 25 carefully calibrated heat settings. the SWITCH is ultimate in versatility: no matter if you like massive clouds, huge or tiny hits, or a certain flavor profile, this device was designed to personalize every session. Via robust charging port and connectors, and capable of pass-through charging, the device achieves a full battery in 60 minutes. The SWITCH will deliver up to 150 uses per full charge.\n\nDesigned for optimal Performance, the SWITCH features a self-cleaning mode that is a high energy heat cycle intended to burn away any remaining residue in the ceramic induction cups. The SWITCH automatically cools down after each heat cycle, protecting the electronics and extending its lifespan.\n\nIn addition to a stylish design, the SWITCH has a simple and intuitive interface. The device has 25 different LED settings to choose from when the unit is in Standby Mode. Once set, the SWITCH will retain your favorite light setting until it is changed. The SWITCH's glass percolator attachment is crafted from heavy duty borosilicate glass and has 50mm ground glass fitting. Packaged in a sturdy carrying box, the SWITCH is the next generation of vaporization!",
+      "image": "assets/blog/now-in-store-dr-dabber-switch/now-in-store-dr-dabber-switch.jpg",
       "type": "blog_post",
-      "category": "Retail Education"
+      "category": "Retail Education",
+      "pubDate": "Wed, 27 May 2020 06:28:29 GMT",
+      "archiveOrder": 10,
+      "imageWidth": 394,
+      "imageHeight": 234,
+      "imageBytes": 9017,
+      "imageSourceStatus": "local"
     },
     {
       "title": "Taking Care of a Tattoo",
       "destinationPath": "blog/tattooaftercare.html",
-      "excerpt": "All Posts Getting Started Your Community Search",
-      "body": "All Posts Getting Started Your Community Search",
-      "image": "assets/static.wixstatic.com/b99142ec9d528464.jpg",
+      "excerpt": "#1 LEAVE YOUR BANDAGE ON FOR A MINIMUM OF 1 HOUR:",
+      "body": "#1 LEAVE YOUR BANDAGE ON FOR A MINIMUM OF 1 HOUR:\n\nLeave your bandage on for a minimum of 1 hour and no longer than 4 or 5 hours. (we would rather you left it on longer as opposed to washing it in a dirty bar bathroom) DO NOT RE -BANDAGE unless you speak with us and we decide it is a good idea, etc.\n\n#2 AFTER REMOVAL OF BANDAGE WASH THOROUGHLY WITH HOT WATER:\n\nAfter removal of bandage wash thoroughly with hot water and preferably a mild, liquid, UNSCENTED, soap. (dial, equate, etc...)\n\n#3 PAT DRY WITH A CLEAN PAPER TOWEL:\n\nPat dry with a clean paper towel and let air dry for one hour or more before applying aftercare.\n\n#4 APPLY A THIN LAYER OF PRODUCT:\n\nApply a THIN layer of product (FRAGRANCE FREE HAND LOTION, TATTOO GOO) and massage in to the skin to the point where it just barely looks moist. DO NOT GOOP ON A PILE OF A & D OINTMENT. If using lotion, make sure the product has the words \u201cFRAGRANCE FREE\u201d on the label, otherwise there may be a small amount of chemical additive to make it smell just a little better and that is what will irritate it. We do not recommend A&D ointment because of its high petroleum content. This will block your skin from breathing which is the most important thing for not only healthy but especially healing skin. It needs to be able to breathe to avoid clogging pores, etc.\n\n#5 KEEP YOUR TATTOO CLEAN WITH SOAP AND WATER:\n\nTHE MOST IMPORTANT PART OF HEALING YOUR TATTOO IS KEEPING IT CLEAN WITH SOAP AND WATER! It is a mere matter of common sense. If you are out and about, working, getting dirty, wash it more than if you are sitting on the couch watching your favorite show.\n\n#6 REPEAT THIS PROCESS FOR A WEEK OR TWO:\n\nRepeat this process for a week or two depending on the how the tattoo looks. It will peel like a sunburn after a few days. (It is totally normal to see colored flakes of skin shedding) If it does scab in a few areas this is nothing to worry about, just let them fall off on their own. DO NOT SCRATCH OR PICK AT THEM and do NOT over-saturate in the shower. This could soften them up too much and cause them to come off prematurely which will leave blank spots that will need touching up.\n\n#7 NO SUN, NO SOAKING IN WATER OF ANY KIND:\n\nDURING THE HEALING PROCESS....NO SUN, NO SWIMMING POOLS, NO JACUZZI'S, NO OCEAN, NO SOAKING IN WATER OF ANY KIND!\n\n#8 AFTER YOUR TATTOO IS HEALED:\n\nAFTER YOUR TATTOO IS HEALED....USE SUNBLOCK, THIS WILL KEEP IT LOOKING LIKE NEW LONGER.\n\n#9 THE BETTER YOU TAKE CARE OF THE GLASS/SKIN THE BETTER THE PICTURE/TATTOO LOOKS UNDERNEATH:\n\nThink of it this way, you are looking THROUGH the skin at the ink underneath much like a picture in a frame with glass over it. The better you take care of the glass/skin the better the picture/tattoo looks underneath.\n\n#10 AFTER YOU ARE ALL HEALED:\n\nAfter you are all healed (usually about 2 weeks) stop in and say hello so the artist can give it a good looking over to make sure it does not need to be touched up and to get a nice healed portfolio picture.",
+      "image": "assets/blog/tattooaftercare/tattooaftercare.jpg",
       "type": "blog_post",
-      "category": "Aftercare"
+      "category": "Getting Started",
+      "pubDate": "Wed, 27 May 2020 06:28:29 GMT",
+      "archiveOrder": 13,
+      "imageWidth": 994,
+      "imageHeight": 378,
+      "imageBytes": 41191,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "Tips for a Successful Cover Up Tattoo",
       "destinationPath": "blog/tips-for-a-successful-cover-up-tattoo.html",
-      "excerpt": "All Posts Getting Started Your Community Search",
-      "body": "All Posts Getting Started Your Community Search",
-      "image": "assets/i.ytimg.com/vi/vDo3KTFHb0k/hqdefault.jpg",
+      "excerpt": "The best course of action for masking your old tattoo depends on a few different things, like the colors in your original tattoo, how old/faded it is, the subject of the cover-up tattoo you want, and whether or not any components of your old tattoo are...",
+      "body": "The best course of action for masking your old tattoo depends on a few different things, like the colors in your original tattoo, how old/faded it is, the subject of the cover-up tattoo you want, and whether or not any components of your old tattoo are salvageable. For instance, the top-left photo is of a different sort of cover-up tattoo that worked around an existing tattoo and hid it in plain sight rather than trying to blot it out of existence.\n\nKey is working together with your Artist, on a design that included all the elements that you wanted in a new tattoo.\n\noften than not, when someone wants to cover up an old tattoo, they want it covered . A workaround like the one shown above isn't always an option, but it is worth at least considering, particularly when you're dealing with darkly-colored tattoos. Tattoo ink isn't quite like paint, which you can put over a layer or two of primer to hide a color palette misstep from your past, like the black walls you chose for your bedroom as a brooding teenager. It takes about 3 coats of primer and 2 coats of a new color to cover up black walls, so how on earth does a tattoo artist cover up an old black tattoo? It isn't easy; it requires blending, shading, detail and depth of color applied with skill, which is why it's worth taking the time to do careful research and find an artist in your area who specializes in cover up tattoos.\n\nWhat Matters in a Cover-up Tattoo Design\n\nIn addition to finding a good artist, you have to choose the right cover-up tattoo design and be open to modifications that will allow it to completely hide your old tattoo. When considering your cover-up tattoo design options and going through the process with your artist, keep these things in mind:\n\nThe more complex your cover-up design is in terms of fine details and rich shading, and the more solid, deep colors it has in it, the better your cover-up will turn out. For instance, elements like layers of scales on fish, variegation in flower petals, and swirls of hair in different shades may aid in the cover-up process. Also, deep purples, blues, greens, and other dark, cool colors with lots of black shading will cover up an old tattoo best, particularly when the original tattoo is dark. By contrast, warmer colors tend to be less successful at covering an old tattoo. The design being covered will determine whether or not any warm colors can be used in your cover up tattoo.\n\nThe cover-up tattoo shown to the right is a great example of one utilizing deep colors and lots of shading and detail to successfully cover up an old, darkly-colored tattoo. Your new design will need to be larger than your old tattoo, so that it provides more than sufficient coverage. The shape of the new design and the way it's angled over top of the old one will play a role in how much larger your cover-up tattoo needs to be to successfully mask your old tattoo. Don't be surprised if your artist suggests making the new design twice as large as the original one, if not larger. Your artist may suggest that you have a few sessions of laser tattoo removal to lighten your old tattoo before attempting to cover it up with a new one. The necessity for laser tattoo removal depends on the age of your old tattoo, how dark the colors are in the original tattoo, what colors you want included in your cover up tattoo, and the complexity of the cover-up design. When covering up an old, faded tattoo, laser tattoo removal usually isn't necessary. Likewise, if your cover up tattoo design is intricate and includes colors that are darker than those in the tattoo being covered, you may not need to have laser tattoo removal first. Your artist will be able to advise you best on this matter. Be prepared to have anywhere from one to three touch-up sessions after getting your cover up tattoo. Once the ink has settled, the old design may peek through somewhat, but a few more passes should take care of that problem, if it arises.",
+      "image": "assets/blog/tips-for-a-successful-cover-up-tattoo/tips-for-a-successful-cover-up-tattoo.png",
       "type": "blog_post",
-      "category": "Tattoo Planning"
+      "category": "Tattoo Planning",
+      "pubDate": "Wed, 27 May 2020 06:28:29 GMT",
+      "archiveOrder": 4,
+      "imageWidth": 1000,
+      "imageHeight": 1000,
+      "imageBytes": 2528989,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "What is \"Detox\"",
       "destinationPath": "blog/what-is-detox.html",
-      "excerpt": "All Posts Getting Started Your Community Search",
-      "body": "All Posts Getting Started Your Community Search",
-      "image": "assets/i.ytimg.com/vi/vDo3KTFHb0k/hqdefault.jpg",
+      "excerpt": "Let\u2019s face it: we\u2019re all toxic to some degree. Whether it\u2019s the air we breathe, the foods we eat, the smoke we exhale, or the fluids we\u2019re chasing with a soda-back, our bodies are built to naturally expel these toxins from our systems. If you party hard,...",
+      "body": "Let\u2019s face it: we\u2019re all toxic to some degree. Whether it\u2019s the air we breathe, the foods we eat, the smoke we exhale, or the fluids we\u2019re chasing with a soda-back, our bodies are built to naturally expel these toxins from our systems. If you party hard, your body has to work longer and harder to remove all of those residual toxins. The body\u2019s systems \u2013 circulatory, digestive, urinary \u2013 are constantly at work trying to remove toxins.\n\nWhen you add Detoxify products to your natural cleanse routine, you supercharge your body\u2019s ability to do what it normally does, better. Detoxify products are body hacks; they are cheat codes for the body that let you expedite and enhance your natural ability to rid your systems of toxins. That means your body will be better and quicker at removing those toxins, so you can get back to working and partying as hard as you want.\n\nShort Term v. Long Term Detox\n\nMany of us lead busy lives and don\u2019t pay much attention to cleansing until the first time that we have to; we work hard, we party hard, and when we need to be clean, it\u2019s a short-lived need and then we can get back to working and partying just as hard. For others, regular cleansing is an essential part of any lifestyle and they plan for long-term cleanses to help keep the body free of life\u2019s toxins.\n\nDetoxify understands that some of us are looking for short term cleanses that rapidly flush our bodies of toxins for a short period of time, while others are looking to permanently remove toxins and have the time to commit to a long term cleanse.\n\nIf you need to feel your best and be toxin free immediately, you\u2019re going to want to choose one of our \"High Toxin, No Time\u201d products such as Mighty Clean or Mega Clean NT. If you\u2019ve got a few days to cleanse, something like Ready Clean or Xxtra Clean would work great. And, if you want a permanent, long-term full body cleanse and you\u2019ve got five days to commit to it, then Ever Clean is the perfect product for your goals.",
+      "image": "assets/blog/what-is-detox/what-is-detox.jpeg",
       "type": "blog_post",
-      "category": "Retail Education"
+      "category": "Retail Education",
+      "pubDate": "Wed, 27 May 2020 06:28:29 GMT",
+      "archiveOrder": 2,
+      "imageWidth": 540,
+      "imageHeight": 540,
+      "imageBytes": 39278,
+      "imageSourceStatus": "downloaded"
     },
     {
       "title": "What to do if your Tattoo or Piercing itches...",
       "destinationPath": "blog/what-to-do-if-your-tattoo-or-piercing-itches.html",
-      "excerpt": "All Posts Getting Started Your Community Search",
-      "body": "All Posts Getting Started Your Community Search",
-      "image": "assets/i.ytimg.com/vi/vDo3KTFHb0k/hqdefault.jpg",
+      "excerpt": "Tattoos & Piercings have become more and more popular to the point where it\u2019s practically mainstream now. Getting a quality tattoo & piercing is a very intricate process which involves some excruciating pain. This is followed by the healing process and some...",
+      "body": "Tattoos & Piercings have become more and more popular to the point where it\u2019s practically mainstream now. Getting a quality tattoo & piercing is a very intricate process which involves some excruciating pain. This is followed by the healing process and some people begin feeling itchy.\n\nThe itchiness could last for several weeks and the discomfort further worsens because you are never supposed to scratch your itching tattoo for any reason whatsoever. But what do you do then? This article will tell you what you should do if your tattoo itches.\n\nBefore we give you the ultimate solution for your itchy tattoo, lets do a quick background check. For example, some people wonder whether an itchy tattoo is normal. Others are scared about what the itchy tattoo means. First, you need to understand that the process of putting that beautiful tattoo on you involves skin irritation and wounding. The process of skin healing even from a bug bite involves itchiness. So, yes! Tattoo itching is quite normal.\n\nA lot of people wonder how much itchiness is normal or how long a normal tattoo itch should last. Well, there is no universally correct answer to these questions. This is because the period and extent of the itch varies by from one individual to another depending on location and size of the tattoo, etc. Some people experience very extreme irritation and, therefore, extreme irritation that lasts for a comparatively longer period. Others only experience mild to low irritation for shorter periods.\n\nSo, what do you when your new tattoo itches? Do you scratch it it? Absolutely NOT. The main reasons are number one, you run the risk of getting an infection. The other is that if you pull a scab off prematurely then ink can get removed which will leave patchiness which you do not want.",
+      "image": "assets/blog/what-to-do-if-your-tattoo-or-piercing-itches/what-to-do-if-your-tattoo-or-piercing-itches.jpg",
       "type": "blog_post",
-      "category": "Aftercare"
+      "category": "Aftercare",
+      "pubDate": "Wed, 27 May 2020 06:28:29 GMT",
+      "archiveOrder": 6,
+      "imageWidth": 480,
+      "imageHeight": 360,
+      "imageBytes": 24709,
+      "imageSourceStatus": "local"
     }
   ],
   "artists": [

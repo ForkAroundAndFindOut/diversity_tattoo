@@ -639,6 +639,16 @@ h3 {
   background: var(--panel);
 }
 
+.product-card {
+  color: inherit;
+  text-decoration: none;
+}
+
+.product-card:focus-visible {
+  outline: 3px solid var(--teal);
+  outline-offset: 4px;
+}
+
 .product-card img,
 .guide-card img,
 .profile-card img {
@@ -689,6 +699,13 @@ h3 {
 .service-record a {
   color: var(--teal);
   font-weight: 800;
+}
+
+.product-card .details-link {
+  color: var(--teal);
+  font-weight: 800;
+  text-transform: none;
+  font-size: 1rem;
 }
 
 .card-meta {
@@ -1131,9 +1148,19 @@ h3 {
   font-size: 3.1rem;
 }
 
-.detail-copy > p {
+.detail-copy > p,
+.detail-body p {
   color: var(--muted);
   white-space: pre-wrap;
+}
+
+.detail-body {
+  display: grid;
+  gap: 14px;
+}
+
+.detail-body p {
+  margin: 0;
 }
 
 .detail-meta {

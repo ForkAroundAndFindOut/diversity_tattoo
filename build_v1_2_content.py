@@ -4,11 +4,16 @@ import csv
 import json
 import re
 import shutil
+import struct
 from collections import Counter, defaultdict
 from datetime import date
 from html import escape, unescape
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import unquote, urlparse
+from urllib.request import Request, urlopen
+from xml.etree import ElementTree as ET
+
+from bs4 import BeautifulSoup
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -24,6 +29,7 @@ SITE_MAP_MD = CATALOG_DIR / "site-map.md"
 LOCAL_SITEMAP_HTML = MIRROR_DIR / "sitemap.html"
 OBSERVED_404_JSON = CATALOG_DIR / "observed-404-ledger.json"
 OBSERVED_404_CSV = CATALOG_DIR / "observed-404-ledger.csv"
+FEED_XML = MIRROR_DIR / "blog-feed.xml"
 
 SITE_DATA_JS = OUT_DIR / "site-data.js"
 ROUTE_MAP_JSON = OUT_DIR / "route-map.json"
@@ -40,6 +46,9 @@ PRODUCT_PUBLICATION_LEDGER_JSON = OUT_DIR / "product-publication-ledger.json"
 PRODUCT_PUBLICATION_LEDGER_CSV = OUT_DIR / "product-publication-ledger.csv"
 BLOG_POST_LEDGER_JSON = OUT_DIR / "blog-post-ledger.json"
 BLOG_POST_LEDGER_CSV = OUT_DIR / "blog-post-ledger.csv"
+SOURCE_DIR = OUT_DIR / "source"
+BLOG_SOURCE_JSON = SOURCE_DIR / "blog-posts.json"
+BLOG_SOURCE_MD = SOURCE_DIR / "blog-posts.md"
 QA_MD = OUT_DIR / "QA_CHECKLIST.md"
 VERSION_NOTES = OUT_DIR / "VERSION_1_2_NOTES.md"
 RESULTS_MD = OUT_DIR / "IMPLEMENTATION_RESULTS.md"
@@ -98,6 +107,7 @@ NAV_NOISE = [
     "SMOKE SHOP",
     "LOCATIONS",
     "BLOG",
+    "All Posts Getting Started Your Community Search",
     "More",
     "Use tab to navigate through the menu items.",
     "bottom of page",
@@ -113,6 +123,14 @@ TITLE_SUFFIXES = [
 ]
 
 MOJIBAKE_REPLACEMENTS = {
+    "â€™": "'",
+    "â€˜": "'",
+    "â€œ": '"',
+    "â€": '"',
+    "â€�": '"',
+    "â€“": "-",
+    "â€”": "-",
+    "â€¦": "...",
     "Ã¢â‚¬â„¢": "'",
     "Ã¢â‚¬Å“": '"',
     "Ã¢â‚¬Â": '"',
@@ -192,6 +210,13 @@ SERVICE_CATEGORIES = {
 }
 
 GUIDE_TYPES = {"blog_post", "blog_category", "blog_index", "blog_redirect"}
+BLOG_NAVIGATION_TEXT = "All Posts Getting Started Your Community Search"
+BLOG_SIDEBAR_TEXT = "Recent Posts See All"
+MIN_PRODUCT_IMAGE_EDGE = 180
+MIN_PRODUCT_SLIM_IMAGE_EDGE = 120
+MIN_PRODUCT_SLIM_IMAGE_LONG_EDGE = 360
+MIN_PRODUCT_SLIM_IMAGE_AREA = 45000
+MIN_BLOG_IMAGE_EDGE = 180
 
 
 def read_csv(path: Path) -> list[dict[str, str]]:
@@ -244,6 +269,243 @@ def clean_excerpt(value: str | None, title: str | None, limit: int = 220) -> str
     if limit and len(text) > limit:
         text = text[: limit - 1].rsplit(" ", 1)[0].strip() + "..."
     return text
+
+
+def make_soup(html: str) -> BeautifulSoup:
+    return BeautifulSoup(html, "lxml")
+
+
+def image_size(path: Path) -> tuple[int, int]:
+    try:
+        data = path.read_bytes()
+    except OSError:
+        return (0, 0)
+    if len(data) < 24:
+        return (0, 0)
+    if data.startswith(b"\x89PNG\r\n\x1a\n"):
+        return struct.unpack(">II", data[16:24])
+    if data[:2] == b"\xff\xd8":
+        offset = 2
+        while offset + 9 < len(data):
+            if data[offset] != 0xFF:
+                offset += 1
+                continue
+            marker = data[offset + 1]
+            offset += 2
+            if marker in {0xD8, 0xD9}:
+                continue
+            if offset + 2 > len(data):
+                break
+            length = struct.unpack(">H", data[offset : offset + 2])[0]
+            if length < 2 or offset + length > len(data):
+                break
+            if marker in {0xC0, 0xC1, 0xC2, 0xC3, 0xC5, 0xC6, 0xC7, 0xC9, 0xCA, 0xCB, 0xCD, 0xCE, 0xCF}:
+                height = struct.unpack(">H", data[offset + 3 : offset + 5])[0]
+                width = struct.unpack(">H", data[offset + 5 : offset + 7])[0]
+                return (width, height)
+            offset += length
+    if data.startswith(b"RIFF") and data[8:12] == b"WEBP":
+        chunk = data[12:16]
+        if chunk == b"VP8X" and len(data) >= 30:
+            width = 1 + int.from_bytes(data[24:27], "little")
+            height = 1 + int.from_bytes(data[27:30], "little")
+            return (width, height)
+        if chunk == b"VP8L" and len(data) >= 25:
+            bits = int.from_bytes(data[21:25], "little")
+            width = 1 + (bits & 0x3FFF)
+            height = 1 + ((bits >> 14) & 0x3FFF)
+            return (width, height)
+        if chunk == b"VP8 " and len(data) >= 30:
+            width = struct.unpack("<H", data[26:28])[0] & 0x3FFF
+            height = struct.unpack("<H", data[28:30])[0] & 0x3FFF
+            return (width, height)
+    return (0, 0)
+
+
+def image_meets_quality(
+    path: Path,
+    min_edge: int,
+    *,
+    slim_min_edge: int = 0,
+    slim_min_long_edge: int = 0,
+    slim_min_area: int = 0,
+) -> bool:
+    width, height = image_size(path)
+    if min(width, height) >= min_edge:
+        return True
+    return bool(
+        slim_min_edge
+        and min(width, height) >= slim_min_edge
+        and max(width, height) >= slim_min_long_edge
+        and width * height >= slim_min_area
+    )
+
+
+def media_id_from_value(value: str) -> str:
+    if not value:
+        return ""
+    parsed = urlparse(value)
+    raw_path = unquote(parsed.path if parsed.scheme else value)
+    parts = [part for part in raw_path.split("/") if part]
+    candidate = ""
+    if "media" in parts:
+        media_index = parts.index("media")
+        if media_index + 1 < len(parts):
+            candidate = parts[media_index + 1]
+    if not candidate and parts:
+        candidate = parts[-1]
+    candidate = candidate.split("?", 1)[0]
+    return normalize_media_key(candidate)
+
+
+def asset_path_from_local(local_path: str) -> str:
+    return local_path.replace("\\", "/").replace("site/", "assets/", 1)
+
+
+def local_path_for_asset(asset_path: str) -> Path:
+    if asset_path.startswith("assets/"):
+        return OUT_DIR / asset_path
+    return ROOT / asset_path
+
+
+def copy_or_download_media(source_path: Path | None, source_url: str, destination: Path) -> str:
+    destination.parent.mkdir(parents=True, exist_ok=True)
+    if source_path and source_path.exists():
+        shutil.copy2(source_path, destination)
+        return "local"
+    if source_url:
+        request = Request(source_url, headers={"User-Agent": "Mozilla/5.0"})
+        with urlopen(request, timeout=45) as response:
+            destination.write_bytes(response.read())
+        return "downloaded"
+    return "missing"
+
+
+def extension_for_media(path: Path | None, url: str) -> str:
+    if path and path.suffix:
+        return path.suffix.lower()
+    suffix = Path(urlparse(url).path).suffix.lower()
+    if suffix in {".jpg", ".jpeg", ".png", ".webp", ".gif"}:
+        return suffix
+    return ".jpg"
+
+
+def parse_feed_posts() -> dict[str, dict[str, str]]:
+    tree = ET.parse(FEED_XML)
+    channel = tree.getroot().find("channel")
+    if channel is None:
+        return {}
+    posts: dict[str, dict[str, str]] = {}
+    for index, item in enumerate(channel.findall("item")):
+        link = clean_text(item.findtext("link"))
+        slug = urlparse(link).path.rstrip("/").rsplit("/", 1)[-1]
+        if not slug:
+            continue
+        enclosure = item.find("enclosure")
+        enclosure_url = enclosure.get("url", "") if enclosure is not None else ""
+        posts[slug] = {
+            "slug": slug,
+            "title": clean_title(item.findtext("title")),
+            "description": clean_text(item.findtext("description")),
+            "url": link,
+            "pubDate": clean_text(item.findtext("pubDate")),
+            "category": clean_text(item.findtext("category")),
+            "enclosureUrl": enclosure_url,
+            "archiveOrder": str(index + 1),
+        }
+    return posts
+
+
+def meta_content(soup: BeautifulSoup, *, name: str = "", prop: str = "") -> str:
+    selector = ""
+    if name:
+        selector = f'meta[name="{name}"]'
+    elif prop:
+        selector = f'meta[property="{prop}"]'
+    node = soup.select_one(selector) if selector else None
+    return clean_text(node.get("content", "")) if node else ""
+
+
+def extract_blog_blocks(html: str, title: str) -> list[str]:
+    soup = make_soup(html)
+    article = soup.select_one('article[data-hook="post"]')
+    if not article:
+        return []
+    for selector in [
+        "header",
+        "footer",
+        "svg",
+        "button",
+        '[data-hook="post-title"]',
+        '[data-hook="post-stats"]',
+        '[data-hook="more-button"]',
+        '[data-hook="post-main-actions-desktop"]',
+    ]:
+        for node in article.select(selector):
+            node.decompose()
+    blocks: list[str] = []
+    for node in article.find_all(["p", "h2", "h3", "h4", "li"]):
+        text = clean_text(node.get_text(" ", strip=True))
+        for marker in [BLOG_SIDEBAR_TEXT, "© 2023 by Diversity Tattoo", BLOG_NAVIGATION_TEXT]:
+            if marker in text:
+                text = text.split(marker, 1)[0].strip()
+        if not text or text == BLOG_NAVIGATION_TEXT:
+            continue
+        if text == clean_title(title):
+            continue
+        if text.startswith(clean_title(title)) and " min read" in text:
+            continue
+        if text not in blocks:
+            blocks.append(text)
+    return blocks
+
+
+def extract_blog_source(
+    row: dict[str, str],
+    feed_posts: dict[str, dict[str, str]],
+    media_lookup: dict[str, list[dict[str, str]]],
+    grouped_media: dict[str, list[dict[str, str]]],
+) -> dict[str, object]:
+    route = row.get("route_path", "")
+    slug = slug_from_route(route)
+    feed = feed_posts.get(slug, {})
+    path = ROOT / row.get("local_path", "")
+    html = path.read_text(encoding="utf-8", errors="ignore") if path.exists() else ""
+    soup = make_soup(html) if html else BeautifulSoup("", "lxml")
+    title = clean_title(feed.get("title") or row.get("title", ""))
+    blocks = extract_blog_blocks(html, title) if html else []
+    if not blocks:
+        fallback = clean_excerpt(feed.get("description") or row.get("body_text_excerpt", ""), title, 1200)
+        if (
+            not fallback
+            or BLOG_NAVIGATION_TEXT in fallback
+            or BLOG_SIDEBAR_TEXT in fallback
+            or (" min read" in fallback and fallback.startswith(title))
+        ):
+            fallback = (
+                f"{title} is a studio media post from Diversity Tattoo. "
+                "Contact the studio for current product availability, service questions, and visit details."
+            )
+        blocks = [fallback] if fallback else []
+    blocks = [clean_text(block, 5000) for block in blocks if clean_text(block, 5000)]
+    image_url = meta_content(soup, prop="og:image") or feed.get("enclosureUrl", "")
+    image = resolve_local_media_asset(route, image_url, media_lookup) or pick_image(row, media_by_route(read_csv(MEDIA_CSV)))
+    category = feed.get("category") or guide_category(row)
+    return {
+        "slug": slug,
+        "title": title,
+        "route": route,
+        "sourceUrl": feed.get("url") or row.get("legacy_url", ""),
+        "destinationPath": f"blog/{slug}.html",
+        "pubDate": feed.get("pubDate", ""),
+        "archiveOrder": safe_int(feed.get("archiveOrder")) or 999,
+        "category": category,
+        "excerpt": clean_text(blocks[0], 260) if blocks else clean_excerpt(feed.get("description"), title, 260),
+        "body": "\n\n".join(blocks),
+        "bodyBlocks": blocks,
+        "image": image or pick_image(row, grouped_media),
+        "imageSourceUrl": image_url,
+    }
 
 
 def safe_int(value: str | int | None) -> int:
@@ -526,8 +788,8 @@ def normalize_media_key(value: str) -> str:
     return clean_text(value).replace("~", "_")
 
 
-def product_media_lookup(media_rows: list[dict[str, str]]) -> dict[str, dict[str, str]]:
-    lookup: dict[str, dict[str, str]] = {}
+def product_media_lookup(media_rows: list[dict[str, str]]) -> dict[str, list[dict[str, str]]]:
+    lookup: dict[str, list[dict[str, str]]] = defaultdict(list)
     for row in media_rows:
         route = row.get("page_route", "")
         key = normalize_media_key(row.get("media_key", ""))
@@ -536,16 +798,42 @@ def product_media_lookup(media_rows: list[dict[str, str]]) -> dict[str, dict[str
             continue
         if not (ROOT / local_path).exists():
             continue
-        lookup[f"{route}::{key}"] = row
+        lookup[f"{route}::{key}"].append(row)
+        lookup[f"*::{key}"].append(row)
     return lookup
 
 
-def product_truth_image(route: str, truth: dict, media_lookup: dict[str, dict[str, str]]) -> str:
+def candidate_row_score(row: dict[str, str]) -> tuple[int, int, int]:
+    local_path = row.get("local_path", "")
+    path = ROOT / local_path
+    width, height = image_size(path)
+    area = width * height
+    not_blurred = 0 if "blur_" in row.get("media_url", "") else 1
+    try:
+        size = path.stat().st_size
+    except OSError:
+        size = 0
+    return (not_blurred, area, size)
+
+
+def resolve_local_media_asset(route: str, media_value: str, media_lookup: dict[str, list[dict[str, str]]]) -> str:
+    media_id = media_id_from_value(media_value)
+    if not media_id:
+        return ""
+    rows = [*media_lookup.get(f"{route}::{media_id}", []), *media_lookup.get(f"*::{media_id}", [])]
+    rows = [row for row in rows if row.get("local_path") and (ROOT / row["local_path"]).exists()]
+    if not rows:
+        return ""
+    best = sorted(rows, key=candidate_row_score, reverse=True)[0]
+    return asset_path_from_local(best["local_path"])
+
+
+def product_truth_image(route: str, truth: dict, media_lookup: dict[str, list[dict[str, str]]]) -> str:
     for media in truth.get("media", []):
-        media_id = normalize_media_key(media.get("id", ""))
-        row = media_lookup.get(f"{route}::{media_id}")
-        if row:
-            return row["local_path"].replace("\\", "/").replace("site/", "assets/", 1)
+        for value in [media.get("id", ""), media.get("fullUrl", ""), media.get("url", ""), media.get("thumbnailFullUrl", "")]:
+            resolved = resolve_local_media_asset(route, value, media_lookup)
+            if resolved:
+                return resolved
     return ""
 
 
@@ -555,6 +843,7 @@ def build_data() -> tuple[dict, list[dict[str, str]], list[dict[str, str]], dict
     external_rows = read_csv(EXTERNAL_CSV) if EXTERNAL_CSV.exists() else []
     media_grouped = media_by_route(media_rows)
     product_media_by_key = product_media_lookup(media_rows)
+    feed_posts = parse_feed_posts()
     ledger = build_route_ledger(pages)
     ledger_by_route = {item["route"]: item for item in ledger}
 
@@ -616,14 +905,25 @@ def build_data() -> tuple[dict, list[dict[str, str]], list[dict[str, str]], dict
                 }
             )
         elif row["page_type"] in GUIDE_TYPES:
-            guides.append(
-                {
-                    **base,
-                    "type": row["page_type"],
-                    "category": guide_category(row),
-                    "sourceConfidence": "catalog extracted",
-                }
-            )
+            if row["page_type"] == "blog_post":
+                blog_source = extract_blog_source(row, feed_posts, product_media_by_key, media_grouped)
+                guides.append(
+                    {
+                        **base,
+                        **blog_source,
+                        "type": row["page_type"],
+                        "sourceConfidence": "local post html + rss feed",
+                    }
+                )
+            else:
+                guides.append(
+                    {
+                        **base,
+                        "type": row["page_type"],
+                        "category": guide_category(row),
+                        "sourceConfidence": "catalog extracted",
+                    }
+                )
         elif row["page_type"] == "shop_page":
             shop_pages.append({**base, "type": row["page_type"]})
         elif row["page_type"] == "profile":
@@ -1015,6 +1315,7 @@ def html_page(
     meta_html = "\n".join(
         f"<li><strong>{escape(label)}</strong><span>{escape(value)}</span></li>" for label, value in meta if value
     )
+    body_html = body_to_html(body)
     canonical_html = f'    <link rel="canonical" href="{escape(canonical_path, quote=True)}" />\n' if canonical_path else ""
     return f"""<!doctype html>
 <html lang="en">
@@ -1046,7 +1347,9 @@ def html_page(
         <div class="detail-copy">
           <p class="eyebrow">{escape(eyebrow)}</p>
           <h1>{escape(title)}</h1>
-          <p>{escape(body)}</p>
+          <div class="detail-body">
+            {body_html}
+          </div>
           <ul class="contact-detail-list detail-meta">
             {meta_html}
           </ul>
@@ -1060,8 +1363,18 @@ def html_page(
 """
 
 
+def body_to_html(body: str) -> str:
+    blocks = [clean_text(block) for block in re.split(r"\n{2,}", body or "") if clean_text(block)]
+    if not blocks:
+        return "<p>Contact Diversity Tattoo for current details.</p>"
+    return "\n".join(f"<p>{escape(block)}</p>" for block in blocks)
+
+
 def write_blog_archive(data: dict) -> None:
-    posts = [guide for guide in data["guides"] if guide.get("type") == "blog_post"]
+    posts = sorted(
+        [guide for guide in data["guides"] if guide.get("type") == "blog_post"],
+        key=lambda post: safe_int(post.get("archiveOrder")) or 999,
+    )
     cards = "\n".join(
         f"""
         <article class="guide-card hover-lift is-visible">
@@ -1106,7 +1419,7 @@ def write_blog_archive(data: dict) -> None:
         <div class="section-intro">
           <p class="eyebrow">Blog</p>
           <h1>Advice, aftercare and product education.</h1>
-          <p>Browse studio posts in a single archive. Older category URLs open this archive and can be filtered in a future enhancement without changing the canonical post URLs.</p>
+          <p>Browse tattoo planning, aftercare, detox and product education from the studio.</p>
         </div>
         <div class="guide-grid" id="blog-archive-grid">
           {cards}
@@ -1118,6 +1431,46 @@ def write_blog_archive(data: dict) -> None:
 """,
         encoding="utf-8",
     )
+
+
+def write_blog_source_archive(data: dict) -> None:
+    SOURCE_DIR.mkdir(parents=True, exist_ok=True)
+    posts = sorted(
+        [guide for guide in data["guides"] if guide.get("type") == "blog_post"],
+        key=lambda post: safe_int(post.get("archiveOrder")) or 999,
+    )
+    rows = [
+        {
+            "title": post.get("title", ""),
+            "slug": Path(post.get("destinationPath", "")).stem,
+            "sourceUrl": post.get("sourceUrl", ""),
+            "canonicalUrl": "/" + post.get("destinationPath", ""),
+            "pubDate": post.get("pubDate", ""),
+            "category": post.get("category", ""),
+            "image": post.get("image", ""),
+            "excerpt": post.get("excerpt", ""),
+            "body": post.get("body", ""),
+        }
+        for post in posts
+    ]
+    write_json(BLOG_SOURCE_JSON, rows)
+    parts = ["# Diversity Tattoo Blog Source Archive", ""]
+    for row in rows:
+        parts.extend(
+            [
+                f"## {row['title']}",
+                "",
+                f"- Slug: `{row['slug']}`",
+                f"- Source: {row['sourceUrl']}",
+                f"- Canonical: {row['canonicalUrl']}",
+                f"- Date: {row['pubDate']}",
+                f"- Category: {row['category']}",
+                "",
+                str(row["body"]),
+                "",
+            ]
+        )
+    BLOG_SOURCE_MD.write_text("\n".join(parts).strip() + "\n", encoding="utf-8")
 
 
 def shop_controls_html(prefix: str = "") -> str:
@@ -1283,26 +1636,78 @@ def copy_assets() -> None:
             shutil.copytree(source, assets_root / dirname)
 
 
+def localize_record_image(
+    record: dict,
+    root_dir: str,
+    min_edge: int,
+    *,
+    slim_min_edge: int = 0,
+    slim_min_long_edge: int = 0,
+    slim_min_area: int = 0,
+) -> None:
+    slug = Path(record.get("destinationPath", "")).stem or slug_from_route(record.get("route", ""))
+    if not slug:
+        return
+    source_image = record.get("image") or CATEGORY_IMAGES.get(record.get("category", ""), "")
+    source_path = local_path_for_asset(source_image) if source_image else None
+    source_url = str(record.get("imageSourceUrl", ""))
+    use_source_path = (
+        source_path
+        if source_path
+        and source_path.exists()
+        and image_meets_quality(
+            source_path,
+            min_edge,
+            slim_min_edge=slim_min_edge,
+            slim_min_long_edge=slim_min_long_edge,
+            slim_min_area=slim_min_area,
+        )
+        else None
+    )
+    if not use_source_path and source_path and source_path.exists() and not source_url:
+        use_source_path = source_path
+    suffix = extension_for_media(use_source_path or source_path, source_url)
+    destination = OUT_DIR / "assets" / root_dir / slug / f"{slug}{suffix}"
+    status = "missing"
+    try:
+        status = copy_or_download_media(use_source_path, source_url, destination)
+    except Exception:
+        if source_path and source_path.exists():
+            shutil.copy2(source_path, destination)
+            status = "local_low_resolution_fallback"
+    if not destination.exists():
+        return
+    width, height = image_size(destination)
+    record["image"] = destination.relative_to(OUT_DIR).as_posix()
+    record["imageWidth"] = width
+    record["imageHeight"] = height
+    record["imageBytes"] = destination.stat().st_size
+    record["imageSourceStatus"] = status
+
+
 def localize_product_images(data: dict) -> None:
     product_root = OUT_DIR / "assets" / "products"
     product_root.mkdir(parents=True, exist_ok=True)
     for product in data.get("products", []):
-        slug = Path(product.get("destinationPath", "")).stem or slug_from_route(product.get("route", ""))
-        if not slug:
-            continue
-        source_image = product.get("image") or CATEGORY_IMAGES.get(product.get("category", ""), "")
-        source_path = OUT_DIR / source_image
-        if not source_path.exists():
-            fallback = CATEGORY_IMAGES.get(product.get("category", "")) or CATEGORY_IMAGES["Shop / Product Catalog"]
-            source_path = OUT_DIR / fallback
-        if not source_path.exists():
-            continue
-        suffix = source_path.suffix.lower() or ".jpg"
-        destination_dir = product_root / slug
-        destination_dir.mkdir(parents=True, exist_ok=True)
-        destination = destination_dir / f"{slug}{suffix}"
-        shutil.copy2(source_path, destination)
-        product["image"] = destination.relative_to(OUT_DIR).as_posix()
+        if not product.get("imageSourceUrl"):
+            media = next(iter(product.get("productMedia", [])), {})
+            product["imageSourceUrl"] = media.get("fullUrl", "") or media.get("url", "")
+        localize_record_image(
+            product,
+            "products",
+            MIN_PRODUCT_IMAGE_EDGE,
+            slim_min_edge=MIN_PRODUCT_SLIM_IMAGE_EDGE,
+            slim_min_long_edge=MIN_PRODUCT_SLIM_IMAGE_LONG_EDGE,
+            slim_min_area=MIN_PRODUCT_SLIM_IMAGE_AREA,
+        )
+
+
+def localize_blog_images(data: dict) -> None:
+    blog_root = OUT_DIR / "assets" / "blog"
+    blog_root.mkdir(parents=True, exist_ok=True)
+    for guide in data.get("guides", []):
+        if guide.get("type") == "blog_post":
+            localize_record_image(guide, "blog", MIN_BLOG_IMAGE_EDGE)
 
 
 def public_runtime_data(data: dict) -> dict:
@@ -1336,12 +1741,33 @@ def public_runtime_data(data: dict) -> dict:
                 "price",
                 "inventoryStatus",
                 "isInStock",
+                "imageWidth",
+                "imageHeight",
+                "imageBytes",
+                "imageSourceStatus",
             ],
         )
         for product in public_data.get("products", [])
     ]
     public_data["guides"] = [
-        keep(guide, ["title", "destinationPath", "excerpt", "body", "image", "type", "category"])
+        keep(
+            guide,
+            [
+                "title",
+                "destinationPath",
+                "excerpt",
+                "body",
+                "image",
+                "type",
+                "category",
+                "pubDate",
+                "archiveOrder",
+                "imageWidth",
+                "imageHeight",
+                "imageBytes",
+                "imageSourceStatus",
+            ],
+        )
         for guide in public_data.get("guides", [])
         if guide.get("type") == "blog_post"
     ]
@@ -1480,6 +1906,10 @@ def product_publication_rows(data: dict) -> list[dict[str, object]]:
                 "inventory_status": product.get("inventoryStatus", ""),
                 "source_confidence": product.get("sourceConfidence", ""),
                 "image": image,
+                "image_width": product.get("imageWidth", ""),
+                "image_height": product.get("imageHeight", ""),
+                "image_bytes": product.get("imageBytes", ""),
+                "image_source_status": product.get("imageSourceStatus", ""),
             }
         )
     return rows
@@ -1492,8 +1922,10 @@ def blog_post_rows(data: dict) -> list[dict[str, object]]:
             "canonical_url": "/" + post.get("destinationPath", ""),
             "title": post.get("title", ""),
             "category": post.get("category", ""),
+            "pub_date": post.get("pubDate", ""),
+            "body_length": len(post.get("body", "")),
             "indexability": "index",
-            "archive_order": index + 1,
+            "archive_order": post.get("archiveOrder") or index + 1,
         }
         for index, post in enumerate([item for item in data.get("guides", []) if item.get("type") == "blog_post"])
     ]
@@ -1574,8 +2006,7 @@ def alias_page(source: str, target: str, title: str = "Page moved") -> str:
   <body>
     <main>
       <h1>{escape(title)}</h1>
-      <p>This page is now available at <a href="{escape(target, quote=True)}">{escape(target)}</a>.</p>
-      <p><small>Legacy source: <code>{escape(source)}</code></small></p>
+      <p>This page has moved. Continue to <a href="{escape(target, quote=True)}">the current Diversity Tattoo page</a>.</p>
     </main>
   </body>
 </html>
@@ -2378,12 +2809,14 @@ def main() -> None:
     copy_assets()
     data, ledger, redirects, media_review = build_data()
     localize_product_images(data)
+    localize_blog_images(data)
     pages = read_csv(CONTENT_CSV)
     media_rows = read_csv(MEDIA_CSV)
     observed_404_ledger = build_observed_404_ledger(pages, media_rows, ledger)
     write_observed_404_files(observed_404_ledger)
     update_site_map_404_section(observed_404_ledger)
     write_local_sitemap_html(observed_404_ledger)
+    write_blog_source_archive(data)
     write_detail_pages(data)
     write_js(data)
     write_json(ROUTE_MAP_JSON, ledger)
