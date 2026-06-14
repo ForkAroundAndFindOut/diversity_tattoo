@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+  <title id="title">Asset not found</title>
+  <desc id="desc">Placeholder shown when a canonical product image is unavailable.</desc>
+  <rect width="900" height="900" fill="#11151d"/>
+  <rect x="48" y="48" width="804" height="804" fill="#171d28" stroke="#394254" stroke-width="4"/>
+  <path d="M226 589 365 423l95 112 62-75 152 129H226Z" fill="#2f394b"/>
+  <circle cx="595" cy="305" r="66" fill="#2f394b"/>
+  <text x="450" y="693" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" fill="#f1f3f7">asset-not-found</text>
+  <text x="450" y="752" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#aab3c2">canonical media missing</text>
+</svg>

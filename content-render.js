@@ -366,15 +366,15 @@
       grid.innerHTML = visibleGuides
         .map(
           (guide) => `
-            <article class="guide-card hover-lift is-visible">
+            <a class="guide-card hover-lift is-visible" href="${escapeHtml(rebuildPath(guide.destinationPath))}">
               <img src="${escapeHtml(assetPath(guide.image))}" alt="${escapeHtml(guide.title)}" loading="lazy" />
               <div>
                 <span>${escapeHtml(guide.category)}</span>
                 <h3>${escapeHtml(guide.title)}</h3>
                 <p>${escapeHtml(guide.excerpt)}</p>
-                <a href="${escapeHtml(rebuildPath(guide.destinationPath))}">Read post</a>
+                <span class="details-link">Read post</span>
               </div>
-            </article>
+            </a>
           `
         )
         .join("");

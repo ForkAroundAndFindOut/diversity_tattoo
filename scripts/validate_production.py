@@ -10,6 +10,8 @@ from urllib.parse import urlparse
 
 
 ROOT = Path(__file__).resolve().parents[1]
+WORKSPACE_ROOT = ROOT.parent
+CANONICAL_MANIFEST_PATH = WORKSPACE_ROOT / "catalog" / "canonical-page-manifest.json"
 PUBLIC_DIR = ROOT / "public"
 REPORT_PATH = ROOT / "production-readiness.txt"
 NOINDEX_LEDGER_PATH = ROOT / "noindex-ledger.json"
@@ -182,6 +184,35 @@ def load_site_data() -> dict:
     if not text.startswith(prefix):
         return {}
     return json.loads(text[len(prefix) :].rstrip().rstrip(";"))
+
+
+def load_canonical_manifest() -> dict[str, dict]:
+    if not CANONICAL_MANIFEST_PATH.exists():
+        return {}
+    try:
+        rows = json.loads(CANONICAL_MANIFEST_PATH.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        return {}
+    manifest: dict[str, dict] = {}
+    for row in rows:
+        if not isinstance(row, dict) or row.get("page_type") != "product":
+            continue
+        slug = str(row.get("slug", "")).strip()
+        if slug:
+            manifest[slug] = row
+    return manifest
+
+
+def file_sha256(path: Path) -> str:
+    import hashlib
+
+    if not path.exists():
+        return ""
+    digest = hashlib.sha256()
+    with path.open("rb") as handle:
+        for chunk in iter(lambda: handle.read(65536), b""):
+            digest.update(chunk)
+    return digest.hexdigest()
 
 
 def image_size(path: Path) -> tuple[int, int]:
@@ -374,12 +405,22 @@ def validate() -> tuple[bool, list[str], list[str]]:
     if len(products) != 124:
         errors.append(f"site-data product count expected 124, got {len(products)}")
 
+    manifest_by_slug = load_canonical_manifest()
+    if len(manifest_by_slug) != 124:
+        errors.append(f"canonical product manifest count expected 124, got {len(manifest_by_slug)}")
+
     exceptions = product_image_exceptions()
     category_fallbacks = Counter()
     missing_product_images: list[str] = []
     missing_product_slugs = 0
     non_product_specific_images: list[str] = []
     low_resolution_product_images: list[str] = []
+    source_limited_product_images: list[str] = []
+    missing_manifest_rows: list[str] = []
+    manifest_image_mismatches: list[str] = []
+    manifest_missing_canonical_ids: list[str] = []
+    manifest_content_failures: list[str] = []
+    manifest_body_format_failures: list[str] = []
     for product in products:
         slug = product_slug(product)
         if not slug:
@@ -393,7 +434,10 @@ def validate() -> tuple[bool, list[str], list[str]]:
         if "assets/static.wixstatic.com/" in image and slug not in exceptions:
             category_fallbacks[image] += 1
         image_path = PUBLIC_DIR / image
-        if image and image_path.exists() and slug not in exceptions:
+        generated_media_id = str(product.get("generatedAssetMediaId", ""))
+        is_asset_not_found = generated_media_id == "asset-not-found" or "asset-not-found" in image
+        manifest_row = manifest_by_slug.get(slug)
+        if image and image_path.exists() and slug not in exceptions and not is_asset_not_found:
             width, height = image_size(image_path)
             if not image_meets_quality(
                 width,
@@ -403,7 +447,44 @@ def validate() -> tuple[bool, list[str], list[str]]:
                 slim_min_long_edge=MIN_PRODUCT_SLIM_IMAGE_LONG_EDGE,
                 slim_min_area=MIN_PRODUCT_SLIM_IMAGE_AREA,
             ):
-                low_resolution_product_images.append(f"{slug} ({width}x{height})")
+                manifest_width = int(str(manifest_row.get("asset_width") or 0)) if manifest_row else 0
+                manifest_height = int(str(manifest_row.get("asset_height") or 0)) if manifest_row else 0
+                manifest_source_limited = manifest_row and not image_meets_quality(
+                    manifest_width,
+                    manifest_height,
+                    MIN_PRODUCT_IMAGE_EDGE,
+                    slim_min_edge=MIN_PRODUCT_SLIM_IMAGE_EDGE,
+                    slim_min_long_edge=MIN_PRODUCT_SLIM_IMAGE_LONG_EDGE,
+                    slim_min_area=MIN_PRODUCT_SLIM_IMAGE_AREA,
+                )
+                if manifest_source_limited and width >= manifest_width and height >= manifest_height:
+                    source_limited_product_images.append(f"{slug} ({width}x{height}; source {manifest_width}x{manifest_height})")
+                else:
+                    low_resolution_product_images.append(f"{slug} ({width}x{height})")
+        if slug and not manifest_row:
+            missing_manifest_rows.append(slug)
+            continue
+        if manifest_row:
+            canonical_id = str(manifest_row.get("canonical_image_media_id", ""))
+            if not canonical_id:
+                manifest_missing_canonical_ids.append(slug)
+            product_canonical_id = str(product.get("canonicalImageMediaId", ""))
+            if product_canonical_id != canonical_id:
+                manifest_image_mismatches.append(f"{slug} (record canonical {product_canonical_id or 'blank'} != manifest {canonical_id or 'blank'})")
+            local_canonical = WORKSPACE_ROOT / str(manifest_row.get("local_canonical_asset_path", ""))
+            if generated_media_id == canonical_id:
+                pass
+            elif local_canonical.exists() and image_path.exists() and not is_asset_not_found:
+                if file_sha256(local_canonical) != file_sha256(image_path):
+                    manifest_image_mismatches.append(f"{slug} (public image hash differs from canonical asset)")
+            elif canonical_id and not is_asset_not_found:
+                manifest_image_mismatches.append(f"{slug} (canonical asset unavailable and product is not asset-not-found)")
+            if str(manifest_row.get("content_status", "")) != "available" or not str(product.get("body", "")).strip():
+                manifest_content_failures.append(slug)
+            manifest_body_html = str(manifest_row.get("source_body_html", ""))
+            product_body_html = str(product.get("bodyHtml", ""))
+            if "<ul" in manifest_body_html and "<ul" not in product_body_html:
+                manifest_body_format_failures.append(slug)
     if missing_product_slugs:
         errors.append(f"products missing derivable slugs: {missing_product_slugs}")
     if missing_product_images:
@@ -424,6 +505,23 @@ def validate() -> tuple[bool, list[str], list[str]]:
             "resolution thresholds"
         )
         warnings.extend(f"{item} :: low-resolution product image" for item in low_resolution_product_images[:30])
+    if source_limited_product_images:
+        warnings.extend(f"{item} :: source-limited canonical product image" for item in source_limited_product_images[:30])
+    if missing_manifest_rows:
+        errors.append(f"canonical manifest parity failed: {len(missing_manifest_rows)} products missing manifest rows")
+        warnings.extend(f"{slug} :: missing canonical manifest row" for slug in missing_manifest_rows[:30])
+    if manifest_missing_canonical_ids:
+        errors.append(f"canonical manifest image gate failed: {len(manifest_missing_canonical_ids)} products missing canonical image IDs")
+        warnings.extend(f"{slug} :: missing canonical image ID" for slug in manifest_missing_canonical_ids[:30])
+    if manifest_image_mismatches:
+        errors.append(f"canonical manifest image gate failed: {len(manifest_image_mismatches)} product images do not match canonical assets")
+        warnings.extend(f"{item} :: manifest image mismatch" for item in manifest_image_mismatches[:30])
+    if manifest_content_failures:
+        errors.append(f"canonical manifest content gate failed: {len(manifest_content_failures)} products missing source-backed content")
+        warnings.extend(f"{slug} :: manifest content missing" for slug in manifest_content_failures[:30])
+    if manifest_body_format_failures:
+        errors.append(f"product body formatting gate failed: {len(manifest_body_format_failures)} products lost source list formatting")
+        warnings.extend(f"{slug} :: source list formatting missing from product bodyHtml" for slug in manifest_body_format_failures[:30])
 
     searchable_files = [
         path

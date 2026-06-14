@@ -30,9 +30,9 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/ascent-oil-jars/ascent-oil-jars.jpg",
-    "image_width": 1000,
-    "image_height": 668,
-    "image_bytes": 205875,
+    "image_width": 500,
+    "image_height": 375,
+    "image_bytes": 33749,
     "image_source_status": "local"
   },
   {
@@ -48,9 +48,9 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/ascentst-g-adapter/ascentst-g-adapter.jpg",
-    "image_width": 1000,
-    "image_height": 668,
-    "image_bytes": 205875,
+    "image_width": 500,
+    "image_height": 375,
+    "image_bytes": 31531,
     "image_source_status": "local"
   },
   {
@@ -66,9 +66,9 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/ascentst-u-adapter/ascentst-u-adapter.jpg",
-    "image_width": 1000,
-    "image_height": 668,
-    "image_bytes": 205875,
+    "image_width": 500,
+    "image_height": 375,
+    "image_bytes": 34521,
     "image_source_status": "local"
   },
   {
@@ -102,9 +102,9 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/asvape-michael-box/asvape-michael-box.jpg",
-    "image_width": 1000,
-    "image_height": 1000,
-    "image_bytes": 151001,
+    "image_width": 500,
+    "image_height": 500,
+    "image_bytes": 46351,
     "image_source_status": "local"
   },
   {
@@ -120,9 +120,9 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/atmos-grinder/atmos-grinder.jpg",
-    "image_width": 1000,
-    "image_height": 1500,
-    "image_bytes": 390597,
+    "image_width": 500,
+    "image_height": 375,
+    "image_bytes": 48395,
     "image_source_status": "local"
   },
   {
@@ -137,10 +137,10 @@
     "price": "$65.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/atmosnail/atmosnail.jpg",
-    "image_width": 1000,
-    "image_height": 1500,
-    "image_bytes": 390597,
+    "image": "assets/products/atmosnail/atmosnail.png",
+    "image_width": 500,
+    "image_height": 309,
+    "image_bytes": 220668,
     "image_source_status": "local"
   },
   {
@@ -155,10 +155,10 @@
     "price": "$150.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/badwood-g-pen/badwood-g-pen.jpg",
-    "image_width": 1000,
-    "image_height": 1000,
-    "image_bytes": 151001,
+    "image": "assets/products/badwood-g-pen/badwood-g-pen.jpeg",
+    "image_width": 500,
+    "image_height": 333,
+    "image_bytes": 40846,
     "image_source_status": "local"
   },
   {
@@ -192,9 +192,9 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/bb-st-10g-1-2/bb-st-10g-1-2.jpg",
-    "image_width": 906,
-    "image_height": 906,
-    "image_bytes": 52472,
+    "image_width": 395,
+    "image_height": 395,
+    "image_bytes": 3808,
     "image_source_status": "local"
   },
   {
@@ -209,10 +209,10 @@
     "price": "$12.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/bb-st-10g-3-4/bb-st-10g-3-4.jpg",
-    "image_width": 906,
-    "image_height": 906,
-    "image_bytes": 52472,
+    "image": "assets/products/bb-st-10g-3-4/bb-st-10g-3-4.jpeg",
+    "image_width": 450,
+    "image_height": 450,
+    "image_bytes": 9261,
     "image_source_status": "local"
   },
   {
@@ -227,10 +227,10 @@
     "price": "$12.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/bb-st-12g-1-2/bb-st-12g-1-2.jpg",
-    "image_width": 906,
-    "image_height": 906,
-    "image_bytes": 52472,
+    "image": "assets/products/bb-st-12g-1-2/bb-st-12g-1-2.jpeg",
+    "image_width": 450,
+    "image_height": 450,
+    "image_bytes": 9580,
     "image_source_status": "local"
   },
   {
@@ -246,9 +246,9 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/bb-st-12g-5-8/bb-st-12g-5-8.jpg",
-    "image_width": 906,
-    "image_height": 906,
-    "image_bytes": 52472,
+    "image_width": 500,
+    "image_height": 500,
+    "image_bytes": 5595,
     "image_source_status": "local"
   },
   {
@@ -264,9 +264,9 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/bb-st-12g-7-16/bb-st-12g-7-16.jpg",
-    "image_width": 906,
-    "image_height": 906,
-    "image_bytes": 52472,
+    "image_width": 300,
+    "image_height": 300,
+    "image_bytes": 17805,
     "image_source_status": "local"
   },
   {
@@ -300,9 +300,9 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/bb-st-14g-7-8/bb-st-14g-7-8.jpg",
-    "image_width": 906,
-    "image_height": 906,
-    "image_bytes": 52472,
+    "image_width": 420,
+    "image_height": 420,
+    "image_bytes": 7917,
     "image_source_status": "local"
   },
   {
@@ -498,10 +498,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/cbr-st-12g-1-2/cbr-st-12g-1-2.jpg",
-    "image_width": 906,
-    "image_height": 906,
-    "image_bytes": 52472,
-    "image_source_status": "local"
+    "image_width": 190,
+    "image_height": 163,
+    "image_bytes": 4039,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/cbr-st-12g-3-8.html",
@@ -552,10 +552,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/cbr-st-12g-5-8/cbr-st-12g-5-8.jpg",
-    "image_width": 906,
-    "image_height": 906,
-    "image_bytes": 52472,
-    "image_source_status": "local"
+    "image_width": 190,
+    "image_height": 163,
+    "image_bytes": 4039,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/cbr-st-12g-7-16-1.html",
@@ -588,10 +588,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/cbr-st-12g-7-16/cbr-st-12g-7-16.jpg",
-    "image_width": 906,
-    "image_height": 906,
-    "image_bytes": 52472,
-    "image_source_status": "local"
+    "image_width": 190,
+    "image_height": 163,
+    "image_bytes": 4039,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/cbr-st-8g-1-2-gem-ball-clear.html",
@@ -660,9 +660,9 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/copy-of-atmos-nail/copy-of-atmos-nail.jpg",
-    "image_width": 1000,
-    "image_height": 668,
-    "image_bytes": 205875,
+    "image_width": 300,
+    "image_height": 300,
+    "image_bytes": 7261,
     "image_source_status": "local"
   },
   {
@@ -678,10 +678,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/copy-of-cbr-st-12g3-8/copy-of-cbr-st-12g3-8.jpg",
-    "image_width": 1000,
-    "image_height": 668,
-    "image_bytes": 205875,
-    "image_source_status": "local"
+    "image_width": 190,
+    "image_height": 163,
+    "image_bytes": 4039,
+    "image_source_status": "downloaded"
   },
   {
     "source_route": "product-page/copy-of-glass-pipe.html",
@@ -731,10 +731,10 @@
     "price": "$45.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/detoxify-green-clean/detoxify-green-clean.jpg",
-    "image_width": 1000,
-    "image_height": 1500,
-    "image_bytes": 222712,
+    "image": "assets/products/detoxify-green-clean/detoxify-green-clean.jpeg",
+    "image_width": 450,
+    "image_height": 450,
+    "image_bytes": 54708,
     "image_source_status": "local"
   },
   {
@@ -749,10 +749,10 @@
     "price": "$54.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/detoxify-instant-clean/detoxify-instant-clean.jpg",
-    "image_width": 1000,
-    "image_height": 1500,
-    "image_bytes": 222712,
+    "image": "assets/products/detoxify-instant-clean/detoxify-instant-clean.jpeg",
+    "image_width": 225,
+    "image_height": 225,
+    "image_bytes": 17585,
     "image_source_status": "local"
   },
   {
@@ -803,10 +803,10 @@
     "price": "$10.49",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/detoxify-pre-cleanse-caps/detoxify-pre-cleanse-caps.jpg",
-    "image_width": 1000,
-    "image_height": 1500,
-    "image_bytes": 222712,
+    "image": "assets/products/detoxify-pre-cleanse-caps/detoxify-pre-cleanse-caps.jpeg",
+    "image_width": 243,
+    "image_height": 208,
+    "image_bytes": 10965,
     "image_source_status": "local"
   },
   {
@@ -821,10 +821,10 @@
     "price": "$25.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/detoxify-ready-clean-grape-tropical-orange/detoxify-ready-clean-grape-tropical-orange.jpg",
-    "image_width": 1000,
-    "image_height": 1500,
-    "image_bytes": 222712,
+    "image": "assets/products/detoxify-ready-clean-grape-tropical-orange/detoxify-ready-clean-grape-tropical-orange.jpeg",
+    "image_width": 225,
+    "image_height": 225,
+    "image_bytes": 17780,
     "image_source_status": "local"
   },
   {
@@ -912,9 +912,9 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/e-cig-hibron-h10/e-cig-hibron-h10.jpg",
-    "image_width": 1000,
-    "image_height": 668,
-    "image_bytes": 205875,
+    "image_width": 417,
+    "image_height": 499,
+    "image_bytes": 39006,
     "image_source_status": "local"
   },
   {
@@ -930,9 +930,9 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/e-pipe-mod/e-pipe-mod.jpg",
-    "image_width": 1000,
-    "image_height": 1500,
-    "image_bytes": 390597,
+    "image_width": 485,
+    "image_height": 500,
+    "image_bytes": 50544,
     "image_source_status": "local"
   },
   {
@@ -1236,9 +1236,9 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/hip-vape/hip-vape.jpg",
-    "image_width": 1000,
-    "image_height": 1000,
-    "image_bytes": 151001,
+    "image_width": 500,
+    "image_height": 443,
+    "image_bytes": 47268,
     "image_source_status": "local"
   },
   {
@@ -1290,9 +1290,9 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/just-chill-jungle/just-chill-jungle.jpg",
-    "image_width": 1000,
-    "image_height": 668,
-    "image_bytes": 205875,
+    "image_width": 337,
+    "image_height": 500,
+    "image_bytes": 57319,
     "image_source_status": "local"
   },
   {
@@ -1307,10 +1307,10 @@
     "price": "$39.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/just-chill-strawberry/just-chill-strawberry.jpg",
-    "image_width": 1000,
-    "image_height": 668,
-    "image_bytes": 205875,
+    "image": "assets/products/just-chill-strawberry/just-chill-strawberry.png",
+    "image_width": 400,
+    "image_height": 400,
+    "image_bytes": 212631,
     "image_source_status": "local"
   },
   {
@@ -1416,9 +1416,9 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/nail-crown-silk-lblue/nail-crown-silk-lblue.jpg",
-    "image_width": 1000,
-    "image_height": 668,
-    "image_bytes": 205875,
+    "image_width": 500,
+    "image_height": 375,
+    "image_bytes": 38817,
     "image_source_status": "local"
   },
   {
@@ -1559,10 +1559,10 @@
     "price": "$130.99",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/randy-aqua-pilot/randy-aqua-pilot.jpg",
-    "image_width": 1000,
-    "image_height": 668,
-    "image_bytes": 205875,
+    "image": "assets/products/randy-aqua-pilot/randy-aqua-pilot.png",
+    "image_width": 500,
+    "image_height": 500,
+    "image_bytes": 148939,
     "image_source_status": "local"
   },
   {
@@ -1775,10 +1775,10 @@
     "price": "$40.00",
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
-    "image": "assets/products/stat-1-hr-flush-caps/stat-1-hr-flush-caps.jpg",
-    "image_width": 1000,
-    "image_height": 668,
-    "image_bytes": 205875,
+    "image": "assets/products/stat-1-hr-flush-caps/stat-1-hr-flush-caps.jpeg",
+    "image_width": 249,
+    "image_height": 203,
+    "image_bytes": 29288,
     "image_source_status": "local"
   },
   {

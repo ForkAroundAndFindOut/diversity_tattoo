@@ -91,7 +91,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 217,
       "imageHeight": 300,
       "imageBytes": 24465,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Be ready for your next mission.</p><p>Dr. Greens Agent X premixed fake pee includes a powder 3 oz. sample, a mixing bottle, heating element, and temperature strip.</p><p>Agent X contains Uric Acid.</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>All Sales are FINAL !</p>\n<h3>PRODUCT DESCRIPTION</h3>\n<p>This product is a Novelty / Fetish Item.</p>\n<p>This product cannot be shipped or sold to residents of Arkansas, Florida, Georgia, Idaho, Illinois, Indiana, Iowa, Kentucky, Louisiana, Nebraska, New Jersey, North Carolina, North Dakota, Oklahoma, Pennsylvania, Tennessee, Texas, Virginia, Wisconsin, Wyoming. </p>\n<p>If you live in one of these states and purchase this product - we will not ship it, and you will be charged a 50% charge back processing fee.</p>",
+      "canonicalImageMediaId": "8d0ab0_acdf465339c54c9ebdf625afff104c7b_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_acdf465339c54c9ebdf625afff104c7b_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "ASCENT OIL JARS",
@@ -104,10 +110,16 @@ window.DIVERSITY_SITE_DATA = {
       "price": "$14.99",
       "inventoryStatus": "in_stock",
       "isInStock": true,
-      "imageWidth": 1000,
-      "imageHeight": 668,
-      "imageBytes": 205875,
-      "imageSourceStatus": "local"
+      "imageWidth": 500,
+      "imageHeight": 375,
+      "imageBytes": 33749,
+      "imageSourceStatus": "local",
+      "bodyHtml": "<p>Need some additional oil jars for your Ascent Vaporizer? These are ideal vaporizer accessories to have a stock pile of. Fill them with your favorite essential oils or blends and simply place in the chamber.</p><p>Made of 100% glass with a medical grade silicone lid. Using the lid is optional, but assists in keeping your vaporizer clean and preventing contents from spilling.</p>\n<h3>Return Policy</h3>\n<p>All SALES ARE FINAL</p>\n<p>NO REFUNDS</p>",
+      "canonicalImageMediaId": "8d0ab0_a04d6cc744ad4b2da85faa2d707e7727_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_a04d6cc744ad4b2da85faa2d707e7727_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "ASCENTST G/ADAPTER",
@@ -120,10 +132,16 @@ window.DIVERSITY_SITE_DATA = {
       "price": "$29.99",
       "inventoryStatus": "in_stock",
       "isInStock": true,
-      "imageWidth": 1000,
-      "imageHeight": 668,
-      "imageBytes": 205875,
-      "imageSourceStatus": "local"
+      "imageWidth": 500,
+      "imageHeight": 375,
+      "imageBytes": 31531,
+      "imageSourceStatus": "local",
+      "bodyHtml": "<p>The ultimate vaporizer accessory, in an 14mm adapter size. Simple to use and \"straight\" to the point. Simply replace the glass mouthpiece of the Ascent Vaporizer with this handy adapter and insert into your favorite water piece to create an instant water filtered vaporizer.</p><p>Benefits of using this accessory include cooling and rehydrating the vapor output, and marinating the all-glass pathway for pure flavor.</p><p>Designed specifically for the Ascent Vaporizer, the straight, all glass, water tool adapter is recommended specifically for loose leaf and plant matter. Please refer to the U-Water tool adapter for essential oil use.</p><p>This Ascent Vaporizer accessory can be used in conjunction with any standard water tool with an 14mm fitting, depending on the selection made.</p>\n<h3>Return Policy</h3>\n<p>All SALES ARE FINAL</p>\n<p>NO REFUNDS</p>",
+      "canonicalImageMediaId": "8d0ab0_a51a059858694fe68d002f3bfb9478e0_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_a51a059858694fe68d002f3bfb9478e0_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "ASCENTST U/ADAPTER",
@@ -136,10 +154,16 @@ window.DIVERSITY_SITE_DATA = {
       "price": "$42.99",
       "inventoryStatus": "in_stock",
       "isInStock": true,
-      "imageWidth": 1000,
-      "imageHeight": 668,
-      "imageBytes": 205875,
-      "imageSourceStatus": "local"
+      "imageWidth": 500,
+      "imageHeight": 375,
+      "imageBytes": 34521,
+      "imageSourceStatus": "local",
+      "bodyHtml": "<p>This 18mm U-shaped water tool adapter was specifically designed for the Ascent Vaporizer. The uniquely shaped 100% glass piece allows for the hands-free use of loose leaf or oils. An included holder allows the vaporizer to remain in an upright position and provides continuous access to the vape chamber for easy filling or stirring.</p><p>Benefits of using this accessory include cooling and rehydrating the vapor output, and marinating the all-glass pathway for pure flavor.</p>\n<h3>Return Policy</h3>\n<p>All SALES ARE FINAL</p>\n<p>NO REFUNDS</p>",
+      "canonicalImageMediaId": "8d0ab0_a4b67b295a06463e8d9f0135cf949ebb_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_a4b67b295a06463e8d9f0135cf949ebb_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "Assisted Dug Cut",
@@ -155,7 +179,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 280,
       "imageHeight": 500,
       "imageBytes": 40737,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Made of Wood</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>All SALES are FINAL</p>",
+      "canonicalImageMediaId": "8d0ab0_27f0a17e556849ebad884f2e8779e6b3_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_27f0a17e556849ebad884f2e8779e6b3_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "ASvape MICHAEL Box",
@@ -168,10 +198,16 @@ window.DIVERSITY_SITE_DATA = {
       "price": "$75.00",
       "inventoryStatus": "in_stock",
       "isInStock": true,
-      "imageWidth": 1000,
-      "imageHeight": 1000,
-      "imageBytes": 151001,
-      "imageSourceStatus": "local"
+      "imageWidth": 500,
+      "imageHeight": 500,
+      "imageBytes": 46351,
+      "imageSourceStatus": "local",
+      "bodyHtml": "<p>New Version Original ASvape Michael 200W Mod Kit OUT DIY/TC/VW/Bypass Mode Electronic Cigarette Fashion USA Vape Vaporizer Mod \u00a0</p><p>Asvape Michael Mod (Devils Night Edition), drawn by a famous illustrator,could be called the most luxurious and unique VO200 Box Mod out there. You may be familiar with the VO chipset as you may or may not heard of BMI, the Michael Mod is using the latest VO200 chip set.Powered by dual 18650 batteries, the output wattage can be 200W. The output modes OUT DIY, TC, VW and Bypass to bring fantastic vaping experience. Like most of other mods, the Michael Mod is also made out of zinc alloy, but it's covered by real carbon fiber.</p>\n<h3>Return Policy</h3>\n<p>All SALES ARE FINAL</p>\n<p>NO REFUNDS</p>",
+      "canonicalImageMediaId": "8d0ab0_d78e883b004248e1a38617085ce5fd93_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_d78e883b004248e1a38617085ce5fd93_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "ATMOS GRINDER",
@@ -184,42 +220,60 @@ window.DIVERSITY_SITE_DATA = {
       "price": "$35.00",
       "inventoryStatus": "in_stock",
       "isInStock": true,
-      "imageWidth": 1000,
-      "imageHeight": 1500,
-      "imageBytes": 390597,
-      "imageSourceStatus": "local"
+      "imageWidth": 500,
+      "imageHeight": 375,
+      "imageBytes": 48395,
+      "imageSourceStatus": "local",
+      "bodyHtml": "<p>The AtmosRx Grinder Kit is the smallest, handheld grinder on the market today. The spring spade is uniquely designed for an easy load. It\u2019s quick, with no mess and no fuss. The kit comes complete with its own battery and USB charger. A must have for customers who use dry herbs. Just load, grind and go.</p>\n<h3>Return Policy</h3>\n<p>All SALES ARE FINAL</p>\n<p>NO REFUNDS</p>",
+      "canonicalImageMediaId": "8d0ab0_018028aaf9b04f3f8dccff34ad059c4e_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_018028aaf9b04f3f8dccff34ad059c4e_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "ATMOS NAIL",
       "destinationPath": "products/atmosnail.html",
       "excerpt": "The Atmos Nail vaporizer is a small portable vaporizing unit. It is manufactured by Atmos Technology , based in Florida, USA. The Nail is a versatile model that has been designed to work with a variety of oils (thin, thick, essential and...",
       "body": "The Atmos Nail vaporizer is a small portable vaporizing unit. It is manufactured by Atmos Technology , based in Florida, USA. The Nail is a versatile model that has been designed to work with a variety of oils (thin, thick, essential and waxy). Thinner liquid oils can be loaded into the nifty atomizer whereas thicker concentrated oils can be loaded directly into the reservoir tank. The innovative double air circulation system within the tank cartridge delivers a thick and tasty vapor every time. Discretion is one of the key features with the Atmos Nail. It is a small unit that fits readily into your pocket or bag. Operation is simple, quick and convenient making this an ideal vaporizer for those who like to vape \u201con the move\u201d. The Nail also features a two part atomizer system. This means that if a part of the system should need replacing you will only have to replace one piece rather than the whole unit, making it easier and more cost effective. Atmos have covered all the bases with this one and rounded it off by supplying a very good quality battery that will give hours of continuous use with a full charge. Return Policy All SALES ARE FINAL NO REFUNDS",
-      "image": "assets/products/atmosnail/atmosnail.jpg",
+      "image": "assets/products/atmosnail/atmosnail.png",
       "category": "Shop - Smoke Accessories",
       "categoryLabel": "Smoke Accessories",
       "price": "$65.00",
       "inventoryStatus": "in_stock",
       "isInStock": true,
-      "imageWidth": 1000,
-      "imageHeight": 1500,
-      "imageBytes": 390597,
-      "imageSourceStatus": "local"
+      "imageWidth": 500,
+      "imageHeight": 309,
+      "imageBytes": 220668,
+      "imageSourceStatus": "local",
+      "bodyHtml": "<p><strong>The Atmos Nail vaporizer is a small portable vaporizing unit.</strong>\u00a0It is manufactured by\u00a0<strong>Atmos Technology</strong>, based in Florida, USA. The Nail is a versatile model that has been designed to work with a variety of oils (thin, thick, essential and waxy). Thinner liquid oils can be loaded into the nifty atomizer whereas thicker concentrated oils can be loaded directly into the reservoir tank. The innovative double air circulation system within the tank cartridge delivers a thick and tasty vapor every time.</p><p><strong>Discretion is one of the key features with the Atmos Nail.</strong>\u00a0It is a small unit that fits readily into your pocket or bag. Operation is simple, quick and convenient making this an ideal vaporizer for those who like to vape \u201con the move\u201d.</p><p>The Nail also features a two part atomizer system. This means that if a part of the system should need replacing you will only have to replace one piece rather than the whole unit, making it\u00a0<strong>easier and more cost effective.</strong></p><p>Atmos have covered all the bases with this one and rounded it off by supplying a very good quality battery that will give hours of continuous use with a full charge.</p>\n<h3>Return Policy</h3>\n<p>All SALES ARE FINAL</p>\n<p>NO REFUNDS</p>",
+      "canonicalImageMediaId": "8d0ab0_f2e4591042a048a1af6941119458f1f6_mv2.png",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_f2e4591042a048a1af6941119458f1f6_mv2.png",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "BADWOOD G-PEN",
       "destinationPath": "products/badwood-g-pen.html",
       "excerpt": "Grenco Science is proud to announce their latest collaboration with up and coming streetwear brand Badwood, the brainchild of young Los Angeles artist Natalie Wood. The \u2018Feels Good To Be Bad\u2019 collection features separate box sets for the...",
       "body": "Grenco Science is proud to announce their latest collaboration with up and coming streetwear brand Badwood, the brainchild of young Los Angeles artist Natalie Wood. The \u2018Feels Good To Be Bad\u2019 collection features separate box sets for the G Pen Elite and the microG vaporizer, emblazoned with original yet distinct Badwood artwork. Each kit comes in a commemorative make-up vanity box with a clutch featuring the now-iconic \u201cBadwood Ski Mask\u201d logo, a print of an original painting for the collaboration, complete with various accessories including a compact mirror, bottle opener grinder card, miniature permanent marker, rolling tray, temporary lip tattoos, and customized adhesive bandages, making it the perfect kit for a girl\u2019s night out. To commemorate the release of the \u2018Feels Good To Be Bad\u2019 collaborative collection, Grenco Science assisted Natalie in fulfilling a lifelong dream of showcasing her coveted original artwork in her debut showing last week at the Seventh Letter Gallery in West Hollywood. The event featured the exclusive pre-release of the collaboration, a gallery of Natalie\u2019s paintings, sketches, and an interactive installation bringing the Badwood art and imagery to life. Return Policy All SALES ARE FINAL NO REFUNDS",
-      "image": "assets/products/badwood-g-pen/badwood-g-pen.jpg",
+      "image": "assets/products/badwood-g-pen/badwood-g-pen.jpeg",
       "category": "Shop - Vaporizers",
       "categoryLabel": "Vaporizers",
       "price": "$150.00",
       "inventoryStatus": "in_stock",
       "isInStock": true,
-      "imageWidth": 1000,
-      "imageHeight": 1000,
-      "imageBytes": 151001,
-      "imageSourceStatus": "local"
+      "imageWidth": 500,
+      "imageHeight": 333,
+      "imageBytes": 40846,
+      "imageSourceStatus": "local",
+      "bodyHtml": "<p>Grenco Science is\u00a0proud to announce their latest collaboration with up and coming streetwear brand Badwood, the brainchild of young Los Angeles artist Natalie Wood. The \u2018Feels Good To Be Bad\u2019 collection features separate box sets for the G Pen Elite and the microG vaporizer, emblazoned with original yet distinct Badwood artwork. Each kit comes in a commemorative make-up vanity box with a clutch featuring the now-iconic \u201cBadwood Ski Mask\u201d logo, a print of an original painting for the collaboration, complete with various accessories including a compact mirror, bottle opener grinder card, miniature permanent marker, rolling tray, temporary lip tattoos, and customized adhesive bandages, making it the perfect kit for a girl\u2019s night out.</p><p>To commemorate the release of the \u2018Feels Good To Be Bad\u2019 collaborative collection, Grenco Science assisted Natalie in fulfilling a lifelong dream of showcasing her coveted original artwork in her debut showing last week at the Seventh Letter Gallery in West Hollywood. The event featured the exclusive pre-release of the collaboration, a gallery of Natalie\u2019s paintings, sketches, and an interactive installation bringing the Badwood art and imagery to life.</p>\n<h3>Return Policy</h3>\n<p>All SALES ARE FINAL</p>\n<p>NO REFUNDS</p>",
+      "canonicalImageMediaId": "8d0ab0_cf5c2fa0fdf143d19f8b4c944e6318ba_mv2.jpeg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_cf5c2fa0fdf143d19f8b4c944e6318ba_mv2.jpeg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "BB-ST-0G 5/8",
@@ -235,7 +289,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 500,
       "imageHeight": 319,
       "imageBytes": 62091,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>- 316L Surgical Stainless Steel Barbell</p>\n<h3>Return Policy</h3>\n<p>All Sales are FINAL</p>\n<p>NO RETURNS</p>",
+      "canonicalImageMediaId": "8d0ab0_dc952629d97040cd933092d59f68facd_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_dc952629d97040cd933092d59f68facd_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "BB-ST-10G 1/2",
@@ -248,42 +308,60 @@ window.DIVERSITY_SITE_DATA = {
       "price": "$12.00",
       "inventoryStatus": "in_stock",
       "isInStock": true,
-      "imageWidth": 906,
-      "imageHeight": 906,
-      "imageBytes": 52472,
-      "imageSourceStatus": "local"
+      "imageWidth": 395,
+      "imageHeight": 395,
+      "imageBytes": 3808,
+      "imageSourceStatus": "local",
+      "bodyHtml": "<p>- 316L Surgical Stainless Steel Barbell</p>\n<h3>Return Policy</h3>\n<p>All Sales are FINAL</p>\n<p>NO RETURNS</p>",
+      "canonicalImageMediaId": "8d0ab0_14974cc7943d4bdbb254bb9569019850_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_14974cc7943d4bdbb254bb9569019850_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "BB-ST-10G 3/4",
       "destinationPath": "products/bb-st-10g-3-4.html",
       "excerpt": "- 316L Surgical Stainless Steel Barbell Return Policy All Sales are FINAL NO RETURNS",
       "body": "- 316L Surgical Stainless Steel Barbell Return Policy All Sales are FINAL NO RETURNS",
-      "image": "assets/products/bb-st-10g-3-4/bb-st-10g-3-4.jpg",
+      "image": "assets/products/bb-st-10g-3-4/bb-st-10g-3-4.jpeg",
       "category": "Shop - Body Jewelry",
       "categoryLabel": "Body Jewelry",
       "price": "$12.00",
       "inventoryStatus": "in_stock",
       "isInStock": true,
-      "imageWidth": 906,
-      "imageHeight": 906,
-      "imageBytes": 52472,
-      "imageSourceStatus": "local"
+      "imageWidth": 450,
+      "imageHeight": 450,
+      "imageBytes": 9261,
+      "imageSourceStatus": "local",
+      "bodyHtml": "<p>- 316L Surgical Stainless Steel Barbell</p>\n<h3>Return Policy</h3>\n<p>All Sales are FINAL</p>\n<p>NO RETURNS</p>",
+      "canonicalImageMediaId": "8d0ab0_7830342168f44b3aa4edf2c157922eb5_mv2.jpeg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_7830342168f44b3aa4edf2c157922eb5_mv2.jpeg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "BB-ST-12G 1/2",
       "destinationPath": "products/bb-st-12g-1-2.html",
       "excerpt": "- 316L Surgical Stainless Steel Barbell Return Policy All Sales are FINAL NO RETURNS",
       "body": "- 316L Surgical Stainless Steel Barbell Return Policy All Sales are FINAL NO RETURNS",
-      "image": "assets/products/bb-st-12g-1-2/bb-st-12g-1-2.jpg",
+      "image": "assets/products/bb-st-12g-1-2/bb-st-12g-1-2.jpeg",
       "category": "Shop - Body Jewelry",
       "categoryLabel": "Body Jewelry",
       "price": "$12.00",
       "inventoryStatus": "in_stock",
       "isInStock": true,
-      "imageWidth": 906,
-      "imageHeight": 906,
-      "imageBytes": 52472,
-      "imageSourceStatus": "local"
+      "imageWidth": 450,
+      "imageHeight": 450,
+      "imageBytes": 9580,
+      "imageSourceStatus": "local",
+      "bodyHtml": "<p>- 316L Surgical Stainless Steel Barbell</p>\n<h3>Return Policy</h3>\n<p>All Sales are FINAL</p>\n<p>NO RETURNS</p>",
+      "canonicalImageMediaId": "8d0ab0_ee29e61c680645c28f7405f1143fc432_mv2.jpeg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_ee29e61c680645c28f7405f1143fc432_mv2.jpeg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "BB-ST-12G 5/8",
@@ -296,10 +374,16 @@ window.DIVERSITY_SITE_DATA = {
       "price": "$12.00",
       "inventoryStatus": "in_stock",
       "isInStock": true,
-      "imageWidth": 906,
-      "imageHeight": 906,
-      "imageBytes": 52472,
-      "imageSourceStatus": "local"
+      "imageWidth": 500,
+      "imageHeight": 500,
+      "imageBytes": 5595,
+      "imageSourceStatus": "local",
+      "bodyHtml": "<p>- 316L Surgical Stainless Steel Barbell</p>\n<h3>Return Policy</h3>\n<p>All Sales are FINAL</p>\n<p>NO RETURNS</p>",
+      "canonicalImageMediaId": "8d0ab0_eed6d25d8e6f434ea852ff4d30078d5b_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_eed6d25d8e6f434ea852ff4d30078d5b_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "BB-ST-12G 7/16",
@@ -312,10 +396,16 @@ window.DIVERSITY_SITE_DATA = {
       "price": "$12.00",
       "inventoryStatus": "in_stock",
       "isInStock": true,
-      "imageWidth": 906,
-      "imageHeight": 906,
-      "imageBytes": 52472,
-      "imageSourceStatus": "local"
+      "imageWidth": 300,
+      "imageHeight": 300,
+      "imageBytes": 17805,
+      "imageSourceStatus": "local",
+      "bodyHtml": "<p>- 316L Surgical Stainless Steel Barbell</p>\n<h3>Return Policy</h3>\n<p>All Sales are FINAL</p>\n<p>NO RETURNS</p>",
+      "canonicalImageMediaId": "8d0ab0_47456f8059c54950832ebdf5e580c9dc_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_47456f8059c54950832ebdf5e580c9dc_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "BB-ST-12G 7/8",
@@ -331,7 +421,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 500,
       "imageHeight": 500,
       "imageBytes": 29471,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>- 316L Surgical Stainless Steel Barbell</p>\n<h3>Return Policy</h3>\n<p>All Sales are FINAL</p>\n<p>NO RETURNS</p>",
+      "canonicalImageMediaId": "8d0ab0_f9ce9cad260d4adc8660cd1077eb3838_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_f9ce9cad260d4adc8660cd1077eb3838_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "BB-ST-14G 7/8",
@@ -344,10 +440,16 @@ window.DIVERSITY_SITE_DATA = {
       "price": "$12.00",
       "inventoryStatus": "in_stock",
       "isInStock": true,
-      "imageWidth": 906,
-      "imageHeight": 906,
-      "imageBytes": 52472,
-      "imageSourceStatus": "local"
+      "imageWidth": 420,
+      "imageHeight": 420,
+      "imageBytes": 7917,
+      "imageSourceStatus": "local",
+      "bodyHtml": "<p>- 316L Surgical Stainless Steel Barbell</p>\n<h3>Return Policy</h3>\n<p>All Sales are FINAL</p>\n<p>NO RETURNS</p>",
+      "canonicalImageMediaId": "8d0ab0_25247320533643bfa7637fbbdb58f82c_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_25247320533643bfa7637fbbdb58f82c_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "BB-ST-2G 5/8",
@@ -363,7 +465,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 299,
       "imageHeight": 323,
       "imageBytes": 4572,
-      "imageSourceStatus": "local"
+      "imageSourceStatus": "local",
+      "bodyHtml": "<p>- 316L Surgical Stainless Steel Barbell</p>\n<h3>Return Policy</h3>\n<p>All Sales are FINAL</p>\n<p>NO RETURNS</p>",
+      "canonicalImageMediaId": "8d0ab0_d907e06adbf0446d8d8f5ef097ded168_mv2_d_1995_2154_s_2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_d907e06adbf0446d8d8f5ef097ded168_mv2_d_1995_2154_s_2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "BB-ST-6G 5/8",
@@ -379,7 +487,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 500,
       "imageHeight": 500,
       "imageBytes": 6247,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>- 316L Surgical Stainless Steel Barbell</p>\n<h3>Return Policy</h3>\n<p>All Sales are FINAL</p>\n<p>NO RETURNS</p>",
+      "canonicalImageMediaId": "8d0ab0_67d2deb8168f413c926956f45df4e7b1_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_67d2deb8168f413c926956f45df4e7b1_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "Bubbler",
@@ -395,7 +509,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 376,
       "imageHeight": 500,
       "imageBytes": 74881,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>GLASS \u00a0PIPE</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>ALL SALES ARE FINAL</p>",
+      "canonicalImageMediaId": "8d0ab0_db18a84e620c42ef8ecfab65e018be04_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_db18a84e620c42ef8ecfab65e018be04_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "CBB-ST-10G 1/2 CONE",
@@ -411,7 +531,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 460,
       "imageHeight": 499,
       "imageBytes": 22156,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>- 316L Surgical Stainless Steel Barbell</p>\n<h3>Return Policy</h3>\n<p>All Sales are FINAL</p>\n<p>NO RETURNS</p>",
+      "canonicalImageMediaId": "8d0ab0_c4061aab355b4702a974969212943e4d_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_c4061aab355b4702a974969212943e4d_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "CBB-ST-10G 1/2 REG BALL",
@@ -427,7 +553,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 383,
       "imageHeight": 500,
       "imageBytes": 24423,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>- 316L Surgical Stainless Steel Barbell</p>\n<h3>Return Policy</h3>\n<p>All Sales are FINAL</p>\n<p>NO RETURNS</p>",
+      "canonicalImageMediaId": "8d0ab0_3df0eecd89c747ee869531a31ed1cbe7_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_3df0eecd89c747ee869531a31ed1cbe7_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "CBB-ST-12G 3/8 CONE",
@@ -443,7 +575,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 460,
       "imageHeight": 499,
       "imageBytes": 22156,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>- 316L Surgical Stainless Steel Barbell</p>\n<h3>Return Policy</h3>\n<p>All Sales are FINAL</p>\n<p>NO RETURNS</p>",
+      "canonicalImageMediaId": "8d0ab0_c4061aab355b4702a974969212943e4d_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_c4061aab355b4702a974969212943e4d_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "CBB-ST-12G 7/16 REG BALL",
@@ -459,7 +597,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 383,
       "imageHeight": 500,
       "imageBytes": 24423,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>- 316L Surgical Stainless Steel Barbell</p>\n<h3>Return Policy</h3>\n<p>All Sales are FINAL</p>\n<p>NO RETURNS</p>",
+      "canonicalImageMediaId": "8d0ab0_3df0eecd89c747ee869531a31ed1cbe7_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_3df0eecd89c747ee869531a31ed1cbe7_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "CBR-ST-10G 1/2 GEM BALL CLEAR",
@@ -475,7 +619,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 466,
       "imageHeight": 500,
       "imageBytes": 25535,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>- 316L Surgical Stainless Steel Barbell</p>\n<h3>Return Policy</h3>\n<p>All Sales are FINAL</p>\n<p>NO RETURNS</p>",
+      "canonicalImageMediaId": "8d0ab0_3fd43c30c2d84f5f803ce250e9fbb08c_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_3fd43c30c2d84f5f803ce250e9fbb08c_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "CBR-ST-12G 1/2",
@@ -491,7 +641,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 466,
       "imageHeight": 500,
       "imageBytes": 25535,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>- 316L Surgical Stainless Steel Barbell</p>\n<h3>Return Policy</h3>\n<p>All Sales are FINAL</p>\n<p>NO RETURNS</p>",
+      "canonicalImageMediaId": "8d0ab0_3fd43c30c2d84f5f803ce250e9fbb08c_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_3fd43c30c2d84f5f803ce250e9fbb08c_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "CBR-ST-12G 1/2 GEM BALL CLEAR",
@@ -507,7 +663,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 466,
       "imageHeight": 500,
       "imageBytes": 25535,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>- 316L Surgical Stainless Steel Barbell</p>\n<h3>Return Policy</h3>\n<p>All Sales are FINAL</p>\n<p>NO RETURNS</p>",
+      "canonicalImageMediaId": "8d0ab0_3fd43c30c2d84f5f803ce250e9fbb08c_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_3fd43c30c2d84f5f803ce250e9fbb08c_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "CBR-ST 12G 1/2",
@@ -520,10 +682,16 @@ window.DIVERSITY_SITE_DATA = {
       "price": "$12.00",
       "inventoryStatus": "in_stock",
       "isInStock": true,
-      "imageWidth": 906,
-      "imageHeight": 906,
-      "imageBytes": 52472,
-      "imageSourceStatus": "local"
+      "imageWidth": 190,
+      "imageHeight": 163,
+      "imageBytes": 4039,
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Surgical steel 12g captive bead ring. This 316L CBR is measured by the internal diameter of the ring. These rings have a tension ball which is easily removed and inserted.</p>\n<h3>Return Policy</h3>\n<p>ALL SALES ARE FINAL</p>\n<p>NO REFUNDS</p>",
+      "canonicalImageMediaId": "8d0ab0_0337992c3022426385f08eeba51ea288_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_0337992c3022426385f08eeba51ea288_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "CBR-ST-12G 3/8",
@@ -539,7 +707,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 466,
       "imageHeight": 500,
       "imageBytes": 25535,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>- 316L Surgical Stainless Steel Barbell</p>\n<h3>Return Policy</h3>\n<p>All Sales are FINAL</p>\n<p>NO RETURNS</p>",
+      "canonicalImageMediaId": "8d0ab0_3fd43c30c2d84f5f803ce250e9fbb08c_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_3fd43c30c2d84f5f803ce250e9fbb08c_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "CBR-ST-12G 5/8",
@@ -555,7 +729,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 466,
       "imageHeight": 500,
       "imageBytes": 25535,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>- 316L Surgical Stainless Steel Barbell</p>\n<h3>Return Policy</h3>\n<p>All Sales are FINAL</p>\n<p>NO RETURNS</p>",
+      "canonicalImageMediaId": "8d0ab0_3fd43c30c2d84f5f803ce250e9fbb08c_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_3fd43c30c2d84f5f803ce250e9fbb08c_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "CBR-ST 12G 5/8",
@@ -568,10 +748,16 @@ window.DIVERSITY_SITE_DATA = {
       "price": "$12.00",
       "inventoryStatus": "in_stock",
       "isInStock": true,
-      "imageWidth": 906,
-      "imageHeight": 906,
-      "imageBytes": 52472,
-      "imageSourceStatus": "local"
+      "imageWidth": 190,
+      "imageHeight": 163,
+      "imageBytes": 4039,
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Surgical steel 12g captive bead ring. This 316L CBR is measured by the internal diameter of the ring. These rings have a tension ball which is easily removed and inserted.</p>\n<h3>Return Policy</h3>\n<p>ALL SALES ARE FINAL</p>\n<p>NO REFUNDS</p>",
+      "canonicalImageMediaId": "8d0ab0_0337992c3022426385f08eeba51ea288_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_0337992c3022426385f08eeba51ea288_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "CBR-ST-12G 7/16",
@@ -587,7 +773,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 466,
       "imageHeight": 500,
       "imageBytes": 25535,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>- 316L Surgical Stainless Steel Barbell</p>\n<h3>Return Policy</h3>\n<p>All Sales are FINAL</p>\n<p>NO RETURNS</p>",
+      "canonicalImageMediaId": "8d0ab0_3fd43c30c2d84f5f803ce250e9fbb08c_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_3fd43c30c2d84f5f803ce250e9fbb08c_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "CBR-ST 12G 7/16",
@@ -600,10 +792,16 @@ window.DIVERSITY_SITE_DATA = {
       "price": "$12.00",
       "inventoryStatus": "in_stock",
       "isInStock": true,
-      "imageWidth": 906,
-      "imageHeight": 906,
-      "imageBytes": 52472,
-      "imageSourceStatus": "local"
+      "imageWidth": 190,
+      "imageHeight": 163,
+      "imageBytes": 4039,
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Surgical steel 12g captive bead ring. This 316L CBR is measured by the internal diameter of the ring. These rings have a tension ball which is easily removed and inserted.</p>\n<h3>Return Policy</h3>\n<p>ALL SALES ARE FINAL</p>\n<p>NO REFUNDS</p>",
+      "canonicalImageMediaId": "8d0ab0_0337992c3022426385f08eeba51ea288_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_0337992c3022426385f08eeba51ea288_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "CBR-ST-8G 1/2 GEM BALL CLEAR",
@@ -619,7 +817,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 466,
       "imageHeight": 500,
       "imageBytes": 25535,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>- 316L Surgical Stainless Steel Barbell</p>\n<h3>Return Policy</h3>\n<p>All Sales are FINAL</p>\n<p>NO RETURNS</p>",
+      "canonicalImageMediaId": "8d0ab0_3fd43c30c2d84f5f803ce250e9fbb08c_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_3fd43c30c2d84f5f803ce250e9fbb08c_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "Clear Hit",
@@ -635,7 +839,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 500,
       "imageHeight": 342,
       "imageBytes": 45074,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Complete Self Testing Kit</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>ALL SALES ARE FINAL</p>",
+      "canonicalImageMediaId": "8d0ab0_1fe63e4b525940d99ffae76426accba9_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_1fe63e4b525940d99ffae76426accba9_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "Clear Hit",
@@ -651,7 +861,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 500,
       "imageHeight": 300,
       "imageBytes": 39772,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Complete Self Testing Kit</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>ALL SALES ARE FINAL</p>",
+      "canonicalImageMediaId": "8d0ab0_47307fe80f874ade8a2958c94f40a7a8_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_47307fe80f874ade8a2958c94f40a7a8_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "NAIL CROWN SILK BLACK",
@@ -664,10 +880,16 @@ window.DIVERSITY_SITE_DATA = {
       "price": "$19.99",
       "inventoryStatus": "in_stock",
       "isInStock": true,
-      "imageWidth": 1000,
-      "imageHeight": 668,
-      "imageBytes": 205875,
-      "imageSourceStatus": "local"
+      "imageWidth": 300,
+      "imageHeight": 300,
+      "imageBytes": 7261,
+      "imageSourceStatus": "local",
+      "bodyHtml": "<p>The Nail Crown was\u00a0created by Cruz Culture in order to solve the most common issues while enjoying concentrates. Never burn yourself again and easily take your tools on the go with a platinum grade silicone Nail Crown which allows you to grab and store hot metal, glass, or quartz. Beyond that, use your Nail Crown to hold sticky tools, store concentrates and even use the Nail Crown as a tripod for your phone! The Cruz Culture Nail Crown puts all the tools you need in one compact package so you\u2019ll never reach\u00a0your destination only to discover you forgot that critical\u00a0tool.</p>\n<h3>Return Policy</h3>\n<p>All SALES ARE FINAL</p>\n<p>NO REFUNDS</p>",
+      "canonicalImageMediaId": "8d0ab0_3f8fbef042c4499da9c2ae0b991c3c7a_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_3f8fbef042c4499da9c2ae0b991c3c7a_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "CBR-ST 12G 3/8",
@@ -680,10 +902,16 @@ window.DIVERSITY_SITE_DATA = {
       "price": "$12.00",
       "inventoryStatus": "in_stock",
       "isInStock": true,
-      "imageWidth": 1000,
-      "imageHeight": 668,
-      "imageBytes": 205875,
-      "imageSourceStatus": "local"
+      "imageWidth": 190,
+      "imageHeight": 163,
+      "imageBytes": 4039,
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Surgical steel 12g captive bead ring. This 316L CBR is measured by the internal diameter of the ring. These rings have a tension ball which is easily removed and inserted.</p>\n<h3>Return Policy</h3>\n<p>ALL SALES ARE FINAL</p>\n<p>NO REFUNDS</p>",
+      "canonicalImageMediaId": "8d0ab0_0337992c3022426385f08eeba51ea288_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_0337992c3022426385f08eeba51ea288_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "Glass Pipe",
@@ -699,13 +927,19 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 280,
       "imageHeight": 500,
       "imageBytes": 45917,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Glass Pipe</p><p>Green A</p><p>Purple B</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>ALL SALES ARE FINAL</p>",
+      "canonicalImageMediaId": "8d0ab0_8a236ec8e3894de892de712549cf82f0_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_8a236ec8e3894de892de712549cf82f0_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "DETOXIFY EVER CLEAN",
       "destinationPath": "products/detoxify-ever-clean.html",
       "excerpt": "The absolute best 5-day detoxifying product that we offer is Ever Clean. This product is intended for those with low to moderate toxicity, seeking a longer-term cleansing solution that addresses all 4 Factors of Full System Cleansing....",
-      "body": "The absolute best 5-day detoxifying product that we offer is Ever Clean. This product is intended for those with low to moderate toxicity, seeking a longer-term cleansing solution that addresses all 4 Factors of Full System Cleansing. Ever Clean is fortified with Meta-Boost, and includes five 4oz shooter bottles. Ever Clean is recommended as part of a lifestyle change, and should be used over the course of 5 consecutive days. For optimal cleansing benefits, we recommend that you follow up Ever Clean with Detoxify Constant Cleanse on an ongoing basis. Follow these simple steps and you will notice EVER Clean\u2019s immediate impact on your body\u2019s natural cleansing process. PRODUCT INFO Instructions For Pre-Cleansing: For each of the first (4) days prior to your Final Intensive Cleansing day: Shake a bottle of PRECLEANSE BLEND and drink it followed by (1) 16 oz. glass of water. Throughout the day drink (5) 16 oz. glasses of water. It is best not to drink the water all at once, but sip on the glasses all day long. You can drink more water if desired, but don\u2019t overdo it. Intensive Cleansing Instructions: On the fifth day, you will complete the FINAL INTENSIVE CLEANSE and you will notice Ever Clean's immediate impact on your body\u2019s natural cleansing process: Shake your Intensive Cleansing Blend well and drink the entire contents of the bottle. Then wait 15 minutes. Drink 32 oz. of water within 5 minutes. Urinate frequently. Urinating 3 -4 times indicates you are experiencing optimal cleansing. ADDITIONAL INFORMATION: EVER CLEAN is intended for periodic intensive cleansing that is a...",
+      "body": "The absolute best 5-day detoxifying product that we offer is Ever Clean. This product is intended for those with low to moderate toxicity, seeking a longer-term cleansing solution that addresses all 4 Factors of Full System Cleansing. Ever Clean is fortified with Meta-Boost, and includes five 4oz shooter bottles. Ever Clean is recommended as part of a lifestyle change, and should be used over the course of 5 consecutive days. For optimal cleansing benefits, we recommend that you follow up Ever Clean with Detoxify Constant Cleanse on an ongoing basis. Follow these simple steps and you will notice EVER Clean\u2019s immediate impact on your body\u2019s natural cleansing process. PRODUCT INFO Instructions For Pre-Cleansing: For each of the first (4) days prior to your Final Intensive Cleansing day: Shake a bottle of PRECLEANSE BLEND and drink it followed by (1) 16 oz. glass of water. Throughout the day drink (5) 16 oz. glasses of water. It is best not to drink the water all at once, but sip on the glasses all day long. You can drink more water if desired, but don\u2019t overdo it. Intensive Cleansing Instructions: On the fifth day, you will complete the FINAL INTENSIVE CLEANSE and you will notice Ever Clean's immediate impact on your body\u2019s natural cleansing process: Shake your Intensive Cleansing Blend well and drink the entire contents of the bottle. Then wait 15 minutes. Drink 32 oz. of water within 5 minutes. Urinate frequently. Urinating 3 -4 times indicates you are experiencing optimal cleansing. ADDITIONAL INFORMATION: EVER CLEAN is intended for periodic intensive cleansing that is a part of an ongoing cleansing routine. For best results, use Detoxify\u2019s\u00ae PreCleansing products for 2 days prior to using EVER CLEAN. For optimal cleansing and health, take Detoxify Constant Cleanse every day with six 16oz glasses of water. Eat light meals, including fruits, vegetables, and fiber during your cleansing program. PREGNANT OR BREASTFEEDING WOMEN SHOULD CONSULT THEIR PHYSICIAN BEFORE USING THIS PRODUCT. EVER CLEAN is not intended for children. DOES EVER CLEAN WORK? With its powerful ingredients, Detoxify Ever Clean is the most powerful 5-day detox product on the market today. It has been effective for people who are committed to cleansing. Simply follow Ever Clean\u2019s guidelines for precleansing and intensive cleansing and the Ever Clean directions, and you will experience optimal cleansing. MORE INFORMATION ON YOUR EVER CLEAN Detoxify Brand herbal cleansing supplements have been specifically formulated to reduce toxins and impurities in the body when used in conjunction with a healthy diet and exercise. The herbs, fiber, vitamins and minerals in Ever Clean support the 4 Factors of Full System Cleansing\u2122: Diuretic and cleansing herbs support healthy liver, kidney and urinary system function. Fruit fiber supports digestive system function and health. Heart health herbs support circulatory system function and blood cleansing. Vitamins and minerals replenish nutrients lost during intensive cleansing. Plus Metaboost: These ingredients have been shown to provide the metabolic boost necessary to achieve rapid intensive cleansing. These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease. Except as stated here, Detoxify disclaims any and all representations, expressed or implied, concerning the manufacturing, use, or performance of its products made by any third party. Detoxify notifies all distributors, retailers, and consumers of its products that all disclaimed representations are unauthorized, wrongful and false, and in certain jurisdictions may be unlawful. RETURN & REFUND POLICY All Sales are FINAL ! SHIPPING INFO I'm a shipping policy. I'm a great place to add more information about your shipping methods, packaging and cost. Providing straightforward information about your shipping policy is a great way to build trust and reassure your customers that they can buy from you with confidence.",
       "image": "assets/products/detoxify-ever-clean/detoxify-ever-clean.jpeg",
       "category": "Shop - Detox / Cleanses",
       "categoryLabel": "Detox / Cleanses",
@@ -715,45 +949,63 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 450,
       "imageHeight": 450,
       "imageBytes": 25251,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>The absolute best 5-day detoxifying product that we offer is Ever Clean. This product is intended for those with low to moderate toxicity, seeking a longer-term cleansing solution that addresses all 4 Factors of Full System Cleansing. Ever Clean is fortified with Meta-Boost, and includes five 4oz shooter bottles.</p><p>Ever Clean is recommended as part of a lifestyle change, and should be used over the course of 5 consecutive days. For optimal cleansing benefits, we recommend that you follow up Ever Clean with Detoxify Constant Cleanse on an ongoing basis.</p><p>Follow these simple steps and you will notice EVER Clean\u2019s immediate impact on your body\u2019s natural cleansing process.</p>\n<h3>PRODUCT INFO</h3>\n<p>Instructions For Pre-Cleansing: </p>\n<p>For each of the first (4) days prior to your Final Intensive Cleansing day:</p>\n<ul>\n<li>Shake a bottle of PRECLEANSE BLEND and drink it followed by (1) 16 oz. glass of water.</li>\n<li>Throughout the day drink (5) 16 oz. glasses of water.</li>\n<li>It is best not to drink the water all at once, but sip on the glasses all day long. You can drink more water if desired, but don\u2019t overdo it.</li>\n</ul>\n<p>Intensive Cleansing Instructions:</p>\n<p>On the fifth day, you will complete the FINAL INTENSIVE CLEANSE and you will notice Ever Clean's immediate impact on your body\u2019s natural cleansing process:<br/>\n\u00a0</p>\n<ul>\n<li>Shake your Intensive Cleansing Blend well and drink the entire contents of the bottle. Then wait 15 minutes.</li>\n<li>Drink 32 oz. of water within 5 minutes.</li>\n<li>Urinate frequently.</li>\n<li>Urinating 3 -4 times indicates you are experiencing optimal cleansing.</li>\n</ul>\n<p>ADDITIONAL INFORMATION:</p>\n<ul>\n<li>EVER CLEAN is intended for periodic intensive cleansing that is a part of an ongoing cleansing routine.</li>\n<li>For best results, use Detoxify\u2019s\u00ae PreCleansing products for 2 days prior to using EVER CLEAN.</li>\n<li>For optimal cleansing and health, take Detoxify Constant Cleanse every day with six 16oz glasses of water.</li>\n<li>Eat light meals, including fruits, vegetables, and fiber during your cleansing program.</li>\n</ul>\n<p>PREGNANT OR BREASTFEEDING WOMEN SHOULD CONSULT THEIR PHYSICIAN BEFORE USING THIS PRODUCT. EVER CLEAN is not intended for children.</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p>DOES EVER CLEAN WORK?</p>\n<p>With its powerful ingredients, Detoxify Ever Clean is the most powerful 5-day detox product on the market today. It has been effective for people who are committed to cleansing. Simply follow Ever Clean\u2019s guidelines for precleansing and intensive cleansing and the Ever Clean directions, and you will experience optimal cleansing.</p>\n<p>MORE INFORMATION ON YOUR EVER CLEAN</p>\n<p>Detoxify Brand herbal cleansing supplements have been specifically formulated to reduce toxins and impurities in the body when used in conjunction with a healthy diet and exercise.</p>\n<p>The herbs, fiber, vitamins and minerals in Ever Clean support the 4 Factors of Full System Cleansing\u2122:</p>\n<ul>\n<li>Diuretic and cleansing herbs support healthy liver, kidney and urinary system function.</li>\n<li>Fruit fiber supports digestive system function and health.</li>\n<li>Heart health herbs support circulatory system function and blood cleansing.</li>\n<li>Vitamins and minerals replenish nutrients lost during intensive cleansing.</li>\n</ul>\n<p>Plus Metaboost: These ingredients have been shown to provide the metabolic boost necessary to achieve rapid intensive cleansing.</p>\n<p>These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease. Except as stated here, Detoxify disclaims any and all representations, expressed or implied, concerning the manufacturing, use, or performance of its products made by any third party. Detoxify notifies all distributors, retailers, and consumers of its products that all disclaimed representations are unauthorized, wrongful and false, and in certain jurisdictions may be unlawful.</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>All Sales are FINAL !</p>\n<h3>SHIPPING INFO</h3>\n<p>I'm a shipping policy. I'm a great place to add more information about your shipping methods, packaging and cost. Providing straightforward information about your shipping policy is a great way to build trust and reassure your customers that they can buy from you with confidence.</p>",
+      "canonicalImageMediaId": "8d0ab0_4ffc2dac3bd049fbbf6eb7ba2cc6cc4f_mv2.jpeg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_4ffc2dac3bd049fbbf6eb7ba2cc6cc4f_mv2.jpeg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "DETOXIFY GREEN CLEAN",
       "destinationPath": "products/detoxify-green-clean.html",
       "excerpt": "You can enjoy a healthier, cleaner body with Detoxify Green Clean. Green Clean is the herbal cleansing detox drink concentrate used by people just like you. They cleansed their systems of toxins and impurities with Green Clean, and so can...",
-      "body": "You can enjoy a healthier, cleaner body with Detoxify Green Clean. Green Clean is the herbal cleansing detox drink concentrate used by people just like you. They cleansed their systems of toxins and impurities with Green Clean, and so can you. PRODUCT INFO Detoxify Green Clean is the way to help lower the impurities your body absorbs every day. Pick your day for using your Green Clean for intensive cleansing. Begin your cleansing program with Green Clean. Shake the Green Clean Cleansing Blend well and drink entire contents of the bottle. Next, shake Green Clean Green Tea Metaboost well and drink entire contents of bottle. It is permissible to mix both Green Clean bottles with up to 16oz of water. Wait 15 minutes. Drink 32oz of water. Continue to drink plenty of water throughout the day to extend your cleansing program for hours. Urinate frequently. Frequent urination indicates that you are experiencing optimal cleansing with Green Clean. ADDITIONAL INFORMATION Green Clean is intended for periodic intensive cleansing that is a part of an ongoing cleansing routine. For best results, use Detoxify\u2019s PreCleansing products for 2 days prior to using Green Clean. For optimal cleansing and health, take Detoxify Constant Cleanse every day with six 16oz glasses of water. Eat light meals, including fruits, vegetables, and fiber during your cleansing program. PREGNANT OR BREASTFEEDING WOMEN SHOULD CONSULT THEIR PHYSICIAN BEFORE USING THIS PRODUCT. Green Clean is not intended for children. DOES GREEN CLEAN WORK? With its powerful ingredients, Detoxify Green Clean is the most powerful...",
-      "image": "assets/products/detoxify-green-clean/detoxify-green-clean.jpg",
+      "body": "You can enjoy a healthier, cleaner body with Detoxify Green Clean. Green Clean is the herbal cleansing detox drink concentrate used by people just like you. They cleansed their systems of toxins and impurities with Green Clean, and so can you. PRODUCT INFO Detoxify Green Clean is the way to help lower the impurities your body absorbs every day. Pick your day for using your Green Clean for intensive cleansing. Begin your cleansing program with Green Clean. Shake the Green Clean Cleansing Blend well and drink entire contents of the bottle. Next, shake Green Clean Green Tea Metaboost well and drink entire contents of bottle. It is permissible to mix both Green Clean bottles with up to 16oz of water. Wait 15 minutes. Drink 32oz of water. Continue to drink plenty of water throughout the day to extend your cleansing program for hours. Urinate frequently. Frequent urination indicates that you are experiencing optimal cleansing with Green Clean. ADDITIONAL INFORMATION Green Clean is intended for periodic intensive cleansing that is a part of an ongoing cleansing routine. For best results, use Detoxify\u2019s PreCleansing products for 2 days prior to using Green Clean. For optimal cleansing and health, take Detoxify Constant Cleanse every day with six 16oz glasses of water. Eat light meals, including fruits, vegetables, and fiber during your cleansing program. PREGNANT OR BREASTFEEDING WOMEN SHOULD CONSULT THEIR PHYSICIAN BEFORE USING THIS PRODUCT. Green Clean is not intended for children. DOES GREEN CLEAN WORK? With its powerful ingredients, Detoxify Green Clean is the most powerful detox drink concentrate on the market today. It has been effective for people who are committed to cleansing. Simply follow Green Clean\u2019s guidelines for intensive cleansing and the Green Clean directions, and you will experience optimal cleansing. DETOXIFY GREEN CLEAN INGREDIENTS Each 8oz Green Clean detox drink contains our proprietary herbal blend. Green Clean also includes: Vitamin A Vitamin C Vitamin D Thiamin Riboflavin Niacin Vitamin B6 Folate Vitamin B12 Biotin Pantothenic Acid Calcium Magnesium Zinc Selenium Manganese Chromium Potassium Creatine Monohydrate GREEN CLEAN\u2019S EXCLUSIVE HERBAL FORMULA IS: Nettle \u2014 Acts as a diuretic in Green Clean to help release toxins from the body. Ginseng \u2014 Traditionally used to boost the immune, cardiovascular and metabolic systems. Dandelion \u2014 Herbalists use this potent herb to support healthy liver and gallbladder function. Hawthorne Berry \u2014 Used in Green Clean, as it has been for centuries, to support the heart and cardiovascular system. Milk Thistle \u2014 Included in Green Clean to restore healthy liver function and minimize toxin damage. Uva Ursi \u2014 In Green Clean to promote kidney and urinary health. Mullein Leaf \u2014 Acts as a tonic in Green Clean to support the respiratory system and lungs. Stevia \u2014 A powerful cleansing herb in Green Clean used by herbalists since ancient times. Fruit Fiber \u2014 Effective in Green Clean for binding toxins and helping to eliminate them through the digestive tract. Green Tea Metaboost \u2014 Green Clean contains green tea extract which has been clinically proven to boost the metabolism and enhance rapid intensive cleansing. MORE INFORMATION ON YOUR GREEN CLEAN DETOX DRINK Detoxify Brand herbal cleansing supplements have been specifically formulated with a proprietary blend of ingredients proven to reduce toxins and impurities in the body when used in conjunction with a healthy diet and exercise. The herbs, fiber, vitamins and minerals in Green Clean support the 4 Factors of Full System Cleansing\u2122: Diuretic and cleansing herbs support healthy liver, kidney and urinary system function. Fruit fiber supports digestive system function and health. Heart health herbs support circulatory system function and blood cleansing. Vitamins and minerals replenish nutrients lost during intensive cleansing. Plus Green Tea Metaboost: Green tea has been shown to provide the metabolic boost necessary to achieve rapid intensive cleansing. These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease. Except as stated here, Detoxify disclaims any and all representations, expressed or implied, concerning the manufacturing, use, or performance of its products made by any third party. Detoxify notifies all distributors, retailers, and consumers of its products that all disclaimed representations are unauthorized, wrongful and false, and in certain jurisdictions may be unlawful. RETURN & REFUND POLICY All Sales are FINAL ! SHIPPING INFO I'm a shipping policy. I'm a great place to add more information about your shipping methods, packaging and cost. Providing straightforward information about your shipping policy is a great way to build trust and reassure your customers that they can buy from you with confidence.",
+      "image": "assets/products/detoxify-green-clean/detoxify-green-clean.jpeg",
       "category": "Shop - Detox / Cleanses",
       "categoryLabel": "Detox / Cleanses",
       "price": "$45.00",
       "inventoryStatus": "in_stock",
       "isInStock": true,
-      "imageWidth": 1000,
-      "imageHeight": 1500,
-      "imageBytes": 222712,
-      "imageSourceStatus": "local"
+      "imageWidth": 450,
+      "imageHeight": 450,
+      "imageBytes": 54708,
+      "imageSourceStatus": "local",
+      "bodyHtml": "<p>You can enjoy a healthier, cleaner body with Detoxify Green Clean. Green Clean is the herbal cleansing detox drink concentrate used by people just like you. They cleansed their systems of toxins and impurities with Green Clean, and so can you.</p>\n<h3>PRODUCT INFO</h3>\n<ul>\n<li>Detoxify Green Clean is the way to help lower the impurities your body absorbs every day. Pick your day for using your Green Clean for intensive cleansing.</li>\n<li>Begin your cleansing program with Green Clean.</li>\n<li>Shake the Green Clean Cleansing Blend well and drink entire contents of the bottle. Next, shake Green Clean Green Tea Metaboost well and drink entire contents of bottle.</li>\n<li>It is permissible to mix both Green Clean bottles with up to 16oz of water.</li>\n<li>Wait 15 minutes. Drink 32oz of water.</li>\n<li>Continue to drink plenty of water throughout the day to extend your cleansing program for hours.</li>\n<li>Urinate frequently. Frequent urination indicates that you are experiencing optimal cleansing with Green Clean.</li>\n</ul>\n<p>ADDITIONAL INFORMATION</p>\n<ul>\n<li>Green Clean is intended for periodic intensive cleansing that is a part of an ongoing cleansing routine.</li>\n<li>For best results, use Detoxify\u2019s PreCleansing products for 2 days prior to using Green Clean.</li>\n<li>For optimal cleansing and health, take Detoxify Constant Cleanse every day with six 16oz glasses of water.</li>\n<li>Eat light meals, including fruits, vegetables, and fiber during your cleansing program.</li>\n</ul>\n<p>PREGNANT OR BREASTFEEDING WOMEN SHOULD CONSULT THEIR PHYSICIAN BEFORE USING THIS PRODUCT. Green Clean is not intended for children.</p>\n<p>DOES GREEN CLEAN WORK?</p>\n<p>With its powerful ingredients, Detoxify Green Clean is the most powerful detox drink concentrate on the market today. It has been effective for people who are committed to cleansing. Simply follow Green Clean\u2019s guidelines for intensive cleansing and the Green Clean directions, and you will experience optimal cleansing.</p>\n<p>DETOXIFY GREEN CLEAN INGREDIENTS</p>\n<p>Each 8oz Green Clean detox drink contains our proprietary herbal blend. Green Clean also includes:</p>\n<ul>\n<li>Vitamin A</li>\n<li>Vitamin C</li>\n<li>Vitamin D</li>\n<li>Thiamin</li>\n<li>Riboflavin</li>\n<li>Niacin</li>\n<li>Vitamin B6</li>\n<li>Folate</li>\n<li>Vitamin B12</li>\n<li>Biotin</li>\n<li>Pantothenic Acid</li>\n<li>Calcium</li>\n<li>Magnesium</li>\n<li>Zinc</li>\n<li>Selenium</li>\n<li>Manganese</li>\n<li>Chromium</li>\n<li>Potassium</li>\n<li>Creatine Monohydrate</li>\n</ul>\n<p>GREEN CLEAN\u2019S EXCLUSIVE HERBAL FORMULA IS:</p>\n<ul>\n<li>Nettle \u2014 Acts as a diuretic in Green Clean to help release toxins from the body.</li>\n<li>Ginseng \u2014 Traditionally used to boost the immune, cardiovascular and metabolic systems.</li>\n<li>Dandelion \u2014 Herbalists use this potent herb to support healthy liver and gallbladder function.</li>\n<li>Hawthorne Berry \u2014 Used in Green Clean, as it has been for centuries, to support the heart and cardiovascular system.</li>\n<li>Milk Thistle \u2014 Included in Green Clean to restore healthy liver function and minimize toxin damage.</li>\n<li>Uva Ursi \u2014 In Green Clean to promote kidney and urinary health.</li>\n<li>Mullein Leaf \u2014 Acts as a tonic in Green Clean to support the respiratory system and lungs.</li>\n<li>Stevia \u2014 A powerful cleansing herb in Green Clean used by herbalists since ancient times.</li>\n<li>Fruit Fiber \u2014 Effective in Green Clean for binding toxins and helping to eliminate them through the digestive tract.</li>\n<li>Green Tea Metaboost \u2014 Green Clean contains green tea extract which has been clinically proven to boost the metabolism and enhance rapid intensive cleansing.</li>\n</ul>\n<p>MORE INFORMATION ON YOUR GREEN CLEAN DETOX DRINK</p>\n<p>Detoxify Brand herbal cleansing supplements have been specifically formulated with a proprietary blend of ingredients proven to reduce toxins and impurities in the body when used in conjunction with a healthy diet and exercise.</p>\n<p>The herbs, fiber, vitamins and minerals in Green Clean support the 4 Factors of Full System Cleansing\u2122:</p>\n<ul>\n<li>Diuretic and cleansing herbs support healthy liver, kidney and urinary system function.</li>\n<li>Fruit fiber supports digestive system function and health.</li>\n<li>Heart health herbs support circulatory system function and blood cleansing.</li>\n<li>Vitamins and minerals replenish nutrients lost during intensive cleansing.</li>\n</ul>\n<p>Plus Green Tea Metaboost: Green tea has been shown to provide the metabolic boost necessary to achieve rapid intensive cleansing.</p>\n<p>These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease. Except as stated here, Detoxify disclaims any and all representations, expressed or implied, concerning the manufacturing, use, or performance of its products made by any third party. Detoxify notifies all distributors, retailers, and consumers of its products that all disclaimed representations are unauthorized, wrongful and false, and in certain jurisdictions may be unlawful.</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>All Sales are FINAL !</p>\n<h3>SHIPPING INFO</h3>\n<p>I'm a shipping policy. I'm a great place to add more information about your shipping methods, packaging and cost. Providing straightforward information about your shipping policy is a great way to build trust and reassure your customers that they can buy from you with confidence.</p>",
+      "canonicalImageMediaId": "8d0ab0_66fc5cd188a54405a0f732409235e60c_mv2.jpeg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_66fc5cd188a54405a0f732409235e60c_mv2.jpeg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "DETOXIFY INSTANT CLEAN",
       "destinationPath": "products/detoxify-instant-clean.html",
       "excerpt": "You can enjoy a healthier, cleaner body with Detoxify Instant Clean. Instant Clean is the herbal cleansing detox capsule product used by people just like you. They cleansed their systems of toxins and impurities with Instant Clean, and so...",
-      "body": "You can enjoy a healthier, cleaner body with Detoxify Instant Clean. Instant Clean is the herbal cleansing detox capsule product used by people just like you. They cleansed their systems of toxins and impurities with Instant Clean, and so can you. Detoxify Instant Clean is the way to help lower the impurities your body absorbs every day. Follow these simple steps and you will notice Instant Clean\u2019s immediate impact on your body\u2019s natural cleansing process PRODUCT INFO Pick your day for using your INSTANT CLEAN for intensive cleansing. Begin your cleansing program with INSTANT CLEAN. Take the Cleansing Blend capsule (clear) with 20oz of water. Wait 15 minutes. Take the Nutrient capsule (yellow) with 20oz of water. Wait 15 minutes. Take the Metaboost capsule (blue) with 20 oz of water. Urinate frequently. Urinating 2-3 times indicates that you are experiencing optimal cleansing with INSTANT CLEAN. You may drink 16oz of water every 2 hours after using INSTANT CLEAN to extend your cleansing benefits throughout the day. ADDITIONAL INFORMATION: INSTANT CLEAN is intended for periodic intensive cleansing that is a part of an ongoing cleansing routine. For best results, use Detoxify\u2019s\u00ae PreCleansing products for 2 days prior to using INSTANT CLEAN. For optimal cleansing and health, take Detoxify Constant Cleanse every day with six 16oz glasses of water. Eat light meals, including fruits, vegetables, and fiber during your cleansing program. PREGNANT OR BREASTFEEDING WOMEN SHOULD CONSULT THEIR PHYSICIAN BEFORE USING THIS PRODUCT. INSTANT CLEAN is not intended for children. DOES...",
-      "image": "assets/products/detoxify-instant-clean/detoxify-instant-clean.jpg",
+      "body": "You can enjoy a healthier, cleaner body with Detoxify Instant Clean. Instant Clean is the herbal cleansing detox capsule product used by people just like you. They cleansed their systems of toxins and impurities with Instant Clean, and so can you. Detoxify Instant Clean is the way to help lower the impurities your body absorbs every day. Follow these simple steps and you will notice Instant Clean\u2019s immediate impact on your body\u2019s natural cleansing process PRODUCT INFO Pick your day for using your INSTANT CLEAN for intensive cleansing. Begin your cleansing program with INSTANT CLEAN. Take the Cleansing Blend capsule (clear) with 20oz of water. Wait 15 minutes. Take the Nutrient capsule (yellow) with 20oz of water. Wait 15 minutes. Take the Metaboost capsule (blue) with 20 oz of water. Urinate frequently. Urinating 2-3 times indicates that you are experiencing optimal cleansing with INSTANT CLEAN. You may drink 16oz of water every 2 hours after using INSTANT CLEAN to extend your cleansing benefits throughout the day. ADDITIONAL INFORMATION: INSTANT CLEAN is intended for periodic intensive cleansing that is a part of an ongoing cleansing routine. For best results, use Detoxify\u2019s\u00ae PreCleansing products for 2 days prior to using INSTANT CLEAN. For optimal cleansing and health, take Detoxify Constant Cleanse every day with six 16oz glasses of water. Eat light meals, including fruits, vegetables, and fiber during your cleansing program. PREGNANT OR BREASTFEEDING WOMEN SHOULD CONSULT THEIR PHYSICIAN BEFORE USING THIS PRODUCT. INSTANT CLEAN is not intended for children. DOES INSTANT CLEAN WORK? With its powerful ingredients, Detoxify Instant Clean is the most powerful detox product on the market today. It has been effective for people who are committed to cleansing. Simply follow Instant Clean\u2019s guidelines for intensive cleansing and the Instant Clean directions, and you will experience optimal cleansing. DETOXIFY INSTANT CLEAN INGREDIENTS Each Instant Clean contains our proprietary herbal blend. Instant Clean also includes: Vitamin A Vitamin D Thiamin Riboflavin Niacinamide Pyridoxine HCl Folic Acid Vitamin B12 Biotin Pantothenic Acid Calcium Magnesium Zinc Selenium Manganese Chromium Creatine Monohydrate Instant Clean\u2019s exclusive herbal formula is: Nettle \u2013 Acts as a diuretic in Instant Clean to help release toxins from the body. Ginseng \u2013 Traditionally used to boost the immune, cardiovascular and metabolic systems. Milk Thistle \u2013 Included in Instant Clean to restore healthy liver function and minimize toxin damage. Uva Ursi \u2013 In Instant Clean to promote kidney and urinary health. Metaboost \u2013 Instant Clean contains guarana and taurine which have been clinically proven to boost the metabolism and enhance rapid intensive cleansing. MORE INFORMATION ON YOUR INSTANT CLEAN Detoxify Brand herbal cleansing supplements have been specifically formulated with a proprietary blend of ingredients proven to reduce toxins and impurities in the body when used in conjunction with a healthy diet and exercise. The herbs, fiber, vitamins and minerals in Instant Clean support the 4 Factors of Full System Cleansing\u2122: Diuretic and cleansing herbs support healthy liver, kidney and urinary system function. Fruit fiber supports digestive system function and health. Heart health herbs support circulatory system function and blood cleansing. Vitamins and minerals replenish nutrients lost during intensive cleansing. Plus Metaboost: These ingredients have been shown to provide the metabolic boost necessary to achieve rapid intensive cleansing. These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease. Except as stated here, Detoxify disclaims any and all representations, expressed or implied, concerning the manufacturing, use, or performance of its products made by any third party. Detoxify notifies all distributors, retailers, and consumers of its products that all disclaimed representations are unauthorized, wrongful and false, and in certain jurisdictions may be unlawful. RETURN & REFUND POLICY All Sales are FINAL ! SHIPPING INFO I'm a shipping policy. I'm a great place to add more information about your shipping methods, packaging and cost. Providing straightforward information about your shipping policy is a great way to build trust and reassure your customers that they can buy from you with confidence.",
+      "image": "assets/products/detoxify-instant-clean/detoxify-instant-clean.jpeg",
       "category": "Shop - Detox / Cleanses",
       "categoryLabel": "Detox / Cleanses",
       "price": "$54.99",
       "inventoryStatus": "in_stock",
       "isInStock": true,
-      "imageWidth": 1000,
-      "imageHeight": 1500,
-      "imageBytes": 222712,
-      "imageSourceStatus": "local"
+      "imageWidth": 225,
+      "imageHeight": 225,
+      "imageBytes": 17585,
+      "imageSourceStatus": "local",
+      "bodyHtml": "<p>You can enjoy a healthier, cleaner body with Detoxify Instant Clean. Instant Clean is the herbal cleansing detox capsule product used by people just like you. They cleansed their systems of toxins and impurities with Instant Clean, and so can you.</p><p>Detoxify Instant Clean is the way to help lower the impurities your body absorbs every day.</p><p>\u00a0Follow these simple steps and you will notice Instant Clean\u2019s immediate impact on your body\u2019s natural cleansing process</p>\n<h3>PRODUCT INFO</h3>\n<ul>\n<li>Pick your day for using your INSTANT CLEAN for intensive cleansing.</li>\n<li>Begin your cleansing program with INSTANT CLEAN.</li>\n<li>Take the Cleansing Blend capsule (clear) with 20oz of water. Wait 15 minutes.</li>\n<li>Take the Nutrient capsule (yellow) with 20oz of water. Wait 15 minutes.</li>\n<li>Take the Metaboost capsule (blue) with 20 oz of water.</li>\n<li>Urinate frequently. Urinating 2-3 times indicates that you are experiencing optimal cleansing with INSTANT CLEAN.</li>\n<li>You may drink 16oz of water every 2 hours after using INSTANT CLEAN to extend your cleansing benefits throughout the day.</li>\n</ul>\n<p>ADDITIONAL INFORMATION:</p>\n<ul>\n<li>INSTANT CLEAN is intended for periodic intensive cleansing that is a part of an ongoing cleansing routine.</li>\n<li>For best results, use Detoxify\u2019s\u00ae PreCleansing products for 2 days prior to using INSTANT CLEAN.</li>\n<li>For optimal cleansing and health, take Detoxify Constant Cleanse every day with six 16oz glasses of water.</li>\n<li>Eat light meals, including fruits, vegetables, and fiber during your cleansing program.</li>\n</ul>\n<p>PREGNANT OR BREASTFEEDING WOMEN SHOULD CONSULT THEIR PHYSICIAN BEFORE USING THIS PRODUCT. INSTANT CLEAN is not intended for children.</p>\n<p>DOES INSTANT CLEAN WORK?</p>\n<p>With its powerful ingredients, Detoxify Instant Clean is the most powerful detox product on the market today. It has been effective for people who are committed to cleansing. Simply follow Instant Clean\u2019s guidelines for intensive cleansing and the Instant Clean directions, and you will experience optimal cleansing.</p>\n<p>DETOXIFY INSTANT CLEAN INGREDIENTS</p>\n<p>Each Instant Clean contains our proprietary herbal blend. Instant Clean also includes:</p>\n<ul>\n<li>Vitamin A</li>\n<li>Vitamin D</li>\n<li>Thiamin</li>\n<li>Riboflavin</li>\n<li>Niacinamide</li>\n<li>Pyridoxine HCl</li>\n<li>Folic Acid</li>\n<li>Vitamin B12</li>\n<li>Biotin</li>\n<li>Pantothenic Acid</li>\n<li>Calcium</li>\n<li>Magnesium</li>\n<li>Zinc</li>\n<li>Selenium</li>\n<li>Manganese</li>\n<li>Chromium</li>\n<li>Creatine Monohydrate</li>\n</ul>\n<p>Instant Clean\u2019s exclusive herbal formula is:</p>\n<ul>\n<li>Nettle \u2013 Acts as a diuretic in Instant Clean to help release toxins from the body.</li>\n<li>Ginseng \u2013 Traditionally used to boost the immune, cardiovascular and metabolic systems.</li>\n<li>Milk Thistle \u2013 Included in Instant Clean to restore healthy liver function and minimize toxin damage.</li>\n<li>Uva Ursi \u2013 In Instant Clean to promote kidney and urinary health.</li>\n<li>Metaboost \u2013 Instant Clean contains guarana and taurine which have been clinically proven to boost the metabolism and enhance rapid intensive cleansing.</li>\n</ul>\n<p>MORE INFORMATION ON YOUR INSTANT CLEAN</p>\n<p>Detoxify Brand herbal cleansing supplements have been specifically formulated with a proprietary blend of ingredients proven to reduce toxins and impurities in the body when used in conjunction with a healthy diet and exercise.</p>\n<p>The herbs, fiber, vitamins and minerals in Instant Clean support the 4 Factors of Full System Cleansing\u2122:</p>\n<ul>\n<li>Diuretic and cleansing herbs support healthy liver, kidney and urinary system function.</li>\n<li>Fruit fiber supports digestive system function and health.</li>\n<li>Heart health herbs support circulatory system function and blood cleansing.</li>\n<li>Vitamins and minerals replenish nutrients lost during intensive cleansing.</li>\n</ul>\n<p>Plus Metaboost: These ingredients have been shown to provide the metabolic boost necessary to achieve rapid intensive cleansing.</p>\n<p>These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease. Except as stated here, Detoxify disclaims any and all representations, expressed or implied, concerning the manufacturing, use, or performance of its products made by any third party. Detoxify notifies all distributors, retailers, and consumers of its products that all disclaimed representations are unauthorized, wrongful and false, and in certain jurisdictions may be unlawful.</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>All Sales are FINAL !</p>\n<h3>SHIPPING INFO</h3>\n<p>I'm a shipping policy. I'm a great place to add more information about your shipping methods, packaging and cost. Providing straightforward information about your shipping policy is a great way to build trust and reassure your customers that they can buy from you with confidence.</p>",
+      "canonicalImageMediaId": "8d0ab0_4f7cc43e53774265ab607683d88fde15_mv2.jpeg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_4f7cc43e53774265ab607683d88fde15_mv2.jpeg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "DETOXIFY MEGA CLEAN",
       "destinationPath": "products/detoxify-mega-clean.html",
       "excerpt": "You can enjoy a healthier, cleaner body with Detoxify Mega Clean. Mega Clean is the herbal cleansing detox drink used by millions of satisfied people just like you. They cleansed their systems of toxins and impurities with Mega Clean, and...",
-      "body": "You can enjoy a healthier, cleaner body with Detoxify Mega Clean. Mega Clean is the herbal cleansing detox drink used by millions of satisfied people just like you. They cleansed their systems of toxins and impurities with Mega Clean, and so can you. Detoxify Mega Clean is the way to help lower the impurities your body absorbs every day. PRODUCT INFO Pick your day for using your Mega Clean detox drink for intensive cleansing. Begin your cleansing program with Mega Clean. Shake the Mega Clean well and drink entire contents of the bottle. Mega Clean begins to immediately work to help support your body\u2019s natural cleansing process. Wait 15 minutes. Refill the Mega Clean bottle with water \u2014 shake and drink. Urinate frequently. Frequent urination indicates that you are experiencing optimal cleansing with Mega Clean. Continue to drink plenty of water throughout the day to extend your cleansing program for hours. TO FURTHER ENHANCE MEGA CLEAN\u2019S EFFECTIVENESS Extend your intensive cleansing program with Mega Clean by taking PreCleanse Herbal capsules for the 2 days prior to using Mega Clean. Take Detoxify Constant Cleanse herbal capsules every day throughout the year. Periodic intensive cleansing is most effective when coupled with an ongoing detoxification routine. Eat light meals including fruits, vegetables, and fiber during your cleansing program with Mega Clean. Exercise regularly, and drink at least 12 8oz glasses of water in the days prior to using Mega Clean. DOES MEGA CLEAN WORK? With its powerful ingredients, Detoxify Mega Clean is the detox drink that has been effective...",
+      "body": "You can enjoy a healthier, cleaner body with Detoxify Mega Clean. Mega Clean is the herbal cleansing detox drink used by millions of satisfied people just like you. They cleansed their systems of toxins and impurities with Mega Clean, and so can you. Detoxify Mega Clean is the way to help lower the impurities your body absorbs every day. PRODUCT INFO Pick your day for using your Mega Clean detox drink for intensive cleansing. Begin your cleansing program with Mega Clean. Shake the Mega Clean well and drink entire contents of the bottle. Mega Clean begins to immediately work to help support your body\u2019s natural cleansing process. Wait 15 minutes. Refill the Mega Clean bottle with water \u2014 shake and drink. Urinate frequently. Frequent urination indicates that you are experiencing optimal cleansing with Mega Clean. Continue to drink plenty of water throughout the day to extend your cleansing program for hours. TO FURTHER ENHANCE MEGA CLEAN\u2019S EFFECTIVENESS Extend your intensive cleansing program with Mega Clean by taking PreCleanse Herbal capsules for the 2 days prior to using Mega Clean. Take Detoxify Constant Cleanse herbal capsules every day throughout the year. Periodic intensive cleansing is most effective when coupled with an ongoing detoxification routine. Eat light meals including fruits, vegetables, and fiber during your cleansing program with Mega Clean. Exercise regularly, and drink at least 12 8oz glasses of water in the days prior to using Mega Clean. DOES MEGA CLEAN WORK? With its powerful ingredients, Detoxify Mega Clean is the detox drink that has been effective for millions of people who are committed to cleansing. Simply follow Mega Clean\u2019s guidelines for intensive cleansing and the Mega Clean directions, and you will experience optimal cleansing. DETOXIFY MEGA CLEAN INGREDIENTS Each 20oz Mega Clean detox drink contains our proprietary herbal blend. Mega Clean also includes: Vitamin A Vitamin C Vitamin D Thiamin Riboflavin Niacin Vitamin B6 Folate Vitamin B12 Biotin Pantothenic Acid Calcium Magnesium Zinc Selenium Manganese Chromium Potassium Creatine Monohydrate MEGA CLEAN\u2019S EXCLUSIVE HERBAL FORMULA IS: Burdock Root \u2014 Acts as a diuretic in Mega Clean to help release toxins from the body, as well as having blood cleansing properties. Devil\u2019s Claw \u2014 Used in Mega Clean as a homeopathic remedy for liver, kidney, and metabolic disorders. Dandelion \u2014 Herbalists use this potent herb to support healthy liver and gallbladder function. Milk Thistle \u2014 Included in Mega Clean to restore healthy liver function and minimize toxin damage. Hawthorne Berry \u2014 Used in Mega Clean, as it has been for centuries, to support the heart and cardiovascular system. Uva Ursi \u2014 In Mega Clean to promote kidney and urinary health. Mullein Leaf \u2014 Acts as a tonic in Mega Clean to support the respiratory system and lungs. Stevia \u2014 A powerful cleansing herb in Mega Clean used by herbalists since ancient times. Fruit Fiber \u2014 Effective in Mega Clean for binding toxins and helping to eliminate them through the digestive tract. Taurine \u2014 An important amino acid that supports metabolism and detoxification. MORE INFORMATION ON YOUR MEGA CLEAN DETOX DRINK Detoxify Mega Clean was developed to help your body\u2019s natural detoxification process safely and effectively reduce harmful impurities. Used properly, Mega Clean\u2019s proprietary blend of vitamins, minerals, herbs and fiber helps you achieve a cleaner, healthier lifestyle. Pregnant or breastfeeding women should consult their physician before using Mega Clean detox drink. Detoxify Mega Clean detox drink is a dietary supplement. Statements made about Mega Clean have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease. RETURN & REFUND POLICY All Sales are FINAL ! SHIPPING INFO I'm a shipping policy. I'm a great place to add more information about your shipping methods, packaging and cost. Providing straightforward information about your shipping policy is a great way to build trust and reassure your customers that they can buy from you with confidence.",
       "image": "assets/products/detoxify-mega-clean/detoxify-mega-clean.jpeg",
       "category": "Shop - Detox / Cleanses",
       "categoryLabel": "Detox / Cleanses",
@@ -763,13 +1015,19 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 225,
       "imageHeight": 225,
       "imageBytes": 14861,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<ul> <li>You can enjoy a healthier, cleaner body with Detoxify Mega Clean. Mega Clean is the herbal cleansing detox drink used by millions of satisfied people just like you. They cleansed their systems of toxins and impurities with Mega Clean, and so can you.</li> <li>Detoxify Mega Clean is the way to help lower the impurities your body absorbs every day.</li></ul>\n<h3>PRODUCT INFO</h3>\n<ul>\n<li>Pick your day for using your Mega Clean detox drink for intensive cleansing.</li>\n<li>Begin your cleansing program with Mega Clean.</li>\n<li>Shake the Mega Clean well and drink entire contents of the bottle.</li>\n<li>Mega Clean begins to immediately work to help support your body\u2019s natural cleansing process.</li>\n<li>Wait 15 minutes. Refill the Mega Clean bottle with water \u2014 shake and drink.</li>\n<li>Urinate frequently. Frequent urination indicates that you are experiencing optimal cleansing with Mega Clean.</li>\n<li>Continue to drink plenty of water throughout the day to extend your cleansing program for hours.</li>\n</ul>\n<p>TO FURTHER ENHANCE MEGA CLEAN\u2019S EFFECTIVENESS</p>\n<ul>\n<li>Extend your intensive cleansing program with Mega Clean by taking PreCleanse Herbal capsules for the 2 days prior to using Mega Clean.</li>\n<li>Take Detoxify Constant Cleanse herbal capsules every day throughout the year. Periodic intensive cleansing is most effective when coupled with an ongoing detoxification routine.</li>\n<li>Eat light meals including fruits, vegetables, and fiber during your cleansing program with Mega Clean.</li>\n<li>Exercise regularly, and drink at least 12 8oz glasses of water in the days prior to using Mega Clean.</li>\n</ul>\n<p>DOES MEGA CLEAN WORK?</p>\n<p>With its powerful ingredients, Detoxify Mega Clean is the detox drink that has been effective for millions of people who are committed to cleansing. Simply follow Mega Clean\u2019s guidelines for intensive cleansing and the Mega Clean directions, and you will experience optimal cleansing.</p>\n<p>DETOXIFY MEGA CLEAN INGREDIENTS</p>\n<p>Each 20oz Mega Clean detox drink contains our proprietary herbal blend. Mega Clean also includes:</p>\n<ul>\n<li>Vitamin A</li>\n<li>Vitamin C</li>\n<li>Vitamin D</li>\n<li>Thiamin</li>\n<li>Riboflavin</li>\n<li>Niacin</li>\n<li>Vitamin B6</li>\n<li>Folate</li>\n<li>Vitamin B12</li>\n<li>Biotin</li>\n<li>Pantothenic Acid</li>\n<li>Calcium</li>\n<li>Magnesium</li>\n<li>Zinc</li>\n<li>Selenium</li>\n<li>Manganese</li>\n<li>Chromium</li>\n<li>Potassium</li>\n<li>Creatine Monohydrate</li>\n</ul>\n<p>MEGA CLEAN\u2019S EXCLUSIVE HERBAL FORMULA IS:</p>\n<ul>\n<li>Burdock Root \u2014 Acts as a diuretic in Mega Clean to help release toxins from the body, as well as having blood cleansing properties.</li>\n<li>Devil\u2019s Claw \u2014 Used in Mega Clean as a homeopathic remedy for liver, kidney, and metabolic disorders.</li>\n<li>Dandelion \u2014 Herbalists use this potent herb to support healthy liver and gallbladder function.</li>\n<li>Milk Thistle \u2014 Included in Mega Clean to restore healthy liver function and minimize toxin damage.</li>\n<li>Hawthorne Berry \u2014 Used in Mega Clean, as it has been for centuries, to support the heart and cardiovascular system.</li>\n<li>Uva Ursi \u2014 In Mega Clean to promote kidney and urinary health.</li>\n<li>Mullein Leaf \u2014 Acts as a tonic in Mega Clean to support the respiratory system and lungs.</li>\n<li>Stevia \u2014 A powerful cleansing herb in Mega Clean used by herbalists since ancient times.</li>\n<li>Fruit Fiber \u2014 Effective in Mega Clean for binding toxins and helping to eliminate them through the digestive tract.</li>\n<li>Taurine \u2014 An important amino acid that supports metabolism and detoxification.</li>\n</ul>\n<p>MORE INFORMATION ON YOUR MEGA CLEAN DETOX DRINK</p>\n<p>Detoxify Mega Clean was developed to help your body\u2019s natural detoxification process safely and effectively reduce harmful impurities. Used properly, Mega Clean\u2019s proprietary blend of vitamins, minerals, herbs and fiber helps you achieve a cleaner, healthier lifestyle.</p>\n<p>Pregnant or breastfeeding women should consult their physician before using Mega Clean detox drink.</p>\n<p>Detoxify Mega Clean detox drink is a dietary supplement. Statements made about Mega Clean have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>\n<p>\u00a0</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>All Sales are FINAL !</p>\n<h3>SHIPPING INFO</h3>\n<p>I'm a shipping policy. I'm a great place to add more information about your shipping methods, packaging and cost. Providing straightforward information about your shipping policy is a great way to build trust and reassure your customers that they can buy from you with confidence.</p>",
+      "canonicalImageMediaId": "8d0ab0_276989505fdf4fc8835cfac79a0f171d_mv2.jpeg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_276989505fdf4fc8835cfac79a0f171d_mv2.jpeg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "DETOXIFY MIGHTY CLEAN",
       "destinationPath": "products/detoxify-mighty-clean.html",
       "excerpt": "You can enjoy a healthier, cleaner body with Detoxify Mighty Clean. Mighty Clean is our best-tasting, most powerful herbal cleansing detox drink available. People just like you have trusted Detoxify for more than 20 years, and Mighty...",
-      "body": "You can enjoy a healthier, cleaner body with Detoxify Mighty Clean. Mighty Clean is our best-tasting, most powerful herbal cleansing detox drink available. People just like you have trusted Detoxify for more than 20 years, and Mighty Clean is the answer to even the most toxic lifestyles. Detoxify Mighty Clean is the way to help lower the impurities your body absorbs every day. PRODUCT INFO Pick your day for using your Mighty Clean for intensive cleansing. Shake the Mighty Clean Cleansing Blend Concentrate well and drink entire contents of the bottle. Follow immediately with 16 oz of water. Wait 15 minutes. Shake the Metaboost Concentrate well and drink entire bottle. Follow immediately with 16 oz of water. Wait 15 minutes. Shake the Restore Concentrate well and drink entire bottle. Follow immediately with 16 oz of water. Frequent Urination (3-4 Times) indicates that you are experiencing optimal cleansing with Mighty Clean. You may drink 16 oz of water every 2 hours after using Mighty Clean to extend your cleansing benefits throughout the day. ADDITIONAL INFORMATION Mighty Clean is intended for periodic intensive cleansing that is a part of an ongoing cleansing routine. For best results, use Detoxify\u2019s PreCleansing products for 2 days prior to using Mighty Clean. Eat light meals, including fruits and vegetables during your cleansing program. Pregnant or breast feeding women should consult their physician before using this product. Mighty Clean is not intended for children. DOES MIGHTY CLEAN WORK? With its powerful ingredients and three-step process, Detoxify Mighty Clean...",
+      "body": "You can enjoy a healthier, cleaner body with Detoxify Mighty Clean. Mighty Clean is our best-tasting, most powerful herbal cleansing detox drink available. People just like you have trusted Detoxify for more than 20 years, and Mighty Clean is the answer to even the most toxic lifestyles. Detoxify Mighty Clean is the way to help lower the impurities your body absorbs every day. PRODUCT INFO Pick your day for using your Mighty Clean for intensive cleansing. Shake the Mighty Clean Cleansing Blend Concentrate well and drink entire contents of the bottle. Follow immediately with 16 oz of water. Wait 15 minutes. Shake the Metaboost Concentrate well and drink entire bottle. Follow immediately with 16 oz of water. Wait 15 minutes. Shake the Restore Concentrate well and drink entire bottle. Follow immediately with 16 oz of water. Frequent Urination (3-4 Times) indicates that you are experiencing optimal cleansing with Mighty Clean. You may drink 16 oz of water every 2 hours after using Mighty Clean to extend your cleansing benefits throughout the day. ADDITIONAL INFORMATION Mighty Clean is intended for periodic intensive cleansing that is a part of an ongoing cleansing routine. For best results, use Detoxify\u2019s PreCleansing products for 2 days prior to using Mighty Clean. Eat light meals, including fruits and vegetables during your cleansing program. Pregnant or breast feeding women should consult their physician before using this product. Mighty Clean is not intended for children. DOES MIGHTY CLEAN WORK? With its powerful ingredients and three-step process, Detoxify Mighty Clean is our most powerful detox drink on the market today. It has been designed to be effective for people who are committed to cleansing. Simply follow Mighty Clean\u2019s guidelines for intensive cleansing and the Mighty Clean directions, and you will experience optimal cleansing. DETOXIFY MIGHTY CLEAN INGREDIENTS Each 8oz Mighty Clean detox concentrate contains our proprietary herbal blend. Mighty Clean also includes: Vitamin A Vitamin D Thiamin Riboflavin Niacin Vitamin B6 Folate Vitamin B12 Biotin Pantothenic Acid Magnesium Zinc Selenium Manganese Potassium MORE INFORMATION ON YOUR MIGHTY CLEAN HERBAL CLEANSE For more than 20 years, more than 20 million people like you have trusted Detoxify because it works. The herbs, fiber, vitamins and minerals in Mighty Clean support the 4 Factors of Full System Cleansing\u2122: Deep Cleanse: Cleansing herbs promote the production of urine and support liver, kidney and urinary systems functions. Fruit fiber supports digestive system function and health. Metaboost: Caffeine and green tea have been shown to provide the metabolic support necessary to achieve optimal cleansing. Restore: Ginseng and Aloe have been shown to support detoxification and boost vitamin and mineral intake. Vitamins and minerals replenish nutrients lost during intensive cleansing. Contains ingredients that support circulatory system function. These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease. Except as stated here, Detoxify disclaims any and all representations, expressed or implied, concerning the manufacturing, use, or performance of its products made by any third party. Detoxify notifies all distributors, retailers, and consumers of its products that all disclaimed representations are unauthorized, wrongful and false, and in certain jurisdictions may be unlawful. RETURN & REFUND POLICY All Sales are FINAL ! SHIPPING INFO I'm a shipping policy. I'm a great place to add more information about your shipping methods, packaging and cost. Providing straightforward information about your shipping policy is a great way to build trust and reassure your customers that they can buy from you with confidence.",
       "image": "assets/products/detoxify-mighty-clean/detoxify-mighty-clean.jpeg",
       "category": "Shop - Detox / Cleanses",
       "categoryLabel": "Detox / Cleanses",
@@ -779,45 +1037,63 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 198,
       "imageHeight": 198,
       "imageBytes": 7380,
-      "imageSourceStatus": "local"
+      "imageSourceStatus": "local",
+      "bodyHtml": "<p>You can enjoy a healthier, cleaner body with Detoxify Mighty Clean. Mighty Clean is our best-tasting, most powerful herbal cleansing detox drink available. People just like you have trusted Detoxify for more than 20 years, and Mighty Clean is the answer to even the most toxic lifestyles.</p><p>Detoxify Mighty Clean is the way to help lower the impurities your body absorbs every day.</p>\n<h3>PRODUCT INFO</h3>\n<ul>\n<li>Pick your day for using your Mighty Clean for intensive cleansing.</li>\n<li>Shake the Mighty Clean Cleansing Blend Concentrate well and drink entire contents of the bottle. Follow immediately with 16 oz of water.</li>\n<li>Wait 15 minutes. Shake the Metaboost Concentrate well and drink entire bottle. Follow immediately with 16 oz of water. </li>\n<li>Wait 15 minutes. Shake the Restore Concentrate well and drink entire bottle. Follow immediately with 16 oz of water. </li>\n<li>Frequent Urination (3-4 Times) indicates that you are experiencing optimal cleansing with Mighty Clean.</li>\n<li>You may drink 16 oz of water every 2 hours after using Mighty Clean to extend your cleansing benefits throughout the day.</li>\n</ul>\n<p>ADDITIONAL INFORMATION</p>\n<ul>\n<li>Mighty Clean is intended for periodic intensive cleansing that is a part of an ongoing cleansing routine.</li>\n<li>For best results, use Detoxify\u2019s PreCleansing products for 2 days prior to using Mighty Clean.</li>\n<li>Eat light meals, including fruits and vegetables during your cleansing program.</li>\n<li>Pregnant or breast feeding women should consult their physician before using this product. Mighty Clean is not intended for children.</li>\n</ul>\n<p>\u00a0</p>\n<p>DOES MIGHTY CLEAN WORK?</p>\n<p>With its powerful ingredients and three-step process, Detoxify Mighty Clean is our most powerful detox drink on the market today. It has been designed to be effective for people who are committed to cleansing. Simply follow Mighty Clean\u2019s guidelines for intensive cleansing and the Mighty Clean directions, and you will experience optimal cleansing.</p>\n<p>DETOXIFY MIGHTY CLEAN INGREDIENTS</p>\n<p>Each 8oz Mighty Clean detox concentrate contains our proprietary herbal blend. Mighty Clean also includes:</p>\n<ul>\n<li>Vitamin A</li>\n<li>Vitamin D</li>\n<li>Thiamin</li>\n<li>Riboflavin</li>\n<li>Niacin</li>\n<li>Vitamin B6</li>\n<li>Folate</li>\n<li>Vitamin B12</li>\n<li>Biotin</li>\n<li>Pantothenic Acid</li>\n<li>Magnesium</li>\n<li>Zinc</li>\n<li>Selenium</li>\n<li>Manganese</li>\n<li>Potassium</li>\n</ul>\n<p>MORE INFORMATION ON YOUR MIGHTY CLEAN HERBAL CLEANSE</p>\n<p>For more than 20 years, more than 20 million people like you have trusted Detoxify because it works. The herbs, fiber, vitamins and minerals in Mighty Clean support the 4 Factors of Full System Cleansing\u2122:</p>\n<ul>\n<li>Deep Cleanse: Cleansing herbs promote the production of urine and support liver, kidney and urinary systems functions. Fruit fiber supports digestive system function and health.</li>\n<li>Metaboost: Caffeine and green tea have been shown to provide the metabolic support necessary to achieve optimal cleansing.</li>\n<li>Restore: Ginseng and Aloe have been shown to support detoxification and boost vitamin and mineral intake. Vitamins and minerals replenish nutrients lost during intensive cleansing. Contains ingredients that support circulatory system function.</li>\n</ul>\n<p>These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease. Except as stated here, Detoxify disclaims any and all representations, expressed or implied, concerning the manufacturing, use, or performance of its products made by any third party. Detoxify notifies all distributors, retailers, and consumers of its products that all disclaimed representations are unauthorized, wrongful and false, and in certain jurisdictions may be unlawful.</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>All Sales are FINAL !</p>\n<h3>SHIPPING INFO</h3>\n<p>I'm a shipping policy. I'm a great place to add more information about your shipping methods, packaging and cost. Providing straightforward information about your shipping policy is a great way to build trust and reassure your customers that they can buy from you with confidence.</p>",
+      "canonicalImageMediaId": "8d0ab0_ec6770fe0b524e15b85772f659d3cad5_mv2.jpeg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_ec6770fe0b524e15b85772f659d3cad5_mv2.jpeg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "\u2022 DETOXIFY PRE CLEANSE CAPS",
       "destinationPath": "products/detoxify-pre-cleanse-caps.html",
       "excerpt": "You can enjoy a healthier, cleaner body with Detoxify PreCleanse. You get all of the benefit of nature\u2019s most powerful cleansing herbs with Detoxify PreCleanse. The perfect start to your cleansing program. PRODUCT INFO Precleanse Herbal...",
-      "body": "You can enjoy a healthier, cleaner body with Detoxify PreCleanse. You get all of the benefit of nature\u2019s most powerful cleansing herbs with Detoxify PreCleanse. The perfect start to your cleansing program. PRODUCT INFO Precleanse Herbal Blend contains potent herbs historically known for their powerful cleansing qualities, which boosts the body\u2019s natural detoxification process. These herbs include Dandelion, which is used to support healthy liver and gallbladder function; Milk Thistle, which helps restore healthy liver function and minimize toxin damage; Juniper, which is known to have synergistic effects that encourage healthy bladder and kidney conditions; and Uva Ursi, which is historically used to promote kidney and urinary health. If you have time for pre-cleansing, the product is intended to be used in conjunction with Detoxify\u2019s intensive cleansers such as Ready Clean and Xxtra Clean . Detoxify products are dietary supplements. Statements made about these products have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease RETURN & REFUND POLICY All Sales are FINAL ! SHIPPING INFO I'm a shipping policy. I'm a great place to add more information about your shipping methods, packaging and cost. Providing straightforward information about your shipping policy is a great way to build trust and reassure your customers that they can buy from you with confidence.",
-      "image": "assets/products/detoxify-pre-cleanse-caps/detoxify-pre-cleanse-caps.jpg",
+      "body": "You can enjoy a healthier, cleaner body with Detoxify PreCleanse. You get all of the benefit of nature\u2019s most powerful cleansing herbs with Detoxify PreCleanse. The perfect start to your cleansing program. PRODUCT INFO Precleanse Herbal Blend contains potent herbs historically known for their powerful cleansing qualities, which boosts the body\u2019s natural detoxification process. These herbs include Dandelion, which is used to support healthy liver and gallbladder function; Milk Thistle, which helps restore healthy liver function and minimize toxin damage; Juniper, which is known to have synergistic effects that encourage healthy bladder and kidney conditions; and Uva Ursi, which is historically used to promote kidney and urinary health. If you have time for pre-cleansing, the product is intended to be used in conjunction with Detoxify\u2019s intensive cleansers such as Ready Clean and Xxtra Clean. Detoxify products are dietary supplements. Statements made about these products have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease RETURN & REFUND POLICY All Sales are FINAL ! SHIPPING INFO I'm a shipping policy. I'm a great place to add more information about your shipping methods, packaging and cost. Providing straightforward information about your shipping policy is a great way to build trust and reassure your customers that they can buy from you with confidence.",
+      "image": "assets/products/detoxify-pre-cleanse-caps/detoxify-pre-cleanse-caps.jpeg",
       "category": "Shop - Detox / Cleanses",
       "categoryLabel": "Detox / Cleanses",
       "price": "$10.49",
       "inventoryStatus": "in_stock",
       "isInStock": true,
-      "imageWidth": 1000,
-      "imageHeight": 1500,
-      "imageBytes": 222712,
-      "imageSourceStatus": "local"
+      "imageWidth": 243,
+      "imageHeight": 208,
+      "imageBytes": 10965,
+      "imageSourceStatus": "local",
+      "bodyHtml": "<ul> <li>You can enjoy a healthier, cleaner body with Detoxify PreCleanse. You get all of the benefit of nature\u2019s most powerful cleansing herbs with Detoxify PreCleanse. The perfect start to your cleansing program.</li></ul>\n<h3>PRODUCT INFO</h3>\n<ul>\n<li>Precleanse Herbal Blend contains potent herbs historically known for their powerful cleansing qualities, which boosts the body\u2019s natural detoxification process. These herbs include Dandelion, which is used to support healthy liver and gallbladder function; Milk Thistle, which helps restore healthy liver function and minimize toxin damage; Juniper, which is known to have synergistic effects that encourage healthy bladder and kidney conditions; and Uva Ursi, which is historically used to promote kidney and urinary health.</li>\n<li>If you have time for pre-cleansing, the product is intended to be used in conjunction with Detoxify\u2019s intensive cleansers such as Ready Clean and Xxtra Clean.</li>\n<li>\u00a0</li>\n</ul>\n<p>Detoxify products are dietary supplements. Statements made about these products have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>All Sales are FINAL !</p>\n<h3>SHIPPING INFO</h3>\n<p>I'm a shipping policy. I'm a great place to add more information about your shipping methods, packaging and cost. Providing straightforward information about your shipping policy is a great way to build trust and reassure your customers that they can buy from you with confidence.</p>",
+      "canonicalImageMediaId": "8d0ab0_965b5b29deba428e90bbee139af0489f_mv2.jpeg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_965b5b29deba428e90bbee139af0489f_mv2.jpeg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "DETOXIFY READY CLEAN GRAPE, TROPICAL, ORANGE",
       "destinationPath": "products/detoxify-ready-clean-grape-tropical-orange.html",
       "excerpt": "You can enjoy a healthier, cleaner body with Detoxify Ready Clean. Ready Clean is the herbal cleansing detox drink used by millions of satisfied people just like you. They cleansed their systems of toxins and impurities with Ready Clean,...",
-      "body": "You can enjoy a healthier, cleaner body with Detoxify Ready Clean. Ready Clean is the herbal cleansing detox drink used by millions of satisfied people just like you. They cleansed their systems of toxins and impurities with Ready Clean, and so can you. Detoxify Ready Clean is the way to help lower the impurities your body absorbs every day. PRODUCT INFO Pick your day for using your Ready Clean detox drink for intensive cleansing. Begin your cleansing program with Ready Clean. Shake the Ready Clean well and drink entire contents of the bottle. Ready Clean begins to immediately work to help support your body\u2019s natural cleansing process. Wait 15 minutes. Refill the Ready Clean bottle with water \u2014 shake and drink. Urinate frequently. Frequent urination indicates that you are experiencing optimal cleansing with Ready Clean. Continue to drink plenty of water throughout the day to extend your cleansing program for hours. TO FURTHER ENHANCE READY CLEAN\u2019S EFFECTIVENESS Extend your intensive cleansing program with Ready Clean by taking PreCleanse Herbal capsules for the 2 days prior to using Ready Clean. Take Detoxify Constant Cleanse herbal capsules every day throughout the year. Periodic intensive cleansing is most effective when coupled with an ongoing detoxification routine. Eat light meals including fruits, vegetables, and fiber during your cleansing program with Ready Clean. Exercise regularly, and drink at least 12 8oz glasses of water in the days prior to using Ready Clean. DOES READY CLEAN WORK? With its powerful ingredients, Detoxify Ready Clean is the detox drink that...",
-      "image": "assets/products/detoxify-ready-clean-grape-tropical-orange/detoxify-ready-clean-grape-tropical-orange.jpg",
+      "body": "You can enjoy a healthier, cleaner body with Detoxify Ready Clean. Ready Clean is the herbal cleansing detox drink used by millions of satisfied people just like you. They cleansed their systems of toxins and impurities with Ready Clean, and so can you. Detoxify Ready Clean is the way to help lower the impurities your body absorbs every day. PRODUCT INFO Pick your day for using your Ready Clean detox drink for intensive cleansing. Begin your cleansing program with Ready Clean. Shake the Ready Clean well and drink entire contents of the bottle. Ready Clean begins to immediately work to help support your body\u2019s natural cleansing process. Wait 15 minutes. Refill the Ready Clean bottle with water \u2014 shake and drink. Urinate frequently. Frequent urination indicates that you are experiencing optimal cleansing with Ready Clean. Continue to drink plenty of water throughout the day to extend your cleansing program for hours. TO FURTHER ENHANCE READY CLEAN\u2019S EFFECTIVENESS Extend your intensive cleansing program with Ready Clean by taking PreCleanse Herbal capsules for the 2 days prior to using Ready Clean. Take Detoxify Constant Cleanse herbal capsules every day throughout the year. Periodic intensive cleansing is most effective when coupled with an ongoing detoxification routine. Eat light meals including fruits, vegetables, and fiber during your cleansing program with Ready Clean. Exercise regularly, and drink at least 12 8oz glasses of water in the days prior to using Ready Clean. DOES READY CLEAN WORK? With its powerful ingredients, Detoxify Ready Clean is the detox drink that has been effective for millions of people who are committed to cleansing. Simply follow Ready Clean\u2019s guidelines for intensive cleansing and the Ready Clean directions, and you will experience optimal cleansing. DETOXIFY READY CLEAN INGREDIENTS Each 16oz Ready Clean detox drink contains our proprietary herbal blend. Ready Clean also includes: Vitamin A Vitamin C Vitamin D Thiamin Riboflavin Niacin Vitamin B6 Folate Vitamin B12 Biotin Pantothenic Acid Calcium Magnesium Zinc Selenium Chromium Potassium Creatine Monohydrate READY CLEAN\u2019S EXCLUSIVE HERBAL FORMULA IS: Nettle \u2014 Acts as a diuretic in Ready Clean to help release toxins from the body. Ginseng \u2014 Traditionally used to boost the immune, cardiovascular and metabolic systems. Dandelion \u2014 Herbalists use this potent herb to support healthy liver and gallbladder function. Milk Thistle \u2014 Included in Ready Clean to restore healthy liver function and minimize toxin damage. Uva Ursi \u2014 In Ready Clean to promote kidney and urinary health. Mullein Leaf \u2014 Acts as a tonic in Ready Clean to support the respiratory system and lungs. Stevia \u2014 A powerful cleansing herb in Ready Clean used by herbalists since ancient times. Fruit Fiber \u2014 Effective in Ready Clean for binding toxins and helping to eliminate them through the digestive tract. MORE INFORMATION ON YOUR READY CLEAN DETOX DRINK Detoxify Ready Clean was developed to help your body\u2019s natural detoxification process safely and effectively reduce harmful impurities. Used properly, Detoxify Ready Clean\u2019s proprietary blend of vitamins, minerals, herbs and fiber helps you achieve a cleaner, healthier lifestyle. Pregnant or breastfeeding women should consult their physician before using Ready Clean detox drink. Detoxify Ready Clean detox drink is a dietary supplement. Statements made about Ready Clean have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease RETURN & REFUND POLICY All Sales are FINAL !! SHIPPING INFO I'm a shipping policy. I'm a great place to add more information about your shipping methods, packaging and cost. Providing straightforward information about your shipping policy is a great way to build trust and reassure your customers that they can buy from you with confidence.",
+      "image": "assets/products/detoxify-ready-clean-grape-tropical-orange/detoxify-ready-clean-grape-tropical-orange.jpeg",
       "category": "Shop - Detox / Cleanses",
       "categoryLabel": "Detox / Cleanses",
       "price": "$25.00",
       "inventoryStatus": "in_stock",
       "isInStock": true,
-      "imageWidth": 1000,
-      "imageHeight": 1500,
-      "imageBytes": 222712,
-      "imageSourceStatus": "local"
+      "imageWidth": 225,
+      "imageHeight": 225,
+      "imageBytes": 17780,
+      "imageSourceStatus": "local",
+      "bodyHtml": "<ul> <li>You can enjoy a healthier, cleaner body with Detoxify Ready Clean. Ready Clean is the herbal cleansing detox drink used by millions of satisfied people just like you. They cleansed their systems of toxins and impurities with Ready Clean, and so can you.</li> <li>Detoxify Ready Clean is the way to help lower the impurities your body absorbs every day.</li></ul>\n<h3>PRODUCT INFO</h3>\n<ul>\n<li>Pick your day for using your Ready Clean detox drink for intensive cleansing.</li>\n<li>Begin your cleansing program with Ready Clean.</li>\n<li>Shake the Ready Clean well and drink entire contents of the bottle.</li>\n<li>Ready Clean begins to immediately work to help support your body\u2019s natural cleansing process.</li>\n<li>Wait 15 minutes. Refill the Ready Clean bottle with water \u2014 shake and drink.</li>\n<li>Urinate frequently. Frequent urination indicates that you are experiencing optimal cleansing with Ready Clean.</li>\n<li>Continue to drink plenty of water throughout the day to extend your cleansing program for hours.</li>\n</ul>\n<p>TO FURTHER ENHANCE READY CLEAN\u2019S EFFECTIVENESS</p>\n<ul>\n<li>Extend your intensive cleansing program with Ready Clean by taking PreCleanse Herbal capsules for the 2 days prior to using Ready Clean.</li>\n<li>Take Detoxify Constant Cleanse herbal capsules every day throughout the year. Periodic intensive cleansing is most effective when coupled with an ongoing detoxification routine.</li>\n<li>Eat light meals including fruits, vegetables, and fiber during your cleansing program with Ready Clean.</li>\n<li>Exercise regularly, and drink at least 12 8oz glasses of water in the days prior to using Ready Clean.</li>\n</ul>\n<p>DOES READY CLEAN WORK?</p>\n<p>With its powerful ingredients, Detoxify Ready Clean is the detox drink that has been effective for millions of people who are committed to cleansing. Simply follow Ready Clean\u2019s guidelines for intensive cleansing and the Ready Clean directions, and you will experience optimal cleansing.</p>\n<p>DETOXIFY READY CLEAN INGREDIENTS</p>\n<p>Each 16oz Ready Clean detox drink contains our proprietary herbal blend. Ready Clean also includes:</p>\n<ul>\n<li>Vitamin A</li>\n<li>Vitamin C</li>\n<li>Vitamin D</li>\n<li>Thiamin</li>\n<li>Riboflavin</li>\n<li>Niacin</li>\n<li>Vitamin B6</li>\n<li>Folate</li>\n<li>Vitamin B12</li>\n<li>Biotin</li>\n<li>Pantothenic Acid</li>\n<li>Calcium</li>\n<li>Magnesium</li>\n<li>Zinc</li>\n<li>Selenium</li>\n<li>Chromium</li>\n<li>Potassium</li>\n<li>Creatine Monohydrate</li>\n</ul>\n<p>READY CLEAN\u2019S EXCLUSIVE HERBAL FORMULA IS:</p>\n<ul>\n<li>Nettle \u2014 Acts as a diuretic in Ready Clean to help release toxins from the body.</li>\n<li>Ginseng \u2014 Traditionally used to boost the immune, cardiovascular and metabolic systems.</li>\n<li>Dandelion \u2014 Herbalists use this potent herb to support healthy liver and gallbladder function.</li>\n<li>Milk Thistle \u2014 Included in Ready Clean to restore healthy liver function and minimize toxin damage.</li>\n<li>Uva Ursi \u2014 In Ready Clean to promote kidney and urinary health.</li>\n<li>Mullein Leaf \u2014 Acts as a tonic in Ready Clean to support the respiratory system and lungs.</li>\n<li>Stevia \u2014 A powerful cleansing herb in Ready Clean used by herbalists since ancient times.</li>\n<li>Fruit Fiber \u2014 Effective in Ready Clean for binding toxins and helping to eliminate them through the digestive tract.</li>\n</ul>\n<p>MORE INFORMATION ON YOUR READY CLEAN DETOX DRINK</p>\n<p>Detoxify Ready Clean was developed to help your body\u2019s natural detoxification process safely and effectively reduce harmful impurities. Used properly, Detoxify Ready Clean\u2019s proprietary blend of vitamins, minerals, herbs and fiber helps you achieve a cleaner, healthier lifestyle.</p>\n<p>Pregnant or breastfeeding women should consult their physician before using Ready Clean detox drink.</p>\n<p>Detoxify Ready Clean detox drink is a dietary supplement. Statements made about Ready Clean have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>All Sales are FINAL !!</p>\n<h3>SHIPPING INFO</h3>\n<p>I'm a shipping policy. I'm a great place to add more information about your shipping methods, packaging and cost. Providing straightforward information about your shipping policy is a great way to build trust and reassure your customers that they can buy from you with confidence.</p>",
+      "canonicalImageMediaId": "8d0ab0_0f21212d85394bf2a8931578ca985cc1_mv2.jpeg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_0f21212d85394bf2a8931578ca985cc1_mv2.jpeg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "DETOXIFY XXTRA CLEAN",
       "destinationPath": "products/detoxify-xxtra-clean.html",
       "excerpt": "You can enjoy a healthier, cleaner body with Detoxify Xxtra Clean. Xxtra Clean is the herbal cleansing detox drink used by millions of satisfied people just like you. They cleansed their systems of toxins and impurities with Xxtra Clean,...",
-      "body": "You can enjoy a healthier, cleaner body with Detoxify Xxtra Clean. Xxtra Clean is the herbal cleansing detox drink used by millions of satisfied people just like you. They cleansed their systems of toxins and impurities with Xxtra Clean, and so can you. Detoxify Xxtra Clean is the cleansing herbal detox drink formulated for people with higher toxin levels. The 20oz ready-to-drink formula is packed with vitamins, minerals, and Detoxify\u2019s proprietary blend of cleansing herbs. Xxtra Clean is easy to use, in Tropical Fruit Flavor. Detoxify Xxtra Clean is the way to help lower the impurities your body absorbs every day. PRODUCT INFO Pick your day for using your Xxtra Clean detox drink for intensive cleansing. Shake the Xxtra Clean well and drink entire contents of the bottle. Xxtra Clean begins to immediately work to help support your body\u2019s natural cleansing process. Wait 15 minutes. Refill the Xxtra Clean bottle with water \u2014 shake and drink. Urinate frequently. Frequent urination indicates that you are experiencing optimal cleansing with Xxtra Clean. Continue to drink plenty of water throughout the day to extend your cleansing program for hours. TO FURTHER ENHANCE XXTRA CLEAN\u2019S EFFECTIVENESS Extend your intensive cleansing program with Xxtra Clean by taking PreCleanse Herbal capsules for the 2 days prior to using Xxtra Clean. Take Detoxify Constant Cleanse herbal capsules every day throughout the year. Periodic intensive cleansing is most effective when coupled with an ongoing detoxification routine. Eat light meals including fruits, vegetables, and fiber during your...",
+      "body": "You can enjoy a healthier, cleaner body with Detoxify Xxtra Clean. Xxtra Clean is the herbal cleansing detox drink used by millions of satisfied people just like you. They cleansed their systems of toxins and impurities with Xxtra Clean, and so can you. Detoxify Xxtra Clean is the cleansing herbal detox drink formulated for people with higher toxin levels. The 20oz ready-to-drink formula is packed with vitamins, minerals, and Detoxify\u2019s proprietary blend of cleansing herbs. Xxtra Clean is easy to use, in Tropical Fruit Flavor. Detoxify Xxtra Clean is the way to help lower the impurities your body absorbs every day. PRODUCT INFO Pick your day for using your Xxtra Clean detox drink for intensive cleansing. Shake the Xxtra Clean well and drink entire contents of the bottle. Xxtra Clean begins to immediately work to help support your body\u2019s natural cleansing process. Wait 15 minutes. Refill the Xxtra Clean bottle with water \u2014 shake and drink. Urinate frequently. Frequent urination indicates that you are experiencing optimal cleansing with Xxtra Clean. Continue to drink plenty of water throughout the day to extend your cleansing program for hours. TO FURTHER ENHANCE XXTRA CLEAN\u2019S EFFECTIVENESS Extend your intensive cleansing program with Xxtra Clean by taking PreCleanse Herbal capsules for the 2 days prior to using Xxtra Clean. Take Detoxify Constant Cleanse herbal capsules every day throughout the year. Periodic intensive cleansing is most effective when coupled with an ongoing detoxification routine. Eat light meals including fruits, vegetables, and fiber during your cleansing program with Xxtra Clean. Exercise regularly, and drink at least 12 8oz glasses of water in the days prior to using Xxtra Clean. DOES XXTRA CLEAN WORK? With its powerful ingredients, Detoxify Xxtra Clean is the detox drink that has been effective for millions of people who are committed to cleansing. Simply follow Xxtra Clean\u2019s guidelines for intensive cleansing and the Xxtra Clean directions, and you will experience optimal cleansing. DETOXIFY XXTRA CLEAN INGREDIENTS Each 20oz Xxtra Clean detox drink contains our proprietary herbal blend. Xxtra Clean also includes: Vitamin A Vitamin C Vitamin D Thiamin Riboflavin Niacin Vitamin B6 Folate Vitamin B12 Biotin Pantothenic Acid Calcium Magnesium Zinc Selenium Manganese Chromium Potassium Creatine Monohydrate Glucuronolactone XXTRA CLEAN\u2019S EXCLUSIVE HERBAL FORMULA IS: Nettle \u2014 Acts as a diuretic in Xxtra Clean to help release toxins from the body. Ginseng \u2014 Traditionally used to boost the immune, cardiovascular and metabolic systems. Dandelion \u2014 Herbalists use this potent herb to support healthy liver and gallbladder function. Milk Thistle \u2014 Included in Xxtra Clean to restore healthy liver function and minimize toxin damage. Hawthorne Berry \u2014 Used in Xxtra Clean, as it has been for centuries, to support the heart and cardiovascular system. Uva Ursi \u2014 In Xxtra Clean to promote kidney and urinary health. Mullein Leaf \u2014 Acts as a tonic in Xxtra Clean to support the respiratory system and lungs. Stevia \u2014 A powerful cleansing herb in Xxtra Clean used by herbalists since ancient times. Fruit Fiber \u2014 Effective in Xxtra Clean for binding toxins and helping to eliminate them through the digestive tract. MORE INFORMATION ON YOUR XXTRA CLEAN DETOX DRINK Detoxify Xxtra Clean was developed to help your body\u2019s natural detoxification process safely and effectively reduce harmful impurities. Used properly, Xxtra Clean\u2019s proprietary blend of vitamins, minerals, herbs and fiber helps you achieve a cleaner, healthier lifestyle. Pregnant or breastfeeding women should consult their physician before using Xxtra Clean detox drink. Detoxify Xxtra Clean detox drink is a dietary supplement. Statements made about Xxtra Clean have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease. RETURN & REFUND POLICY All Sales are FINAL ! SHIPPING INFO I'm a shipping policy. I'm a great place to add more information about your shipping methods, packaging and cost. Providing straightforward information about your shipping policy is a great way to build trust and reassure your customers that they can buy from you with confidence.",
       "image": "assets/products/detoxify-xxtra-clean/detoxify-xxtra-clean.jpeg",
       "category": "Shop - Detox / Cleanses",
       "categoryLabel": "Detox / Cleanses",
@@ -827,7 +1103,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 225,
       "imageHeight": 225,
       "imageBytes": 19783,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<ul> <li>You can enjoy a healthier, cleaner body with Detoxify Xxtra Clean. Xxtra Clean is the herbal cleansing detox drink used by millions of satisfied people just like you. They cleansed their systems of toxins and impurities with Xxtra Clean, and so can you.</li> <li>Detoxify Xxtra Clean is the cleansing herbal detox drink formulated for people with higher toxin levels. The 20oz ready-to-drink formula is packed with vitamins, minerals, and Detoxify\u2019s proprietary blend of cleansing herbs. Xxtra Clean is easy to use, in Tropical Fruit Flavor.</li> <li>Detoxify Xxtra Clean is the way to help lower the impurities your body absorbs every day.</li></ul>\n<h3>PRODUCT INFO</h3>\n<ul>\n<li>Pick your day for using your Xxtra Clean detox drink for intensive cleansing.</li>\n<li>Shake the Xxtra Clean well and drink entire contents of the bottle.</li>\n<li>Xxtra Clean begins to immediately work to help support your body\u2019s natural cleansing process.</li>\n<li>Wait 15 minutes. Refill the Xxtra Clean bottle with water \u2014 shake and drink.</li>\n<li>Urinate frequently. Frequent urination indicates that you are experiencing optimal cleansing with Xxtra Clean.</li>\n<li>Continue to drink plenty of water throughout the day to extend your cleansing program for hours.</li>\n</ul>\n<p>TO FURTHER ENHANCE XXTRA CLEAN\u2019S EFFECTIVENESS</p>\n<ul>\n<li>Extend your intensive cleansing program with Xxtra Clean by taking PreCleanse Herbal capsules for the 2 days prior to using Xxtra Clean.</li>\n<li>Take Detoxify Constant Cleanse herbal capsules every day throughout the year. Periodic intensive cleansing is most effective when coupled with an ongoing detoxification routine.</li>\n<li>Eat light meals including fruits, vegetables, and fiber during your cleansing program with Xxtra Clean.</li>\n<li>Exercise regularly, and drink at least 12 8oz glasses of water in the days prior to using Xxtra Clean.</li>\n</ul>\n<p>DOES XXTRA CLEAN WORK?</p>\n<p>With its powerful ingredients, Detoxify Xxtra Clean is the detox drink that has been effective for millions of people who are committed to cleansing. Simply follow Xxtra Clean\u2019s guidelines for intensive cleansing and the Xxtra Clean directions, and you will experience optimal cleansing.</p>\n<p>DETOXIFY XXTRA CLEAN INGREDIENTS</p>\n<p>Each 20oz Xxtra Clean detox drink contains our proprietary herbal blend. Xxtra Clean also includes:</p>\n<ul>\n<li>Vitamin A</li>\n<li>Vitamin C</li>\n<li>Vitamin D</li>\n<li>Thiamin</li>\n<li>Riboflavin</li>\n<li>Niacin</li>\n<li>Vitamin B6</li>\n<li>Folate</li>\n<li>Vitamin B12</li>\n<li>Biotin</li>\n<li>Pantothenic Acid</li>\n<li>Calcium</li>\n<li>Magnesium</li>\n<li>Zinc</li>\n<li>Selenium</li>\n<li>Manganese</li>\n<li>Chromium</li>\n<li>Potassium</li>\n<li>Creatine Monohydrate</li>\n<li>Glucuronolactone</li>\n</ul>\n<p>XXTRA CLEAN\u2019S EXCLUSIVE HERBAL FORMULA IS:</p>\n<ul>\n<li>Nettle \u2014 Acts as a diuretic in Xxtra Clean to help release toxins from the body.</li>\n<li>Ginseng \u2014 Traditionally used to boost the immune, cardiovascular and metabolic systems.</li>\n<li>Dandelion \u2014 Herbalists use this potent herb to support healthy liver and gallbladder function.</li>\n<li>Milk Thistle \u2014 Included in Xxtra Clean to restore healthy liver function and minimize toxin damage.</li>\n<li>Hawthorne Berry \u2014 Used in Xxtra Clean, as it has been for centuries, to support the heart and cardiovascular system.</li>\n<li>Uva Ursi \u2014 In Xxtra Clean to promote kidney and urinary health.</li>\n<li>Mullein Leaf \u2014 Acts as a tonic in Xxtra Clean to support the respiratory system and lungs.</li>\n<li>Stevia \u2014 A powerful cleansing herb in Xxtra Clean used by herbalists since ancient times.</li>\n<li>Fruit Fiber \u2014 Effective in Xxtra Clean for binding toxins and helping to eliminate them through the digestive tract.</li>\n</ul>\n<p>MORE INFORMATION ON YOUR XXTRA CLEAN DETOX DRINK</p>\n<p>Detoxify Xxtra Clean was developed to help your body\u2019s natural detoxification process safely and effectively reduce harmful impurities. Used properly, Xxtra Clean\u2019s proprietary blend of vitamins, minerals, herbs and fiber helps you achieve a cleaner, healthier lifestyle.</p>\n<p>Pregnant or breastfeeding women should consult their physician before using Xxtra Clean detox drink.</p>\n<p>Detoxify Xxtra Clean detox drink is a dietary supplement. Statements made about Xxtra Clean have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>\n<p>\u00a0</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>All Sales are FINAL !</p>\n<h3>SHIPPING INFO</h3>\n<p>I'm a shipping policy. I'm a great place to add more information about your shipping methods, packaging and cost. Providing straightforward information about your shipping policy is a great way to build trust and reassure your customers that they can buy from you with confidence.</p>",
+      "canonicalImageMediaId": "8d0ab0_98b3223164394644bd5b54cc84878c4c_mv2.jpeg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_98b3223164394644bd5b54cc84878c4c_mv2.jpeg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "DR. DABBER SWITCH",
@@ -843,7 +1125,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 394,
       "imageHeight": 234,
       "imageBytes": 9017,
-      "imageSourceStatus": "local"
+      "imageSourceStatus": "local",
+      "bodyHtml": "<p>The\u00a0Dr.\u00a0Dabber Switch\u00a0is the first vaporizer to bring induction technology to the market. Induction provides for some unique advantages, the first one you'll notice is the insane heat up time, around 5 seconds! The\u00a0Switchis physically large and has a battery to match, lasting around 150 hits per charge.</p>\n<h3>Return Policy</h3>\n<p>All SALES ARE FINAL</p>\n<p>NO REFUNDS</p>",
+      "canonicalImageMediaId": "8d0ab0_d8e3aff24f654b98bee1643c59d1fe33_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_d8e3aff24f654b98bee1643c59d1fe33_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "DR GREENS COOL RINSE MOUTHWASH",
@@ -859,13 +1147,19 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 225,
       "imageHeight": 225,
       "imageBytes": 9449,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Dr. Green's Cool Rinse Mouth wash is a safe, natural and effective product that is an important part of the salivary<br/>detox process. Dr. Greens Cool Rinse will remove all the toxins in your mouth, leaving only a fresh clean flavor behind.</p><p>One Bottle contains 1 oz. of Minty Cool Rinse Flavor.<br/><br/>FOR BEST RESULTS USING Dr. Green's Cool Rinse :<br/><br/>Avoid toxins for 72 hours prior to use.<br/>Do not eat or drink 3 hours prior to use.<br/>Effects last for 30 min.</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>All Sales are FINAL\u00a0</p>\n<h3>SHIPPING INFO</h3>\n<p>I'm a shipping policy. I'm a great place to add more information about your shipping methods, packaging and cost. Providing straightforward information about your shipping policy is a great way to build trust and reassure your customers that they can buy from you with confidence.</p>",
+      "canonicalImageMediaId": "8d0ab0_f9c86eb28be543faad0c2f1398dea704_mv2.jpeg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_f9c86eb28be543faad0c2f1398dea704_mv2.jpeg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "DR GREENS FIELD KIT",
       "destinationPath": "products/dr-greens-field-kit.html",
       "excerpt": "Always ready for action! BC Entities Field Kit includes a 3 oz. liquid sample, bladder bag, adjustable velcro belt, heating pad and temperature strip . BC Entities Fake Pee Field Kit contains Uric Acid. This product is not intended for...",
-      "body": "Always ready for action! BC Entities Field Kit includes a 3 oz. liquid sample, bladder bag, adjustable velcro belt, heating pad and temperature strip . BC Entities Fake Pee Field Kit contains Uric Acid. This product is not intended for use on lawfully administered drug tests and is to be used in accordance with all federal and state laws. This product is a Novelty / Fetish Item. This product cannot be shipped or sold to residents of Arkansas, Florida, Georgia, Idaho, Illinois, Indiana, Iowa, Kentucky, Louisiana, Nebraska, New Jersey, North Carolina, North Dakota, Oklahoma, Pennsylvania, Tennessee, Texas, Virginia, Wisconsin, Wyoming. If you live in one of these states and purchase this product - we will not ship it, and you will be charged a 50% charge back processing fee. PRODUCT INFO Always ready for action! BC Entities Field Kit includes a 3 oz. liquid sample, bladder bag, adjustable velcro belt, heating pad and temperature strip . BC Entities Fake Pee Field Kit contains Uric Acid. This product is not intended for use on lawfully administered drug tests and is to be used in accordance with all federal and state laws. RETURN & REFUND POLICY ALL SALES ARE FINAL ! This product is a Novelty / Fetish Item. This product cannot be shipped or sold to residents of Arkansas, Florida, Georgia, Idaho, Illinois, Indiana, Iowa, Kentucky, Louisiana, Nebraska, New Jersey, North Carolina, North Dakota, Oklahoma, Pennsylvania, Tennessee, Texas, Virginia, Wisconsin, Wyoming. If you live in one of these states and purchase this product - we will not ship it, and you will be charged a 50%...",
+      "body": "Always ready for action! BC Entities Field Kit includes a 3 oz. liquid sample, bladder bag, adjustable velcro belt, heating pad and temperature strip . BC Entities Fake Pee Field Kit contains Uric Acid. This product is not intended for use on lawfully administered drug tests and is to be used in accordance with all federal and state laws. This product is a Novelty / Fetish Item. This product cannot be shipped or sold to residents of Arkansas, Florida, Georgia, Idaho, Illinois, Indiana, Iowa, Kentucky, Louisiana, Nebraska, New Jersey, North Carolina, North Dakota, Oklahoma, Pennsylvania, Tennessee, Texas, Virginia, Wisconsin, Wyoming. If you live in one of these states and purchase this product - we will not ship it, and you will be charged a 50% charge back processing fee. PRODUCT INFO Always ready for action! BC Entities Field Kit includes a 3 oz. liquid sample, bladder bag, adjustable velcro belt, heating pad and temperature strip . BC Entities Fake Pee Field Kit contains Uric Acid. This product is not intended for use on lawfully administered drug tests and is to be used in accordance with all federal and state laws. RETURN & REFUND POLICY ALL SALES ARE FINAL ! This product is a Novelty / Fetish Item. This product cannot be shipped or sold to residents of Arkansas, Florida, Georgia, Idaho, Illinois, Indiana, Iowa, Kentucky, Louisiana, Nebraska, New Jersey, North Carolina, North Dakota, Oklahoma, Pennsylvania, Tennessee, Texas, Virginia, Wisconsin, Wyoming. If you live in one of these states and purchase this product - we will not ship it, and you will be charged a 50% charge back processing fee.",
       "image": "assets/products/dr-greens-field-kit/dr-greens-field-kit.jpeg",
       "category": "Shop - Detox / Cleanses",
       "categoryLabel": "Detox / Cleanses",
@@ -875,7 +1169,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 198,
       "imageHeight": 198,
       "imageBytes": 17309,
-      "imageSourceStatus": "local"
+      "imageSourceStatus": "local",
+      "bodyHtml": "<p>\u00a0</p><p>Always ready for action!<br/><br/>BC Entities Field Kit includes a 3 oz. liquid sample, bladder bag, adjustable velcro belt, heating pad and temperature strip<strong>.</strong></p><p><strong>BC Entities Fake Pee Field Kit contains Uric Acid.</strong><br/><br/>This product is not intended for use on lawfully administered drug tests and is to be used in accordance with all federal and state laws.</p><p>\u00a0</p><p><strong>This product is a Novelty / Fetish Item.</strong></p><p>This product cannot be shipped or sold to residents of Arkansas, Florida, Georgia, Idaho, Illinois, Indiana, Iowa, Kentucky, Louisiana, Nebraska, New Jersey, North Carolina, North Dakota, Oklahoma, Pennsylvania, Tennessee, Texas, Virginia, Wisconsin, Wyoming. </p><p>If you live in one of these states and purchase this product - we will not ship it, and you will be charged a 50% charge back processing fee.</p>\n<h3>PRODUCT INFO</h3>\n<p>Always ready for action!<br/>\n<br/>\nBC Entities Field Kit includes a 3 oz. liquid sample, bladder bag, adjustable velcro belt, heating pad and temperature strip<strong>.</strong></p>\n<p><strong>BC Entities Fake Pee Field Kit contains Uric Acid.</strong><br/>\n<br/>\nThis product is not intended for use on lawfully administered drug tests and is to be used in accordance with all federal and state laws.</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>ALL SALES ARE FINAL !</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p><strong>This product is a Novelty / Fetish Item.</strong></p>\n<p>This product cannot be shipped or sold to residents of Arkansas, Florida, Georgia, Idaho, Illinois, Indiana, Iowa, Kentucky, Louisiana, Nebraska, New Jersey, North Carolina, North Dakota, Oklahoma, Pennsylvania, Tennessee, Texas, Virginia, Wisconsin, Wyoming. </p>\n<p>If you live in one of these states and purchase this product - we will not ship it, and you will be charged a 50% charge back processing fee.</p>",
+      "canonicalImageMediaId": "8d0ab0_f578e6d4eb6b407f9d8e2d43796373a0_mv2.jpeg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_f578e6d4eb6b407f9d8e2d43796373a0_mv2.jpeg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "E-CIG HIBRON H10",
@@ -888,10 +1188,16 @@ window.DIVERSITY_SITE_DATA = {
       "price": "$29.99",
       "inventoryStatus": "in_stock",
       "isInStock": true,
-      "imageWidth": 1000,
-      "imageHeight": 668,
-      "imageBytes": 205875,
-      "imageSourceStatus": "local"
+      "imageWidth": 417,
+      "imageHeight": 499,
+      "imageBytes": 39006,
+      "imageSourceStatus": "local",
+      "bodyHtml": "<p>The Hibron H10 vape mod is a portable oil vaporizer designed for use with oil concentrates and liquids.</p><p>The\u00a0sleek and light weight design\u00a0has a surprising\u00a0amount of\u00a0power and\u00a0delivers full bodied vapor clouds. Ideal for\u00a0discreet vaping and vapers on the go.</p><p><strong>Features &amp; Specs</strong></p><ul> <li>Battery capacity: 650mAh</li> <li>Atomizer capacity: 0.8ml</li> <li>Max wattage: 8w</li> <li>Can fit anywhere from 0.5ml to 2ml cartridges</li> <li>Magnetic connection for cartridges</li> <li>Dimensions:\u00a0\u00a065mm x 30mm x 17mm</li></ul><p><strong>What You Get</strong></p><ul> <li>1 x H10 Battery</li> <li>1 x Hibron H10 Atomizer Cartridge (0.8ml)</li> <li>1 x Micro-USB Charger</li> <li>1 x Retail Gift Box</li></ul>\n<h3>Return Policy</h3>\n<p>All Sales are FINAL</p>\n<p>NO refunds</p>",
+      "canonicalImageMediaId": "8d0ab0_e25ed79241ec4f16978777984bc60af8_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_e25ed79241ec4f16978777984bc60af8_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "E-PIPE MOD",
@@ -904,10 +1210,16 @@ window.DIVERSITY_SITE_DATA = {
       "price": "$25.00",
       "inventoryStatus": "in_stock",
       "isInStock": true,
-      "imageWidth": 1000,
-      "imageHeight": 1500,
-      "imageBytes": 390597,
-      "imageSourceStatus": "local"
+      "imageWidth": 485,
+      "imageHeight": 500,
+      "imageBytes": 50544,
+      "imageSourceStatus": "local",
+      "bodyHtml": "<p>The AtmosRx Grinder Kit is the smallest, handheld grinder on the market today. The spring spade is uniquely designed for an easy load. It\u2019s quick, with no mess and no fuss. The kit comes complete with its own battery and USB charger. A must have for customers who use dry herbs. Just load, grind and go.</p>\n<h3>Return Policy</h3>\n<p>All SALES ARE FINAL</p>\n<p>NO REFUNDS</p>",
+      "canonicalImageMediaId": "8d0ab0_a38d5864445b4af98ff60d12a6890e72_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_a38d5864445b4af98ff60d12a6890e72_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "Evolve-D Dry Herb Pen from Yocan",
@@ -923,7 +1235,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 280,
       "imageHeight": 500,
       "imageBytes": 26291,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>The Evolve-D Dry Herb Pen from Yocan is a leap in vaping technology. Featuring dual pancake coils for maximum vaping the Evolve-D is a very portable dry herb pen. Simply push the mouthpiece down to press your material against the coil, or clean ash from the unit. Available in Classic black and stainless as well as vivid blue, orange and red colors the Evolve-D is one of the most popular new dry herb pens available. Priced to fit your wallet and sized to fit your pocket, you will love the Yocan Evolve-D Dry Herb Pen.<br/><br/><strong>Features:</strong><br/>Long-lasting 650mAh battery<br/>Spiral coil heating element<br/>Unit dimensions: 120mm * 14mm<br/>10-second battery safety cut-off<strong>.</strong></p>",
+      "canonicalImageMediaId": "8d0ab0_933535c6a67d41ad928134d851dee543_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_933535c6a67d41ad928134d851dee543_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "G PEN Slim Quartz",
@@ -939,7 +1257,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 281,
       "imageHeight": 500,
       "imageBytes": 36763,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>WHAT'S INCLUDED</p><ul> <li>G SLIM BATTERY</li> <li>G SLIM TANK WITH QUARTZ</li> <li>G SLIM TOOL</li> <li>G SLIM WIRELESS USB CHARGER</li> <br/> <li>*ELECTRONIC COMPONENTS ARE BACKED WITH A 1-YEAR WARRANTY<br/>\t*DURABILITY INDEX OF THE G SLIM TANK IS APPROXIMATELY 6-8 WEEKS</li></ul>\n<h3>RETURN & REFUND POLICY</h3>\n<p>ALL SALES ARE FINAL !</p>",
+      "canonicalImageMediaId": "8d0ab0_c60e462bc8254c4bb10c7e0c7e146fa5_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_c60e462bc8254c4bb10c7e0c7e146fa5_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "Glass Pipe",
@@ -955,7 +1279,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 280,
       "imageHeight": 500,
       "imageBytes": 53145,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Glass Pipe</p><p>Red A</p><p>Blue / Red B</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>ALL SALES ARE FINAL</p>",
+      "canonicalImageMediaId": "8d0ab0_ebfeedba353b4f449c461df6c8a103dd_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_ebfeedba353b4f449c461df6c8a103dd_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "Glass Pipe",
@@ -971,7 +1301,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 500,
       "imageHeight": 280,
       "imageBytes": 50279,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>GLASS \u00a0PIPE</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>ALL SALES ARE FINAL</p>",
+      "canonicalImageMediaId": "8d0ab0_3e3ce4367129433ca13df3c36dac1101_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_3e3ce4367129433ca13df3c36dac1101_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "Glass Pipe",
@@ -987,7 +1323,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 500,
       "imageHeight": 280,
       "imageBytes": 52495,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Glass Pipe</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>ALL SALES ARE FINAL</p>",
+      "canonicalImageMediaId": "8d0ab0_6e52be0e31f74282a7a7cb09dffc5a02_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_6e52be0e31f74282a7a7cb09dffc5a02_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "Grinder Rasta",
@@ -1003,7 +1345,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 280,
       "imageHeight": 500,
       "imageBytes": 41277,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Plastic Grinder</p><p>\u00a0</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>All Sales are FINAL</p>",
+      "canonicalImageMediaId": "8d0ab0_ffca993066a8454282d196cfb679df15_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_ffca993066a8454282d196cfb679df15_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "Grinder sm Metal",
@@ -1019,7 +1367,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 280,
       "imageHeight": 500,
       "imageBytes": 35888,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Metal Grinder</p><p>\u00a0</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>All Sales are FINAL</p>",
+      "canonicalImageMediaId": "8d0ab0_2e694d8a3034495bb7310b3ace83e979_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_2e694d8a3034495bb7310b3ace83e979_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "Grinder sm Plastic",
@@ -1035,7 +1389,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 280,
       "imageHeight": 500,
       "imageBytes": 52665,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Plastic\u00a0Grinder</p><p>\u00a0</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>All Sales are FINAL</p>",
+      "canonicalImageMediaId": "8d0ab0_9d0ea6ef4d2140f6962246d88adae6bf_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_9d0ea6ef4d2140f6962246d88adae6bf_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "Grinder",
@@ -1051,7 +1411,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 280,
       "imageHeight": 500,
       "imageBytes": 40882,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Metal</p><p>52mm</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>All Sales are FINAL</p>",
+      "canonicalImageMediaId": "8d0ab0_2aec106cf73442ab990aec9b7c2a30aa_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_2aec106cf73442ab990aec9b7c2a30aa_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "HIGH VOLTAGE 2 PK 32 OZ",
@@ -1067,13 +1433,19 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 500,
       "imageHeight": 500,
       "imageBytes": 101390,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>When results are on the line, make sure you\u2019re clean! High Voltage Detox is specially formulated with a unique blend of B-Vitamins, Creatine and numerous nutrients and herbal extracts to remove unwanted toxins and pollutants from your urinary tract. Our 32oz beverage takes effect within 30 minutes and can last up to 7 hours depending on one\u2019s metabolism and the amount of Toxins in their systems</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>All Sales are FINAL !</p>\n<h3>PRODUCT DESCRIPTION</h3>\n<p>Ingredients<br/>\n________________________________________<br/>\nBest Served Chilled, Shake Well</p>\n<p>Directions: (Day Of)</p>\n<ul>\n<li>Drink only one 16oz bottle of HV Detox.</li>\n<li>Refill bottle with water and drink.</li>\n<li>Wait 15 minutes and refill bottle again and drink.</li>\n<li>Wait until you had at least 2 urinations before you go to the next step.</li>\n<li>Drink the other 16oz bottle of HV Detox</li>\n<li>Refill bottle with water and drink.</li>\n</ul>\n<p>Product is effective after 2 more normal sized urinations. If you are having trouble urinating you can increase your water intake by 16oz of water per hour. High Voltage can stay effective up to 7 hours.</p>\n<p>For Maximum Results:</p>\n<ul>\n<li>Avoid unwanted toxins for 24-48 hours.</li>\n<li>Pre-cleanse period, the night before (12-24 hours Prior to consuming High Voltage) drink ten 8oz glasses of water over an 8 hour period.</li>\n<li>While using this product, urinate frequently to expel toxins.</li>\n<li>Do not eat large meals or consume any food with Caffeine or Fruit Juices during the pre-cleanse period.</li>\n<li>Avoid over the counter or non-prescribed medications, alcohol, acidic liquids (such as vinegar, pickle juice, coffee, etc), Vitamins or salty foods.</li>\n<li>Drink plenty of water on a daily basis</li>\n</ul>",
+      "canonicalImageMediaId": "8d0ab0_c19410f5ae304c9a8ee9e76f6f885a8d_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_c19410f5ae304c9a8ee9e76f6f885a8d_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "HIGH VOLTAGE DOUBLE FLUSH",
       "destinationPath": "products/high-voltage-double-flush.html",
       "excerpt": "Do you want our most potent toxin cleanse? High Voltage Detox Double Flush was designed with power in mind. This combination of liquid and capsule detox was designed to flush high levels of toxins out of your system. Effective within 2...",
-      "body": "Do you want our most potent toxin cleanse? High Voltage Detox Double Flush was designed with power in mind. This combination of liquid and capsule detox was designed to flush high levels of toxins out of your system. Effective within 2 hours and lasting up to 12, this toxin eliminator is what you need for heavy toxins. RETURN & REFUND POLICY All Sales are FINAL ! PRODUCT DESCRIPTION Directions: (2 step process) Consume High Voltage Fast Flush Capsules (all) with 16oz. of water. Wait 30 minutes and drink another 32oz of water. Wait one hour and drink the High Voltage Toxin Eliminator 16oz Liquid with 16 oz. of water. Product will start being effective after three normal sized urinations. If you are having difficulty urinating increase water intake by 16 oz per hour. High Voltage Double Flush will stay effective for up to 12 hours. For Maximum Results: Avoid unwanted toxin s for 24-48 hours. Pre-cleanse period, the night before (12-24 hours Prior to consuming High Voltage) drink 10-8oz glasses of water over an 8 hour period. While using this product, urinate frequently to expel toxins . Do not eat large meals or consume any food with Caffeine or Fruit Juices during the pre-cleanse period. Avoid over the counter or non-prescribed medications, alcohol, acidic liquids (such as vinegar, pickle juice, coffee, etc), Vitamins or salty foods. Drink plenty of water on a daily basis",
+      "body": "Do you want our most potent toxin cleanse? High Voltage Detox Double Flush was designed with power in mind. This combination of liquid and capsule detox was designed to flush high levels of toxins out of your system. Effective within 2 hours and lasting up to 12, this toxin eliminator is what you need for heavy toxins. RETURN & REFUND POLICY All Sales are FINAL ! PRODUCT DESCRIPTION Directions: (2 step process) Consume High Voltage Fast Flush Capsules (all) with 16oz. of water. Wait 30 minutes and drink another 32oz of water. Wait one hour and drink the High Voltage Toxin Eliminator 16oz Liquid with 16 oz. of water. Product will start being effective after three normal sized urinations. If you are having difficulty urinating increase water intake by 16 oz per hour. High Voltage Double Flush will stay effective for up to 12 hours. For Maximum Results: Avoid unwanted toxins for 24-48 hours. Pre-cleanse period, the night before (12-24 hours Prior to consuming High Voltage) drink 10-8oz glasses of water over an 8 hour period. While using this product, urinate frequently to expel toxins. Do not eat large meals or consume any food with Caffeine or Fruit Juices during the pre-cleanse period. Avoid over the counter or non-prescribed medications, alcohol, acidic liquids (such as vinegar, pickle juice, coffee, etc), Vitamins or salty foods. Drink plenty of water on a daily basis",
       "image": "assets/products/high-voltage-double-flush/high-voltage-double-flush.jpg",
       "category": "Shop - Detox / Cleanses",
       "categoryLabel": "Detox / Cleanses",
@@ -1083,13 +1455,19 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 198,
       "imageHeight": 198,
       "imageBytes": 21437,
-      "imageSourceStatus": "local"
+      "imageSourceStatus": "local",
+      "bodyHtml": "<p>Do you want our most potent toxin cleanse? High Voltage Detox Double Flush was designed with power in mind. This combination of liquid and capsule detox was designed to flush high levels of toxins out of your system. Effective within 2 hours and lasting up to 12, this toxin eliminator is what you need for heavy toxins.</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>All Sales are FINAL !</p>\n<h3>PRODUCT DESCRIPTION</h3>\n<p>Directions: (2 step process)</p>\n<ul>\n<li>Consume High Voltage Fast Flush Capsules (all) with 16oz. of water.</li>\n<li>Wait 30 minutes and drink another 32oz of water.</li>\n<li>Wait one hour and drink the High Voltage Toxin Eliminator 16oz Liquid with 16 oz. of water.</li>\n</ul>\n<p>Product will start being effective after three normal sized urinations. If you are having difficulty urinating increase water intake by 16 oz per hour. High Voltage Double Flush will stay effective for up to 12 hours.</p>\n<p>For Maximum Results:</p>\n<ul>\n<li>Avoid unwanted toxins for 24-48 hours.</li>\n<li>Pre-cleanse period, the night before (12-24 hours Prior to consuming High Voltage) drink 10-8oz glasses of water over an 8 hour period.</li>\n<li>While using this product, urinate frequently to expel toxins.</li>\n<li>Do not eat large meals or consume any food with Caffeine or Fruit Juices during the pre-cleanse period.</li>\n<li>Avoid over the counter or non-prescribed medications, alcohol, acidic liquids (such as vinegar, pickle juice, coffee, etc), Vitamins or salty foods.</li>\n<li>Drink plenty of water on a daily basis</li>\n</ul>",
+      "canonicalImageMediaId": "8d0ab0_8704603df3974baca4bbe314dc387777_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_8704603df3974baca4bbe314dc387777_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "HIGH VOLTAGE MOUTHWASH",
       "destinationPath": "products/high-voltage-mouthwash.html",
       "excerpt": "High Voltage Saliva-Cleanse Mouthwash removes all toxins from your saliva for up to one hour. High Voltage Mouthwash can fit in your pocket and is always ready to use. Simply use minutes prior to desired time to be CLEAN \u2013 Shake it, Swish...",
-      "body": "High Voltage Saliva-Cleanse Mouthwash removes all toxins from your saliva for up to one hour. High Voltage Mouthwash can fit in your pocket and is always ready to use. Simply use minutes prior to desired time to be CLEAN \u2013 Shake it, Swish it and Spit it! Effects can last up to 1 hour, the sooner the better. RETURN & REFUND POLICY All Sales are FINAL ! PRODUCT DESCRIPTION The Ultimate solution for random occasions! Directions: (Shake Well) Minutes prior to desired time to be CLEAN, Sip small amounts of High Voltage Saliva- Cleanse Mouthwash and swish in mouth for at least one minute and then spit out. Repeat until entire bottle is completely used. DO NOT SWALLOW THIS PRODUCT For Maximum Results: Do not eat or drink during the use of this saliva cleanse Do not brush or floss your teeth Avoid smoking or chewing tobacco during the use of this saliva clease Avoid unwanted toxins for 24-48 To reduce the levels of toxins in your system/body prior to your personal deadline we would like to suggest our High Voltage Fast Flush Capsules or 16oz Liquids, clean your self inside before you cleanse your mouth. *Packaging may vary",
+      "body": "High Voltage Saliva-Cleanse Mouthwash removes all toxins from your saliva for up to one hour. High Voltage Mouthwash can fit in your pocket and is always ready to use. Simply use minutes prior to desired time to be CLEAN \u2013 Shake it, Swish it and Spit it! Effects can last up to 1 hour, the sooner the better. RETURN & REFUND POLICY All Sales are FINAL ! PRODUCT DESCRIPTION The Ultimate solution for random occasions! Directions: (Shake Well) Minutes prior to desired time to be CLEAN, Sip small amounts of High Voltage Saliva-Cleanse Mouthwash and swish in mouth for at least one minute and then spit out. Repeat until entire bottle is completely used. DO NOT SWALLOW THIS PRODUCT For Maximum Results: Do not eat or drink during the use of this saliva cleanse Do not brush or floss your teeth Avoid smoking or chewing tobacco during the use of this saliva clease Avoid unwanted toxins for 24-48 To reduce the levels of toxins in your system/body prior to your personal deadline we would like to suggest our High Voltage Fast Flush Capsules or 16oz Liquids, clean your self inside before you cleanse your mouth. *Packaging may vary",
       "image": "assets/products/high-voltage-mouthwash/high-voltage-mouthwash.jpg",
       "category": "Shop - Detox / Cleanses",
       "categoryLabel": "Detox / Cleanses",
@@ -1099,13 +1477,19 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 480,
       "imageHeight": 480,
       "imageBytes": 46897,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>High Voltage Saliva-Cleanse Mouthwash removes all toxins from your saliva for up to one hour. High Voltage Mouthwash can fit in your pocket and is always ready to use. Simply use minutes prior to desired time to be CLEAN \u2013 Shake it, Swish it and Spit it! Effects can last up to 1 hour, the sooner the better.</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>All Sales are FINAL !</p>\n<h3>PRODUCT DESCRIPTION</h3>\n<p>The Ultimate solution for random occasions!</p>\n<p>Directions: (Shake Well)</p>\n<ul>\n<li>Minutes prior to desired time to be CLEAN, Sip small amounts of High Voltage Saliva-Cleanse Mouthwash and swish in mouth for at least one minute and then spit out.</li>\n<li>Repeat until entire bottle is completely used.</li>\n</ul>\n<p>DO NOT SWALLOW THIS PRODUCT</p>\n<p>For Maximum Results:</p>\n<ul>\n<li>Do not eat or drink during the use of this saliva cleanse</li>\n<li>Do not brush or floss your teeth</li>\n<li>Avoid smoking or chewing tobacco during the use of this saliva clease</li>\n<li>Avoid unwanted toxins for 24-48</li>\n</ul>\n<p>To reduce the levels of toxins in your system/body prior to your personal deadline we would like to suggest our High Voltage Fast Flush Capsules or 16oz Liquids, clean your self inside before you cleanse your mouth.</p>\n<p>*Packaging may vary</p>",
+      "canonicalImageMediaId": "8d0ab0_cdd162a9012f479581a8bcb3a5e1e83b_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_cdd162a9012f479581a8bcb3a5e1e83b_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "HIGH VOLTAGE PERMANENT TROPICAL 5 DAY CLEANSE",
       "destinationPath": "products/high-voltage-permanent-tropical-5-day-cleanse.html",
       "excerpt": "Do you want a long-lasting cleanse? Commit to our 5-day detox regimen and feel the ultimate clean. High Voltage Detox 5-Day Flush will help you stay clean throughout the five days of the process. Please note that toxicity levels and...",
-      "body": "Do you want a long-lasting cleanse? Commit to our 5-day detox regimen and feel the ultimate clean. High Voltage Detox 5-Day Flush will help you stay clean throughout the five days of the process. Please note that toxicity levels and metabolisms vary, so additional regular detoxification may be needed to remain toxin-free. RETURN & REFUND POLICY All Sales are FINAL ! PRODUCT DESCRIPTION Directions : (take with a light breakfast for 5 days) Day 1: Consume one packet of (6ct) Capsules with 16oz of water. Wait 30 minutes and drink 32 oz of water. Wait one hour and drink only ONE 16oz bottle High Voltage Liquid and then refill bottle with water, shake and drink. Maintain your water intake, 8oz per hour. Day\u2019s 2,3, & 4 : Consume one packet of (6ct) Capsules with 16oz of water. Wait 30 minutes and drink 32oz of water. Maintain your water intake, 8oz per hour. Day 5 : (MOST EFFECTIVE DAY) Consume one packet of (6ct) Capsules with 16oz of water. Wait 30 minutes and drink 32 oz of water. Wait one hour and drink 2nd 16oz bottle High Voltage Liquid and then refill bottle with water, shake and drink. Maintain your water intake, 8oz per hour. Product is effective after 3 normal sized urinations. (frequent urinations help expel unwanted toxins) **The HIGH VOLTAGE DETOX 5 DAY PERMANENT FLUSH is a great way to start a beneficial cleansing regimen but be sure to check with your health practitioner for additional supplements to assist in cleansing toxins from your body.",
+      "body": "Do you want a long-lasting cleanse? Commit to our 5-day detox regimen and feel the ultimate clean. High Voltage Detox 5-Day Flush will help you stay clean throughout the five days of the process. Please note that toxicity levels and metabolisms vary, so additional regular detoxification may be needed to remain toxin-free. RETURN & REFUND POLICY All Sales are FINAL ! PRODUCT DESCRIPTION Directions: (take with a light breakfast for 5 days) Day 1: Consume one packet of (6ct) Capsules with 16oz of water. Wait 30 minutes and drink 32 oz of water. Wait one hour and drink only ONE 16oz bottle High Voltage Liquid and then refill bottle with water, shake and drink. Maintain your water intake, 8oz per hour. Day\u2019s 2,3, & 4: Consume one packet of (6ct) Capsules with 16oz of water. Wait 30 minutes and drink 32oz of water. Maintain your water intake, 8oz per hour. Day 5: (MOST EFFECTIVE DAY) Consume one packet of (6ct) Capsules with 16oz of water. Wait 30 minutes and drink 32 oz of water. Wait one hour and drink 2nd 16oz bottle High Voltage Liquid and then refill bottle with water, shake and drink. Maintain your water intake, 8oz per hour. Product is effective after 3 normal sized urinations. (frequent urinations help expel unwanted toxins) **The HIGH VOLTAGE DETOX 5 DAY PERMANENT FLUSH is a great way to start a beneficial cleansing regimen but be sure to check with your health practitioner for additional supplements to assist in cleansing toxins from your body.",
       "image": "assets/products/high-voltage-permanent-tropical-5-day-cleanse/high-voltage-permanent-tropical-5-day-cleanse.jpg",
       "category": "Shop - Detox / Cleanses",
       "categoryLabel": "Detox / Cleanses",
@@ -1115,13 +1499,19 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 366,
       "imageHeight": 500,
       "imageBytes": 65583,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Do you want a long-lasting cleanse? Commit to our 5-day detox regimen and feel the ultimate clean. High Voltage Detox 5-Day Flush will help you stay clean throughout the five days of the process. Please note that toxicity levels and metabolisms vary, so additional regular detoxification may be needed to remain toxin-free.</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>All Sales are FINAL !</p>\n<h3>PRODUCT DESCRIPTION</h3>\n<p>Directions: (take with a light breakfast for 5 days)</p>\n<p>Day 1: Consume one packet of (6ct) Capsules with 16oz of water. Wait 30 minutes and drink 32 oz of water. Wait one hour and drink only ONE 16oz bottle High Voltage Liquid and then refill bottle with water, shake and drink. Maintain your water intake, 8oz per hour.</p>\n<p>Day\u2019s 2,3, &amp; 4: Consume one packet of (6ct) Capsules with 16oz of water. Wait 30 minutes and drink 32oz of water. Maintain your water intake, 8oz per hour.</p>\n<p>Day 5: (MOST EFFECTIVE DAY) Consume one packet of (6ct) Capsules with 16oz of water. Wait 30 minutes and drink 32 oz of water. Wait one hour and drink 2nd 16oz bottle High Voltage Liquid and then refill bottle with water, shake and drink. Maintain your water intake, 8oz per hour.</p>\n<p>Product is effective after 3 normal sized urinations. <br/>\n(frequent urinations help expel unwanted toxins)</p>\n<p>**The HIGH VOLTAGE DETOX 5 DAY PERMANENT FLUSH is a great way to start a beneficial cleansing regimen but be sure to check with your health practitioner for additional supplements to assist in cleansing toxins from your body.</p>",
+      "canonicalImageMediaId": "8d0ab0_30b2206b1702490fa8b4e0a422460dfa_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_30b2206b1702490fa8b4e0a422460dfa_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "HIGH VOLTAGE REGULAR STRENGTH 16 OZ",
       "destinationPath": "products/high-voltage-regular-strength-16-oz.html",
       "excerpt": "When results are on the line, make sure you\u2019re clean! High Voltage Detox is specially formulated with a unique blend of B-Vitamins, Creatine and numerous nutrients and herbal extracts to remove unwanted toxins and pollutants from your...",
-      "body": "When results are on the line, make sure you\u2019re clean! High Voltage Detox is specially formulated with a unique blend of B-Vitamins, Creatine and numerous nutrients and herbal extracts to remove unwanted toxins and pollutants from your urinary tract. Our 16oz beverage takes effect within 30 minutes and can last up to 7 hours depending on one\u2019s metabolism and the amount of Toxins in their systems. RETURN & REFUND POLICY All Sales are FINAL ! PRODUCT DESCRIPTION Best Served Chilled, Shake Well Directions: (Day Of) Drink contents of High Voltage liquid , follow with 16oz of water. Wait 15 minutes then drink another 16 oz of water. Product will start being most effective after three normal sized urinations. If you are having trouble urinating you can increase your water intake by 16oz of water per hour. High Voltage will stay effective up to 7 hours. For Maximum Results: Avoid unwanted toxins for 24-48 hours. Pre-cleanse period, the night before (12-24 hours Prior to consuming High Voltage) drink ten 8oz glasses of water over an 8 hour period. While using this product, urinate frequently to expel toxins. Do not eat large meals or consume any food with Caffeine or Fruit Juices during the pre-cleanse period. Avoid over the counter or non-prescribed medications, alcohol, acidic liquids (such as vinegar, pickle juice, coffee, etc), Vitamins or salty foods. Drink plenty of water on a daily basis",
+      "body": "When results are on the line, make sure you\u2019re clean! High Voltage Detox is specially formulated with a unique blend of B-Vitamins, Creatine and numerous nutrients and herbal extracts to remove unwanted toxins and pollutants from your urinary tract. Our 16oz beverage takes effect within 30 minutes and can last up to 7 hours depending on one\u2019s metabolism and the amount of Toxins in their systems. RETURN & REFUND POLICY All Sales are FINAL ! PRODUCT DESCRIPTION Best Served Chilled, Shake Well Directions: (Day Of) Drink contents of High Voltage liquid, follow with 16oz of water. Wait 15 minutes then drink another 16 oz of water. Product will start being most effective after three normal sized urinations. If you are having trouble urinating you can increase your water intake by 16oz of water per hour. High Voltage will stay effective up to 7 hours. For Maximum Results: Avoid unwanted toxins for 24-48 hours. Pre-cleanse period, the night before (12-24 hours Prior to consuming High Voltage) drink ten 8oz glasses of water over an 8 hour period. While using this product, urinate frequently to expel toxins. Do not eat large meals or consume any food with Caffeine or Fruit Juices during the pre-cleanse period. Avoid over the counter or non-prescribed medications, alcohol, acidic liquids (such as vinegar, pickle juice, coffee, etc), Vitamins or salty foods. Drink plenty of water on a daily basis",
       "image": "assets/products/high-voltage-regular-strength-16-oz/high-voltage-regular-strength-16-oz.jpg",
       "category": "Shop - Detox / Cleanses",
       "categoryLabel": "Detox / Cleanses",
@@ -1131,13 +1521,19 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 198,
       "imageHeight": 198,
       "imageBytes": 19011,
-      "imageSourceStatus": "local"
+      "imageSourceStatus": "local",
+      "bodyHtml": "<p>When results are on the line, make sure you\u2019re clean! High Voltage Detox is specially formulated with a unique blend of B-Vitamins, Creatine and numerous nutrients and herbal extracts to remove unwanted toxins and pollutants from your urinary tract. Our 16oz beverage takes effect within 30 minutes and can last up to 7 hours depending on one\u2019s metabolism and the amount of Toxins in their systems.<br/><br/>\u00a0</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>All Sales are FINAL !</p>\n<h3>PRODUCT DESCRIPTION</h3>\n<p>Best Served Chilled, Shake Well</p>\n<p>Directions: (Day Of)</p>\n<ul>\n<li>Drink contents of High Voltage liquid, follow with 16oz of water.</li>\n<li>Wait 15 minutes then drink another 16 oz of water.</li>\n</ul>\n<p>Product will start being most effective after three normal sized urinations. If you are having trouble urinating you can increase your water intake by 16oz of water per hour. High Voltage will stay effective up to 7 hours.</p>\n<p>For Maximum Results:</p>\n<ul>\n<li>Avoid unwanted toxins for 24-48 hours.</li>\n<li>Pre-cleanse period, the night before (12-24 hours Prior to consuming High Voltage) drink ten 8oz glasses of water over an 8 hour period.</li>\n<li>While using this product, urinate frequently to expel toxins.<br/>\n\tDo not eat large meals or consume any food with Caffeine or Fruit Juices during the pre-cleanse period.</li>\n<li>Avoid over the counter or non-prescribed medications, alcohol, acidic liquids (such as vinegar, pickle juice, coffee, etc), Vitamins or salty foods.</li>\n<li>Drink plenty of water on a daily basis</li>\n</ul>",
+      "canonicalImageMediaId": "8d0ab0_32bd3e34f9da4cf7bb9751c3bdaa9bed_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_32bd3e34f9da4cf7bb9751c3bdaa9bed_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "HIGH VOLTAGE SHAMPOO",
       "destinationPath": "products/high-voltage-shampoo.html",
       "excerpt": "High Voltage Folli-Cleanse Shampoo has been formulated to remove toxin related metabolites from the hair shaft. Simply use the night before or the morning you need your hair clean. Effects can last up to 36 hours. PRODUCT DESCRIPTION...",
-      "body": "High Voltage Folli-Cleanse Shampoo has been formulated to remove toxin related metabolites from the hair shaft. Simply use the night before or the morning you need your hair clean. Effects can last up to 36 hours. PRODUCT DESCRIPTION Directions: (Shake Well) Wash hair thoroughly with High Voltage Folli-Cleanse Shampoo by using only a quarter of the bottle (25% of the bottle, about .5 oz.) then rinse completely and leave damp. Apply the remainder of the bottle (1.50 oz.) of Shampoo and massage thoroughly into hair using only your fingers. Do not brush or comb hair. Cover with shower cap and let set for 20 minutes but no more then 30 minutes. Rinse thoroughly. Towel, style or blow dry your hair as usual, but be sure not to use combs, brushes or hair products that may be contaminated by old hair that had exposure to toxins or smoke. Success Tips and Facts: Avoid all unwanted toxins for 24-48 hours prior to using High Voltage Folli-Cleanse Shampoo. (The longer the better!) The toxins you are removing from your hair may still be in your body. These toxins are excreted through the skin via perspiration. The perspiration can reabsorb into the hair after the cleansing and re-contaminate the hair. While it\u2019s impossible for you to totally control how much you perspire, do your best to stay cool after using the shampoo to avoid re contamination. Try to stay in an air conditioned environment or one that is not to hot. Again, much of this depends on the situation your in, and may not be totally in your control. But do your best to stay cool! People with tight cornrows, French braids,...",
+      "body": "High Voltage Folli-Cleanse Shampoo has been formulated to remove toxin related metabolites from the hair shaft. Simply use the night before or the morning you need your hair clean. Effects can last up to 36 hours. PRODUCT DESCRIPTION Directions: (Shake Well) Wash hair thoroughly with High Voltage Folli-Cleanse Shampoo by using only a quarter of the bottle (25% of the bottle, about .5 oz.) then rinse completely and leave damp. Apply the remainder of the bottle (1.50 oz.) of Shampoo and massage thoroughly into hair using only your fingers. Do not brush or comb hair. Cover with shower cap and let set for 20 minutes but no more then 30 minutes. Rinse thoroughly. Towel, style or blow dry your hair as usual, but be sure not to use combs, brushes or hair products that may be contaminated by old hair that had exposure to toxins or smoke. Success Tips and Facts: Avoid all unwanted toxins for 24-48 hours prior to using High Voltage Folli-Cleanse Shampoo. (The longer the better!) The toxins you are removing from your hair may still be in your body. These toxins are excreted through the skin via perspiration. The perspiration can reabsorb into the hair after the cleansing and re-contaminate the hair. While it\u2019s impossible for you to totally control how much you perspire, do your best to stay cool after using the shampoo to avoid re contamination. Try to stay in an air conditioned environment or one that is not to hot. Again, much of this depends on the situation your in, and may not be totally in your control. But do your best to stay cool! People with tight cornrows, French braids, dread locks, heavy afros and oily hair are more at risk for the product not working because of density and difficulty penetrating the scalp, you will need to scrub extra deep into their scalps, it is recommended to wash your hair with your everyday non-conditioning shampoo multiple times the day before using High Voltage Folli-Cleanse Shampoo. Warning: Keep out of eyes, discontinue use if you experience skin irritation. Don\u2019t be alarmed if you do experience skin flaking or dryness after use, you may use hair conditioner or treat the dryness but ONLY AFTER you test. Store in a private place. Keep out of reach of children. Ingredients: Deionized Water, Ammonium Lauryl Sulfate, TEA \u2013 Lauryl Sulfate, Cocamidopropyl Betaine, Cocamide DEA, Sodium Thiosulfate, Tetrasodium EDTA, Glycerin, Citric Acid, DMDM Hydantoin, Iodopropanyl Buylcarbomate and Fragrance. *Packaging may vary RETURN & REFUND POLICY All Sales are FINAL !",
       "image": "assets/products/high-voltage-shampoo/high-voltage-shampoo.jpeg",
       "category": "Shop - Detox / Cleanses",
       "categoryLabel": "Detox / Cleanses",
@@ -1147,13 +1543,19 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 198,
       "imageHeight": 198,
       "imageBytes": 14646,
-      "imageSourceStatus": "local"
+      "imageSourceStatus": "local",
+      "bodyHtml": "<p>High Voltage Folli-Cleanse Shampoo has been formulated to remove toxin related metabolites from the hair shaft. Simply use the night before or the morning you need your hair clean. Effects can last up to 36 hours.</p>\n<h3>PRODUCT DESCRIPTION</h3>\n<p>Directions: (Shake Well)</p>\n<ul>\n<li>Wash hair thoroughly with High Voltage Folli-Cleanse Shampoo by using only a quarter of the bottle (25% of the bottle, about .5 oz.) then rinse completely and leave damp.</li>\n<li>Apply the remainder of the bottle (1.50 oz.) of Shampoo and massage thoroughly into hair using only your fingers. Do not brush or comb hair.</li>\n<li>Cover with shower cap and let set for 20 minutes but no more then 30 minutes.</li>\n<li>Rinse thoroughly.</li>\n</ul>\n<p>Towel, style or blow dry your hair as usual, but be sure not to use combs, brushes or hair products that may be contaminated by old hair that had exposure to toxins or smoke.</p>\n<p>Success Tips and Facts:</p>\n<ul>\n<li>Avoid all unwanted toxins for 24-48 hours prior to using High Voltage Folli-Cleanse Shampoo. (The longer the better!)</li>\n<li>The toxins you are removing from your hair may still be in your body. These toxins are excreted through the skin via perspiration. The perspiration can reabsorb into the hair after the cleansing and re-contaminate the hair. While it\u2019s impossible for you to totally control how much you perspire, do your best to stay cool after using the shampoo to avoid re contamination. Try to stay in an air conditioned environment or one that is not to hot. Again, much of this depends on the situation your in, and may not be totally in your control. But do your best to stay cool!</li>\n<li>People with tight cornrows, French braids, dread locks, heavy afros and oily hair are more at risk for the product not working because of density and difficulty penetrating the scalp, you will need to scrub extra deep into their scalps, it is recommended to wash your hair with your everyday non-conditioning shampoo multiple times the day before using High Voltage Folli-Cleanse Shampoo.</li>\n</ul>\n<p>Warning:<br/>\nKeep out of eyes, discontinue use if you experience skin irritation. Don\u2019t be alarmed if you do experience skin flaking or dryness after use, you may use hair conditioner or treat the dryness but ONLY AFTER you test.</p>\n<p>Store in a private place. Keep out of reach of children.</p>\n<p>Ingredients: Deionized Water, Ammonium Lauryl Sulfate, TEA \u2013 Lauryl Sulfate, Cocamidopropyl Betaine, Cocamide DEA, Sodium Thiosulfate, Tetrasodium EDTA, Glycerin, Citric Acid, DMDM Hydantoin, Iodopropanyl Buylcarbomate and Fragrance.</p>\n<p>\u00a0</p>\n<p>*Packaging may vary</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>All Sales are FINAL !</p>",
+      "canonicalImageMediaId": "8d0ab0_3e3ffe87adea499790ef77a4f642d035_mv2.jpeg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_3e3ffe87adea499790ef77a4f642d035_mv2.jpeg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "HIGH VOLTAGE XL SHOT",
       "destinationPath": "products/high-voltage-xl-shot.html",
       "excerpt": "High Voltage Detox XL Shot is a potent alternative form of detox. High Voltage Detox XL Shot is a 2oz liquid concentrate paired with 12 capsules designed to flush high amounts of toxins from your body \u2013 comparable to High Voltage Detox...",
-      "body": "High Voltage Detox XL Shot is a potent alternative form of detox. High Voltage Detox XL Shot is a 2oz liquid concentrate paired with 12 capsules designed to flush high amounts of toxins from your body \u2013 comparable to High Voltage Detox Double Flush! When results are on the line, make sure you\u2019re CLEAN! Effective in one hour and can last up to 10 hours; XL Shot is the perfect product to keep you clean RETURN & REFUND POLICY All Sales are Final ! PRODUCT DESCRIPTION PRE-CLEANSE if possible a day or two before by drinking an 8 ounce glass of water per hour (while awake). Directions: (4 step process) Consume one packet of High Voltage Fast Flush Capsules with 16 ounces of water. Wait 20 \u2013 30 minutes and drink another 16 ounces of water. Shake well and drink the 2 ounce High Voltage Liquid XL Shot, then drink another 16 ounces of water. It is normal to urinate between steps. Wait 30 minutes and drink the second packet of High Voltage Fast Flush Capsules with 16 ounces of water. Product will start being effective after three normal sized urinations. If you are having difficulty urinating, increase your water intake by 16 ounces per hour. High Voltage XL Shot will stay effective for up to 12 hours. For Maximum Results: Avoid unwanted toxins for 24-48 hours. Pre-cleanse period, the night before (12-24 hours Prior to consuming High Voltage) drink ten 8oz glasses of water over an 8 hour period. While using this product, urinate frequently to expel toxins. Do not eat large meals or consume any food with Caffeine or Fruit Juices during the pre-cleanse period. Avoid over the counter...",
+      "body": "High Voltage Detox XL Shot is a potent alternative form of detox. High Voltage Detox XL Shot is a 2oz liquid concentrate paired with 12 capsules designed to flush high amounts of toxins from your body \u2013 comparable to High Voltage Detox Double Flush! When results are on the line, make sure you\u2019re CLEAN! Effective in one hour and can last up to 10 hours; XL Shot is the perfect product to keep you clean RETURN & REFUND POLICY All Sales are Final ! PRODUCT DESCRIPTION PRE-CLEANSE if possible a day or two before by drinking an 8 ounce glass of water per hour (while awake). Directions: (4 step process) Consume one packet of High Voltage Fast Flush Capsules with 16 ounces of water. Wait 20 \u2013 30 minutes and drink another 16 ounces of water. Shake well and drink the 2 ounce High Voltage Liquid XL Shot, then drink another 16 ounces of water. It is normal to urinate between steps. Wait 30 minutes and drink the second packet of High Voltage Fast Flush Capsules with 16 ounces of water. Product will start being effective after three normal sized urinations. If you are having difficulty urinating, increase your water intake by 16 ounces per hour. High Voltage XL Shot will stay effective for up to 12 hours. For Maximum Results: Avoid unwanted toxins for 24-48 hours. Pre-cleanse period, the night before (12-24 hours Prior to consuming High Voltage) drink ten 8oz glasses of water over an 8 hour period. While using this product, urinate frequently to expel toxins. Do not eat large meals or consume any food with Caffeine or Fruit Juices during the pre-cleanse period. Avoid over the counter or unprescribed medications, alcohol, acidic liquids (such as vinegar, pickle juice, coffee, etc), Vitamins or salty foods. Drink plenty of water on a daily basis",
       "image": "assets/products/high-voltage-xl-shot/high-voltage-xl-shot.jpg",
       "category": "Shop - Detox / Cleanses",
       "categoryLabel": "Detox / Cleanses",
@@ -1163,7 +1565,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 500,
       "imageHeight": 500,
       "imageBytes": 90172,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>High Voltage Detox XL Shot is a potent alternative form of detox. High Voltage Detox XL Shot is a 2oz liquid concentrate paired with 12 capsules designed to flush high amounts of toxins from your body \u2013 comparable to High Voltage Detox Double Flush! When results are on the line, make sure you\u2019re CLEAN! Effective in one hour and can last up to 10 hours; XL Shot is the perfect product to keep you clean</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>All Sales are Final !</p>\n<h3>PRODUCT DESCRIPTION</h3>\n<p>PRE-CLEANSE if possible a day or two before by drinking an 8 ounce glass of water per hour (while awake).</p>\n<p>Directions: (4 step process)</p>\n<ul>\n<li>Consume one packet of High Voltage Fast Flush Capsules with 16 ounces of water.</li>\n<li>Wait 20 \u2013 30 minutes and drink another 16 ounces of water.</li>\n<li>Shake well and drink the 2 ounce High Voltage Liquid XL Shot, then drink another 16 ounces of water. It is normal to urinate between steps.</li>\n<li>Wait 30 minutes and drink the second packet of High Voltage Fast Flush Capsules with 16 ounces of water.</li>\n</ul>\n<p>Product will start being effective after three normal sized urinations. If you are having difficulty urinating, increase your water intake by 16 ounces per hour. High Voltage XL Shot will stay effective for up to 12 hours.</p>\n<p>For Maximum Results:</p>\n<ul>\n<li>Avoid unwanted toxins for 24-48 hours.</li>\n<li>Pre-cleanse period, the night before (12-24 hours Prior to consuming High Voltage) drink ten 8oz glasses of water over an 8 hour period.</li>\n<li>While using this product, urinate frequently to expel toxins.</li>\n<li>Do not eat large meals or consume any food with Caffeine or Fruit Juices during the pre-cleanse period.</li>\n<li>Avoid over the counter or unprescribed medications, alcohol, acidic liquids (such as vinegar, pickle juice, coffee, etc), Vitamins or salty foods.</li>\n<li>Drink plenty of water on a daily basis</li>\n</ul>",
+      "canonicalImageMediaId": "8d0ab0_ee100cdc3a984489abcaea0fc4d67316_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_ee100cdc3a984489abcaea0fc4d67316_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "HIP VAPE",
@@ -1176,10 +1584,16 @@ window.DIVERSITY_SITE_DATA = {
       "price": "$100.00",
       "inventoryStatus": "in_stock",
       "isInStock": true,
-      "imageWidth": 1000,
-      "imageHeight": 1000,
-      "imageBytes": 151001,
-      "imageSourceStatus": "local"
+      "imageWidth": 500,
+      "imageHeight": 443,
+      "imageBytes": 47268,
+      "imageSourceStatus": "local",
+      "bodyHtml": "<p>The HipVap represents the ultimate in discreet portability. With its sleek, sophisticated and stylish design, the HipVap is the ideal grab-and-go portable vaporizer. Constructed from high quality aluminum and steel, the HipVap\u2019s ergonomic flask shaped body fits comfortably in your hand, as well as your pocket. A user-friendly interface and intuitive controls allow you to precisely adjust temperature anywhere from 150\u00b0 to 430\u00b0F with ease. Compatible with your favorite dry herbs and waxy concentrates, the Hipvap is powered by dual Lithium-ion batteries, and is will last for 2.5 hours of continuous use.</p>\n<h3>Return Policy</h3>\n<p>All SALES ARE FINAL</p>\n<p>NO REFUNDS</p>",
+      "canonicalImageMediaId": "8d0ab0_68c6fa8f351142dba12b1aa54dd60716_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_68c6fa8f351142dba12b1aa54dd60716_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "Hookah Coals",
@@ -1195,7 +1609,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 420,
       "imageHeight": 500,
       "imageBytes": 96392,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Hookah Coals</p><p>www.threekings.com</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>ALL SALES ARE FINAL</p>",
+      "canonicalImageMediaId": "8d0ab0_86a256274d8a4d60bc3f19f1ba174d32_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_86a256274d8a4d60bc3f19f1ba174d32_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "I-O LITE vaporizer",
@@ -1211,7 +1631,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 500,
       "imageHeight": 251,
       "imageBytes": 39396,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>The\u00a0<em>IOLITE</em>\u00a0is a unique little portable vaporizer made by a company in Ireland called Oglesby &amp; Butler. They also make the\u00a0<em>WISPR</em>, which is very similar but slightly more expensive.</p><p>What makes this vape different is that it\u2019s powered by butane. Instead of charging batteries or plugging it into a wall you simply fill it up butane that you can buy at most local convenience stores, the type typically used in lighters.</p><p>The heating element uses the gas to heat the herb chamber to optimal vape temperature, in this case 374\u00b0F or 190\u00b0C.</p><p>Overall I think it\u2019s just ok and it\u2019s probably most useful for people who don\u2019t want to deal with having to charge batteries all the time.</p>\n<h3>Return Policy</h3>\n<p>All SALES ARE FINAL</p>\n<p>NO REFUNDS</p>",
+      "canonicalImageMediaId": "8d0ab0_4cb7cb20ff4b4d9c9aa7d42d0eb8354e_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_4cb7cb20ff4b4d9c9aa7d42d0eb8354e_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "JUST CHILL JUNGLE",
@@ -1224,26 +1650,38 @@ window.DIVERSITY_SITE_DATA = {
       "price": "$39.00",
       "inventoryStatus": "in_stock",
       "isInStock": true,
-      "imageWidth": 1000,
-      "imageHeight": 668,
-      "imageBytes": 205875,
-      "imageSourceStatus": "local"
+      "imageWidth": 337,
+      "imageHeight": 500,
+      "imageBytes": 57319,
+      "imageSourceStatus": "local",
+      "bodyHtml": "<p>What is\u00a0cannabidiol all about?</p><p>CBD is an abbreviation for cannabidiol.\u00a0It is a\u00a0component found in cannabis, that has no psychoactive effects, unlike THC.\u00a0CBD has been shown to have properties that\u00a0when ingested or, applied locally, may benefit your health.\u00a0CBD is found in greater amounts in hemp, which is a type of cannabis, but not the psychoactive strain of plant often known\u00a0as marijuana.</p><p>We all \u00a0have an \u201cendocannabinoid system\u201d in our\u00a0body. Every human does! This is one of science\u2019s most exciting discoveries and\u00a0each of us are basically \u201cpre-wired\u201d with cannabinoid receptors throughout our body! These receptors are most abundant in our immune system and in our brain \u2013 two extremely important functions for optimal health and wellness. This is why CBD has been proven to help many human ailments.</p><p>So, do you think you might want to try some CBD? Well\u00a0<strong>Just Chill Products</strong>\u00a0is worth checking out. They drive\u00a0innovation through their\u00a0team of hemp industry pioneers. They\u00a0are proud to offer only the highest quality consumer products featuring premium cannabidiol (CBD) hemp oil.\u00a0<strong>Just Chill Products</strong>\u00a0believes that science is their\u00a0biggest ally, with a goal of constant improvement.</p><p><strong>Just Chill Products</strong>\u00a0doesn\u2019t\u00a0have a huge product selection, but what they do offer is pretty cool. They\u2019ve got oils, wax, and gummies, as well as some utensils. And everything is pretty reasonably priced.</p>\n<h3>Return Policy</h3>\n<p>All SALES ARE FINAL</p>\n<p>NO REFUNDS</p>",
+      "canonicalImageMediaId": "8d0ab0_ee483103894442e0b1b6acb90e3bbd95_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_ee483103894442e0b1b6acb90e3bbd95_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "JUST CHILL STRAWBERRY",
       "destinationPath": "products/just-chill-strawberry.html",
       "excerpt": "What is cannabidiol all about? CBD is an abbreviation for cannabidiol. It is a component found in cannabis, that has no psychoactive effects, unlike THC. CBD has been shown to have properties that when ingested or, applied locally, may...",
       "body": "What is cannabidiol all about? CBD is an abbreviation for cannabidiol. It is a component found in cannabis, that has no psychoactive effects, unlike THC. CBD has been shown to have properties that when ingested or, applied locally, may benefit your health. CBD is found in greater amounts in hemp, which is a type of cannabis, but not the psychoactive strain of plant often known as marijuana. We all have an \u201cendocannabinoid system\u201d in our body. Every human does! This is one of science\u2019s most exciting discoveries and each of us are basically \u201cpre-wired\u201d with cannabinoid receptors throughout our body! These receptors are most abundant in our immune system and in our brain \u2013 two extremely important functions for optimal health and wellness. This is why CBD has been proven to help many human ailments. So, do you think you might want to try some CBD? Well Just Chill Products is worth checking out. They drive innovation through their team of hemp industry pioneers. They are proud to offer only the highest quality consumer products featuring premium cannabidiol (CBD) hemp oil. Just Chill Products believes that science is their biggest ally, with a goal of constant improvement. Just Chill Products doesn\u2019t have a huge product selection, but what they do offer is pretty cool. They\u2019ve got oils, wax, and gummies, as well as some utensils. And everything is pretty reasonably priced. Return Policy All SALES ARE FINAL NO REFUNDS",
-      "image": "assets/products/just-chill-strawberry/just-chill-strawberry.jpg",
+      "image": "assets/products/just-chill-strawberry/just-chill-strawberry.png",
       "category": "Shop - Other Products",
       "categoryLabel": "Other Products",
       "price": "$39.00",
       "inventoryStatus": "in_stock",
       "isInStock": true,
-      "imageWidth": 1000,
-      "imageHeight": 668,
-      "imageBytes": 205875,
-      "imageSourceStatus": "local"
+      "imageWidth": 400,
+      "imageHeight": 400,
+      "imageBytes": 212631,
+      "imageSourceStatus": "local",
+      "bodyHtml": "<p>What is\u00a0cannabidiol all about?</p><p>CBD is an abbreviation for cannabidiol.\u00a0It is a\u00a0component found in cannabis, that has no psychoactive effects, unlike THC.\u00a0CBD has been shown to have properties that\u00a0when ingested or, applied locally, may benefit your health.\u00a0CBD is found in greater amounts in hemp, which is a type of cannabis, but not the psychoactive strain of plant often known\u00a0as marijuana.</p><p>We all \u00a0have an \u201cendocannabinoid system\u201d in our\u00a0body. Every human does! This is one of science\u2019s most exciting discoveries and\u00a0each of us are basically \u201cpre-wired\u201d with cannabinoid receptors throughout our body! These receptors are most abundant in our immune system and in our brain \u2013 two extremely important functions for optimal health and wellness. This is why CBD has been proven to help many human ailments.</p><p>So, do you think you might want to try some CBD? Well\u00a0<strong>Just Chill Products</strong>\u00a0is worth checking out. They drive\u00a0innovation through their\u00a0team of hemp industry pioneers. They\u00a0are proud to offer only the highest quality consumer products featuring premium cannabidiol (CBD) hemp oil.\u00a0<strong>Just Chill Products</strong>\u00a0believes that science is their\u00a0biggest ally, with a goal of constant improvement.</p><p><strong>Just Chill Products</strong>\u00a0doesn\u2019t\u00a0have a huge product selection, but what they do offer is pretty cool. They\u2019ve got oils, wax, and gummies, as well as some utensils. And everything is pretty reasonably priced.</p>\n<h3>Return Policy</h3>\n<p>All SALES ARE FINAL</p>\n<p>NO REFUNDS</p>",
+      "canonicalImageMediaId": "8d0ab0_bc2f0454ab1e4e55802e6b89752068af_mv2.png",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_bc2f0454ab1e4e55802e6b89752068af_mv2.png",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "K-Stick Supreme",
@@ -1259,7 +1697,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 281,
       "imageHeight": 500,
       "imageBytes": 47907,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Features</p><ul> <li>280 mAh Battery Output</li> <li>Sexy Metallic Finish</li> <li>Quartz Crystal Chamber</li> <li>Titanium Coil wrapped around Quartz Rod</li> <li>Variable Voltage: Red 3.2V/Green 3.7V/Blue 4.2V</li> <li>Leak Proof</li> <li>5 Click On/Off</li> <li>Compatible with all 510 Threaded Oil Tanks</li> <li>Lifetime Warranty (Battery)</li> <li>Developed &amp; Designed in the USA</li> <li>For Aromatherapy Purposes Only</li></ul>\n<h3>RETURN & REFUND POLICY</h3>\n<p>ALL SALES ARE FINAL !</p>",
+      "canonicalImageMediaId": "8d0ab0_4f9c34685bdf432cb41b3c7756cdd380_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_4f9c34685bdf432cb41b3c7756cdd380_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "Kamry 30 BOX",
@@ -1275,7 +1719,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 281,
       "imageHeight": 500,
       "imageBytes": 24673,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p><strong>Summary of Mod</strong></p><ul> <li>1.375\u201dL x .75\u201dW x 3\u201dH</li> <li>Compatible with atomizers ranging from 0.3-9.9ohm</li> <li>Wattage can vary from 7-30w</li> <li>Battery capacity of 2100mAh</li> <li>OLED display that reads battery life, puffs, wattage, voltage, and atomizer resistance</li> <li>Multiple air holes, increases heat dissipation</li> <li>Adjustable spring loaded pin, 510 connector</li> <li>10-second power down safety feature</li> <li>Short-circuit protection, low-resistance protection, and over-heating protection</li> <li>Magnetic back cover\u00a0</li></ul><p><strong>Box Mod Kit Includes</strong></p><ul> <li>Kamry 30w Box Mod</li> <li>Micro USB charging cable</li> <li>User manual</li> <li>Protective travel case</li></ul><p>\u00a0</p>\n<h3>Return Policy</h3>\n<p>All SALES ARE FINAL</p>\n<p>NO REFUNDS</p>",
+      "canonicalImageMediaId": "8d0ab0_0e1f13f1c7654bca8146404727a8c850_mv2.jpeg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_0e1f13f1c7654bca8146404727a8c850_mv2.jpeg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "LEVO II",
@@ -1291,7 +1741,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 350,
       "imageHeight": 350,
       "imageBytes": 69625,
-      "imageSourceStatus": "local"
+      "imageSourceStatus": "local",
+      "bodyHtml": "<p>For the infusion connoisseur, meet LEVO II.\u00a0</p><p>The streamlined LEVO infusion process you know and love, with\u00a0an abundance of improved features and innovative new technology. Now you can prepare herbs with ease with our new Dry and Activate cycles, allowing you to unlock the full potency of your botanical ingredients before you infuse.\u00a0</p><p>Connect wirelessly to the LEVO app to control your infusions on the go \u2014 plus access your history, use our Time &amp; Temperature Calculator, share &amp; discover recipes and more.\u00a0</p>\n<h3>Return Policy</h3>\n<p>All SALES ARE FINAL</p>\n<p>NO REFUNDS</p>",
+      "canonicalImageMediaId": "8d0ab0_727594596d1b44bb85e7a405a4598a7f_mv2.png",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_727594596d1b44bb85e7a405a4598a7f_mv2.png",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "Metal Pipe",
@@ -1307,7 +1763,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 280,
       "imageHeight": 500,
       "imageBytes": 38427,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>METAL PIPE</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>ALL SALES ARE FINAL</p>",
+      "canonicalImageMediaId": "8d0ab0_b6e95f20772144caad4728464b33ad92_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_b6e95f20772144caad4728464b33ad92_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "Mini 2 Hose Hookah",
@@ -1323,7 +1785,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 280,
       "imageHeight": 500,
       "imageBytes": 54391,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Mnini 2 Hose Hookah</p><ul> <li>Comes with Funnel Bowl a Washable Hose</li> <li>Magnet System for easy set up</li> <li>Disassembles for easy cleaning</li> <li>2 Hose Capable\u00a0</li></ul>\n<h3>RETURN & REFUND POLICY</h3>\n<p>ALL SALES ARE FINAL</p>",
+      "canonicalImageMediaId": "8d0ab0_650b4974ce7a4ac2a27430b853746cdd_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_650b4974ce7a4ac2a27430b853746cdd_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "NAIL CROWN SILK LBLUE",
@@ -1336,10 +1804,16 @@ window.DIVERSITY_SITE_DATA = {
       "price": "$19.99",
       "inventoryStatus": "in_stock",
       "isInStock": true,
-      "imageWidth": 1000,
-      "imageHeight": 668,
-      "imageBytes": 205875,
-      "imageSourceStatus": "local"
+      "imageWidth": 500,
+      "imageHeight": 375,
+      "imageBytes": 38817,
+      "imageSourceStatus": "local",
+      "bodyHtml": "<p>The Nail Crown was\u00a0created by Cruz Culture in order to solve the most common issues while enjoying concentrates. Never burn yourself again and easily take your tools on the go with a platinum grade silicone Nail Crown which allows you to grab and store hot metal, glass, or quartz. Beyond that, use your Nail Crown to hold sticky tools, store concentrates and even use the Nail Crown as a tripod for your phone! The Cruz Culture Nail Crown puts all the tools you need in one compact package so you\u2019ll never reach\u00a0your destination only to discover you forgot that critical\u00a0tool.</p>\n<h3>Return Policy</h3>\n<p>All SALES ARE FINAL</p>\n<p>NO REFUNDS</p>",
+      "canonicalImageMediaId": "8d0ab0_9bcbf74de4204a469162d0a91a3b6464_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_9bcbf74de4204a469162d0a91a3b6464_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "Naked Vape Juice",
@@ -1355,7 +1829,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 280,
       "imageHeight": 500,
       "imageBytes": 35709,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Established in January 2016, Naked 100 E Juice is the all natural eliquid collection of distinct flavor notes to meet every vapers palate. Manufactured by\u00a0The Schwartz, the 60ml ejuice collection is a highly successful ejuice collection found domestically and internationally.\u00a0Naked 100\u00a0offers five ejuice collections: The Original - Amazing Mango, Green Blast, Lava Flow, All Melon &amp; Very Berry; Naked 100 Menthol - Brain Freeze, Polar Breeze &amp; Very Cool; Naked 100 Tobacco - American Patriots, Cuban Blend &amp; Euro Gold, Naked 100 Fusion - Straw-Lime, Green Lemon &amp; Yummy Strawberry and Naked 100 Ice - Amazing Mango Ice, Hawaiian Pog Ice &amp; Lava Flow Ice. The success of Naked 100 E-Liquid has inspired many other fruit blended ejuices. Treat your taste buds with something new and refreshing. #SkinnyDrip</p><p>\u00a0</p><p>Contains 6mg of Nicotine</p>",
+      "canonicalImageMediaId": "8d0ab0_a67c3359496147cf9e20a9a953496888_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_a67c3359496147cf9e20a9a953496888_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "NANO NBW WAXY KIT",
@@ -1371,7 +1851,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 281,
       "imageHeight": 500,
       "imageBytes": 53210,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Simple and discreet, the Nano Waxy Kit is the perfect wax consistency vaporizer for anyone interested in on-the-go use. The device\u2019s quartz rod heating element provides consistently pure flavor. The kit comes complete with a single-button operated battery, two heating chambers, and a charger. The Nano kit\u2019s easy to operate design and compact feel make it a favorite for new and experienced vapers alike, while it\u2019s unique battery and advanced PCB ensure high-powered hits with every puff.</p><p>Size: h 74mm, d 9 mm</p><p><strong>The Nano Waxy Kit scored an 9.3 ranking with The Vape Guide!</strong></p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>ALL SALES ARE FINAL !</p>",
+      "canonicalImageMediaId": "8d0ab0_19ada6c23b864940a309e25cdf942543_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_19ada6c23b864940a309e25cdf942543_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "P-SURE",
@@ -1387,7 +1873,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 353,
       "imageHeight": 500,
       "imageBytes": 328980,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>This product cannot be shipped or sold to residents of Arkansas,<br/>Florida, Georgia, Idaho, Illinois, Indiana, Iowa, Kentucky, Louisiana,<br/>Nebraska, New Jersey, North Carolina, North Dakota, Oklahoma,<br/>Pennsylvania, Tennessee, Texas, Virginia, Wisconsin, Wyoming. \u00a0<br/>If you live in one of these states and purchase this product - we will not<br/>ship it, and you will be charged a 50% charge back processing fee.</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>ALL Salesare FINAL</p>",
+      "canonicalImageMediaId": "8d0ab0_2a7eb354d90345628774e63a4707065f_mv2.png",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_2a7eb354d90345628774e63a4707065f_mv2.png",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "PAX 3",
@@ -1403,7 +1895,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 420,
       "imageHeight": 500,
       "imageBytes": 31805,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>The ultimate portable cannabis vaporizer for dry herb and extracts. The PAX 3 is powerful yet discreet, smart yet easy-to-use. Our engineering and technology gets the best out of your flower.</p><p>\u00a0</p><ul> <li>The PAX\u00a0<strong>conduction oven</strong>\u00a0heats your cannabis flower gently and evenly so there\u2019s little waste</li> <li><strong>22-second heat-up time</strong>\u00a0for on-demand vaping</li> <li><strong>Temperature settings\u00a0</strong>\u00a0so you can achieve your ideal combination of flavor and vapor</li> <li><strong>Vibration notifications</strong>\u00a0tell you when you can vape so there\u2019s no guessing</li> <li><strong>One button</strong>\u00a0turns the PAX 3 on and off, and changes the temperature</li> <li><strong>Sleek, durable design</strong>\u00a0suitable for every occasion</li></ul><ul> <li>Flat &amp; Raised Mouthpieces</li> <li>Standard Oven Lid</li> <li>USB Charger</li> <li>Maintenance Kit</li></ul><ul> <li>Half Pack Oven Lid</li> <li>Concentrate Insert</li> <li>Multi-Tool (Keychain)</li> <li>3 Screens</li></ul>",
+      "canonicalImageMediaId": "8d0ab0_38823186edcf49e4a1ff61200e228f8a_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_38823186edcf49e4a1ff61200e228f8a_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "Phoenix Drip Tip",
@@ -1419,7 +1917,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 281,
       "imageHeight": 500,
       "imageBytes": 29461,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Product Description</p><p>Ceramic &amp; stainless steel/ Fits all 510.</p>\n<h3>Return Policy</h3>\n<p>All SALES ARE FINAL</p>\n<p>NO REFUNDS</p>",
+      "canonicalImageMediaId": "8d0ab0_f25b7eff7f7045b49c4f58eb3e223723_mv2.jpeg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_f25b7eff7f7045b49c4f58eb3e223723_mv2.jpeg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "Plastic Grinder",
@@ -1435,7 +1939,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 280,
       "imageHeight": 500,
       "imageBytes": 57968,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Plastic Grinder</p><p>\u00a0</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>All Sales are FINAL</p>",
+      "canonicalImageMediaId": "8d0ab0_8b8b110359a6459994f489671226a5d9_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_8b8b110359a6459994f489671226a5d9_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "Q Carbo 32",
@@ -1451,23 +1961,35 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 280,
       "imageHeight": 500,
       "imageBytes": 45271,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Q Carbo 32 Liquid Tropical 32 oz Liquid</p><p>Description</p><p>Herbal Clean QCARBO32 is the easy one-step formula for people with higher toxin levels or larger body mass. This advanced super detoxifying solution provides the satisfaction and reliability you expect from a MAXIMUM STRENGTH cleanser.</p><p>Today's lifestyles expose us to numerous pollutants from many sources including the air we inhale, water we drink and food we ingest. It is important to eliminate these toxins safely and with peace of mind. Herbal Clean QCARBO32 confidently provides a trusted cleanse for your improved lifestyle.</p><p>Herbal Clean has been the trusted brand in Detox since 1990 providing effective products that help you to maintain a healthy lifestyle and aid in your body's natural cleansing process. As the pioneer of total body cleansers, millions of people like you have relied on Herbal Clean with great satisfaction.</p><p>\u00a0</p><p>Suggested Use\u00a0As a dietary supplement How To Detox Simply shake the bottle and drink the entire 32 oz. contents at a comfortable yet consistent pace. Part of the detox process is frequent urination during the first hour after consuming the product, this is how your body expels toxins. Now your body has achieved the optimum level of cleanse on the very same day. Important Tips When cleansing the system, it is important to drink as much water as possible on a daily basis. Do not use any over the counter drugs, large quantities of vitamins, alcohol, acidic liquids such as vinegar or juices, nicotine, caffeine or other unwanted toxins prior to the use of this product. Do not eat any large meals before using this product. - Or as directed by your healthcare professional.</p>",
+      "canonicalImageMediaId": "8d0ab0_9981e00c231d46b094a92971cfd9e107_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_9981e00c231d46b094a92971cfd9e107_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "Randy Aqua Pilot",
       "destinationPath": "products/randy-aqua-pilot.html",
       "excerpt": "Randy\u2019s Aqua Pilot Concentrates Vaporizer Kit (Black) Randy\u2019s Aqua Pilot is a high-tech concentrates vaporizer that comes with a water filtration attachment. The water filtration system will cool down your hits to the perfect temperature!...",
       "body": "Randy\u2019s Aqua Pilot Concentrates Vaporizer Kit (Black) Randy\u2019s Aqua Pilot is a high-tech concentrates vaporizer that comes with a water filtration attachment. The water filtration system will cool down your hits to the perfect temperature! Have the convenience of a vaporizer or e-nail with the large hits of a rig. Includes: Short Glass Mouthpiece Open Glass Water Attachment No Splash Ceramic Chamber 1500 mAh Battery Tool/Cover USB Charger Instructional Manual Key Features: 4 Seconds To 480\u00b0F Pocket Size (4.75\u2033) Glass Attachment (4-5\u2033) No Splash Ceramic Dish Return Policy All SALES ARE FINAL NO REFUNDS",
-      "image": "assets/products/randy-aqua-pilot/randy-aqua-pilot.jpg",
+      "image": "assets/products/randy-aqua-pilot/randy-aqua-pilot.png",
       "category": "Shop - Other Products",
       "categoryLabel": "Other Products",
       "price": "$130.99",
       "inventoryStatus": "in_stock",
       "isInStock": true,
-      "imageWidth": 1000,
-      "imageHeight": 668,
-      "imageBytes": 205875,
-      "imageSourceStatus": "local"
+      "imageWidth": 500,
+      "imageHeight": 500,
+      "imageBytes": 148939,
+      "imageSourceStatus": "local",
+      "bodyHtml": "<p>Randy\u2019s Aqua Pilot Concentrates Vaporizer Kit (Black)</p><p>Randy\u2019s\u00a0Aqua Pilot is a high-tech concentrates vaporizer that comes with a water filtration attachment. The water filtration system will cool down your hits to the perfect temperature! Have the convenience of a vaporizer or\u00a0e-nail\u00a0with the large hits of a rig.</p><p><strong>Includes:</strong></p><ul> <li>Short Glass Mouthpiece</li> <li>Open Glass\u00a0Water Attachment</li> <li>No Splash Ceramic Chamber</li> <li>1500 mAh Battery</li> <li>\u00a0Tool/Cover</li> <li>USB Charger</li> <li>Instructional Manual</li></ul><p><strong>Key Features:</strong></p><ul> <li>4 Seconds To 480\u00b0F</li> <li>Pocket Size (4.75\u2033)</li> <li>Glass Attachment (4-5\u2033)</li> <li>No Splash Ceramic Dish</li></ul>\n<h3>Return Policy</h3>\n<p>All SALES ARE FINAL</p>\n<p>NO REFUNDS</p>",
+      "canonicalImageMediaId": "8d0ab0_8a98e9c856a24a02b30bc73c0592cf72_mv2.png",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_8a98e9c856a24a02b30bc73c0592cf72_mv2.png",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "RAW Classic Artesano 1\u00bc",
@@ -1483,7 +2005,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 493,
       "imageHeight": 327,
       "imageBytes": 386938,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>RAW Classic Artesano 1\u00bc</p><p>The RAW Classic Artesano 1\u00bc is the absolute hands-down ultimate in rolling portability.\u00a0 It combines our beautiful naturally unrefined rolling papers\u00a0with RAW Original Tips and a built-in spring-loaded rolling tray.\u00a0 The entire invention fits in your pocket for maximum portability and secured with two sets of magnets.\u00a0 The tray is detachable so when you\u2019ve used all the papers, remove the tray and keep it for future use. \ud83d\ude42</p><p>RAW RAWKS!</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>ALL SALES ARE FINAL</p>",
+      "canonicalImageMediaId": "8d0ab0_c1d33f7e5d184874919991e794dc0a90_mv2.png",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_c1d33f7e5d184874919991e794dc0a90_mv2.png",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "RAW Classic King Size Rolls",
@@ -1499,7 +2027,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 500,
       "imageHeight": 280,
       "imageBytes": 335182,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>RAW Rolls give you the freedom to create any size smoke you want!\u00a0\u00a0Got a bunch of friends over?\u00a0 Roll it nice and big!\u00a0 Smoking along and in a hurry?\u00a0 Roll it short and sweet!\u00a0 The\u00a0RAW Classic King Size Rolls contains ~9-feet of the purest naturally unrefined RAW Classic Paper for RAW fanatics to choose their own size of paper from.</p><p>RAW Rolls give smokers the freedom to choose whatever size they desire, every time they roll!</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>ALL SALES ARE FINAL</p>",
+      "canonicalImageMediaId": "8d0ab0_b382495d4d1645bdb35aa5eb333725a3_mv2.png",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_b382495d4d1645bdb35aa5eb333725a3_mv2.png",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "RAW Classic Kingsize Slim",
@@ -1515,7 +2049,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 500,
       "imageHeight": 125,
       "imageBytes": 135625,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>RAW Classic Kingsize Slim papers are designed for smokers who prefer a longer smoke.\u00a0 The introduction of RAW Classic changed the smoking landscape forever by introducing smokers to high quality, truly naturally unrefined papers that allow you to enjoy your smoke as nature intended!\u00a0 Proudly free from added dyes or chalk.</p><p><em>32 leaves per pack</em><br/><em>50 packs per box</em></p><p>*Please ask other brands for their full ingredient list, the more you know the more you\u2019ll enjoy your smoke RAW.</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>ALL SALES ARE FINAL</p>",
+      "canonicalImageMediaId": "8d0ab0_f9edeb086ef94354bf92be8d93353f3d_mv2.png",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_f9edeb086ef94354bf92be8d93353f3d_mv2.png",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "RAW Classic Single Wide",
@@ -1531,7 +2071,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 445,
       "imageHeight": 268,
       "imageBytes": 240773,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>RAW Classic is where it all began. The launch of RAW Classic transformed the smoking culture to a focus on quality and true naturalness. RAW is crafted from vegan, unbleached plant fibers and finished with the purest natural tree sap gumline.\u00a0 Each leaf is watermarked with our proprietary criss-cross steam imprint that helps prevent runs and maintain a smooth, even burn.</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>ALL SALES ARE FINAL</p>",
+      "canonicalImageMediaId": "8d0ab0_673eb9a2a84446d0999afcea1f2e651f_mv2.png",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_673eb9a2a84446d0999afcea1f2e651f_mv2.png",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "RAW Hemp Plastic Roller",
@@ -1547,7 +2093,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 459,
       "imageHeight": 352,
       "imageBytes": 326729,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>The RAW Hemp Plastic Roller is made from eco-friendly German Hemp Plastic.\u00a0 Hemp Plastic is a revolutionary material created by Dr Pohl and popularized by RAW.\u00a0 These rollers are produced on the island of Kudus, Indonesia where the original clove cigarette factories were established.\u00a0 Kudus has a long history of hand rolling because until recently all real clove cigarettes were rolled by hand!\u00a0 \u00a0There was nobody better to make a long lasting hand rolling machine!</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>ALL SALES ARE FINAL</p>",
+      "canonicalImageMediaId": "8d0ab0_7b442059319344fb9d8513f6d2322b79_mv2.png",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_7b442059319344fb9d8513f6d2322b79_mv2.png",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "RAW Hemp Wick - 10ft",
@@ -1563,7 +2115,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 435,
       "imageHeight": 387,
       "imageBytes": 282094,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>RAW Hemp Wick is made from two primal renewable resources: hemp and beeswax.\u00a0 The plants are sown, harvested, retted and dried in the traditional way, unchanged for thousands of years.\u00a0 We insist that our hemp suppliers use sustainable growing techniques with no pesticides.\u00a0 All RAW Hemp Wick packs, display boxes and cards are printed on recycled hemp paper.</p><p><em>Instructions: Light end, tilt up or down to control flame, light your RAW Rolling Paper!</em></p><p><em>10ft / 3m per bundle\u00a0 Artisanally\u00a0 Made in Europe</em></p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>ALL SALES ARE FINAL</p>",
+      "canonicalImageMediaId": "8d0ab0_ca2aff9e00ff4b9a97e4811a8e1b0e40_mv2.png",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_ca2aff9e00ff4b9a97e4811a8e1b0e40_mv2.png",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "RAW Organic Hemp 1\u00bc",
@@ -1579,7 +2137,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 495,
       "imageHeight": 169,
       "imageBytes": 165914,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>RAW Organic Hemp Paper is hands-down the world\u2019s best organic hemp rolling paper!\u00a0 RAW Organic Hemp 1\u00bc is\u00a0our favorite size of RAW Organic Hemp Papers as it\u2019s the original size of rolling papers.\u00a0 1\u00bc is sometimes called Spanish Size as the first rolling papers ever produced were made in the Alcoy region of Spain, just steps from where we produce this paper today!</p><p><em>50 leaves per pack</em></p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>ALL SALES ARE FINAL</p>",
+      "canonicalImageMediaId": "8d0ab0_4054d77d695846ec81d038b6d77c9371_mv2.png",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_4054d77d695846ec81d038b6d77c9371_mv2.png",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "RAW Pre-Rolled Tips",
@@ -1595,7 +2159,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 446,
       "imageHeight": 403,
       "imageBytes": 385351,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>RAW Pre-Rolled Tips are one of our US patented inventions and we are extremely proud of them!\u00a0 We made these based on a request from a friend so that they could roll up quicker and for patients who had difficulty in holding and rolling up an uncoiling tip.\u00a0 All RAW Pre-Rolled Tips were rolled by hand for the first few years until demand became ludicrous and a machine was finally engineered to pre-roll the tips for us!</p><p><em>21 Pre-Rolled Tips per pack / 20 packs per box</em></p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>ALL SALES ARE FINAL</p>",
+      "canonicalImageMediaId": "8d0ab0_a2b0e258ecb742f7b5f12b5b1ee15831_mv2.png",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_a2b0e258ecb742f7b5f12b5b1ee15831_mv2.png",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "RAW Rolling Mat",
@@ -1611,7 +2181,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 500,
       "imageHeight": 143,
       "imageBytes": 103317,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>RAW Rolling Mat</p><p>This old-school RAW creation is crafted with natural flexible bamboo to help spread out and perfectly roll your smoke every time. When we brought these back to the market the art of bamboo rollers was long abandoned. Nowadays, many smokers use our bamboo rollers again and the rolling style of yesterday is reborn today. \ud83d\ude42</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>ALL SALES ARE FINAL</p>",
+      "canonicalImageMediaId": "8d0ab0_131381c6c348497a958edae6eb64cad3_mv2.png",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_131381c6c348497a958edae6eb64cad3_mv2.png",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "Small Glass Pipe",
@@ -1627,13 +2203,19 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 280,
       "imageHeight": 500,
       "imageBytes": 41686,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>GLASS \u00a0PIPE</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>ALL SALES ARE FINAL</p>",
+      "canonicalImageMediaId": "8d0ab0_3f59b14ee92d4d0ead46c2a58a1d4ff2_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_3f59b14ee92d4d0ead46c2a58a1d4ff2_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "Snail Lookah",
       "destinationPath": "products/snail-lookah.html",
       "excerpt": "Lookah Snail Cartridge Vaporizer Mod Lookah's Snail is a uniquely shaped vaporization battery, integrating 350mAh rechargeable battery, 3 voltage based output levels, and is perfect for any 510 threaded connected tank or atomizer. Tank is...",
-      "body": "Lookah Snail Cartridge Vaporizer Mod Lookah's Snail is a uniquely shaped vaporization battery, integrating 350mAh rechargeable battery, 3 voltage based output levels, and is perfect for any 510 threaded connected tank or atomizer. Tank is NOT Included. Features: Dimensions: 44.3 x 20.2 x 41.5mm 350mAh Rechargeable Battery Charging Current: 250mA In put Voltage: 5V 510 Connection - Button Activated Resistance: 1.0 Ohm - 9.99 Ohm Preheat Function 3 Variable Voltage Output Levels: 3.2V, 3.6V, 4.2V Light Indicator Over-Charge Protection Short Circuit Protection Temperature Protection Includes: 1 Lookah Snail Vaporizer 1 Micro USB Cable 1 Warranty Card 1 User Manual Note: There is always an inherent risk when using any rechargeable batteries at anytime and under any circumstances. Myvpro.com and any of Myvpro.com\u2019s parent and subsidiary companies are not held responsible for any damage for any modification of the batteries, chargers, devices and other products that we carry in any form or shape, this is including pack making. Myvpro.com and any or all of Myvpro.com\u2019s parent and subsidiary companies will not be held responsible or liable for any injury, damage, or defect, permanent or temporary that may be caused by the improper use of a Li-ion (Lithium-ion), LiPo (Lithium-ion Polymer) and any rechargeable battery/batteries as well as chargers. Please have a greater understanding of the batteries/chargers you are using and how to care for them properly. When working with Li-ion (Lithium-ion), LiPo (Lithium-ion Polymer) and any rechargeable cells, please be cautious and...",
+      "body": "Lookah Snail Cartridge Vaporizer Mod Lookah's Snail is a uniquely shaped vaporization battery, integrating 350mAh rechargeable battery, 3 voltage based output levels, and is perfect for any 510 threaded connected tank or atomizer. Tank is NOT Included. Features: Dimensions: 44.3 x 20.2 x 41.5mm 350mAh Rechargeable Battery Charging Current: 250mA In put Voltage: 5V 510 Connection - Button Activated Resistance: 1.0 Ohm - 9.99 Ohm Preheat Function 3 Variable Voltage Output Levels: 3.2V, 3.6V, 4.2V Light Indicator Over-Charge Protection Short Circuit Protection Temperature Protection Includes: 1 Lookah Snail Vaporizer 1 Micro USB Cable 1 Warranty Card 1 User Manual Note: There is always an inherent risk when using any rechargeable batteries at anytime and under any circumstances. Myvpro.com and any of Myvpro.com\u2019s parent and subsidiary companies are not held responsible for any damage for any modification of the batteries, chargers, devices and other products that we carry in any form or shape, this is including pack making. Myvpro.com and any or all of Myvpro.com\u2019s parent and subsidiary companies will not be held responsible or liable for any injury, damage, or defect, permanent or temporary that may be caused by the improper use of a Li-ion (Lithium-ion), LiPo (Lithium-ion Polymer) and any rechargeable battery/batteries as well as chargers. Please have a greater understanding of the batteries/chargers you are using and how to care for them properly. When working with Li-ion (Lithium-ion), LiPo (Lithium-ion Polymer) and any rechargeable cells, please be cautious and carefully use as they are very sensitive to charging characteristics and may explode or burn if mishandled. Please make sure that you have great knowledge on all rechargeable batteries before you use them. Always charge batteries at the clean and fire-proof surface. Never leave charging batteries unattended. If you see that there are visible damages on the batteries, please do not use. Always keep, store and transport the rechargeable cells in a safe, non-conductive container in controlled environment Do not use any rechargeable battery as well as any battery charger if any visible damage is present, as well as if the cell or charger has been stressed through mishandling, accidental or otherwise, even if damage may not be visible. Always store and transport rechargeable cells in a safe, non-conductive container in a controlled environment. Please dispose battery cells, chargers or any other electronic devices in accordance of local laws and mandates. RETURN & REFUND POLICY ALL SALES ARE FINAL !",
       "image": "assets/products/snail-lookah/snail-lookah.jpg",
       "category": "Shop - Smoke Accessories",
       "categoryLabel": "Smoke Accessories",
@@ -1643,29 +2225,41 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 375,
       "imageHeight": 500,
       "imageBytes": 37844,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Lookah Snail Cartridge Vaporizer Mod</p><p>Lookah's Snail is a uniquely shaped vaporization battery, integrating 350mAh rechargeable battery, 3 voltage based output levels, and is perfect for any 510 threaded connected tank or atomizer. Tank is NOT Included.</p><p><strong>Features:</strong></p><ul> <li>Dimensions: 44.3 x 20.2 x 41.5mm</li> <li>350mAh Rechargeable\u00a0Battery</li> <li>Charging Current: 250mA</li> <li>In put Voltage: 5V</li> <li>510 Connection - Button Activated</li> <li>Resistance: 1.0 Ohm - 9.99 Ohm</li> <li>Preheat Function</li> <li>3 Variable Voltage Output Levels:\u00a0 3.2V, 3.6V, 4.2V</li> <li>Light Indicator</li> <li>Over-Charge Protection</li> <li>Short Circuit\u00a0Protection</li> <li>Temperature Protection</li></ul><p><strong>Includes:</strong></p><ul> <li>1 Lookah Snail Vaporizer</li> <li>1 Micro USB Cable</li> <li>1 Warranty Card</li> <li>1 User Manual</li></ul><p>Note: There is always an inherent risk when using any rechargeable batteries at anytime and under any circumstances. Myvpro.com and any of Myvpro.com\u2019s parent and subsidiary companies are not held responsible for any damage for any modification of the batteries, chargers, devices and other products that we carry in any form or shape, this is including pack making.<br/><br/>Myvpro.com and any or all of Myvpro.com\u2019s parent and subsidiary companies will not be held responsible or liable for any injury, damage, or defect, permanent or temporary that may be caused by the improper use of a Li-ion (Lithium-ion), LiPo (Lithium-ion Polymer) and any rechargeable battery/batteries as well as chargers. Please have a greater understanding of the batteries/chargers you are using and how to care for them properly.<br/><br/>When working with Li-ion (Lithium-ion), LiPo (Lithium-ion Polymer) and any rechargeable cells, please be cautious and carefully use as they are very sensitive to charging characteristics and may explode or burn if mishandled. Please make sure that you have great knowledge on all rechargeable batteries before you use them. Always charge batteries at the clean and fire-proof surface. Never leave charging batteries unattended. If you see that there are visible damages on the batteries, please do not use. Always keep, store and transport the rechargeable cells in a safe, non-conductive container in controlled environment<br/><br/>Do not use any rechargeable battery as well as any battery charger if any visible damage is present, as well as if the cell or charger has been stressed through mishandling, accidental or otherwise, even if damage may not be visible. Always store and transport rechargeable cells in a safe, non-conductive container in a controlled environment. Please dispose battery cells, chargers or any other electronic devices in accordance of local laws and mandates.</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>ALL SALES ARE FINAL !</p>",
+      "canonicalImageMediaId": "8d0ab0_bd70b97488504b87ac982a949611441f_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_bd70b97488504b87ac982a949611441f_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "STAT 1 HR FLUSH CAPS",
       "destinationPath": "products/stat-1-hr-flush-caps.html",
       "excerpt": "1 Hour Emergency Flush will help your body rapidly cleanse itself of unwanted toxins USED FOR HAIR, BLOOD AND SALIVA PRODUCT INFO 1 Hour Emergency Flush will help your body rapidly cleanse itself of unwanted toxins USED FOR HAIR, BLOOD...",
       "body": "1 Hour Emergency Flush will help your body rapidly cleanse itself of unwanted toxins USED FOR HAIR, BLOOD AND SALIVA PRODUCT INFO 1 Hour Emergency Flush will help your body rapidly cleanse itself of unwanted toxins USED FOR HAIR, BLOOD AND SALIVA RETURN & REFUND POLICY All Sales are FINAL ! SHIPPING INFO I'm a shipping policy. I'm a great place to add more information about your shipping methods, packaging and cost. Providing straightforward information about your shipping policy is a great way to build trust and reassure your customers that they can buy from you with confidence.",
-      "image": "assets/products/stat-1-hr-flush-caps/stat-1-hr-flush-caps.jpg",
+      "image": "assets/products/stat-1-hr-flush-caps/stat-1-hr-flush-caps.jpeg",
       "category": "Shop - Other Products",
       "categoryLabel": "Other Products",
       "price": "$40.00",
       "inventoryStatus": "in_stock",
       "isInStock": true,
-      "imageWidth": 1000,
-      "imageHeight": 668,
-      "imageBytes": 205875,
-      "imageSourceStatus": "local"
+      "imageWidth": 249,
+      "imageHeight": 203,
+      "imageBytes": 29288,
+      "imageSourceStatus": "local",
+      "bodyHtml": "<p>1 Hour Emergency Flush will help your body rapidly cleanse itself of unwanted toxins</p><p>USED FOR HAIR,\u00a0 BLOOD AND SALIVA</p>\n<h3>PRODUCT INFO</h3>\n<p>1 Hour Emergency Flush will help your body rapidly cleanse itself of unwanted toxins</p>\n<p>USED FOR HAIR,\u00a0 BLOOD AND SALIVA</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>All Sales are FINAL !</p>\n<h3>SHIPPING INFO</h3>\n<p>I'm a shipping policy. I'm a great place to add more information about your shipping methods, packaging and cost. Providing straightforward information about your shipping policy is a great way to build trust and reassure your customers that they can buy from you with confidence.</p>",
+      "canonicalImageMediaId": "8d0ab0_358b07a7fbbf4f15bf4176b340ee8307_mv2.jpeg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_358b07a7fbbf4f15bf4176b340ee8307_mv2.jpeg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "Studs",
       "destinationPath": "products/studs.html",
-      "excerpt": "Studs $14.99 Price Color * Quantity * Add to Cart \u00a9 2023 by Diversity Tattoo, Piercing & Smoke Shop in Las Vegas NV",
-      "body": "Studs $14.99 Price Color * Quantity * Add to Cart \u00a9 2023 by Diversity Tattoo, Piercing & Smoke Shop in Las Vegas NV",
+      "excerpt": "Product options from the source store record. Options Color: BLUE, BLACK, PINK, GREEN, ROSE, WHITE, EMERALD, SILVER, RED, SKY BLUE, TIFFANY BLUE, ROYAL BLUE, PURPLE, FUCSIA",
+      "body": "Product options from the source store record. Options Color: BLUE, BLACK, PINK, GREEN, ROSE, WHITE, EMERALD, SILVER, RED, SKY BLUE, TIFFANY BLUE, ROYAL BLUE, PURPLE, FUCSIA",
       "image": "assets/products/studs/studs.jpg",
       "category": "Shop - Body Jewelry",
       "categoryLabel": "Body Jewelry",
@@ -1675,7 +2269,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 500,
       "imageHeight": 484,
       "imageBytes": 89048,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Product options from the source store record.</p>\n<h3>Options</h3>\n<ul><li>Color: BLUE, BLACK, PINK, GREEN, ROSE, WHITE, EMERALD, SILVER, RED, SKY BLUE, TIFFANY BLUE, ROYAL BLUE, PURPLE, FUCSIA</li></ul>",
+      "canonicalImageMediaId": "8d0ab0_fb924e6dbfc44df79b5d47f79ca1c9c7_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_fb924e6dbfc44df79b5d47f79ca1c9c7_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "The Yocan Evolve Dual Quartz Wax Pen",
@@ -1691,7 +2291,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 500,
       "imageHeight": 454,
       "imageBytes": 54392,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>The Yocan Evolve Dual Quartz Wax Pen uses precision crafted dual quartz technology to serve up flavorful hits while adding to this vape pen\u2019s durability. Yocan\u2019s QDC technology allows for massive, potent hits that never compromise on taste. This vape pen for wax heats up instantly, providing 10 full seconds of uninterrupted heat. The sleek and smooth design of the pen renders it simultaneously sexy and discrete. This vape kit hooks you up with a 650mAh battery that lasts for ages, a dual quartz atomizer and coil along with a back-up coil, a dabbing tool and a handy USB charger all presented in a sophisticated gift box.</p><ul> <li>Evolve battery</li> <li>Evolve atomizer</li> <li>Replacement coil</li> <li>Wax tool</li> <li>USB charger</li></ul>",
+      "canonicalImageMediaId": "8d0ab0_d30b2a001c334aa8b17ab5f00fbf36a0_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_d30b2a001c334aa8b17ab5f00fbf36a0_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "The Yocan Evolve Plus",
@@ -1707,7 +2313,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 389,
       "imageHeight": 500,
       "imageBytes": 50300,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>The Yocan Evolve Plus Dual Quartz Wax Pen builds on the winning qualities of the original model by adding an even better 1100mAh battery and a larger dual quartz coil for massive hits with enormous flavor. In addition, the Evolve Plus includes a built-in silicone jar for insulated storage and easier maintenance. Yocan\u2019s QDC technology allows for gigantic, potent hits that never compromise on taste. This wax vape pen heats up instantly, providing 10 full seconds of uninterrupted heat. The sleek and smooth design of the pen renders it simultaneously sexy and discrete. This vape kit hooks you up with the 1100mAh battery that lasts for ages, a dual quartz atomizer and coil along with a back-up coil, a dabbing tool and a handy USB charger all presented in a sophisticated gift box.</p><ul> <li>Evolve battery</li> <li>Evolve atomizer</li> <li>Quartz dual coil</li> <li>Replacement coil</li> <li>Wax tool</li> <li>USB charger</li></ul>",
+      "canonicalImageMediaId": "8d0ab0_e20a09de6cc34b209f972d287f2c1ffc_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_e20a09de6cc34b209f972d287f2c1ffc_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "Ultra Eliminex",
@@ -1723,7 +2335,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 267,
       "imageHeight": 500,
       "imageBytes": 41841,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Over 25 Years of Trusted Detox<br/>There is absolutely nothing more powerful the Ultimate Maximum Strength of Ultra Eliminex. This elite detox formula provides Herbal Clean's strongest blend of herbal technology to flush through your body and assist with cleansing the highest toxin levels. Ultra Eliminex is the absolute authority of today's body cleaners and provides a guarantee of reliability for your vital cleansing needs and improved lifestyle.<br/>Important Tips</p><ul> <li>Learn more about how to detoxify your body here: herbalclean.com/how-to-video.</li> <li>When cleansing the system, it is important to drink as much water a possible on a daily basis.</li> <li>avoid unwanted toxins.</li> <li>Best when taken on an empty stomach; however if you have a sensitive stomach, you may eat something light (like toast).</li> <li>This product is not intended for regular or daily use.</li></ul>",
+      "canonicalImageMediaId": "8d0ab0_73e8d75fed6648b8b9665d2f4c0bc76d_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_73e8d75fed6648b8b9665d2f4c0bc76d_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "Vapir Oxygen w/ Battery",
@@ -1739,7 +2357,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 500,
       "imageHeight": 357,
       "imageBytes": 327593,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Small vaporizers can produce the biggest clouds! Trust us - this isn\u2019t a mist machine, it\u2019s a vapor cloud maker.<br/><br/>The Vapir Oxygen improves your air quality. We call it the Oxygen because your lungs will love it as much as air! This herbal vaporizer integrates premium materials and innovative design into a seamless digital device.<br/><br/>The Oxygen Vaporizer features digital controls, and consistent vapor sessions with near-zero maintenance!</p>\n<h3>Return Policy</h3>\n<p>All SALES ARE FINAL</p>\n<p>NO REFUNDS</p>",
+      "canonicalImageMediaId": "8d0ab0_c4cca067f0ae47ce959918c06746ab81_mv2.png",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_c4cca067f0ae47ce959918c06746ab81_mv2.png",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "Vaporizer Arizer Solo",
@@ -1755,7 +2379,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 281,
       "imageHeight": 500,
       "imageBytes": 30708,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>What's in the box</p><ul> <li>Arizer Solo Vaporizer</li> <li>1 x Solo Portable Micro-Heater</li> <li>1 x Solo Charger</li> <li>1 x Solo Glass Aroma Tube (Curved)</li> <li>1 x Solo Glass Aroma Tube (110mm)</li> <li>1 x Solo Glass Aroma Dish</li> <li>2 x Solo Silicone Stem Caps</li> <li>1 x Stainless Steel Stirring Tool</li> <li>1 x Sample Aromatic Botanicals</li> <li>1 x Solo Instructions Booklet</li></ul><p>Technical specifications</p><ul> <li>Diameter 1.75 in / 4.5 cm</li> <li>Height 4.5 in / 11.4 cm</li> <li>Weight 6.4 oz / 181.4 g</li> <li>6 Temperature Settings</li> <li>365\u00b0 F - 410\u00b0 F / 185\u00b0 C - 210\u00b0 C</li> <li>Ceramic Heater</li> <li>Stainless Steel Oven</li> <li>2 Year Warranty</li></ul>\n<h3>Return Policy</h3>\n<p>All SALES ARE FINAL</p>\n<p>NO REFUNDS</p>",
+      "canonicalImageMediaId": "8d0ab0_77755b8ea9ab4b26bce0eee400444b41_mv2.jpeg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_77755b8ea9ab4b26bce0eee400444b41_mv2.jpeg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "VITACIG",
@@ -1771,7 +2401,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 227,
       "imageHeight": 302,
       "imageBytes": 11955,
-      "imageSourceStatus": "local"
+      "imageSourceStatus": "local",
+      "bodyHtml": "<p>Vitacig? What is it? VitaCig\u00ae is an innovative tobacco-free, nicotine-free vitamin and essential oil inhalation, aromatherapy device. Instead of containing harmful substances, VitaCig\u00ae delivers vapor that is rich in taste, vitamins, natural aroma and organic plant constituents. VitaCig\u00ae embodies what you enjoy about smoking, but without the bad aftertaste, the tobacco smoke and the cigarette smell.</p>\n<h3>Return Policy</h3>\n<p>All SALES ARE FINAL</p>\n<p>NO REFUNDS</p>",
+      "canonicalImageMediaId": "8d0ab0_79a5cee75b944b6b9c10374ddcf3e8a1_mv2_d_1512_2016_s_2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_79a5cee75b944b6b9c10374ddcf3e8a1_mv2_d_1512_2016_s_2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "WP-SILLICON 1",
@@ -1787,7 +2423,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 375,
       "imageHeight": 500,
       "imageBytes": 45093,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Our mission is to create the last pipe you'll ever need to own.\u00a0All of our pipes are constructed with high-end\u00a0unbreakable\u00a0<strong>Platinum Cured Silicone</strong>, and covered by our industry leading Free Lifetime Warranty. The features of our pipes and\u00a0accessories are unique, and the function is unlike anything you've tried before.\u00a0</p>",
+      "canonicalImageMediaId": "8d0ab0_9a8c8cd3d480434ea5a469b58d0e50c5_mv2_d_1512_2016_s_2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_9a8c8cd3d480434ea5a469b58d0e50c5_mv2_d_1512_2016_s_2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "WP-SILLICON 10\" GEOMETRIC",
@@ -1803,7 +2445,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 469,
       "imageHeight": 500,
       "imageBytes": 75275,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Our mission is to create the last pipe you'll ever need to own.\u00a0All of our pipes are constructed with high-end\u00a0unbreakable\u00a0<strong>Platinum Cured Silicone</strong>, and covered by our industry leading Free Lifetime Warranty. The features of our pipes and\u00a0accessories are unique, and the function is unlike anything you've tried before.\u00a0</p>",
+      "canonicalImageMediaId": "8d0ab0_83570bb65f114806b4fa6d196d5b5dc4_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_83570bb65f114806b4fa6d196d5b5dc4_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "WP-SILLICON 2",
@@ -1819,7 +2467,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 375,
       "imageHeight": 500,
       "imageBytes": 49214,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Our mission is to create the last pipe you'll ever need to own.\u00a0All of our pipes are constructed with high-end\u00a0unbreakable\u00a0<strong>Platinum Cured Silicone</strong>, and covered by our industry leading Free Lifetime Warranty. The features of our pipes and\u00a0accessories are unique, and the function is unlike anything you've tried before.\u00a0</p>",
+      "canonicalImageMediaId": "8d0ab0_765d91eca5484d4db9e8754a477ca666_mv2_d_1512_2016_s_2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_765d91eca5484d4db9e8754a477ca666_mv2_d_1512_2016_s_2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "WP-SILLICON ELEPHANT",
@@ -1835,7 +2489,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 500,
       "imageHeight": 414,
       "imageBytes": 61535,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Our mission is to create the last pipe you'll ever need to own.\u00a0All of our pipes are constructed with high-end\u00a0unbreakable\u00a0<strong>Platinum Cured Silicone</strong>, and covered by our industry leading Free Lifetime Warranty. The features of our pipes and\u00a0accessories are unique, and the function is unlike anything you've tried before.\u00a0</p>",
+      "canonicalImageMediaId": "8d0ab0_085a2a6f33764a13b106a81338d6803d_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_085a2a6f33764a13b106a81338d6803d_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "WP-SILLICON GLOW",
@@ -1851,7 +2511,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 375,
       "imageHeight": 500,
       "imageBytes": 49720,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Our mission is to create the last pipe you'll ever need to own.\u00a0All of our pipes are constructed with high-end\u00a0unbreakable\u00a0<strong>Platinum Cured Silicone</strong>, and covered by our industry leading Free Lifetime Warranty. The features of our pipes and\u00a0accessories are unique, and the function is unlike anything you've tried before.\u00a0</p>",
+      "canonicalImageMediaId": "8d0ab0_2688db9c4d5b44e2be347d632cdd252c_mv2_d_1512_2016_s_2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_2688db9c4d5b44e2be347d632cdd252c_mv2_d_1512_2016_s_2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "WP-SILLICON HEART",
@@ -1867,7 +2533,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 375,
       "imageHeight": 500,
       "imageBytes": 47465,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Our mission is to create the last pipe you'll ever need to own.\u00a0All of our pipes are constructed with high-end\u00a0unbreakable\u00a0<strong>Platinum Cured Silicone</strong>, and covered by our industry leading Free Lifetime Warranty. The features of our pipes and\u00a0accessories are unique, and the function is unlike anything you've tried before.\u00a0</p>",
+      "canonicalImageMediaId": "8d0ab0_6d511d2c19c54969ae8c297bc33a274a_mv2_d_1512_2016_s_2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_6d511d2c19c54969ae8c297bc33a274a_mv2_d_1512_2016_s_2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "WP-SILLICON JAR",
@@ -1883,7 +2555,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 375,
       "imageHeight": 500,
       "imageBytes": 39640,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Our mission is to create the last pipe you'll ever need to own.\u00a0All of our pipes are constructed with high-end\u00a0unbreakable\u00a0<strong>Platinum Cured Silicone</strong>, and covered by our industry leading Free Lifetime Warranty. The features of our pipes and\u00a0accessories are unique, and the function is unlike anything you've tried before.\u00a0</p>",
+      "canonicalImageMediaId": "8d0ab0_7e759206fc914ac09132441b5dcdc863_mv2_d_1512_2016_s_2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_7e759206fc914ac09132441b5dcdc863_mv2_d_1512_2016_s_2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "WP-SILLICON L/N MONSTER",
@@ -1899,7 +2577,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 375,
       "imageHeight": 500,
       "imageBytes": 46364,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Our mission is to create the last pipe you'll ever need to own.\u00a0All of our pipes are constructed with high-end\u00a0unbreakable\u00a0<strong>Platinum Cured Silicone</strong>, and covered by our industry leading Free Lifetime Warranty. The features of our pipes and\u00a0accessories are unique, and the function is unlike anything you've tried before.\u00a0</p>",
+      "canonicalImageMediaId": "8d0ab0_3b57f7645d2c48d1841c1463f6b8cecf_mv2_d_1512_2016_s_2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_3b57f7645d2c48d1841c1463f6b8cecf_mv2_d_1512_2016_s_2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "WP-SILLICON PAD",
@@ -1915,7 +2599,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 500,
       "imageHeight": 500,
       "imageBytes": 107923,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Our mission is to create the last pipe you'll ever need to own.\u00a0All of our pipes are constructed with high-end\u00a0unbreakable\u00a0<strong>Platinum Cured Silicone</strong>, and covered by our industry leading Free Lifetime Warranty. The features of our pipes and\u00a0accessories are unique, and the function is unlike anything you've tried before.\u00a0</p>",
+      "canonicalImageMediaId": "8d0ab0_5423f86bf7fe47158e662eb134406acd_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_5423f86bf7fe47158e662eb134406acd_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "WP-SILLICON PIPE METAL",
@@ -1931,7 +2621,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 227,
       "imageHeight": 302,
       "imageBytes": 6966,
-      "imageSourceStatus": "local"
+      "imageSourceStatus": "local",
+      "bodyHtml": "<p>Our mission is to create the last pipe you'll ever need to own.\u00a0All of our pipes are constructed with high-end\u00a0unbreakable\u00a0<strong>Platinum Cured Silicone</strong>, and covered by our industry leading Free Lifetime Warranty. The features of our pipes and\u00a0accessories are unique, and the function is unlike anything you've tried before.\u00a0</p>",
+      "canonicalImageMediaId": "8d0ab0_40fc247e3c71419e9b2226a9c117f286_mv2_d_1512_2016_s_2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_40fc247e3c71419e9b2226a9c117f286_mv2_d_1512_2016_s_2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "WP-SILLICON PUMPKIN",
@@ -1947,7 +2643,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 307,
       "imageHeight": 500,
       "imageBytes": 49304,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Our mission is to create the last pipe you'll ever need to own.\u00a0All of our pipes are constructed with high-end\u00a0unbreakable\u00a0<strong>Platinum Cured Silicone</strong>, and covered by our industry leading Free Lifetime Warranty. The features of our pipes and\u00a0accessories are unique, and the function is unlike anything you've tried before.\u00a0</p>",
+      "canonicalImageMediaId": "8d0ab0_c6952a90f1864d1291a18940ad8adfd5_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_c6952a90f1864d1291a18940ad8adfd5_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "WP-SILLICON RASTA",
@@ -1963,7 +2665,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 375,
       "imageHeight": 500,
       "imageBytes": 59742,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Our mission is to create the last pipe you'll ever need to own.\u00a0All of our pipes are constructed with high-end\u00a0unbreakable\u00a0<strong>Platinum Cured Silicone</strong>, and covered by our industry leading Free Lifetime Warranty. The features of our pipes and\u00a0accessories are unique, and the function is unlike anything you've tried before.\u00a0</p>",
+      "canonicalImageMediaId": "8d0ab0_22726e858f5d4c308e6941170004332d_mv2_d_1512_2016_s_2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_22726e858f5d4c308e6941170004332d_mv2_d_1512_2016_s_2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "WP-SILLICON RIFFLE",
@@ -1979,7 +2687,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 375,
       "imageHeight": 500,
       "imageBytes": 59278,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Our mission is to create the last pipe you'll ever need to own.\u00a0All of our pipes are constructed with high-end\u00a0unbreakable\u00a0<strong>Platinum Cured Silicone</strong>, and covered by our industry leading Free Lifetime Warranty. The features of our pipes and\u00a0accessories are unique, and the function is unlike anything you've tried before.\u00a0</p>",
+      "canonicalImageMediaId": "8d0ab0_0429863472ce479cb319b1fe18617de9_mv2_d_1512_2016_s_2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_0429863472ce479cb319b1fe18617de9_mv2_d_1512_2016_s_2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "WP-SILLICON SKULL PINK",
@@ -1995,7 +2709,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 253,
       "imageHeight": 500,
       "imageBytes": 45339,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Our mission is to create the last pipe you'll ever need to own.\u00a0All of our pipes are constructed with high-end\u00a0unbreakable\u00a0<strong>Platinum Cured Silicone</strong>, and covered by our industry leading Free Lifetime Warranty. The features of our pipes and\u00a0accessories are unique, and the function is unlike anything you've tried before.\u00a0</p>",
+      "canonicalImageMediaId": "8d0ab0_39873477e61f46ff923779d100821138_mv2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_39873477e61f46ff923779d100821138_mv2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "WP-SILLICON SKULL",
@@ -2011,7 +2731,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 375,
       "imageHeight": 500,
       "imageBytes": 44679,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Our mission is to create the last pipe you'll ever need to own.\u00a0All of our pipes are constructed with high-end\u00a0unbreakable\u00a0<strong>Platinum Cured Silicone</strong>, and covered by our industry leading Free Lifetime Warranty. The features of our pipes and\u00a0accessories are unique, and the function is unlike anything you've tried before.\u00a0</p>",
+      "canonicalImageMediaId": "8d0ab0_48eb204b7398444e9372643e14a93389_mv2_d_1512_2016_s_2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_48eb204b7398444e9372643e14a93389_mv2_d_1512_2016_s_2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "WP-SILLICON",
@@ -2027,7 +2753,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 375,
       "imageHeight": 500,
       "imageBytes": 49163,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<p>Our mission is to create the last pipe you'll ever need to own.\u00a0All of our pipes are constructed with high-end\u00a0unbreakable\u00a0<strong>Platinum Cured Silicone</strong>, and covered by our industry leading Free Lifetime Warranty. The features of our pipes and\u00a0accessories are unique, and the function is unlike anything you've tried before.\u00a0</p>",
+      "canonicalImageMediaId": "8d0ab0_80f8c212ba2b418a85ff4e00d2be85c6_mv2_d_1512_2016_s_2.jpg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_80f8c212ba2b418a85ff4e00d2be85c6_mv2_d_1512_2016_s_2.jpg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "Yocan NYX",
@@ -2043,13 +2775,19 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 500,
       "imageHeight": 281,
       "imageBytes": 24398,
-      "imageSourceStatus": "downloaded"
+      "imageSourceStatus": "downloaded",
+      "bodyHtml": "<ul> <li>The vaporizer coils are crafted with quartz instead of traditional ceramic for purest experience, quartz dual coil guarantee a crystal clean and smooth essence Airflow button: the airflow buttom quickly allows a large amount of air through to replace smoke. Simply depress the spring loaded carb</li> <li>Suggest wattage: 15-25W 510 threading connection 20mm overall diameter</li></ul><p>\u00a0</p>\n<h3>Return Policy</h3>\n<p>All SALES ARE FINAL</p>\n<p>NO REFUNDS</p>",
+      "canonicalImageMediaId": "8d0ab0_32a80673e40b4ef9967cbff7c9108e88_mv2.jpeg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_32a80673e40b4ef9967cbff7c9108e88_mv2.jpeg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     },
     {
       "title": "ZYDOT SHAMPOO",
       "destinationPath": "products/zydot-shampoo.html",
       "excerpt": "SHAMPOO away external barriers such as hair spray, styling and finishing products, and everyday dirt and grime buildup to expose the inner hair. PURIFY by penetrating the hair shaft's inner structure to dissolve, release, and remove the...",
-      "body": "SHAMPOO away external barriers such as hair spray, styling and finishing products, and everyday dirt and grime buildup to expose the inner hair. PURIFY by penetrating the hair shaft's inner structure to dissolve, release, and remove the chemicals and medications bonded within the hair shaft. Leaves your hair pure, clean, and free of all unwanted contaminants and impurities. CONDITION hair to control tangles, add sheen, and improve manageability. ZYDOT Ultra Clean Shampoo and Purifier contains Aloe Vera to help condition both the hair and scalp while the penetrating cleansing agents remove impurities. The Aloe based conditioner will leave your hair tangle free and full of body. T PRODUCT INFO THE ONLY HAIR DETOX TREATMENT WITH SHAMPOO, PURIFIER AND CONDITIONER. The #1 Selling Detoxifying Hair Treatment on the Market Is Designed To: The following information will help Ultra Clean Internal Hair Purifying Treatment be as effective as possible, and should be followed carefully before using the product. For higher toxin levels, thicker hair, or for hair 6\" or longer, 2 or more applications are recommended to ensure the purifying process is accomplished. Avoid ingested and airborne toxins 24 to 48 hours before using Ultra Clean. Wash your hair with your regular shampoo before beginning step #1. Use a new comb or brush after using Ultra Clean to avoid recontamination. Avoid contact with or clean thoroughly items such as eyeglasses, hats, hoodies, car head rests, pillows, etc. to avoid recontamination. Allow approximately 45 minutes to complete the process (steps 1 - 4 )...",
+      "body": "SHAMPOO away external barriers such as hair spray, styling and finishing products, and everyday dirt and grime buildup to expose the inner hair. PURIFY by penetrating the hair shaft's inner structure to dissolve, release, and remove the chemicals and medications bonded within the hair shaft. Leaves your hair pure, clean, and free of all unwanted contaminants and impurities. CONDITION hair to control tangles, add sheen, and improve manageability. ZYDOT Ultra Clean Shampoo and Purifier contains Aloe Vera to help condition both the hair and scalp while the penetrating cleansing agents remove impurities. The Aloe based conditioner will leave your hair tangle free and full of body. T PRODUCT INFO THE ONLY HAIR DETOX TREATMENT WITH SHAMPOO, PURIFIER AND CONDITIONER. The #1 Selling Detoxifying Hair Treatment on the Market Is Designed To: The following information will help Ultra Clean Internal Hair Purifying Treatment be as effective as possible, and should be followed carefully before using the product. For higher toxin levels, thicker hair, or for hair 6\" or longer, 2 or more applications are recommended to ensure the purifying process is accomplished. Avoid ingested and airborne toxins 24 to 48 hours before using Ultra Clean. Wash your hair with your regular shampoo before beginning step #1. Use a new comb or brush after using Ultra Clean to avoid recontamination. Avoid contact with or clean thoroughly items such as eyeglasses, hats, hoodies, car head rests, pillows, etc. to avoid recontamination. Allow approximately 45 minutes to complete the process (steps 1- 4) DIRECTIONS FOR USE STEP 1 SHAMPOO (packet #1) \u2022 Wet hair thoroughly. \u2022 IMPORTANT! Apply ONLY \u00bd of shampoo (remaining \u00bd to be used after Purifier (packet #2). \u2022 Massage into scalp and hair for 10 minutes working up a lather. \u2022 Rinse well (with lukewarm water). STEP 2 PURIFIER (packet #2) \u2022 Apply ALL of purifier massaging into scalp and hair closest to the scalp. \u2022 Comb through hair (with a new comb). \u2022 Leave on 10 minutes. \u2022 Rinse well. STEP 3 REPEAT STEP 1 USING REMAINDER OF SHAMPOO (packet #1) \u2022 Apply Shampoo \u2022 Massage into scalp and hair for 10 minutes working up lather. \u2022 Rinse well. RETURN & REFUND POLICY All Sales are FINAL ! SHIPPING INFO I'm a shipping policy. I'm a great place to add more information about your shipping methods, packaging and cost. Providing straightforward information about your shipping policy is a great way to build trust and reassure your customers that they can buy from you with confidence.",
       "image": "assets/products/zydot-shampoo/zydot-shampoo.jpeg",
       "category": "Shop - Detox / Cleanses",
       "categoryLabel": "Detox / Cleanses",
@@ -2059,7 +2797,13 @@ window.DIVERSITY_SITE_DATA = {
       "imageWidth": 194,
       "imageHeight": 259,
       "imageBytes": 10775,
-      "imageSourceStatus": "local"
+      "imageSourceStatus": "local",
+      "bodyHtml": "<p>SHAMPOO away external barriers such as hair spray, styling and finishing products, and everyday dirt and grime buildup to expose the inner hair.</p><p>PURIFY by penetrating the hair shaft's inner structure to dissolve, release, and remove the chemicals and medications bonded within the hair shaft. Leaves your hair pure, clean, and free of all unwanted contaminants and impurities.</p><p>CONDITION hair to control tangles, add sheen, and improve manageability.</p><p>ZYDOT Ultra Clean Shampoo and Purifier contains Aloe Vera to help condition both the hair and scalp while the penetrating cleansing agents remove impurities. The Aloe based conditioner will leave your hair tangle free and full of body.</p><p>T</p>\n<h3>PRODUCT INFO</h3>\n<p>THE ONLY HAIR DETOX TREATMENT WITH SHAMPOO, PURIFIER AND CONDITIONER.</p>\n\n\n<p>The #1 Selling<br/>\nDetoxifying<br/>\nHair Treatment on the Market Is Designed To:</p>\n\n<p>The following information will help Ultra Clean Internal Hair Purifying Treatment be as effective as possible, and should be followed carefully before using the product.</p>\n\n\n<ul>\n<li>For higher toxin levels, thicker hair, or for hair 6\" or longer, 2 or more applications are recommended to ensure the purifying process is accomplished.</li>\n</ul>\n\n\n<ul>\n<li>Avoid ingested and airborne toxins 24 to 48 hours before using Ultra Clean.</li>\n<li>Wash your hair with your regular shampoo before beginning step #1.</li>\n<li>Use a new comb or brush after using Ultra Clean to avoid recontamination.</li>\n<li>Avoid contact with or clean thoroughly items such as eyeglasses, hats, hoodies, car head rests, pillows, etc. to avoid recontamination.</li>\n</ul>\n\n\n<p>Allow approximately 45 minutes to complete the process (steps 1- 4) DIRECTIONS FOR USE</p>\n<p>STEP 1 <br/>\nSHAMPOO (packet #1)</p>\n\n\n<p>\u2022 Wet hair thoroughly.</p>\n<p>\u2022 IMPORTANT! Apply ONLY \u00bd of shampoo (remaining \u00bd to be used after Purifier (packet #2).</p>\n<p>\u2022 Massage into scalp and hair for 10 minutes working up a lather.</p>\n<p>\u2022 Rinse well (with lukewarm water).</p>\n\n\n<p>STEP 2<br/>\nPURIFIER (packet #2)</p>\n\n\n<p>\u2022 Apply ALL of purifier massaging into scalp and hair closest to the scalp.</p>\n<p>\u2022 Comb through hair (with a new comb).</p>\n<p>\u2022 Leave on 10 minutes.</p>\n<p>\u2022 Rinse well.</p>\n\n\n<p>STEP 3<br/>\nREPEAT STEP 1 USING REMAINDER OF SHAMPOO (packet #1)</p>\n\n\n<p>\u2022 Apply Shampoo</p>\n<p>\u2022 Massage into scalp and hair for 10 minutes working up lather.</p>\n<p>\u2022 Rinse well.</p>\n<h3>RETURN & REFUND POLICY</h3>\n<p>All Sales are FINAL !</p>\n<h3>SHIPPING INFO</h3>\n<p>I'm a shipping policy. I'm a great place to add more information about your shipping methods, packaging and cost. Providing straightforward information about your shipping policy is a great way to build trust and reassure your customers that they can buy from you with confidence.</p>",
+      "canonicalImageMediaId": "8d0ab0_e33341669cb147249272a0f0b946014a_mv2.jpeg",
+      "canonicalImageSource": "og:image",
+      "generatedAssetMediaId": "8d0ab0_e33341669cb147249272a0f0b946014a_mv2.jpeg",
+      "assetMatchStatus": "match",
+      "contentStatus": "available"
     }
   ],
   "guides": [

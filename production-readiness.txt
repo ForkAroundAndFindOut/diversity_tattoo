@@ -1,1 +1,7 @@
 PASS
+
+Evidence Samples
+- cbr-st-12g-1-2 (190x163; source 190x163) :: source-limited canonical product image
+- cbr-st-12g-5-8 (190x163; source 190x163) :: source-limited canonical product image
+- cbr-st-12g-7-16 (190x163; source 190x163) :: source-limited canonical product image
+- copy-of-cbr-st-12g3-8 (190x163; source 190x163) :: source-limited canonical product image

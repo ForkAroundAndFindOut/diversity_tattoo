@@ -5,6 +5,7 @@ import json
 import re
 import shutil
 import struct
+import sys
 from collections import Counter, defaultdict
 from datetime import date
 from html import escape, unescape
@@ -36,6 +37,7 @@ ROUTE_MAP_JSON = OUT_DIR / "route-map.json"
 REDIRECTS_JSON = OUT_DIR / "redirects.json"
 REDIRECTS_TXT = OUT_DIR / "_redirects"
 MEDIA_REVIEW_JSON = OUT_DIR / "media-review.json"
+CANONICAL_MANIFEST_JSON = CATALOG_DIR / "canonical-page-manifest.json"
 SOURCE_ROUTE_LEDGER_JSON = OUT_DIR / "source-route-ledger.json"
 SOURCE_ROUTE_LEDGER_CSV = OUT_DIR / "source-route-ledger.csv"
 CANONICAL_URL_MAP_JSON = OUT_DIR / "canonical-url-map.json"
@@ -59,6 +61,7 @@ SITEMAP_XML = OUT_DIR / "sitemap.xml"
 HEADERS_TXT = OUT_DIR / "_headers"
 NOT_FOUND_HTML = OUT_DIR / "404.html"
 PRODUCTION_SPEC_MD = OUT_DIR / "V1_2_FULL_IMPLEMENTATION_SPEC.md"
+ASSET_NOT_FOUND_IMAGE = "assets/placeholders/asset-not-found.svg"
 
 DETAIL_DIRS = ["products", "blog", "guides", "artists", "services", "shop", "utility"]
 ALIAS_CLEAN_DIRS = [
@@ -371,7 +374,8 @@ def local_path_for_asset(asset_path: str) -> Path:
 def copy_or_download_media(source_path: Path | None, source_url: str, destination: Path) -> str:
     destination.parent.mkdir(parents=True, exist_ok=True)
     if source_path and source_path.exists():
-        shutil.copy2(source_path, destination)
+        if source_path.resolve() != destination.resolve():
+            shutil.copy2(source_path, destination)
         return "local"
     if source_url:
         request = Request(source_url, headers={"User-Agent": "Mozilla/5.0"})
@@ -385,9 +389,52 @@ def extension_for_media(path: Path | None, url: str) -> str:
     if path and path.suffix:
         return path.suffix.lower()
     suffix = Path(urlparse(url).path).suffix.lower()
-    if suffix in {".jpg", ".jpeg", ".png", ".webp", ".gif"}:
+    if suffix in {".jpg", ".jpeg", ".png", ".webp", ".gif", ".svg"}:
         return suffix
     return ".jpg"
+
+
+def refresh_canonical_manifest() -> list[dict[str, object]]:
+    manifest_script = CATALOG_DIR / "generate_canonical_manifest.py"
+    if not manifest_script.exists():
+        return []
+    sys.path.insert(0, str(CATALOG_DIR))
+    try:
+        from generate_canonical_manifest import generate_manifest
+
+        return generate_manifest(download_missing=True)
+    finally:
+        try:
+            sys.path.remove(str(CATALOG_DIR))
+        except ValueError:
+            pass
+
+
+def load_canonical_manifest() -> dict[str, dict[str, object]]:
+    if not CANONICAL_MANIFEST_JSON.exists():
+        return {}
+    try:
+        rows = json.loads(CANONICAL_MANIFEST_JSON.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        return {}
+    return {row.get("source_route", ""): row for row in rows if isinstance(row, dict) and row.get("source_route")}
+
+
+def rebuild_asset_path(root_relative_path: str) -> str:
+    clean = str(root_relative_path or "").replace("\\", "/")
+    prefix = "v1.2 rebuild/"
+    if clean.startswith(prefix):
+        return clean[len(prefix) :]
+    return clean
+
+
+def manifest_asset_for_record(manifest_row: dict[str, object]) -> str:
+    asset_path = rebuild_asset_path(str(manifest_row.get("local_canonical_asset_path", "")))
+    canonical_id = str(manifest_row.get("canonical_image_media_id", ""))
+    local_id = str(manifest_row.get("local_canonical_asset_media_id", ""))
+    if asset_path and canonical_id and local_id == canonical_id and (OUT_DIR / asset_path).exists():
+        return asset_path
+    return ASSET_NOT_FOUND_IMAGE
 
 
 def parse_feed_posts() -> dict[str, dict[str, str]]:
@@ -846,6 +893,7 @@ def build_data() -> tuple[dict, list[dict[str, str]], list[dict[str, str]], dict
     feed_posts = parse_feed_posts()
     ledger = build_route_ledger(pages)
     ledger_by_route = {item["route"]: item for item in ledger}
+    canonical_manifest = load_canonical_manifest()
 
     counts_by_type = Counter(row["page_type"] for row in pages)
     counts_by_refactor = Counter(row["recommended_refactor_category"] for row in pages)
@@ -880,18 +928,23 @@ def build_data() -> tuple[dict, list[dict[str, str]], list[dict[str, str]], dict
 
         if row["page_type"] == "product":
             truth = extract_product_truth(row)
+            manifest_row = canonical_manifest.get(route, {})
             truth_image = product_truth_image(route, truth, product_media_by_key)
-            product_body = truth.get("description") or base["body"]
+            manifest_body_html = str(manifest_row.get("source_body_html", "")) if manifest_row else ""
+            manifest_body_text = str(manifest_row.get("source_body_text", "")) if manifest_row else ""
+            product_body = manifest_body_text or truth.get("description") or base["body"]
             additional_info_text = truth.get("additionalInfoText", "")
-            if additional_info_text:
+            if additional_info_text and not manifest_body_text:
                 product_body = clean_text(f"{product_body} {additional_info_text}", 1600)
+            manifest_image = manifest_asset_for_record(manifest_row) if manifest_row else ""
             products.append(
                 {
                     **base,
                     "title": truth.get("name") or base["title"],
                     "excerpt": clean_text(product_body, 240),
                     "body": product_body,
-                    "image": truth_image or base["image"],
+                    "bodyHtml": manifest_body_html,
+                    "image": manifest_image or truth_image or base["image"],
                     "category": row.get("current_category", ""),
                     "categoryLabel": product_category_label(row.get("current_category", "")),
                     "price": truth.get("formattedPrice") or first_price(clean_text(row.get("body_text_excerpt", ""))),
@@ -902,6 +955,13 @@ def build_data() -> tuple[dict, list[dict[str, str]], list[dict[str, str]], dict
                     "productMedia": truth.get("media", []),
                     "productTruthSource": truth.get("source", "catalog"),
                     "sourceConfidence": "wix stores warmup data" if truth else "catalog extracted",
+                    "canonicalImageUrl": str(manifest_row.get("canonical_image_url", "")) if manifest_row else "",
+                    "canonicalImageMediaId": str(manifest_row.get("canonical_image_media_id", "")) if manifest_row else "",
+                    "canonicalImageSource": str(manifest_row.get("canonical_image_source", "")) if manifest_row else "",
+                    "canonicalAssetPath": rebuild_asset_path(str(manifest_row.get("local_canonical_asset_path", ""))) if manifest_row else "",
+                    "imageSourceUrl": str(manifest_row.get("canonical_image_url", "")) if manifest_row else "",
+                    "assetMatchStatus": str(manifest_row.get("asset_match_status", "")) if manifest_row else "",
+                    "contentStatus": str(manifest_row.get("content_status", "")) if manifest_row else "",
                 }
             )
         elif row["page_type"] in GUIDE_TYPES:
@@ -1311,11 +1371,12 @@ def html_page(
     primary_label: str = "Contact the studio",
     primary_href: str = "../index.html#visit",
     robots: str = "index, follow",
+    body_html_override: str = "",
 ) -> str:
     meta_html = "\n".join(
         f"<li><strong>{escape(label)}</strong><span>{escape(value)}</span></li>" for label, value in meta if value
     )
-    body_html = body_to_html(body)
+    body_html = body_html_override or body_to_html(body)
     canonical_html = f'    <link rel="canonical" href="{escape(canonical_path, quote=True)}" />\n' if canonical_path else ""
     return f"""<!doctype html>
 <html lang="en">
@@ -1377,15 +1438,15 @@ def write_blog_archive(data: dict) -> None:
     )
     cards = "\n".join(
         f"""
-        <article class="guide-card hover-lift is-visible">
+        <a class="guide-card hover-lift is-visible" href="{escape(Path(post['destinationPath']).name)}">
           <img src="../{escape(post['image'])}" alt="{escape(post['title'])}" loading="lazy" />
           <div>
             <span>{escape(post.get('category', 'Blog'))}</span>
             <h2>{escape(post['title'])}</h2>
             <p>{escape(post.get('excerpt', ''))}</p>
-            <a href="{escape(Path(post['destinationPath']).name)}">Read post</a>
+            <span class="details-link">Read post</span>
           </div>
-        </article>
+        </a>
         """
         for post in posts
     )
@@ -1585,6 +1646,7 @@ def write_detail_pages(data: dict) -> None:
                 canonical_path="/" + destination,
                 primary_label=primary_label,
                 primary_href=primary_href,
+                body_html_override=record.get("bodyHtml", ""),
             ),
             encoding="utf-8",
         )
@@ -1636,6 +1698,25 @@ def copy_assets() -> None:
             shutil.copytree(source, assets_root / dirname)
 
 
+def ensure_asset_not_found_placeholder() -> None:
+    placeholder = OUT_DIR / ASSET_NOT_FOUND_IMAGE
+    placeholder.parent.mkdir(parents=True, exist_ok=True)
+    placeholder.write_text(
+        """<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+  <title id="title">Asset not found</title>
+  <desc id="desc">Placeholder shown when a canonical product image is unavailable.</desc>
+  <rect width="900" height="900" fill="#11151d"/>
+  <rect x="48" y="48" width="804" height="804" fill="#171d28" stroke="#394254" stroke-width="4"/>
+  <path d="M226 589 365 423l95 112 62-75 152 129H226Z" fill="#2f394b"/>
+  <circle cx="595" cy="305" r="66" fill="#2f394b"/>
+  <text x="450" y="693" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" fill="#f1f3f7">asset-not-found</text>
+  <text x="450" y="752" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#aab3c2">canonical media missing</text>
+</svg>
+""",
+        encoding="utf-8",
+    )
+
+
 def localize_record_image(
     record: dict,
     root_dir: str,
@@ -1649,6 +1730,7 @@ def localize_record_image(
     if not slug:
         return
     source_image = record.get("image") or CATEGORY_IMAGES.get(record.get("category", ""), "")
+    placeholder_source = source_image == ASSET_NOT_FOUND_IMAGE
     source_path = local_path_for_asset(source_image) if source_image else None
     source_url = str(record.get("imageSourceUrl", ""))
     use_source_path = (
@@ -1673,7 +1755,8 @@ def localize_record_image(
         status = copy_or_download_media(use_source_path, source_url, destination)
     except Exception:
         if source_path and source_path.exists():
-            shutil.copy2(source_path, destination)
+            if source_path.resolve() != destination.resolve():
+                shutil.copy2(source_path, destination)
             status = "local_low_resolution_fallback"
     if not destination.exists():
         return
@@ -1683,6 +1766,9 @@ def localize_record_image(
     record["imageHeight"] = height
     record["imageBytes"] = destination.stat().st_size
     record["imageSourceStatus"] = status
+    if record.get("canonicalImageMediaId"):
+        record["generatedAssetMediaId"] = "asset-not-found" if placeholder_source else record["canonicalImageMediaId"]
+        record["assetMatchStatus"] = "missing_image" if placeholder_source else "match"
 
 
 def localize_product_images(data: dict) -> None:
@@ -1745,6 +1831,12 @@ def public_runtime_data(data: dict) -> dict:
                 "imageHeight",
                 "imageBytes",
                 "imageSourceStatus",
+                "bodyHtml",
+                "canonicalImageMediaId",
+                "canonicalImageSource",
+                "generatedAssetMediaId",
+                "assetMatchStatus",
+                "contentStatus",
             ],
         )
         for product in public_data.get("products", [])
@@ -2807,6 +2899,8 @@ def write_validation(valid: bool, errors: list[str]) -> None:
 
 def main() -> None:
     copy_assets()
+    ensure_asset_not_found_placeholder()
+    refresh_canonical_manifest()
     data, ledger, redirects, media_review = build_data()
     localize_product_images(data)
     localize_blog_images(data)
@@ -2819,6 +2913,7 @@ def main() -> None:
     write_blog_source_archive(data)
     write_detail_pages(data)
     write_js(data)
+    refresh_canonical_manifest()
     write_json(ROUTE_MAP_JSON, ledger)
     write_json(REDIRECTS_JSON, redirects)
     write_redirects_txt(redirects)
