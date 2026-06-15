@@ -348,7 +348,9 @@ h3 {
 .faq-section,
 .qa-layout,
 .visit-section,
-.site-footer {
+.site-footer,
+.section-shell,
+.section-page-hero {
   width: 100%;
   max-width: var(--max);
   margin-inline: auto;
@@ -664,7 +666,8 @@ h3 {
 .guide-grid,
 .profile-grid,
 .service-record-grid,
-.trust-grid {
+.trust-grid,
+.category-tile-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 16px;
@@ -672,7 +675,8 @@ h3 {
 
 .product-card,
 .guide-card,
-.profile-card {
+.profile-card,
+.category-tile {
   --card-media-height: 220px;
   display: grid;
   grid-template-rows: var(--card-media-height) minmax(0, auto);
@@ -684,20 +688,23 @@ h3 {
 }
 
 .product-card,
-.guide-card {
+.guide-card,
+.category-tile {
   color: inherit;
   text-decoration: none;
 }
 
 .product-card:focus-visible,
-.guide-card:focus-visible {
+.guide-card:focus-visible,
+.category-tile:focus-visible {
   outline: 3px solid var(--teal);
   outline-offset: 4px;
 }
 
 .product-card > img,
 .guide-card > img,
-.profile-card > img {
+.profile-card > img,
+.category-tile > img {
   display: block;
   grid-row: 1;
   width: 100%;
@@ -718,7 +725,8 @@ h3 {
 
 .product-card > div,
 .guide-card > div,
-.profile-card > div {
+.profile-card > div,
+.category-tile > div {
   position: relative;
   z-index: 1;
   grid-row: 2;
@@ -729,6 +737,7 @@ h3 {
 
 .product-card span,
 .guide-card span,
+.category-tile span,
 .profile-card p:first-child,
 .service-record span,
 .trust-card span,
@@ -742,6 +751,7 @@ h3 {
 
 .product-card h3,
 .guide-card h3,
+.category-tile h3,
 .profile-card h3,
 .service-record h3,
 .trust-card h3 {
@@ -750,6 +760,7 @@ h3 {
 
 .product-card p,
 .guide-card p,
+.category-tile p,
 .profile-card p,
 .service-record p,
 .trust-card p {
@@ -794,6 +805,67 @@ h3 {
 
 .catalog-expand[hidden] {
   display: none;
+}
+
+.center-actions {
+  display: flex;
+  justify-content: center;
+  margin-top: 24px;
+}
+
+.section-shell {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 34px;
+  min-width: 0;
+}
+
+.section-page-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1.05fr) minmax(300px, 0.95fr);
+  gap: 28px;
+  align-items: stretch;
+  min-width: 0;
+}
+
+.section-page-copy {
+  display: grid;
+  align-content: center;
+  width: 100%;
+  max-width: 100%;
+  min-width: 0;
+  padding: 42px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background:
+    linear-gradient(135deg, rgba(223, 35, 40, 0.18), rgba(30, 182, 167, 0.12)),
+    rgba(17, 20, 26, 0.9);
+}
+
+.section-page-copy h1 {
+  margin-bottom: 18px;
+  font-size: 4rem;
+}
+
+.section-page-copy > p {
+  max-width: 760px;
+  color: var(--muted);
+}
+
+.section-page-image {
+  width: 100%;
+  min-width: 0;
+  height: 100%;
+  min-height: 460px;
+  max-height: 680px;
+  object-fit: cover;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--panel);
+}
+
+.section-band {
+  padding: 0;
 }
 
 .service-record,
@@ -1185,9 +1257,10 @@ h3 {
 }
 
 .detail-shell {
-  width: min(var(--max), calc(100vw - 56px));
+  width: 100%;
+  max-width: calc(var(--max) + 56px);
   margin-inline: auto;
-  padding: 138px 0 80px;
+  padding: 138px 28px 80px;
 }
 
 .detail-article {
@@ -1329,6 +1402,10 @@ h3 {
     font-size: 2.35rem;
   }
 
+  .section-page-copy h1 {
+    font-size: 3rem;
+  }
+
   .intent-grid,
   .stat-grid,
   .product-grid,
@@ -1336,6 +1413,8 @@ h3 {
   .profile-grid,
   .service-record-grid,
   .trust-grid,
+  .category-tile-grid,
+  .section-page-hero,
   .sticky-story,
   .split-feature,
   .slider,
@@ -1419,6 +1498,10 @@ h3 {
     font-size: 1.12rem;
   }
 
+  .section-page-copy h1 {
+    font-size: 2rem;
+  }
+
   [data-split] .word {
     display: inline;
     opacity: 1 !important;
@@ -1469,6 +1552,7 @@ h3 {
   .product-toolbar,
   .catalog-count,
   .product-grid,
+  .category-tile-grid,
   .artist-directory .profile-grid,
   .sticky-story,
   .split-feature,
@@ -1512,7 +1596,8 @@ h3 {
 
   .product-card,
   .guide-card,
-  .profile-card {
+  .profile-card,
+  .category-tile {
     --card-media-height: 180px;
   }
 
@@ -1543,19 +1628,23 @@ h3 {
 
   .product-card > div,
   .guide-card > div,
-  .profile-card > div {
+  .profile-card > div,
+  .category-tile > div,
+  .section-page-copy {
     padding: 18px;
   }
 
   .product-card h3,
   .guide-card h3,
-  .profile-card h3 {
+  .profile-card h3,
+  .category-tile h3 {
     font-size: 1.06rem;
     line-height: 1.18;
   }
 
   .product-card p,
   .guide-card p,
+  .category-tile p,
   .profile-card p,
   .service-record p,
   .trust-card p {
@@ -1619,11 +1708,16 @@ h3 {
   }
 
   .detail-shell {
-    width: calc(100vw - 36px);
-    padding-top: 112px;
+    width: 100%;
+    padding: 112px 18px 64px;
   }
 
   .detail-hero-image {
+    min-height: 260px;
+    max-height: 420px;
+  }
+
+  .section-page-image {
     min-height: 260px;
     max-height: 420px;
   }

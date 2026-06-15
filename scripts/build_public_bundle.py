@@ -30,6 +30,12 @@ CANONICAL_DIRS = [
     "products",
     "services",
     "shop",
+    "tattoo",
+    "piercing",
+    "tooth-gems",
+    "smoke-shop",
+    "reviews",
+    "faq",
     "utility",
 ]
 
@@ -39,7 +45,6 @@ ALIAS_DIRS = [
     "bodypiercing",
     "charlie",
     "contact",
-    "faq",
     "gallery",
     "home",
     "locations",
@@ -47,8 +52,6 @@ ALIAS_DIRS = [
     "price-list-1",
     "product-page",
     "profile",
-    "reviews",
-    "smoke-shop",
     "tank",
     "toothgems",
 ]

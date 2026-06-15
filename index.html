@@ -115,15 +115,23 @@
             <div>
               <p>Tattoo Services</p>
               <h3>Custom work, cover-ups and artist selection.</h3>
-              <a href="#artists">View artists</a>
+              <a href="tattoo/index.html">Open tattoo page</a>
             </div>
           </article>
           <article class="intent-card hover-lift" id="piercing">
             <img src="assets/static.wixstatic.com/e57dce51900137bf.jpg" alt="Body jewelry display" />
             <div>
               <p>Piercing</p>
-              <h3>Body piercing, jewelry and tooth gems.</h3>
-              <a href="#service-system">Check service details</a>
+              <h3>Body piercing, jewelry and common pricing.</h3>
+              <a href="piercing/index.html">Open piercing page</a>
+            </div>
+          </article>
+          <article class="intent-card hover-lift">
+            <img src="assets/static.wixstatic.com/57b962a74e3c3f70.png" alt="Diversity Tattoo artwork" />
+            <div>
+              <p>Tooth Gems</p>
+              <h3>A focused page for tooth gem questions and visit planning.</h3>
+              <a href="tooth-gems/index.html">Open tooth gems page</a>
             </div>
           </article>
           <article class="intent-card hover-lift">
@@ -131,7 +139,7 @@
             <div>
               <p>Smoke Shop</p>
               <h3>Smoke accessories, vaporizers, detox and more.</h3>
-              <a href="#shop-catalog">Browse products</a>
+              <a href="smoke-shop/index.html">Open smoke shop page</a>
             </div>
           </article>
           <article class="intent-card hover-lift">
@@ -163,60 +171,66 @@
         <div class="service-grid" id="service-matrix" data-stagger></div>
       </section>
 
-      <section class="section price-section">
-        <div class="section-intro" data-reveal="up">
-          <p class="eyebrow">Piercing pricing</p>
-          <h2>Common piercing options.</h2>
-          <p>Call ahead for current jewelry availability and any service-specific instructions.</p>
-        </div>
-        <div class="table-wrap">
-          <table>
-            <thead>
-              <tr>
-                <th scope="col">Service</th>
-                <th scope="col">Price</th>
-                <th scope="col">Notes</th>
-              </tr>
-            </thead>
-            <tbody id="piercing-price-body"></tbody>
-          </table>
-        </div>
-      </section>
-
       <section class="section product-catalog" id="shop-catalog">
         <div class="section-intro" data-reveal="up">
           <p class="eyebrow">Shop</p>
-          <h2>Browse products before you visit.</h2>
-          <p>Filter by category, search by product details and sort the full catalog on one page.</p>
+          <h2>Choose a product lane before you visit.</h2>
+          <p>The full shop lives on its own page. These tiles point visitors to the right catalog area without making the homepage carry every product.</p>
         </div>
-        <div class="product-toolbar" aria-label="Shop controls">
-          <div class="filter-list" id="product-category-filter-list"></div>
-          <label class="field-label" for="product-search">Search products</label>
-          <input id="product-search" name="q" type="search" autocomplete="off" placeholder="Search by name, use or details" />
-          <label class="field-label" for="product-sort">Sort products</label>
-          <select id="product-sort" name="sort">
-            <option value="category-name">Category then A-Z</option>
-            <option value="name-asc">Name A-Z</option>
-            <option value="price-asc">Price Low-High</option>
-            <option value="price-desc">Price High-Low</option>
-            <option value="stock-first">In-stock first</option>
-          </select>
-          <button class="button secondary" type="button" id="product-clear-filters" hidden>Clear filters</button>
+        <div class="category-tile-grid" data-stagger>
+          <a class="category-tile hover-lift is-visible" href="piercing/index.html">
+            <img src="assets/static.wixstatic.com/e57dce51900137bf.jpg" alt="Body jewelry display" loading="lazy" />
+            <div>
+              <span>Jewelry</span>
+              <h3>Body Jewelry</h3>
+              <p>Piercing owns jewelry browsing and pricing.</p>
+            </div>
+          </a>
+          <a class="category-tile hover-lift is-visible" href="smoke-shop/index.html">
+            <img src="assets/static.wixstatic.com/5fba7b44e230022f.jpg" alt="Detox product" loading="lazy" />
+            <div>
+              <span>Smoke Shop</span>
+              <h3>Detox / Cleanses</h3>
+              <p>Current detox category, grouped under Smoke Shop for now.</p>
+            </div>
+          </a>
+          <a class="category-tile hover-lift is-visible" href="smoke-shop/index.html">
+            <img src="assets/static.wixstatic.com/7215c4a996cef463.jpg" alt="Vaporizer product" loading="lazy" />
+            <div>
+              <span>Smoke Shop</span>
+              <h3>Vaporizers</h3>
+              <p>Vaporizers stay with the non-jewelry retail page.</p>
+            </div>
+          </a>
+          <a class="category-tile hover-lift is-visible" href="smoke-shop/index.html">
+            <img src="assets/static.wixstatic.com/c131011fd82773ff.jpg" alt="Smoke accessory product" loading="lazy" />
+            <div>
+              <span>Smoke Shop</span>
+              <h3>Smoke Accessories</h3>
+              <p>Accessories, glass and related smoke shop items.</p>
+            </div>
+          </a>
+          <a class="category-tile hover-lift is-visible" href="shop/index.html">
+            <img src="assets/static.wixstatic.com/76300833f4cccab0.jpg" alt="Shop product" loading="lazy" />
+            <div>
+              <span>Full Catalog</span>
+              <h3>All Products</h3>
+              <p>Open the complete searchable shop catalog.</p>
+            </div>
+          </a>
         </div>
-        <p class="catalog-count" id="product-filter-summary" aria-live="polite"></p>
-        <div class="product-grid" id="product-grid" data-stagger></div>
       </section>
 
       <section class="section guide-library" id="blog">
         <div class="section-intro" data-reveal="up">
           <p class="eyebrow">Blog</p>
           <h2>Aftercare, planning and product education.</h2>
-          <p>Read practical posts from the studio, including tattoo preparation, cover-up tips, detox articles and product notes.</p>
-          <a class="button secondary" href="blog/index.html">Open blog archive</a>
+          <p>Start with the latest studio posts, then open the full archive for every article and filter.</p>
         </div>
-        <div class="filter-list" id="guide-filter-list"></div>
-        <p class="catalog-count" id="guide-count"></p>
-        <div class="guide-grid" id="guide-library-grid" data-stagger></div>
+        <div class="guide-grid" id="guide-library-grid" data-guide-limit="3" data-stagger></div>
+        <div class="center-actions">
+          <a class="button secondary" href="blog/index.html">See more</a>
+        </div>
       </section>
 
       <section class="section service-system" id="reviews">
@@ -224,7 +238,7 @@
           <p class="eyebrow">Reviews</p>
           <h2>Trust starts before the visit.</h2>
           <p>Read customer feedback, check service information and call the studio with questions before coming in.</p>
-          <a class="button secondary" href="services/reviews.html">Read reviews</a>
+          <a class="button secondary" href="reviews/index.html">Read reviews</a>
         </div>
       </section>
 
@@ -233,7 +247,7 @@
           <p class="eyebrow">FAQ</p>
           <h2>Answers for common studio questions.</h2>
           <p>Find guidance for appointments, piercing, aftercare, product questions and visiting the Rancho studio.</p>
-          <a class="button secondary" href="services/faq.html">Open FAQ</a>
+          <a class="button secondary" href="faq/index.html">Open FAQ</a>
         </div>
       </section>
 

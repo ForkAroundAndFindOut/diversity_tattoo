@@ -1,6 +1,6 @@
 # Diversity Rebuild V1.2 QA Checklist
 
-Generated: 2026-06-14
+Generated: 2026-06-15
 
 ## Inventory Targets
 
@@ -74,11 +74,11 @@ Generated: 2026-06-14
 - `blog/levo-oil-butter-maker.html` -> `blog/levo-oil-butter-maker.html` (redirect to rebuilt destination)
 - `blog/now-in-store-dr-dabber-switch.html` -> `blog/now-in-store-dr-dabber-switch.html` (redirect to rebuilt destination)
 - `blog.html` -> `blog/index.html` (rebuilt section page)
-- `bodypiercing.html` -> `services/bodypiercing.html` (rebuilt detail page)
+- `bodypiercing.html` -> `piercing/index.html` (rebuilt section page)
 - `charlie.html` -> `artists/charlie.html` (rebuilt detail page)
 - `contact.html` -> `services/contact.html` (rebuilt detail page)
-- `faq.html` -> `services/faq.html` (rebuilt detail page)
-- `gallery.html` -> `services/gallery.html` (rebuilt detail page)
+- `faq.html` -> `faq/index.html` (rebuilt section page)
+- `gallery.html` -> `tattoo/index.html` (rebuilt section page)
 - `home.html` -> `index.html` (rebuilt primary page)
 - `index.html` -> `index.html` (rebuilt primary page)
 - `locations.html` -> `services/locations.html` (rebuilt detail page)
@@ -97,7 +97,7 @@ Generated: 2026-06-14
 - `post/tips-for-a-successful-cover-up-tattoo.html` -> `blog/tips-for-a-successful-cover-up-tattoo.html` (rebuilt detail page)
 - `post/what-is-detox.html` -> `blog/what-is-detox.html` (rebuilt detail page)
 - `post/what-to-do-if-your-tattoo-or-piercing-itches.html` -> `blog/what-to-do-if-your-tattoo-or-piercing-itches.html` (rebuilt detail page)
-- `price-list-1.html` -> `services/price-list-1.html` (rebuilt detail page)
+- `price-list-1.html` -> `piercing/index.html` (rebuilt section page)
 - `product-page/additive-x-stream-synthentic-urine.html` -> `products/additive-x-stream-synthentic-urine.html` (rebuilt detail page)
 - `product-page/ascent-oil-jars.html` -> `products/ascent-oil-jars.html` (rebuilt detail page)
 - `product-page/ascentst-g-adapter.html` -> `products/ascentst-g-adapter.html` (rebuilt detail page)

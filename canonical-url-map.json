@@ -1,7 +1,7 @@
 [
   {
     "url": "/",
-    "page_type": "home",
+    "page_type": "service",
     "source_evidence": "index.html",
     "indexability": "index",
     "included_in_sitemap": "yes"
@@ -875,8 +875,8 @@
     "included_in_sitemap": "yes"
   },
   {
-    "url": "/blog/index.html",
-    "page_type": "blog_post",
+    "url": "/blog/",
+    "page_type": "blog_archive",
     "source_evidence": "blog.html",
     "indexability": "index",
     "included_in_sitemap": "yes"
@@ -987,7 +987,7 @@
     "included_in_sitemap": "yes"
   },
   {
-    "url": "/artists/index.html",
+    "url": "/artists/",
     "page_type": "artist",
     "source_evidence": "artist.html",
     "indexability": "index",
@@ -1008,9 +1008,9 @@
     "included_in_sitemap": "yes"
   },
   {
-    "url": "/services/bodypiercing.html",
+    "url": "/piercing/",
     "page_type": "service",
-    "source_evidence": "bodypiercing.html",
+    "source_evidence": "price-list-1.html",
     "indexability": "index",
     "included_in_sitemap": "yes"
   },
@@ -1022,23 +1022,16 @@
     "included_in_sitemap": "yes"
   },
   {
-    "url": "/services/faq.html",
+    "url": "/faq/",
     "page_type": "service",
     "source_evidence": "faq.html",
     "indexability": "index",
     "included_in_sitemap": "yes"
   },
   {
-    "url": "/services/gallery.html",
+    "url": "/tattoo/",
     "page_type": "service",
     "source_evidence": "gallery.html",
-    "indexability": "index",
-    "included_in_sitemap": "yes"
-  },
-  {
-    "url": "/index.html",
-    "page_type": "service",
-    "source_evidence": "index.html",
     "indexability": "index",
     "included_in_sitemap": "yes"
   },
@@ -1050,28 +1043,21 @@
     "included_in_sitemap": "yes"
   },
   {
-    "url": "/services/price-list-1.html",
-    "page_type": "service",
-    "source_evidence": "price-list-1.html",
-    "indexability": "index",
-    "included_in_sitemap": "yes"
-  },
-  {
-    "url": "/services/reviews.html",
+    "url": "/reviews/",
     "page_type": "service",
     "source_evidence": "reviews.html",
     "indexability": "index",
     "included_in_sitemap": "yes"
   },
   {
-    "url": "/services/smoke-shop.html",
+    "url": "/smoke-shop/",
     "page_type": "service",
     "source_evidence": "smoke-shop.html",
     "indexability": "index",
     "included_in_sitemap": "yes"
   },
   {
-    "url": "/services/toothgems.html",
+    "url": "/tooth-gems/",
     "page_type": "service",
     "source_evidence": "toothgems.html",
     "indexability": "index",
@@ -1081,13 +1067,6 @@
     "url": "/shop/",
     "page_type": "shop_catalog",
     "source_evidence": "shop.html",
-    "indexability": "index",
-    "included_in_sitemap": "yes"
-  },
-  {
-    "url": "/blog/",
-    "page_type": "blog_archive",
-    "source_evidence": "blog.html",
     "indexability": "index",
     "included_in_sitemap": "yes"
   }

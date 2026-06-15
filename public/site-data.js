@@ -1,6 +1,6 @@
 window.DIVERSITY_SITE_DATA = {
   "version": "1.2",
-  "generatedAt": "2026-06-14",
+  "generatedAt": "2026-06-15",
   "siteMeta": {
     "name": "Diversity Tattoo",
     "description": "Diversity Tattoo, Piercing and Smoke Shop in Las Vegas.",
@@ -3310,7 +3310,7 @@ window.DIVERSITY_SITE_DATA = {
   "servicePages": [
     {
       "title": "Body Piercing",
-      "destinationPath": "services/bodypiercing.html",
+      "destinationPath": "piercing/index.html",
       "excerpt": "HOME OF THE $45 PIERCING (Includes Jewelry) (Including Jewelry) Eyebrow Tongue Naval Nostril Body Jewelry Selections Come in and choose your favorite jewelry style and color from the most extensive body jewelry inventory in the Las Vegas...",
       "body": "HOME OF THE $45 PIERCING (Includes Jewelry) (Including Jewelry) Eyebrow Tongue Naval Nostril Body Jewelry Selections Come in and choose your favorite jewelry style and color from the most extensive body jewelry inventory in the Las Vegas ! All piercings are performed under strict sterile, sanitary conditions by trained piercing professionals. We believe you should be able to express your creativity not only through your new piercing, but with the jewelry",
       "image": "assets/static.wixstatic.com/e57dce51900137bf.jpg",
@@ -3328,7 +3328,7 @@ window.DIVERSITY_SITE_DATA = {
     },
     {
       "title": "United States",
-      "destinationPath": "services/faq.html",
+      "destinationPath": "faq/index.html",
       "excerpt": "TATTOO's IS IT SAFE TO GET A TATTOO? Both tattoos and piercings are very safe, as long as each artist and the entire studio adheres to both Universal Precautions and Blood Borne Pathogen Safety Standards. Luckily,...",
       "body": "TATTOO's IS IT SAFE TO GET A TATTOO? Both tattoos and piercings are very safe, as long as each artist and the entire studio adheres to both Universal Precautions and Blood Borne Pathogen Safety Standards. Luckily, DiversityTattoo-Piercing-Smoke Shop treats client safety as the first and foremost priority, requiring the highest level of sterilization possible, going above and beyond the legal requirement of all local health codes and regulations. On the consent fo",
       "image": "assets/static.wixstatic.com/57b962a74e3c3f70.png",
@@ -3337,7 +3337,7 @@ window.DIVERSITY_SITE_DATA = {
     },
     {
       "title": "Gallery",
-      "destinationPath": "services/gallery.html",
+      "destinationPath": "tattoo/index.html",
       "excerpt": "\u00a9 2023 by Diversity Tattoo, Piercing & Smoke Shop in Las Vegas NV",
       "body": "\u00a9 2023 by Diversity Tattoo, Piercing & Smoke Shop in Las Vegas NV",
       "image": "assets/static.wixstatic.com/f06645030f1b0be0.jpg",
@@ -3373,7 +3373,7 @@ window.DIVERSITY_SITE_DATA = {
     },
     {
       "title": "Diversity Tattoo LV | United States",
-      "destinationPath": "services/price-list-1.html",
+      "destinationPath": "piercing/index.html",
       "excerpt": "PIERCINGS PRICE LIST STANDARD NAVEL - $45 STANDARD TONG - $45 STANDARD NOSE - $45 STANDARD EYEBROW - $45 (INCLUDED JEWELRY) EAR LOBE - $20 (NOT INCLUDED JEWELRY) HELIX - $40 ( NOT INCLUDED JEWELRY) ROOK - $40 (NOT INCLUDED JEWELRY) TRAGUS...",
       "body": "PIERCINGS PRICE LIST STANDARD NAVEL - $45 STANDARD TONG - $45 STANDARD NOSE - $45 STANDARD EYEBROW - $45 (INCLUDED JEWELRY) EAR LOBE - $20 (NOT INCLUDED JEWELRY) HELIX - $40 ( NOT INCLUDED JEWELRY) ROOK - $40 (NOT INCLUDED JEWELRY) TRAGUS - $40 (NOT INCLUDED JEWELRY) DAITH - $40 (NOT INCLUDED JEWELRY) CONCH - $50 (NOT INCLUDED JEWELRY) ANTI TRAGUS - $40 ( NOT INCLUDED JEWELRY) INDUSTRIAL - $65 (NOT INCLUDED JEWELRY) SURFACE EYEBROW - $40 (NOT INCLUDED JEWEL",
       "image": "assets/static.wixstatic.com/e1e4bf375b4a07e7.png",
@@ -3382,7 +3382,7 @@ window.DIVERSITY_SITE_DATA = {
     },
     {
       "title": "Reviews",
-      "destinationPath": "services/reviews.html",
+      "destinationPath": "reviews/index.html",
       "excerpt": "\u00a9 2023 by Diversity Tattoo, Piercing & Smoke Shop in Las Vegas NV",
       "body": "\u00a9 2023 by Diversity Tattoo, Piercing & Smoke Shop in Las Vegas NV",
       "image": "assets/static.wixstatic.com/bf2da649c19096a7.jpeg",
@@ -3391,7 +3391,7 @@ window.DIVERSITY_SITE_DATA = {
     },
     {
       "title": "Smoke Shop",
-      "destinationPath": "services/smoke-shop.html",
+      "destinationPath": "smoke-shop/index.html",
       "excerpt": "We Carry Glass hand pipes, Glass Blunts, Silicone Pipes and Water Pipes, Bubblers, Steam Rollers, Grinders, Sneak a Toke, Pinch Hitters, Wood Hand Pipes, Metal Hand Pipes, Scales, 420 Pipe Cleaner Liquids, Fragance Candles, Incense,Cream...",
       "body": "We Carry Glass hand pipes, Glass Blunts, Silicone Pipes and Water Pipes, Bubblers, Steam Rollers, Grinders, Sneak a Toke, Pinch Hitters, Wood Hand Pipes, Metal Hand Pipes, Scales, 420 Pipe Cleaner Liquids, Fragance Candles, Incense,Cream Chargers, Glass Vials, Books. Hookah Tobacco and Pipes, Papers, like Zig-Zags, Juicy Jays, Raw, Elements, Bugglar, Bob Marley, Club, Top. Vaporizers, Lighters, Water Pipes, Body Cleansers, Water Pipes and . C",
       "image": "assets/static.wixstatic.com/e187b61b93dbbcb7.jpg",
@@ -3400,7 +3400,7 @@ window.DIVERSITY_SITE_DATA = {
     },
     {
       "title": "Diversity Tattoo LV | United States",
-      "destinationPath": "services/toothgems.html",
+      "destinationPath": "tooth-gems/index.html",
       "excerpt": "Features *Twinkles combines the timeless elegance of diamonds with the cutting edge fashion of body art. *Solid 22-24k Gold and 18k White Gold. Wesselton SI 0,01 ct brilliant cut diamonds. *Bonds like a dental bracket - remove without a...",
       "body": "Features *Twinkles combines the timeless elegance of diamonds with the cutting edge fashion of body art. *Solid 22-24k Gold and 18k White Gold. Wesselton SI 0,01 ct brilliant cut diamonds. *Bonds like a dental bracket - remove without a trace. STARTING AT $65.00 \u00a9 2023 by Diversity Tattoo, Piercing & Smoke Shop in Las Vegas NV",
       "image": "assets/static.wixstatic.com/86a46c29b4cbe1b6.jpg",
