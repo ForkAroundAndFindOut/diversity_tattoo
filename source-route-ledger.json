@@ -76,8 +76,8 @@
     "source_type": "static_page",
     "source_status": "available",
     "content_area": "Piercing",
-    "canonical_target": "services/bodypiercing.html",
-    "destination_status": "rebuilt detail page",
+    "canonical_target": "piercing/index.html",
+    "destination_status": "rebuilt section page",
     "exception": ""
   },
   {
@@ -103,8 +103,8 @@
     "source_type": "static_page",
     "source_status": "available",
     "content_area": "FAQ",
-    "canonical_target": "services/faq.html",
-    "destination_status": "rebuilt detail page",
+    "canonical_target": "faq/index.html",
+    "destination_status": "rebuilt section page",
     "exception": ""
   },
   {
@@ -112,8 +112,8 @@
     "source_type": "static_page",
     "source_status": "available",
     "content_area": "Tattoo Services",
-    "canonical_target": "services/gallery.html",
-    "destination_status": "rebuilt detail page",
+    "canonical_target": "tattoo/index.html",
+    "destination_status": "rebuilt section page",
     "exception": ""
   },
   {
@@ -283,8 +283,8 @@
     "source_type": "static_page",
     "source_status": "available",
     "content_area": "Piercing",
-    "canonical_target": "services/price-list-1.html",
-    "destination_status": "rebuilt detail page",
+    "canonical_target": "piercing/index.html",
+    "destination_status": "rebuilt section page",
     "exception": ""
   },
   {
@@ -1444,8 +1444,8 @@
     "source_type": "static_page",
     "source_status": "available",
     "content_area": "Reviews",
-    "canonical_target": "services/reviews.html",
-    "destination_status": "rebuilt detail page",
+    "canonical_target": "reviews/index.html",
+    "destination_status": "rebuilt section page",
     "exception": ""
   },
   {
@@ -1516,8 +1516,8 @@
     "source_type": "static_page",
     "source_status": "available",
     "content_area": "Smoke Shop",
-    "canonical_target": "services/smoke-shop.html",
-    "destination_status": "rebuilt detail page",
+    "canonical_target": "smoke-shop/index.html",
+    "destination_status": "rebuilt section page",
     "exception": ""
   },
   {
@@ -1534,8 +1534,8 @@
     "source_type": "static_page",
     "source_status": "available",
     "content_area": "Tooth Gems",
-    "canonical_target": "services/toothgems.html",
-    "destination_status": "rebuilt detail page",
+    "canonical_target": "tooth-gems/index.html",
+    "destination_status": "rebuilt section page",
     "exception": ""
   }
 ]

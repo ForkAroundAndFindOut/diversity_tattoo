@@ -1,6 +1,6 @@
 # Diversity Rebuild V1.2 Implementation Results
 
-Generated: 2026-06-14
+Generated: 2026-06-15
 
 ## Generated Artifacts
 
@@ -28,7 +28,7 @@ Generated: 2026-06-14
 - Generated service/page records: 11
 - Generated profile/utility records: 4
 - Generated redirect records: 171
-- Generated static alias pages: 171
+- Generated static alias pages: 168
 - Observed 404 ledger rows: 43
 - Media references reviewed/cataloged: 1615
 - Media risks remaining: 149

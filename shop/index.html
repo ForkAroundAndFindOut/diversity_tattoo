@@ -11,18 +11,82 @@
   </head>
   <body class="detail-page">
     <a class="skip-link" href="#main">Skip to content</a>
-    <header class="site-header is-stuck">
+    <header class="site-header is-stuck" data-sticky-header>
       <a class="brand-mark" href="../index.html#top" aria-label="Diversity Tattoo home">
         <img src="../assets/static.wixstatic.com/media/8d0ab0_6a77779840c44b9586da1fefe272017b_mv2_d_3300_2550_s_4_2.png" alt="Diversity Tattoo" />
       </a>
-      <nav class="site-nav is-detail-nav" aria-label="Shop navigation">
-        <a href="../index.html#tattoo">Tattoo</a>
-        <a href="../index.html#piercing">Piercing</a>
+      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
+      <nav class="site-nav is-detail-nav" id="site-nav" aria-label="Shop navigation">
+        
+        <a href="../tattoo/index.html">Tattoo</a>
+        <a href="../artists/index.html">Artists</a>
+        <a href="../piercing/index.html">Piercing</a>
+        <a href="../tooth-gems/index.html">Tooth Gems</a>
+        <a href="../smoke-shop/index.html">Smoke Shop</a>
+        <a href="../shop/index.html">Shop</a>
         <a href="../blog/index.html">Blog</a>
+        <a href="../reviews/index.html">Reviews</a>
+        <a href="../faq/index.html">FAQ</a>
         <a href="../index.html#visit">Visit</a>
+    
       </nav>
     </header>
     <main id="main" class="detail-shell">
+      <section class="section section-band">
+        <div class="section-intro">
+          <p class="eyebrow">Shop categories</p>
+          <h1>Choose a product lane.</h1>
+          <p>The full catalog remains below. These tiles help visitors jump into the current catalog categories before they come in.</p>
+        </div>
+        <div class="category-tile-grid" data-stagger>
+      
+            <a class="category-tile hover-lift is-visible" href="../shop/index.html?category=body-jewelry">
+              <img src="../assets/static.wixstatic.com/e57dce51900137bf.jpg" alt="Body Jewelry" loading="lazy" />
+              <div>
+                <span>25 products</span>
+                <h3>Body Jewelry</h3>
+                <p>Browse body jewelry before visiting the studio.</p>
+              </div>
+            </a>
+            
+            <a class="category-tile hover-lift is-visible" href="../shop/index.html?category=detox-cleanses">
+              <img src="../assets/static.wixstatic.com/5fba7b44e230022f.jpg" alt="Detox / Cleanses" loading="lazy" />
+              <div>
+                <span>22 products</span>
+                <h3>Detox / Cleanses</h3>
+                <p>Browse detox / cleanses before visiting the studio.</p>
+              </div>
+            </a>
+            
+            <a class="category-tile hover-lift is-visible" href="../shop/index.html?category=smoke-accessories">
+              <img src="../assets/static.wixstatic.com/c131011fd82773ff.jpg" alt="Smoke Accessories" loading="lazy" />
+              <div>
+                <span>31 products</span>
+                <h3>Smoke Accessories</h3>
+                <p>Browse smoke accessories before visiting the studio.</p>
+              </div>
+            </a>
+            
+            <a class="category-tile hover-lift is-visible" href="../shop/index.html?category=vaporizers">
+              <img src="../assets/static.wixstatic.com/7215c4a996cef463.jpg" alt="Vaporizers" loading="lazy" />
+              <div>
+                <span>15 products</span>
+                <h3>Vaporizers</h3>
+                <p>Browse vaporizers before visiting the studio.</p>
+              </div>
+            </a>
+            
+            <a class="category-tile hover-lift is-visible" href="../shop/index.html?category=other-products">
+              <img src="../assets/static.wixstatic.com/76300833f4cccab0.jpg" alt="Other Products" loading="lazy" />
+              <div>
+                <span>31 products</span>
+                <h3>Other Products</h3>
+                <p>Browse other products before visiting the studio.</p>
+              </div>
+            </a>
+            
+    </div>
+      </section>
       <section class="section product-catalog" id="shop-catalog">
         <div class="section-intro">
           <p class="eyebrow">Shop</p>
@@ -46,10 +110,13 @@
       </div>
       <p class="catalog-count" id="product-filter-summary" aria-live="polite"></p>
       <div class="product-grid" id="product-grid" data-stagger></div>
+      
       <script src="../site-data.js"></script>
       <script src="../content-render.js"></script>
 
+
       </section>
     </main>
+    <script src="../motion.js"></script>
   </body>
 </html>

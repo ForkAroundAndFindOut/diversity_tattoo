@@ -4,7 +4,7 @@
     "url": "/artist",
     "classification": "compatibility_alias",
     "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
-    "canonical_target": "/artists/index.html",
+    "canonical_target": "/artists/",
     "owner": "SEO/content owner",
     "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
   },
@@ -13,7 +13,7 @@
     "url": "/blog/categories/getting-started",
     "classification": "compatibility_alias",
     "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
-    "canonical_target": "/blog/index.html",
+    "canonical_target": "/blog/",
     "owner": "SEO/content owner",
     "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
   },
@@ -22,7 +22,7 @@
     "url": "/blog/categories/your-community",
     "classification": "compatibility_alias",
     "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
-    "canonical_target": "/blog/index.html",
+    "canonical_target": "/blog/",
     "owner": "SEO/content owner",
     "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
   },
@@ -67,7 +67,7 @@
     "url": "/bodypiercing",
     "classification": "compatibility_alias",
     "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
-    "canonical_target": "/services/bodypiercing.html",
+    "canonical_target": "/piercing/",
     "owner": "SEO/content owner",
     "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
   },
@@ -90,20 +90,11 @@
     "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
   },
   {
-    "path": "faq/index.html",
-    "url": "/faq",
-    "classification": "compatibility_alias",
-    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
-    "canonical_target": "/services/faq.html",
-    "owner": "SEO/content owner",
-    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
-  },
-  {
     "path": "gallery/index.html",
     "url": "/gallery",
     "classification": "compatibility_alias",
     "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
-    "canonical_target": "/services/gallery.html",
+    "canonical_target": "/tattoo/",
     "owner": "SEO/content owner",
     "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
   },
@@ -112,7 +103,7 @@
     "url": "/home",
     "classification": "compatibility_alias",
     "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
-    "canonical_target": "/index.html",
+    "canonical_target": "/",
     "owner": "SEO/content owner",
     "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
   },
@@ -346,7 +337,7 @@
     "url": "/price-list-1",
     "classification": "compatibility_alias",
     "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
-    "canonical_target": "/services/price-list-1.html",
+    "canonical_target": "/piercing/",
     "owner": "SEO/content owner",
     "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
   },
@@ -1503,24 +1494,6 @@
     "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
   },
   {
-    "path": "reviews/index.html",
-    "url": "/reviews",
-    "classification": "compatibility_alias",
-    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
-    "canonical_target": "/services/reviews.html",
-    "owner": "SEO/content owner",
-    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
-  },
-  {
-    "path": "smoke-shop/index.html",
-    "url": "/smoke-shop",
-    "classification": "compatibility_alias",
-    "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
-    "canonical_target": "/services/smoke-shop.html",
-    "owner": "SEO/content owner",
-    "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
-  },
-  {
     "path": "tank/index.html",
     "url": "/tank",
     "classification": "compatibility_alias",
@@ -1534,7 +1507,7 @@
     "url": "/toothgems",
     "classification": "compatibility_alias",
     "reason": "Legacy inbound-link compatibility alias; excluded from public navigation and sitemap.xml.",
-    "canonical_target": "/services/toothgems.html",
+    "canonical_target": "/tooth-gems/",
     "owner": "SEO/content owner",
     "removal_condition": "Remove after inbound-link value is no longer needed or replace with a canonical public page."
   },

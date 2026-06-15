@@ -1,19 +1,19 @@
 [
   {
     "source": "/artist",
-    "target": "/artists/index.html",
+    "target": "/artists/",
     "path": "artist/index.html",
     "kind": "legacy_redirect"
   },
   {
     "source": "/blog/categories/getting-started",
-    "target": "/blog/index.html",
+    "target": "/blog/",
     "path": "blog/categories/getting-started/index.html",
     "kind": "legacy_redirect"
   },
   {
     "source": "/blog/categories/your-community",
-    "target": "/blog/index.html",
+    "target": "/blog/",
     "path": "blog/categories/your-community/index.html",
     "kind": "legacy_redirect"
   },
@@ -43,7 +43,7 @@
   },
   {
     "source": "/bodypiercing",
-    "target": "/services/bodypiercing.html",
+    "target": "/piercing/",
     "path": "bodypiercing/index.html",
     "kind": "legacy_redirect"
   },
@@ -60,20 +60,14 @@
     "kind": "legacy_redirect"
   },
   {
-    "source": "/faq",
-    "target": "/services/faq.html",
-    "path": "faq/index.html",
-    "kind": "legacy_redirect"
-  },
-  {
     "source": "/gallery",
-    "target": "/services/gallery.html",
+    "target": "/tattoo/",
     "path": "gallery/index.html",
     "kind": "legacy_redirect"
   },
   {
     "source": "/home",
-    "target": "/index.html",
+    "target": "/",
     "path": "home/index.html",
     "kind": "legacy_redirect"
   },
@@ -175,7 +169,7 @@
   },
   {
     "source": "/price-list-1",
-    "target": "/services/price-list-1.html",
+    "target": "/piercing/",
     "path": "price-list-1/index.html",
     "kind": "legacy_redirect"
   },
@@ -948,18 +942,6 @@
     "kind": "legacy_redirect"
   },
   {
-    "source": "/reviews",
-    "target": "/services/reviews.html",
-    "path": "reviews/index.html",
-    "kind": "legacy_redirect"
-  },
-  {
-    "source": "/smoke-shop",
-    "target": "/services/smoke-shop.html",
-    "path": "smoke-shop/index.html",
-    "kind": "legacy_redirect"
-  },
-  {
     "source": "/tank",
     "target": "/artists/tank.html",
     "path": "tank/index.html",
@@ -967,7 +949,7 @@
   },
   {
     "source": "/toothgems",
-    "target": "/services/toothgems.html",
+    "target": "/tooth-gems/",
     "path": "toothgems/index.html",
     "kind": "legacy_redirect"
   },

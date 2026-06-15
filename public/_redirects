@@ -1,21 +1,21 @@
 # Generated Diversity Tattoo v1.2 legacy redirects
 # Source paths are from catalog/content-inventory.csv.
 # Static alias pages are generated for portability; this file is an optional host enhancement.
-/artist /artists/index.html 301
-/blog/categories/getting-started /blog/index.html 301
-/blog/categories/your-community /blog/index.html 301
+/artist /artists/ 301
+/blog/categories/getting-started /blog/ 301
+/blog/categories/your-community /blog/ 301
 /blog/davinci-miqro /blog/davinci-miqro.html 301
 /blog/kandypens-k-stick /blog/kandypens-k-stick.html 301
 /blog/levo-oil-butter-maker /blog/levo-oil-butter-maker.html 301
 /blog/now-in-store-dr-dabber-switch /blog/now-in-store-dr-dabber-switch.html 301
-/blog /blog/index.html 301
-/bodypiercing /services/bodypiercing.html 301
+/blog /blog/ 301
+/bodypiercing /piercing/ 301
 /charlie /artists/charlie.html 301
 /contact /services/contact.html 301
-/faq /services/faq.html 301
-/gallery /services/gallery.html 301
-/home /index.html 301
-# Root serves index.html directly; no redirect emitted for / -> /index.html
+/faq /faq/ 301
+/gallery /tattoo/ 301
+/home / 301
+# Root serves index.html directly; no redirect emitted for / -> /
 /locations /services/locations.html 301
 /post/are-detox-cleanses-permanent /blog/are-detox-cleanses-permanent.html 301
 /post/can-my-tattoo-be-covered-up /blog/can-my-tattoo-be-covered-up.html 301
@@ -32,7 +32,7 @@
 /post/tips-for-a-successful-cover-up-tattoo /blog/tips-for-a-successful-cover-up-tattoo.html 301
 /post/what-is-detox /blog/what-is-detox.html 301
 /post/what-to-do-if-your-tattoo-or-piercing-itches /blog/what-to-do-if-your-tattoo-or-piercing-itches.html 301
-/price-list-1 /services/price-list-1.html 301
+/price-list-1 /piercing/ 301
 /product-page/additive-x-stream-synthentic-urine /products/additive-x-stream-synthentic-urine.html 301
 /product-page/ascent-oil-jars /products/ascent-oil-jars.html 301
 /product-page/ascentst-g-adapter /products/ascentst-g-adapter.html 301
@@ -161,14 +161,14 @@
 /profile/diversitytattoo702/blog-likes /utility/account-unavailable.html 301
 /profile/diversitytattoo702/blog-posts /utility/account-unavailable.html 301
 /profile/diversitytattoo702/profile /utility/account-unavailable.html 301
-/reviews /services/reviews.html 301
-# Query-bearing legacy route: /shop?page=4 -> /shop/index.html
-# Query-bearing legacy route: /shop?page=5 -> /shop/index.html
-# Query-bearing legacy route: /shop?page=3 -> /shop/index.html
-# Query-bearing legacy route: /shop?page=6 -> /shop/index.html
-# Query-bearing legacy route: /shop?page=2 -> /shop/index.html
-# Query-bearing legacy route: /shop?page=7 -> /shop/index.html
-/shop /shop/index.html 301
-/smoke-shop /services/smoke-shop.html 301
+/reviews /reviews/ 301
+# Query-bearing legacy route: /shop?page=4 -> /shop/
+# Query-bearing legacy route: /shop?page=5 -> /shop/
+# Query-bearing legacy route: /shop?page=3 -> /shop/
+# Query-bearing legacy route: /shop?page=6 -> /shop/
+# Query-bearing legacy route: /shop?page=2 -> /shop/
+# Query-bearing legacy route: /shop?page=7 -> /shop/
+/shop /shop/ 301
+/smoke-shop /smoke-shop/ 301
 /tank /artists/tank.html 301
-/toothgems /services/toothgems.html 301
+/toothgems /tooth-gems/ 301

@@ -105,7 +105,6 @@ ALIAS_TOP_LEVEL_DIRS = {
     "bodypiercing",
     "charlie",
     "contact",
-    "faq",
     "gallery",
     "home",
     "locations",
@@ -113,8 +112,6 @@ ALIAS_TOP_LEVEL_DIRS = {
     "price-list-1",
     "product-page",
     "profile",
-    "reviews",
-    "smoke-shop",
     "tank",
     "toothgems",
 }
@@ -123,9 +120,15 @@ PUBLIC_TOP_LEVEL_DIRS = {
     "artists",
     "blog",
     "contact",
+    "faq",
+    "piercing",
     "products",
+    "reviews",
     "services",
     "shop",
+    "smoke-shop",
+    "tattoo",
+    "tooth-gems",
     "visit",
 }
 

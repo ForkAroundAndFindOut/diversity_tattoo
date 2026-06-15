@@ -2,21 +2,21 @@
   {
     "old_url": "/artist",
     "generated_alias_path": "artist/index.html",
-    "canonical_target": "/artists/index.html",
+    "canonical_target": "/artists/",
     "reason": "legacy_redirect",
     "noindex_status": "noindex"
   },
   {
     "old_url": "/blog/categories/getting-started",
     "generated_alias_path": "blog/categories/getting-started/index.html",
-    "canonical_target": "/blog/index.html",
+    "canonical_target": "/blog/",
     "reason": "legacy_redirect",
     "noindex_status": "noindex"
   },
   {
     "old_url": "/blog/categories/your-community",
     "generated_alias_path": "blog/categories/your-community/index.html",
-    "canonical_target": "/blog/index.html",
+    "canonical_target": "/blog/",
     "reason": "legacy_redirect",
     "noindex_status": "noindex"
   },
@@ -51,7 +51,7 @@
   {
     "old_url": "/bodypiercing",
     "generated_alias_path": "bodypiercing/index.html",
-    "canonical_target": "/services/bodypiercing.html",
+    "canonical_target": "/piercing/",
     "reason": "legacy_redirect",
     "noindex_status": "noindex"
   },
@@ -70,23 +70,16 @@
     "noindex_status": "noindex"
   },
   {
-    "old_url": "/faq",
-    "generated_alias_path": "faq/index.html",
-    "canonical_target": "/services/faq.html",
-    "reason": "legacy_redirect",
-    "noindex_status": "noindex"
-  },
-  {
     "old_url": "/gallery",
     "generated_alias_path": "gallery/index.html",
-    "canonical_target": "/services/gallery.html",
+    "canonical_target": "/tattoo/",
     "reason": "legacy_redirect",
     "noindex_status": "noindex"
   },
   {
     "old_url": "/home",
     "generated_alias_path": "home/index.html",
-    "canonical_target": "/index.html",
+    "canonical_target": "/",
     "reason": "legacy_redirect",
     "noindex_status": "noindex"
   },
@@ -205,7 +198,7 @@
   {
     "old_url": "/price-list-1",
     "generated_alias_path": "price-list-1/index.html",
-    "canonical_target": "/services/price-list-1.html",
+    "canonical_target": "/piercing/",
     "reason": "legacy_redirect",
     "noindex_status": "noindex"
   },
@@ -1106,20 +1099,6 @@
     "noindex_status": "noindex"
   },
   {
-    "old_url": "/reviews",
-    "generated_alias_path": "reviews/index.html",
-    "canonical_target": "/services/reviews.html",
-    "reason": "legacy_redirect",
-    "noindex_status": "noindex"
-  },
-  {
-    "old_url": "/smoke-shop",
-    "generated_alias_path": "smoke-shop/index.html",
-    "canonical_target": "/services/smoke-shop.html",
-    "reason": "legacy_redirect",
-    "noindex_status": "noindex"
-  },
-  {
     "old_url": "/tank",
     "generated_alias_path": "tank/index.html",
     "canonical_target": "/artists/tank.html",
@@ -1129,7 +1108,7 @@
   {
     "old_url": "/toothgems",
     "generated_alias_path": "toothgems/index.html",
-    "canonical_target": "/services/toothgems.html",
+    "canonical_target": "/tooth-gems/",
     "reason": "legacy_redirect",
     "noindex_status": "noindex"
   },

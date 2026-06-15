@@ -236,11 +236,18 @@
     const clear = $("#product-clear-filters");
     if (!filterList || !grid) return;
 
+    const scopeCategories = (grid.dataset.productScope || grid.closest(".product-catalog")?.dataset.productScope || "")
+      .split("|")
+      .map((item) => item.trim())
+      .filter(Boolean);
+    const scopedProducts = scopeCategories.length
+      ? data.products.filter((product) => scopeCategories.includes(product.category))
+      : data.products;
     const categories = CATEGORY_ORDER.map((category) => ({
       category,
-      total: data.products.filter((product) => product.category === category).length,
+      total: scopedProducts.filter((product) => product.category === category).length,
     })).filter((item) => item.total);
-    const filters = [{ category: "All", total: data.products.length }, ...categories];
+    const filters = [{ category: "All", total: scopedProducts.length }, ...categories];
     let active = "All";
     let query = "";
     let sortMode = "category-name";
@@ -300,10 +307,10 @@
 
     const render = () => {
       const products = sortProducts(
-        data.products.filter((item) => (active === "All" || item.category === active) && productMatches(item))
+        scopedProducts.filter((item) => (active === "All" || item.category === active) && productMatches(item))
       );
       if (count) {
-        count.textContent = `Showing ${products.length} of ${data.products.length} products`;
+        count.textContent = `Showing ${products.length} of ${scopedProducts.length} products`;
       }
       if (clear) clear.hidden = active === "All" && !query && sortMode === "category-name";
       grid.innerHTML = products.length
@@ -377,7 +384,9 @@
     const filterList = $("#guide-filter-list");
     const grid = $("#guide-library-grid");
     const count = $("#guide-count");
-    if (!filterList || !grid) return;
+    if (!grid) return;
+    const previewLimit = Number(grid.dataset.guideLimit || 0);
+    const previewMode = previewLimit > 0;
 
     const categoryCounts = data.guides.reduce((acc, guide) => {
       acc.set(guide.category, (acc.get(guide.category) || 0) + 1);
@@ -387,32 +396,37 @@
     categoryCounts.forEach((total, category) => filters.push({ label: category, value: category, total }));
     let active = "All";
     let expanded = !isMobileLayout();
-    const expandButton = ensureExpandButton(grid, "guide-expand-toggle");
+    const expandButton = previewMode ? null : ensureExpandButton(grid, "guide-expand-toggle");
 
-    filterList.innerHTML = filters
-      .map(
-        (filter) => `
+    if (filterList) {
+      filterList.innerHTML = filters
+        .map(
+          (filter) => `
           <button type="button" data-guide-filter="${escapeHtml(filter.value)}" aria-pressed="${filter.value === active}">
             ${escapeHtml(filter.label)}
             <span>${escapeHtml(filter.total)}</span>
           </button>
         `
-      )
-      .join("");
+        )
+        .join("");
+    }
 
     const render = () => {
       const guides = active === "All" ? data.guides : data.guides.filter((guide) => guide.category === active);
       const compact = isMobileLayout() && !expanded;
-      const visibleGuides = compact ? guides.slice(0, GUIDE_MOBILE_LIMIT) : guides;
+      const visibleGuides = previewMode ? guides.slice(0, previewLimit) : compact ? guides.slice(0, GUIDE_MOBILE_LIMIT) : guides;
       if (count) {
-        count.textContent =
-          visibleGuides.length === guides.length
-            ? `${guides.length} guide ${guides.length === 1 ? "record" : "records"} shown`
-            : `${visibleGuides.length} of ${guides.length} guide records shown`;
+        count.textContent = previewMode
+          ? `Latest ${visibleGuides.length} posts`
+          : visibleGuides.length === guides.length
+          ? `${guides.length} guide ${guides.length === 1 ? "record" : "records"} shown`
+          : `${visibleGuides.length} of ${guides.length} guide records shown`;
       }
-      expandButton.hidden = !isMobileLayout() || guides.length <= GUIDE_MOBILE_LIMIT;
-      expandButton.textContent = expanded ? "Show fewer guides" : `Show all ${guides.length} guide records`;
-      expandButton.setAttribute("aria-expanded", String(expanded));
+      if (expandButton) {
+        expandButton.hidden = !isMobileLayout() || guides.length <= GUIDE_MOBILE_LIMIT;
+        expandButton.textContent = expanded ? "Show fewer guides" : `Show all ${guides.length} guide records`;
+        expandButton.setAttribute("aria-expanded", String(expanded));
+      }
       grid.innerHTML = visibleGuides
         .map(
           (guide) => `
@@ -431,7 +445,7 @@
       refreshLayout();
     };
 
-    filterList.addEventListener("click", (event) => {
+    filterList?.addEventListener("click", (event) => {
       const button = event.target.closest("[data-guide-filter]");
       if (!button) return;
       active = button.dataset.guideFilter;
@@ -441,7 +455,7 @@
       });
       render();
     });
-    expandButton.addEventListener("click", () => {
+    expandButton?.addEventListener("click", () => {
       expanded = !expanded;
       render();
     });

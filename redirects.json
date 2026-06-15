@@ -1,21 +1,21 @@
 [
   {
     "source": "/artist",
-    "target": "/artists/index.html",
+    "target": "/artists/",
     "status": "rebuilt section page",
     "route": "artist.html",
     "type": "static_page"
   },
   {
     "source": "/blog/categories/getting-started",
-    "target": "/blog/index.html",
+    "target": "/blog/",
     "status": "redirect to rebuilt destination",
     "route": "blog/categories/getting-started.html",
     "type": "blog_category"
   },
   {
     "source": "/blog/categories/your-community",
-    "target": "/blog/index.html",
+    "target": "/blog/",
     "status": "redirect to rebuilt destination",
     "route": "blog/categories/your-community.html",
     "type": "blog_category"
@@ -50,15 +50,15 @@
   },
   {
     "source": "/blog",
-    "target": "/blog/index.html",
+    "target": "/blog/",
     "status": "rebuilt section page",
     "route": "blog.html",
     "type": "blog_index"
   },
   {
     "source": "/bodypiercing",
-    "target": "/services/bodypiercing.html",
-    "status": "rebuilt detail page",
+    "target": "/piercing/",
+    "status": "rebuilt section page",
     "route": "bodypiercing.html",
     "type": "static_page"
   },
@@ -78,28 +78,28 @@
   },
   {
     "source": "/faq",
-    "target": "/services/faq.html",
-    "status": "rebuilt detail page",
+    "target": "/faq/",
+    "status": "rebuilt section page",
     "route": "faq.html",
     "type": "static_page"
   },
   {
     "source": "/gallery",
-    "target": "/services/gallery.html",
-    "status": "rebuilt detail page",
+    "target": "/tattoo/",
+    "status": "rebuilt section page",
     "route": "gallery.html",
     "type": "static_page"
   },
   {
     "source": "/home",
-    "target": "/index.html",
+    "target": "/",
     "status": "rebuilt primary page",
     "route": "home.html",
     "type": "static_page"
   },
   {
     "source": "/",
-    "target": "/index.html",
+    "target": "/",
     "status": "rebuilt primary page",
     "route": "index.html",
     "type": "static_page"
@@ -218,8 +218,8 @@
   },
   {
     "source": "/price-list-1",
-    "target": "/services/price-list-1.html",
-    "status": "rebuilt detail page",
+    "target": "/piercing/",
+    "status": "rebuilt section page",
     "route": "price-list-1.html",
     "type": "static_page"
   },
@@ -1121,64 +1121,64 @@
   },
   {
     "source": "/reviews",
-    "target": "/services/reviews.html",
-    "status": "rebuilt detail page",
+    "target": "/reviews/",
+    "status": "rebuilt section page",
     "route": "reviews.html",
     "type": "static_page"
   },
   {
     "source": "/shop?page=4",
-    "target": "/shop/index.html",
+    "target": "/shop/",
     "status": "redirect to rebuilt destination",
     "route": "shop.11a4aa134b.html",
     "type": "shop_page"
   },
   {
     "source": "/shop?page=5",
-    "target": "/shop/index.html",
+    "target": "/shop/",
     "status": "redirect to rebuilt destination",
     "route": "shop.1d9c95299e.html",
     "type": "shop_page"
   },
   {
     "source": "/shop?page=3",
-    "target": "/shop/index.html",
+    "target": "/shop/",
     "status": "redirect to rebuilt destination",
     "route": "shop.6066c9f139.html",
     "type": "shop_page"
   },
   {
     "source": "/shop?page=6",
-    "target": "/shop/index.html",
+    "target": "/shop/",
     "status": "redirect to rebuilt destination",
     "route": "shop.68c4a30e84.html",
     "type": "shop_page"
   },
   {
     "source": "/shop?page=2",
-    "target": "/shop/index.html",
+    "target": "/shop/",
     "status": "redirect to rebuilt destination",
     "route": "shop.b941a131dc.html",
     "type": "shop_page"
   },
   {
     "source": "/shop?page=7",
-    "target": "/shop/index.html",
+    "target": "/shop/",
     "status": "redirect to rebuilt destination",
     "route": "shop.e397427b93.html",
     "type": "shop_page"
   },
   {
     "source": "/shop",
-    "target": "/shop/index.html",
+    "target": "/shop/",
     "status": "rebuilt section page",
     "route": "shop.html",
     "type": "shop_page"
   },
   {
     "source": "/smoke-shop",
-    "target": "/services/smoke-shop.html",
-    "status": "rebuilt detail page",
+    "target": "/smoke-shop/",
+    "status": "rebuilt section page",
     "route": "smoke-shop.html",
     "type": "static_page"
   },
@@ -1191,8 +1191,8 @@
   },
   {
     "source": "/toothgems",
-    "target": "/services/toothgems.html",
-    "status": "rebuilt detail page",
+    "target": "/tooth-gems/",
+    "status": "rebuilt section page",
     "route": "toothgems.html",
     "type": "static_page"
   }
