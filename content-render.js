@@ -80,6 +80,52 @@
     });
   }
 
+  function productImageDimensions(product) {
+    return {
+      width: Number(product.canonicalAssetWidth || product.imageWidth || 0),
+      height: Number(product.canonicalAssetHeight || product.imageHeight || 0),
+    };
+  }
+
+  function fitProductCardImages(scope = document) {
+    window.requestAnimationFrame(() => {
+      scope.querySelectorAll(".product-card[data-image-width][data-image-height]").forEach((card) => {
+        const img = card.querySelector(":scope > img");
+        if (!img) return;
+        const sourceWidth = Number(card.dataset.imageWidth || img.naturalWidth || 0);
+        const sourceHeight = Number(card.dataset.imageHeight || img.naturalHeight || 0);
+        if (!sourceWidth || !sourceHeight) {
+          card.dataset.imageFit = "dimension-missing";
+          return;
+        }
+        const boxWidth = card.clientWidth;
+        const mediaHeight = parseFloat(getComputedStyle(card).getPropertyValue("--card-media-height")) || img.clientHeight;
+        if (!boxWidth || !mediaHeight) return;
+        const sourceAspect = sourceHeight / sourceWidth;
+        if (sourceAspect < 1.2) {
+          img.style.removeProperty("--card-image-width");
+          img.style.removeProperty("--card-image-height");
+          card.dataset.imageFit = "cover";
+          return;
+        }
+        const coverHeight = boxWidth * sourceAspect;
+        const overflow = coverHeight - mediaHeight;
+        if (overflow <= mediaHeight * 0.08) {
+          img.style.removeProperty("--card-image-width");
+          img.style.removeProperty("--card-image-height");
+          card.dataset.imageFit = "cover";
+          return;
+        }
+        const targetHeight = mediaHeight + overflow * 0.2;
+        const minWidth = boxWidth * 0.82;
+        const targetWidth = Math.max(minWidth, Math.min(boxWidth, targetHeight / sourceAspect));
+        img.style.setProperty("--card-image-width", `${(targetWidth / boxWidth * 100).toFixed(2)}%`);
+        img.style.setProperty("--card-image-height", `${Math.max(mediaHeight, targetWidth * sourceAspect).toFixed(2)}px`);
+        card.dataset.imageFit = targetWidth < boxWidth * 0.98 ? "adjusted" : "cover";
+      });
+    });
+  }
+
   function ensureExpandButton(anchor, id) {
     let button = document.getElementById(id);
     if (!button) {
@@ -263,8 +309,10 @@
       grid.innerHTML = products.length
         ? products
         .map(
-          (product) => `
-            <a class="product-card hover-lift is-visible" data-category="${escapeHtml(normalizeKey(product.category))}" href="${escapeHtml(rebuildPath(product.destinationPath))}">
+          (product) => {
+            const dimensions = productImageDimensions(product);
+            return `
+            <a class="product-card hover-lift is-visible" data-category="${escapeHtml(normalizeKey(product.category))}" data-image-width="${dimensions.width}" data-image-height="${dimensions.height}" href="${escapeHtml(rebuildPath(product.destinationPath))}">
               <img src="${escapeHtml(assetPath(product.image))}" alt="${escapeHtml(product.title)}" loading="lazy" />
               <div>
                 <span>${escapeHtml(CATEGORY_LABELS[product.category] || product.categoryLabel)}</span>
@@ -276,10 +324,12 @@
                 </div>
               </div>
             </a>
-          `
+          `;
+          }
         )
         .join("")
         : `<article class="product-card is-visible"><div><span>No matches</span><h3>No products match these filters.</h3><p>Clear filters to return to the full catalog.</p><button class="button secondary" type="button" data-clear-empty>Clear filters</button></div></article>`;
+      fitProductCardImages(grid);
       refreshLayout();
     };
 
@@ -437,4 +487,5 @@
   } else {
     init();
   }
+  window.addEventListener("resize", () => fitProductCardImages(document), { passive: true });
 })();

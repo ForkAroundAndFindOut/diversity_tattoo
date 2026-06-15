@@ -960,6 +960,8 @@ def build_data() -> tuple[dict, list[dict[str, str]], list[dict[str, str]], dict
                     "canonicalImageSource": str(manifest_row.get("canonical_image_source", "")) if manifest_row else "",
                     "canonicalAssetPath": rebuild_asset_path(str(manifest_row.get("local_canonical_asset_path", ""))) if manifest_row else "",
                     "imageSourceUrl": str(manifest_row.get("canonical_image_url", "")) if manifest_row else "",
+                    "canonicalAssetWidth": safe_int(str(manifest_row.get("asset_width", ""))) if manifest_row else 0,
+                    "canonicalAssetHeight": safe_int(str(manifest_row.get("asset_height", ""))) if manifest_row else 0,
                     "assetMatchStatus": str(manifest_row.get("asset_match_status", "")) if manifest_row else "",
                     "contentStatus": str(manifest_row.get("content_status", "")) if manifest_row else "",
                 }
@@ -1829,6 +1831,8 @@ def public_runtime_data(data: dict) -> dict:
                 "isInStock",
                 "imageWidth",
                 "imageHeight",
+                "canonicalAssetWidth",
+                "canonicalAssetHeight",
                 "imageBytes",
                 "imageSourceStatus",
                 "bodyHtml",

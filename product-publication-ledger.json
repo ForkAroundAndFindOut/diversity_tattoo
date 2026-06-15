@@ -15,7 +15,7 @@
     "image_width": 217,
     "image_height": 300,
     "image_bytes": 24465,
-    "image_source_status": "downloaded"
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/ascent-oil-jars.html",
@@ -30,9 +30,9 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/ascent-oil-jars/ascent-oil-jars.jpg",
-    "image_width": 500,
-    "image_height": 375,
-    "image_bytes": 33749,
+    "image_width": 1280,
+    "image_height": 960,
+    "image_bytes": 193827,
     "image_source_status": "local"
   },
   {
@@ -48,9 +48,9 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/ascentst-g-adapter/ascentst-g-adapter.jpg",
-    "image_width": 500,
-    "image_height": 375,
-    "image_bytes": 31531,
+    "image_width": 1280,
+    "image_height": 960,
+    "image_bytes": 192752,
     "image_source_status": "local"
   },
   {
@@ -66,9 +66,9 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/ascentst-u-adapter/ascentst-u-adapter.jpg",
-    "image_width": 500,
-    "image_height": 375,
-    "image_bytes": 34521,
+    "image_width": 1280,
+    "image_height": 960,
+    "image_bytes": 196101,
     "image_source_status": "local"
   },
   {
@@ -84,10 +84,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/assisted-dug-cut/assisted-dug-cut.jpg",
-    "image_width": 280,
-    "image_height": 500,
-    "image_bytes": 40737,
-    "image_source_status": "downloaded"
+    "image_width": 1079,
+    "image_height": 1920,
+    "image_bytes": 349487,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/asvape-michael-box.html",
@@ -102,9 +102,9 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/asvape-michael-box/asvape-michael-box.jpg",
-    "image_width": 500,
-    "image_height": 500,
-    "image_bytes": 46351,
+    "image_width": 800,
+    "image_height": 800,
+    "image_bytes": 98195,
     "image_source_status": "local"
   },
   {
@@ -120,9 +120,9 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/atmos-grinder/atmos-grinder.jpg",
-    "image_width": 500,
-    "image_height": 375,
-    "image_bytes": 48395,
+    "image_width": 1280,
+    "image_height": 960,
+    "image_bytes": 251087,
     "image_source_status": "local"
   },
   {
@@ -138,9 +138,9 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/atmosnail/atmosnail.png",
-    "image_width": 500,
-    "image_height": 309,
-    "image_bytes": 220668,
+    "image_width": 1006,
+    "image_height": 622,
+    "image_bytes": 113828,
     "image_source_status": "local"
   },
   {
@@ -156,9 +156,9 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/badwood-g-pen/badwood-g-pen.jpeg",
-    "image_width": 500,
-    "image_height": 333,
-    "image_bytes": 40846,
+    "image_width": 1024,
+    "image_height": 682,
+    "image_bytes": 126466,
     "image_source_status": "local"
   },
   {
@@ -174,10 +174,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/bb-st-0g-5-8/bb-st-0g-5-8.jpg",
-    "image_width": 500,
-    "image_height": 319,
-    "image_bytes": 62091,
-    "image_source_status": "downloaded"
+    "image_width": 1567,
+    "image_height": 1000,
+    "image_bytes": 955300,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/bb-st-10g-1-2.html",
@@ -246,9 +246,9 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/bb-st-12g-5-8/bb-st-12g-5-8.jpg",
-    "image_width": 500,
-    "image_height": 500,
-    "image_bytes": 5595,
+    "image_width": 675,
+    "image_height": 675,
+    "image_bytes": 8578,
     "image_source_status": "local"
   },
   {
@@ -285,7 +285,7 @@
     "image_width": 500,
     "image_height": 500,
     "image_bytes": 29471,
-    "image_source_status": "downloaded"
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/bb-st-14g-7-8.html",
@@ -318,9 +318,9 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/bb-st-2g-5-8/bb-st-2g-5-8.jpg",
-    "image_width": 299,
-    "image_height": 323,
-    "image_bytes": 4572,
+    "image_width": 1995,
+    "image_height": 2154,
+    "image_bytes": 2018307,
     "image_source_status": "local"
   },
   {
@@ -336,10 +336,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/bb-st-6g-5-8/bb-st-6g-5-8.jpg",
-    "image_width": 500,
-    "image_height": 500,
-    "image_bytes": 6247,
-    "image_source_status": "downloaded"
+    "image_width": 675,
+    "image_height": 675,
+    "image_bytes": 9389,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/bubbler.html",
@@ -354,10 +354,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/bubbler/bubbler.jpg",
-    "image_width": 376,
-    "image_height": 500,
-    "image_bytes": 74881,
-    "image_source_status": "downloaded"
+    "image_width": 1080,
+    "image_height": 1433,
+    "image_bytes": 352684,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/cbb-st-10g-1-2-cone.html",
@@ -372,10 +372,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/cbb-st-10g-1-2-cone/cbb-st-10g-1-2-cone.jpg",
-    "image_width": 460,
-    "image_height": 499,
-    "image_bytes": 22156,
-    "image_source_status": "downloaded"
+    "image_width": 654,
+    "image_height": 710,
+    "image_bytes": 35714,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/cbb-st-10g-1-2-reg-ball.html",
@@ -390,10 +390,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/cbb-st-10g-1-2-reg-ball/cbb-st-10g-1-2-reg-ball.jpg",
-    "image_width": 383,
-    "image_height": 500,
-    "image_bytes": 24423,
-    "image_source_status": "downloaded"
+    "image_width": 810,
+    "image_height": 1055,
+    "image_bytes": 68535,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/cbb-st-12g-3-8-cone.html",
@@ -408,10 +408,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/cbb-st-12g-3-8-cone/cbb-st-12g-3-8-cone.jpg",
-    "image_width": 460,
-    "image_height": 499,
-    "image_bytes": 22156,
-    "image_source_status": "downloaded"
+    "image_width": 654,
+    "image_height": 710,
+    "image_bytes": 35714,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/cbb-st-12g-7-16-gem-reg-clear.html",
@@ -426,10 +426,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/cbb-st-12g-7-16-gem-reg-clear/cbb-st-12g-7-16-gem-reg-clear.jpg",
-    "image_width": 383,
-    "image_height": 500,
-    "image_bytes": 24423,
-    "image_source_status": "downloaded"
+    "image_width": 810,
+    "image_height": 1055,
+    "image_bytes": 68535,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/cbr-st-10g-1-2-gem-ball-clear.html",
@@ -444,10 +444,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/cbr-st-10g-1-2-gem-ball-clear/cbr-st-10g-1-2-gem-ball-clear.jpg",
-    "image_width": 466,
-    "image_height": 500,
-    "image_bytes": 25535,
-    "image_source_status": "downloaded"
+    "image_width": 906,
+    "image_height": 971,
+    "image_bytes": 63655,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/cbr-st-12g-1-2-1.html",
@@ -462,10 +462,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/cbr-st-12g-1-2-1/cbr-st-12g-1-2-1.jpg",
-    "image_width": 466,
-    "image_height": 500,
-    "image_bytes": 25535,
-    "image_source_status": "downloaded"
+    "image_width": 906,
+    "image_height": 971,
+    "image_bytes": 63655,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/cbr-st-12g-1-2-gem-ball-clear.html",
@@ -480,10 +480,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/cbr-st-12g-1-2-gem-ball-clear/cbr-st-12g-1-2-gem-ball-clear.jpg",
-    "image_width": 466,
-    "image_height": 500,
-    "image_bytes": 25535,
-    "image_source_status": "downloaded"
+    "image_width": 906,
+    "image_height": 971,
+    "image_bytes": 63655,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/cbr-st-12g-1-2.html",
@@ -516,10 +516,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/cbr-st-12g-3-8/cbr-st-12g-3-8.jpg",
-    "image_width": 466,
-    "image_height": 500,
-    "image_bytes": 25535,
-    "image_source_status": "downloaded"
+    "image_width": 906,
+    "image_height": 971,
+    "image_bytes": 63655,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/cbr-st-12g-5-8-1.html",
@@ -534,10 +534,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/cbr-st-12g-5-8-1/cbr-st-12g-5-8-1.jpg",
-    "image_width": 466,
-    "image_height": 500,
-    "image_bytes": 25535,
-    "image_source_status": "downloaded"
+    "image_width": 906,
+    "image_height": 971,
+    "image_bytes": 63655,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/cbr-st-12g-5-8.html",
@@ -570,10 +570,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/cbr-st-12g-7-16-1/cbr-st-12g-7-16-1.jpg",
-    "image_width": 466,
-    "image_height": 500,
-    "image_bytes": 25535,
-    "image_source_status": "downloaded"
+    "image_width": 906,
+    "image_height": 971,
+    "image_bytes": 63655,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/cbr-st-12g-7-16.html",
@@ -606,10 +606,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/cbr-st-8g-1-2-gem-ball-clear/cbr-st-8g-1-2-gem-ball-clear.jpg",
-    "image_width": 466,
-    "image_height": 500,
-    "image_bytes": 25535,
-    "image_source_status": "downloaded"
+    "image_width": 906,
+    "image_height": 971,
+    "image_bytes": 63655,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/clear-hit-1.html",
@@ -624,10 +624,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/clear-hit-1/clear-hit-1.jpg",
-    "image_width": 500,
-    "image_height": 342,
-    "image_bytes": 45074,
-    "image_source_status": "downloaded"
+    "image_width": 1215,
+    "image_height": 832,
+    "image_bytes": 177367,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/clear-hit.html",
@@ -642,10 +642,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/clear-hit/clear-hit.jpg",
-    "image_width": 500,
-    "image_height": 300,
-    "image_bytes": 39772,
-    "image_source_status": "downloaded"
+    "image_width": 1242,
+    "image_height": 747,
+    "image_bytes": 162955,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/copy-of-atmos-nail.html",
@@ -696,10 +696,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/copy-of-glass-pipe/copy-of-glass-pipe.jpg",
-    "image_width": 280,
-    "image_height": 500,
-    "image_bytes": 45917,
-    "image_source_status": "downloaded"
+    "image_width": 1079,
+    "image_height": 1920,
+    "image_bytes": 439514,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/detoxify-ever-clean.html",
@@ -717,7 +717,7 @@
     "image_width": 450,
     "image_height": 450,
     "image_bytes": 25251,
-    "image_source_status": "downloaded"
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/detoxify-green-clean.html",
@@ -771,7 +771,7 @@
     "image_width": 225,
     "image_height": 225,
     "image_bytes": 14861,
-    "image_source_status": "downloaded"
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/detoxify-mighty-clean.html",
@@ -786,9 +786,9 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/detoxify-mighty-clean/detoxify-mighty-clean.jpeg",
-    "image_width": 198,
-    "image_height": 198,
-    "image_bytes": 7380,
+    "image_width": 450,
+    "image_height": 450,
+    "image_bytes": 28915,
     "image_source_status": "local"
   },
   {
@@ -843,7 +843,7 @@
     "image_width": 225,
     "image_height": 225,
     "image_bytes": 19783,
-    "image_source_status": "downloaded"
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/dr-dabber-switch.html",
@@ -858,9 +858,9 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/dr-dabber-switch/dr-dabber-switch.jpg",
-    "image_width": 394,
-    "image_height": 234,
-    "image_bytes": 9017,
+    "image_width": 1000,
+    "image_height": 600,
+    "image_bytes": 49944,
     "image_source_status": "local"
   },
   {
@@ -879,7 +879,7 @@
     "image_width": 225,
     "image_height": 225,
     "image_bytes": 9449,
-    "image_source_status": "downloaded"
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/dr-greens-field-kit.html",
@@ -912,9 +912,9 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/e-cig-hibron-h10/e-cig-hibron-h10.jpg",
-    "image_width": 417,
-    "image_height": 499,
-    "image_bytes": 39006,
+    "image_width": 729,
+    "image_height": 873,
+    "image_bytes": 96721,
     "image_source_status": "local"
   },
   {
@@ -930,9 +930,9 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/e-pipe-mod/e-pipe-mod.jpg",
-    "image_width": 485,
-    "image_height": 500,
-    "image_bytes": 50544,
+    "image_width": 853,
+    "image_height": 878,
+    "image_bytes": 140036,
     "image_source_status": "local"
   },
   {
@@ -948,10 +948,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/evolve-d-dry-herb-pen-from-yocan/evolve-d-dry-herb-pen-from-yocan.jpg",
-    "image_width": 280,
-    "image_height": 500,
-    "image_bytes": 26291,
-    "image_source_status": "downloaded"
+    "image_width": 1079,
+    "image_height": 1920,
+    "image_bytes": 204653,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/g-pen-slim-quartz.html",
@@ -966,10 +966,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/g-pen-slim-quartz/g-pen-slim-quartz.jpg",
-    "image_width": 281,
-    "image_height": 500,
-    "image_bytes": 36763,
-    "image_source_status": "downloaded"
+    "image_width": 1080,
+    "image_height": 1920,
+    "image_bytes": 275310,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/glass-pipe-1.html",
@@ -984,10 +984,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/glass-pipe-1/glass-pipe-1.jpg",
-    "image_width": 280,
-    "image_height": 500,
-    "image_bytes": 53145,
-    "image_source_status": "downloaded"
+    "image_width": 1079,
+    "image_height": 1920,
+    "image_bytes": 483604,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/glass-pipe-2.html",
@@ -1002,10 +1002,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/glass-pipe-2/glass-pipe-2.jpg",
-    "image_width": 500,
-    "image_height": 280,
-    "image_bytes": 50279,
-    "image_source_status": "downloaded"
+    "image_width": 1920,
+    "image_height": 1079,
+    "image_bytes": 435058,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/glass-pipe.html",
@@ -1020,10 +1020,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/glass-pipe/glass-pipe.jpg",
-    "image_width": 500,
-    "image_height": 280,
-    "image_bytes": 52495,
-    "image_source_status": "downloaded"
+    "image_width": 1920,
+    "image_height": 1079,
+    "image_bytes": 468358,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/grinder-rasta.html",
@@ -1038,10 +1038,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/grinder-rasta/grinder-rasta.jpg",
-    "image_width": 280,
-    "image_height": 500,
-    "image_bytes": 41277,
-    "image_source_status": "downloaded"
+    "image_width": 1079,
+    "image_height": 1920,
+    "image_bytes": 344493,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/grinder-sm-metal.html",
@@ -1056,10 +1056,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/grinder-sm-metal/grinder-sm-metal.jpg",
-    "image_width": 280,
-    "image_height": 500,
-    "image_bytes": 35888,
-    "image_source_status": "downloaded"
+    "image_width": 1079,
+    "image_height": 1920,
+    "image_bytes": 265648,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/grinder-sm-plastic.html",
@@ -1074,10 +1074,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/grinder-sm-plastic/grinder-sm-plastic.jpg",
-    "image_width": 280,
-    "image_height": 500,
-    "image_bytes": 52665,
-    "image_source_status": "downloaded"
+    "image_width": 1079,
+    "image_height": 1920,
+    "image_bytes": 454510,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/grinder.html",
@@ -1092,10 +1092,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/grinder/grinder.jpg",
-    "image_width": 280,
-    "image_height": 500,
-    "image_bytes": 40882,
-    "image_source_status": "downloaded"
+    "image_width": 1079,
+    "image_height": 1920,
+    "image_bytes": 351637,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/high-voltage-2-pk-32-oz.html",
@@ -1110,10 +1110,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/high-voltage-2-pk-32-oz/high-voltage-2-pk-32-oz.jpg",
-    "image_width": 500,
-    "image_height": 500,
-    "image_bytes": 101390,
-    "image_source_status": "downloaded"
+    "image_width": 800,
+    "image_height": 800,
+    "image_bytes": 176655,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/high-voltage-double-flush.html",
@@ -1128,9 +1128,9 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/high-voltage-double-flush/high-voltage-double-flush.jpg",
-    "image_width": 198,
-    "image_height": 198,
-    "image_bytes": 21437,
+    "image_width": 400,
+    "image_height": 240,
+    "image_bytes": 38695,
     "image_source_status": "local"
   },
   {
@@ -1149,7 +1149,7 @@
     "image_width": 480,
     "image_height": 480,
     "image_bytes": 46897,
-    "image_source_status": "downloaded"
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/high-voltage-permanent-tropical-5-day-cleanse.html",
@@ -1167,7 +1167,7 @@
     "image_width": 366,
     "image_height": 500,
     "image_bytes": 65583,
-    "image_source_status": "downloaded"
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/high-voltage-regular-strength-16-oz.html",
@@ -1182,9 +1182,9 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/high-voltage-regular-strength-16-oz/high-voltage-regular-strength-16-oz.jpg",
-    "image_width": 198,
-    "image_height": 198,
-    "image_bytes": 19011,
+    "image_width": 400,
+    "image_height": 400,
+    "image_bytes": 65665,
     "image_source_status": "local"
   },
   {
@@ -1218,10 +1218,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/high-voltage-xl-shot/high-voltage-xl-shot.jpg",
-    "image_width": 500,
-    "image_height": 500,
-    "image_bytes": 90172,
-    "image_source_status": "downloaded"
+    "image_width": 1000,
+    "image_height": 1000,
+    "image_bytes": 213078,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/hip-vape.html",
@@ -1236,9 +1236,9 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/hip-vape/hip-vape.jpg",
-    "image_width": 500,
-    "image_height": 443,
-    "image_bytes": 47268,
+    "image_width": 1012,
+    "image_height": 898,
+    "image_bytes": 180637,
     "image_source_status": "local"
   },
   {
@@ -1254,10 +1254,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/hookah-coals/hookah-coals.jpg",
-    "image_width": 420,
-    "image_height": 500,
-    "image_bytes": 96392,
-    "image_source_status": "downloaded"
+    "image_width": 1080,
+    "image_height": 1284,
+    "image_bytes": 285879,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/i-o-lite-vaporizer.html",
@@ -1272,10 +1272,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/i-o-lite-vaporizer/i-o-lite-vaporizer.jpg",
-    "image_width": 500,
-    "image_height": 251,
-    "image_bytes": 39396,
-    "image_source_status": "downloaded"
+    "image_width": 1080,
+    "image_height": 544,
+    "image_bytes": 116040,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/just-chill-jungle.html",
@@ -1290,9 +1290,9 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/just-chill-jungle/just-chill-jungle.jpg",
-    "image_width": 337,
-    "image_height": 500,
-    "image_bytes": 57319,
+    "image_width": 970,
+    "image_height": 1438,
+    "image_bytes": 388063,
     "image_source_status": "local"
   },
   {
@@ -1326,10 +1326,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/k-stick-supreme/k-stick-supreme.jpg",
-    "image_width": 281,
-    "image_height": 500,
-    "image_bytes": 47907,
-    "image_source_status": "downloaded"
+    "image_width": 1080,
+    "image_height": 1920,
+    "image_bytes": 378104,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/kamry-30-box.html",
@@ -1344,10 +1344,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/kamry-30-box/kamry-30-box.jpeg",
-    "image_width": 281,
-    "image_height": 500,
-    "image_bytes": 24673,
-    "image_source_status": "downloaded"
+    "image_width": 1080,
+    "image_height": 1920,
+    "image_bytes": 269836,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/levo-ii.html",
@@ -1362,9 +1362,9 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/levo-ii/levo-ii.png",
-    "image_width": 350,
-    "image_height": 350,
-    "image_bytes": 69625,
+    "image_width": 800,
+    "image_height": 800,
+    "image_bytes": 35761,
     "image_source_status": "local"
   },
   {
@@ -1380,10 +1380,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/metal-pipe/metal-pipe.jpg",
-    "image_width": 280,
-    "image_height": 500,
-    "image_bytes": 38427,
-    "image_source_status": "downloaded"
+    "image_width": 1079,
+    "image_height": 1920,
+    "image_bytes": 350035,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/mini-2-hose-hookah.html",
@@ -1398,10 +1398,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/mini-2-hose-hookah/mini-2-hose-hookah.jpg",
-    "image_width": 280,
-    "image_height": 500,
-    "image_bytes": 54391,
-    "image_source_status": "downloaded"
+    "image_width": 1079,
+    "image_height": 1920,
+    "image_bytes": 417841,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/nail-crown-silk-lblue.html",
@@ -1416,9 +1416,9 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/nail-crown-silk-lblue/nail-crown-silk-lblue.jpg",
-    "image_width": 500,
-    "image_height": 375,
-    "image_bytes": 38817,
+    "image_width": 1280,
+    "image_height": 960,
+    "image_bytes": 207197,
     "image_source_status": "local"
   },
   {
@@ -1434,10 +1434,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/naked-vape-juice/naked-vape-juice.jpg",
-    "image_width": 280,
-    "image_height": 500,
-    "image_bytes": 35709,
-    "image_source_status": "downloaded"
+    "image_width": 1079,
+    "image_height": 1920,
+    "image_bytes": 256007,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/nano-nbw-waxy-kit.html",
@@ -1452,10 +1452,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/nano-nbw-waxy-kit/nano-nbw-waxy-kit.jpg",
-    "image_width": 281,
-    "image_height": 500,
-    "image_bytes": 53210,
-    "image_source_status": "downloaded"
+    "image_width": 1080,
+    "image_height": 1920,
+    "image_bytes": 335655,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/p-sure.html",
@@ -1470,10 +1470,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/p-sure/p-sure.png",
-    "image_width": 353,
-    "image_height": 500,
-    "image_bytes": 328980,
-    "image_source_status": "downloaded"
+    "image_width": 404,
+    "image_height": 572,
+    "image_bytes": 63613,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/pax-3.html",
@@ -1488,10 +1488,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/pax-3/pax-3.jpg",
-    "image_width": 420,
-    "image_height": 500,
-    "image_bytes": 31805,
-    "image_source_status": "downloaded"
+    "image_width": 1080,
+    "image_height": 1284,
+    "image_bytes": 116512,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/phoenix-drip-tip.html",
@@ -1506,10 +1506,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/phoenix-drip-tip/phoenix-drip-tip.jpeg",
-    "image_width": 281,
-    "image_height": 500,
-    "image_bytes": 29461,
-    "image_source_status": "downloaded"
+    "image_width": 1080,
+    "image_height": 1920,
+    "image_bytes": 295234,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/plastic-grinder.html",
@@ -1524,10 +1524,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/plastic-grinder/plastic-grinder.jpg",
-    "image_width": 280,
-    "image_height": 500,
-    "image_bytes": 57968,
-    "image_source_status": "downloaded"
+    "image_width": 1079,
+    "image_height": 1920,
+    "image_bytes": 442313,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/q-carbo-32.html",
@@ -1542,10 +1542,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/q-carbo-32/q-carbo-32.jpg",
-    "image_width": 280,
-    "image_height": 500,
-    "image_bytes": 45271,
-    "image_source_status": "downloaded"
+    "image_width": 1079,
+    "image_height": 1920,
+    "image_bytes": 286673,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/randy-aqua-pilot.html",
@@ -1580,8 +1580,8 @@
     "image": "assets/products/raw-classic-artesano-1/raw-classic-artesano-1.png",
     "image_width": 493,
     "image_height": 327,
-    "image_bytes": 386938,
-    "image_source_status": "downloaded"
+    "image_bytes": 65207,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/raw-classic-king-size-rolls.html",
@@ -1596,10 +1596,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/raw-classic-king-size-rolls/raw-classic-king-size-rolls.png",
-    "image_width": 500,
-    "image_height": 280,
-    "image_bytes": 335182,
-    "image_source_status": "downloaded"
+    "image_width": 671,
+    "image_height": 377,
+    "image_bytes": 110373,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/raw-classic-kingsize-slim.html",
@@ -1614,10 +1614,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/raw-classic-kingsize-slim/raw-classic-kingsize-slim.png",
-    "image_width": 500,
-    "image_height": 125,
-    "image_bytes": 135625,
-    "image_source_status": "downloaded"
+    "image_width": 678,
+    "image_height": 170,
+    "image_bytes": 45996,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/raw-classic-single-wide.html",
@@ -1634,8 +1634,8 @@
     "image": "assets/products/raw-classic-single-wide/raw-classic-single-wide.png",
     "image_width": 445,
     "image_height": 268,
-    "image_bytes": 240773,
-    "image_source_status": "downloaded"
+    "image_bytes": 45966,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/raw-hemp-plastic-roller.html",
@@ -1652,8 +1652,8 @@
     "image": "assets/products/raw-hemp-plastic-roller/raw-hemp-plastic-roller.png",
     "image_width": 459,
     "image_height": 352,
-    "image_bytes": 326729,
-    "image_source_status": "downloaded"
+    "image_bytes": 37008,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/raw-hemp-wick-10ft.html",
@@ -1670,8 +1670,8 @@
     "image": "assets/products/raw-hemp-wick-10ft/raw-hemp-wick-10ft.png",
     "image_width": 435,
     "image_height": 387,
-    "image_bytes": 282094,
-    "image_source_status": "downloaded"
+    "image_bytes": 38121,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/raw-organic-hemp-1.html",
@@ -1688,8 +1688,8 @@
     "image": "assets/products/raw-organic-hemp-1/raw-organic-hemp-1.png",
     "image_width": 495,
     "image_height": 169,
-    "image_bytes": 165914,
-    "image_source_status": "downloaded"
+    "image_bytes": 38629,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/raw-pre-rolled-tips.html",
@@ -1706,8 +1706,8 @@
     "image": "assets/products/raw-pre-rolled-tips/raw-pre-rolled-tips.png",
     "image_width": 446,
     "image_height": 403,
-    "image_bytes": 385351,
-    "image_source_status": "downloaded"
+    "image_bytes": 58148,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/raw-rolling-mat.html",
@@ -1722,10 +1722,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/raw-rolling-mat/raw-rolling-mat.png",
-    "image_width": 500,
-    "image_height": 143,
-    "image_bytes": 103317,
-    "image_source_status": "downloaded"
+    "image_width": 516,
+    "image_height": 148,
+    "image_bytes": 19751,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/small-glass-pipe.html",
@@ -1740,10 +1740,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/small-glass-pipe/small-glass-pipe.jpg",
-    "image_width": 280,
-    "image_height": 500,
-    "image_bytes": 41686,
-    "image_source_status": "downloaded"
+    "image_width": 1079,
+    "image_height": 1920,
+    "image_bytes": 310227,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/snail-lookah.html",
@@ -1758,10 +1758,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/snail-lookah/snail-lookah.jpg",
-    "image_width": 375,
-    "image_height": 500,
-    "image_bytes": 37844,
-    "image_source_status": "downloaded"
+    "image_width": 1080,
+    "image_height": 1440,
+    "image_bytes": 155767,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/stat-1-hr-flush-caps.html",
@@ -1794,10 +1794,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/studs/studs.jpg",
-    "image_width": 500,
-    "image_height": 484,
-    "image_bytes": 89048,
-    "image_source_status": "downloaded"
+    "image_width": 1115,
+    "image_height": 1080,
+    "image_bytes": 240665,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/the-yocan-evolve-dual-quartz-wax-pen.html",
@@ -1812,10 +1812,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/the-yocan-evolve-dual-quartz-wax-pen/the-yocan-evolve-dual-quartz-wax-pen.jpg",
-    "image_width": 500,
-    "image_height": 454,
-    "image_bytes": 54392,
-    "image_source_status": "downloaded"
+    "image_width": 1188,
+    "image_height": 1080,
+    "image_bytes": 185671,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/the-yocan-evolve-plus.html",
@@ -1830,10 +1830,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/the-yocan-evolve-plus/the-yocan-evolve-plus.jpg",
-    "image_width": 389,
-    "image_height": 500,
-    "image_bytes": 50300,
-    "image_source_status": "downloaded"
+    "image_width": 1080,
+    "image_height": 1386,
+    "image_bytes": 221629,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/ultra-eliminex.html",
@@ -1848,10 +1848,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/ultra-eliminex/ultra-eliminex.jpg",
-    "image_width": 267,
-    "image_height": 500,
-    "image_bytes": 41841,
-    "image_source_status": "downloaded"
+    "image_width": 1017,
+    "image_height": 1900,
+    "image_bytes": 292758,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/vapir-oxygen-w-battery.html",
@@ -1866,10 +1866,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/vapir-oxygen-w-battery/vapir-oxygen-w-battery.png",
-    "image_width": 500,
-    "image_height": 357,
-    "image_bytes": 327593,
-    "image_source_status": "downloaded"
+    "image_width": 640,
+    "image_height": 458,
+    "image_bytes": 56924,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/vaporizer-arizer-solo.html",
@@ -1884,10 +1884,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/vaporizer-arizer-solo/vaporizer-arizer-solo.jpeg",
-    "image_width": 281,
-    "image_height": 500,
-    "image_bytes": 30708,
-    "image_source_status": "downloaded"
+    "image_width": 1080,
+    "image_height": 1920,
+    "image_bytes": 263958,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/vitacig.html",
@@ -1902,9 +1902,9 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/vitacig/vitacig.jpg",
-    "image_width": 227,
-    "image_height": 302,
-    "image_bytes": 11955,
+    "image_width": 1512,
+    "image_height": 2016,
+    "image_bytes": 721413,
     "image_source_status": "local"
   },
   {
@@ -1920,10 +1920,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/wp-sillicon-1/wp-sillicon-1.jpg",
-    "image_width": 375,
-    "image_height": 500,
-    "image_bytes": 45093,
-    "image_source_status": "downloaded"
+    "image_width": 1512,
+    "image_height": 2016,
+    "image_bytes": 612408,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/wp-sillicon-10-geometric.html",
@@ -1938,10 +1938,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/wp-sillicon-10-geometric/wp-sillicon-10-geometric.jpg",
-    "image_width": 469,
-    "image_height": 500,
-    "image_bytes": 75275,
-    "image_source_status": "downloaded"
+    "image_width": 1080,
+    "image_height": 1151,
+    "image_bytes": 219212,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/wp-sillicon-2.html",
@@ -1956,10 +1956,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/wp-sillicon-2/wp-sillicon-2.jpg",
-    "image_width": 375,
-    "image_height": 500,
-    "image_bytes": 49214,
-    "image_source_status": "downloaded"
+    "image_width": 1512,
+    "image_height": 2016,
+    "image_bytes": 727939,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/wp-sillicon-elephant.html",
@@ -1974,10 +1974,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/wp-sillicon-elephant/wp-sillicon-elephant.jpg",
-    "image_width": 500,
-    "image_height": 414,
-    "image_bytes": 61535,
-    "image_source_status": "downloaded"
+    "image_width": 1302,
+    "image_height": 1080,
+    "image_bytes": 234220,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/wp-sillicon-glow.html",
@@ -1992,10 +1992,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/wp-sillicon-glow/wp-sillicon-glow.jpg",
-    "image_width": 375,
-    "image_height": 500,
-    "image_bytes": 49720,
-    "image_source_status": "downloaded"
+    "image_width": 1512,
+    "image_height": 2016,
+    "image_bytes": 629336,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/wp-sillicon-heart.html",
@@ -2010,10 +2010,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/wp-sillicon-heart/wp-sillicon-heart.jpg",
-    "image_width": 375,
-    "image_height": 500,
-    "image_bytes": 47465,
-    "image_source_status": "downloaded"
+    "image_width": 1512,
+    "image_height": 2016,
+    "image_bytes": 856335,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/wp-sillicon-jar.html",
@@ -2028,10 +2028,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/wp-sillicon-jar/wp-sillicon-jar.jpg",
-    "image_width": 375,
-    "image_height": 500,
-    "image_bytes": 39640,
-    "image_source_status": "downloaded"
+    "image_width": 1512,
+    "image_height": 2016,
+    "image_bytes": 534579,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/wp-sillicon-l-n-monster.html",
@@ -2046,10 +2046,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/wp-sillicon-l-n-monster/wp-sillicon-l-n-monster.jpg",
-    "image_width": 375,
-    "image_height": 500,
-    "image_bytes": 46364,
-    "image_source_status": "downloaded"
+    "image_width": 1512,
+    "image_height": 2016,
+    "image_bytes": 537883,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/wp-sillicon-pad.html",
@@ -2064,10 +2064,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/wp-sillicon-pad/wp-sillicon-pad.jpg",
-    "image_width": 500,
-    "image_height": 500,
-    "image_bytes": 107923,
-    "image_source_status": "downloaded"
+    "image_width": 1080,
+    "image_height": 1080,
+    "image_bytes": 307832,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/wp-sillicon-pipe-metal.html",
@@ -2082,9 +2082,9 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/wp-sillicon-pipe-metal/wp-sillicon-pipe-metal.jpg",
-    "image_width": 227,
-    "image_height": 302,
-    "image_bytes": 6966,
+    "image_width": 1512,
+    "image_height": 2016,
+    "image_bytes": 807579,
     "image_source_status": "local"
   },
   {
@@ -2100,10 +2100,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/wp-sillicon-pumpkin/wp-sillicon-pumpkin.jpg",
-    "image_width": 307,
-    "image_height": 500,
-    "image_bytes": 49304,
-    "image_source_status": "downloaded"
+    "image_width": 1080,
+    "image_height": 1758,
+    "image_bytes": 290177,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/wp-sillicon-rasta.html",
@@ -2118,10 +2118,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/wp-sillicon-rasta/wp-sillicon-rasta.jpg",
-    "image_width": 375,
-    "image_height": 500,
-    "image_bytes": 59742,
-    "image_source_status": "downloaded"
+    "image_width": 1512,
+    "image_height": 2016,
+    "image_bytes": 725930,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/wp-sillicon-riffle.html",
@@ -2136,10 +2136,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/wp-sillicon-riffle/wp-sillicon-riffle.jpg",
-    "image_width": 375,
-    "image_height": 500,
-    "image_bytes": 59278,
-    "image_source_status": "downloaded"
+    "image_width": 1512,
+    "image_height": 2016,
+    "image_bytes": 963720,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/wp-sillicon-skull-pink.html",
@@ -2154,10 +2154,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/wp-sillicon-skull-pink/wp-sillicon-skull-pink.jpg",
-    "image_width": 253,
-    "image_height": 500,
-    "image_bytes": 45339,
-    "image_source_status": "downloaded"
+    "image_width": 918,
+    "image_height": 1812,
+    "image_bytes": 252312,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/wp-sillicon-skull.html",
@@ -2172,10 +2172,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/wp-sillicon-skull/wp-sillicon-skull.jpg",
-    "image_width": 375,
-    "image_height": 500,
-    "image_bytes": 44679,
-    "image_source_status": "downloaded"
+    "image_width": 1512,
+    "image_height": 2016,
+    "image_bytes": 615143,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/wp-sillicon.html",
@@ -2190,10 +2190,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/wp-sillicon/wp-sillicon.jpg",
-    "image_width": 375,
-    "image_height": 500,
-    "image_bytes": 49163,
-    "image_source_status": "downloaded"
+    "image_width": 1512,
+    "image_height": 2016,
+    "image_bytes": 749221,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/yocan-nyx.html",
@@ -2208,10 +2208,10 @@
     "inventory_status": "in_stock",
     "source_confidence": "wix stores warmup data",
     "image": "assets/products/yocan-nyx/yocan-nyx.jpeg",
-    "image_width": 500,
-    "image_height": 281,
-    "image_bytes": 24398,
-    "image_source_status": "downloaded"
+    "image_width": 1920,
+    "image_height": 1080,
+    "image_bytes": 239593,
+    "image_source_status": "local"
   },
   {
     "source_route": "product-page/zydot-shampoo.html",

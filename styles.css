@@ -48,6 +48,7 @@ a {
 
 button,
 input,
+select,
 textarea {
   font: inherit;
 }
@@ -332,11 +333,14 @@ h3 {
 .sticky-story,
 .split-feature,
 .product-catalog .catalog-toolbar,
+.product-toolbar,
+.catalog-count,
 .product-grid,
 .artist-directory .profile-grid,
 .service-tabs,
 .service-record-grid,
 .pricing-details .price-table-wrap,
+.table-wrap,
 .guide-slider,
 .guide-library .catalog-toolbar,
 .guide-grid,
@@ -345,7 +349,8 @@ h3 {
 .qa-layout,
 .visit-section,
 .site-footer {
-  width: min(var(--max), calc(100vw - 56px));
+  width: 100%;
+  max-width: var(--max);
   margin-inline: auto;
 }
 
@@ -562,12 +567,50 @@ h3 {
   font-size: 0.78rem;
 }
 
-.catalog-toolbar {
+.catalog-toolbar,
+.product-toolbar {
   display: flex;
   align-items: flex-end;
   justify-content: space-between;
   gap: 18px;
   margin-bottom: 24px;
+  flex-wrap: wrap;
+  min-width: 0;
+}
+
+.product-toolbar {
+  justify-content: flex-start;
+}
+
+.product-toolbar .field-label {
+  flex: 0 0 auto;
+  color: var(--paper);
+  font-weight: 800;
+}
+
+.product-toolbar input,
+.product-toolbar select {
+  min-width: 0;
+  max-width: 100%;
+  border: 1px solid var(--line);
+  border-radius: 0;
+  min-height: 38px;
+  padding: 7px 9px;
+  color: var(--paper);
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.product-toolbar input[type="search"] {
+  flex: 1 1 260px;
+  max-width: 360px;
+}
+
+.product-toolbar select {
+  flex: 0 1 240px;
+}
+
+.product-toolbar .button {
+  flex: 0 0 auto;
 }
 
 .filter-list {
@@ -664,6 +707,15 @@ h3 {
   object-fit: cover;
 }
 
+.product-card > img {
+  width: var(--card-image-width, 100%);
+  height: var(--card-image-height, var(--card-media-height));
+  max-width: none;
+  max-height: none;
+  justify-self: center;
+  align-self: center;
+}
+
 .product-card > div,
 .guide-card > div,
 .profile-card > div {
@@ -735,7 +787,8 @@ h3 {
 }
 
 .catalog-expand {
-  width: min(var(--max), calc(100vw - 56px));
+  width: 100%;
+  max-width: var(--max);
   margin: 18px auto 0;
 }
 
@@ -765,34 +818,40 @@ h3 {
   overflow-wrap: anywhere;
 }
 
-.price-table-wrap {
+.price-table-wrap,
+.table-wrap {
   overflow-x: auto;
   border: 1px solid var(--line);
   border-radius: var(--radius);
   background: var(--panel);
 }
 
-.price-table {
+.price-table,
+.table-wrap table {
   width: 100%;
   border-collapse: collapse;
   min-width: 680px;
 }
 
-.price-table caption {
+.price-table caption,
+.table-wrap caption {
   padding: 16px 18px;
   color: var(--muted);
   text-align: left;
 }
 
 .price-table th,
-.price-table td {
+.price-table td,
+.table-wrap th,
+.table-wrap td {
   padding: 16px 18px;
   border-top: 1px solid var(--line);
   text-align: left;
   vertical-align: top;
 }
 
-.price-table thead th {
+.price-table thead th,
+.table-wrap thead th {
   color: var(--gold);
   font-size: 0.78rem;
   text-transform: uppercase;
@@ -1285,6 +1344,7 @@ h3 {
   }
 
   .catalog-toolbar,
+  .product-toolbar,
   .panel-heading {
     align-items: flex-start;
     flex-direction: column;
@@ -1296,6 +1356,12 @@ h3 {
 
   .route-row {
     grid-template-columns: 1fr;
+  }
+
+  .product-toolbar input[type="search"],
+  .product-toolbar select {
+    width: 100%;
+    max-width: 100%;
   }
 
   .intent-card {
@@ -1400,6 +1466,8 @@ h3 {
   .intent-grid,
   .stat-grid,
   .product-catalog .catalog-toolbar,
+  .product-toolbar,
+  .catalog-count,
   .product-grid,
   .artist-directory .profile-grid,
   .sticky-story,
@@ -1407,6 +1475,7 @@ h3 {
   .service-tabs,
   .service-record-grid,
   .pricing-details .price-table-wrap,
+  .table-wrap,
   .guide-slider,
   .guide-library .catalog-toolbar,
   .guide-grid,
