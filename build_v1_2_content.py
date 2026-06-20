@@ -18,10 +18,24 @@ from xml.etree import ElementTree as ET
 from bs4 import BeautifulSoup
 
 
-ROOT = Path(__file__).resolve().parents[1]
+OUT_DIR = Path(__file__).resolve().parent
+
+
+def find_workspace_root(out_dir: Path) -> Path:
+    for candidate in [out_dir.parent, *out_dir.parents]:
+        if (
+            (candidate / "catalog" / "content-inventory.csv").exists()
+            and (candidate / "site" / "www.diversitytattoolv.com").exists()
+        ):
+            return candidate
+    raise FileNotFoundError(
+        "Could not locate Diversity scrape workspace root containing catalog/content-inventory.csv"
+    )
+
+
+ROOT = find_workspace_root(OUT_DIR)
 CATALOG_DIR = ROOT / "catalog"
 MIRROR_DIR = ROOT / "site" / "www.diversitytattoolv.com"
-OUT_DIR = Path(__file__).resolve().parent
 
 CONTENT_CSV = CATALOG_DIR / "content-inventory.csv"
 MEDIA_CSV = CATALOG_DIR / "media-inventory.csv"
@@ -63,6 +77,9 @@ HEADERS_TXT = OUT_DIR / "_headers"
 NOT_FOUND_HTML = OUT_DIR / "404.html"
 PRODUCTION_SPEC_MD = OUT_DIR / "V1_2_FULL_IMPLEMENTATION_SPEC.md"
 ASSET_NOT_FOUND_IMAGE = "assets/placeholders/asset-not-found.svg"
+LOGO_ASSET_PATH = Path(
+    "assets/static.wixstatic.com/media/8d0ab0_6a77779840c44b9586da1fefe272017b_mv2_d_3300_1480_s_4_2.png"
+)
 
 DETAIL_DIRS = [
     "products",
@@ -257,14 +274,14 @@ SECTION_PAGE_CONFIGS = [
         "description": "Custom tattoos, cover-up planning, artist selection and visit guidance from Diversity Tattoo in Las Vegas.",
         "heroImage": CATEGORY_IMAGES["Tattoo Services"],
         "sourceCategories": ["Tattoo Services"],
-        "summary": "Use this page to move from a general tattoo question into the right next step: review studio standards, meet the artists, browse source-backed tattoo content and call the Rancho studio for availability.",
+        "summary": "Review studio standards, meet the artists, and call the Rancho studio when you are ready to talk through tattoo availability.",
         "primaryLabel": "Call about a tattoo",
         "primaryHref": "tel:+17024541300",
         "secondaryLabel": "Meet the artists",
         "secondaryHref": "../artists/index.html",
         "highlights": [
             "Custom work, cover-up conversations and planning support",
-            "Artist profiles and tattoo source content in one place",
+            "Artist profiles and tattoo planning context in one place",
             "Direct visit and call paths for appointment questions",
         ],
     },
@@ -276,17 +293,20 @@ SECTION_PAGE_CONFIGS = [
         "description": "Body piercing information, common piercing prices and body jewelry browsing from Diversity Tattoo.",
         "heroImage": CATEGORY_IMAGES["Piercing"],
         "sourceCategories": ["Piercing"],
-        "summary": "Piercing now owns the details that used to sit on the homepage: service context, the pricing table, jewelry guidance and a jewelry-only product grid.",
+        "summary": "Plan a piercing visit, review common pricing, and browse body jewelry before you come into the Rancho studio.",
         "primaryLabel": "Call about piercing",
         "primaryHref": "tel:+17024541300",
         "secondaryLabel": "Jump to pricing",
         "secondaryHref": "#pricing",
+        "extraActions": [
+            {"label": "See Jewelry", "href": "#product-filters"},
+        ],
         "productScope": ["Shop - Body Jewelry"],
         "productIntro": "Body jewelry from the shop catalog.",
-        "productCopy": "This section is pre-filtered to Body Jewelry so piercing visitors are not sent through the full smoke shop catalog.",
+        "productCopy": "Browse body jewelry before visiting the studio. Call ahead for current availability, sizing, and placement guidance.",
         "highlights": [
-            "Common piercing options and pricing moved out of the homepage",
-            "Body jewelry shown from source-backed shop records",
+            "Common piercing options and pricing in one focused place",
+            "Body jewelry browsing tied to current catalog records",
             "Visit and call paths kept close to the service detail",
         ],
     },
@@ -295,17 +315,17 @@ SECTION_PAGE_CONFIGS = [
         "path": "tooth-gems/index.html",
         "title": "Tooth Gems",
         "eyebrow": "Tooth Gems",
-        "description": "Tooth gem service information, visit guidance and source-backed visuals where available.",
+        "description": "Tooth gem service information, visit guidance and available service visuals.",
         "heroImage": CATEGORY_IMAGES["Tooth Gems"],
         "sourceCategories": ["Tooth Gems"],
-        "summary": "Tooth gems get a dedicated service page rather than being folded into the piercing homepage card. Source-backed imagery should be used when available; missing tooth-gem imagery should stay explicit instead of borrowing unrelated product photos.",
+        "summary": "Add a small flash of shine with tooth gems, then call or stop by for current options and visit guidance.",
         "primaryLabel": "Call about tooth gems",
         "primaryHref": "tel:+17024541300",
         "secondaryLabel": "Plan your visit",
         "secondaryHref": "../index.html#visit",
         "highlights": [
-            "Dedicated service explanation instead of a buried homepage mention",
-            "Room for tooth-gem-specific images or documented placeholders",
+            "Focused service details for tooth gem planning",
+            "Available service visuals for planning",
             "Related links back to piercing and visit information",
         ],
     },
@@ -317,17 +337,17 @@ SECTION_PAGE_CONFIGS = [
         "description": "Smoke accessories, vaporizers, detox cleanses and other retail products from the Diversity Tattoo shop catalog.",
         "heroImage": CATEGORY_IMAGES["Smoke Shop"],
         "sourceCategories": ["Smoke Shop"],
-        "summary": "Smoke Shop owns the non-jewelry retail catalog for now: Detox / Cleanses, Vaporizers, Smoke Accessories and Other Products. Labels can change later, but the page should not show body jewelry.",
+        "summary": "Browse detox cleanses, vaporizers, smoke accessories, and other retail products before calling or stopping by.",
         "primaryLabel": "Call about availability",
         "primaryHref": "tel:+17024541300",
-        "secondaryLabel": "Open full shop",
-        "secondaryHref": "../shop/index.html",
+        "secondaryLabel": "Explore items",
+        "secondaryHref": "#product-filters",
         "productScope": SMOKE_SHOP_CATEGORIES,
         "productIntro": "Smoke shop categories.",
-        "productCopy": "This page is pre-filtered to Detox / Cleanses, Vaporizers, Smoke Accessories and Other Products. Body Jewelry stays with Piercing.",
+        "productCopy": "Browse smoke shop products and detox options before visiting. Call ahead for current availability.",
         "highlights": [
             "Detox / Cleanses, Vaporizers, Smoke Accessories and Other Products",
-            "No Body Jewelry on this page",
+            "Body jewelry remains with piercing so each shopping lane stays clear",
             "Direct path to the full shop when visitors need every category",
         ],
     },
@@ -339,14 +359,14 @@ SECTION_PAGE_CONFIGS = [
         "description": "Customer trust and review information for Diversity Tattoo.",
         "heroImage": CATEGORY_IMAGES["Reviews"],
         "sourceCategories": ["Reviews"],
-        "summary": "Reviews move from a short homepage teaser into a top-level trust page, while the homepage keeps only the pointer.",
+        "summary": "See trust signals, customer context, and quick ways to call or plan a visit with the studio.",
         "primaryLabel": "Call the studio",
         "primaryHref": "tel:+17024541300",
         "secondaryLabel": "Visit details",
         "secondaryHref": "../index.html#visit",
         "highlights": [
-            "Top-level trust destination",
-            "Source-backed review and service context",
+            "Studio trust and customer context",
+            "Review context and studio trust signals",
             "Clear path back to visit planning",
         ],
     },
@@ -358,14 +378,14 @@ SECTION_PAGE_CONFIGS = [
         "description": "Common questions about tattoos, piercing, aftercare, retail products and visiting Diversity Tattoo.",
         "heroImage": CATEGORY_IMAGES["FAQ"],
         "sourceCategories": ["FAQ"],
-        "summary": "FAQ moves out of the homepage teaser and becomes a top-level support page for tattoo, piercing, product and visit questions.",
+        "summary": "Find quick answers for tattoo, piercing, product, aftercare, and visit questions before you call or come in.",
         "primaryLabel": "Call with a question",
         "primaryHref": "tel:+17024541300",
         "secondaryLabel": "Plan your visit",
         "secondaryHref": "../index.html#visit",
         "highlights": [
-            "Common questions moved to a dedicated support page",
-            "Customer-facing answers instead of route-oriented detail",
+            "Common questions for tattoos, piercing, products, and visits",
+            "Short answers written for customer decisions",
             "Contact path when a question needs current studio guidance",
         ],
     },
@@ -1559,18 +1579,20 @@ def html_page(
     <title>{escape(title)} | Diversity Tattoo</title>
     <meta name="description" content="{escape(clean_text(body, 155))}" />
 {canonical_html}    <meta name="robots" content="{escape(robots)}" />
+    <link rel="icon" href="/assets/static.wixstatic.com/media/8d0ab0_6a77779840c44b9586da1fefe272017b_mv2_d_3300_1480_s_4_2.png" type="image/png" />
     <link rel="stylesheet" href="../styles.css?v=1.2.1" />
   </head>
   <body class="detail-page">
     <a class="skip-link" href="#main">Skip to content</a>
     <header class="site-header is-stuck" data-sticky-header>
       <a class="brand-mark" href="{escape(back_href)}#top" aria-label="Diversity Tattoo home">
-        <img src="../assets/static.wixstatic.com/media/8d0ab0_6a77779840c44b9586da1fefe272017b_mv2_d_3300_2550_s_4_2.png" alt="Diversity Tattoo" />
+        <img src="../assets/static.wixstatic.com/media/8d0ab0_6a77779840c44b9586da1fefe272017b_mv2_d_3300_1480_s_4_2.png" alt="Diversity Tattoo" />
       </a>
       <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
       <nav class="site-nav is-detail-nav" id="site-nav" aria-label="Detail navigation">
         {section_nav_html("../")}
       </nav>
+      <a class="header-cta" href="tel:17024541300">Call</a>
     </header>
     <main id="main" class="detail-shell">
       <article class="detail-article">
@@ -1604,16 +1626,16 @@ def body_to_html(body: str) -> str:
 
 def section_nav_html(prefix: str = "../") -> str:
     return f"""
-        <a href="{prefix}tattoo/index.html">Tattoo</a>
-        <a href="{prefix}artists/index.html">Artists</a>
-        <a href="{prefix}piercing/index.html">Piercing</a>
-        <a href="{prefix}tooth-gems/index.html">Tooth Gems</a>
-        <a href="{prefix}smoke-shop/index.html">Smoke Shop</a>
-        <a href="{prefix}shop/index.html">Shop</a>
-        <a href="{prefix}blog/index.html">Blog</a>
-        <a href="{prefix}reviews/index.html">Reviews</a>
-        <a href="{prefix}faq/index.html">FAQ</a>
-        <a href="{prefix}index.html#visit">Visit</a>
+        <a href="/tattoo/">Tattoo</a>
+        <a href="/artists/">Artists</a>
+        <a href="/piercing/">Piercing</a>
+        <a href="/tooth-gems/">Tooth Gems</a>
+        <a href="/smoke-shop/">Smoke Shop</a>
+        <a href="/shop/">Shop all</a>
+        <a href="/blog/">Blog</a>
+        <a href="/reviews/">Reviews</a>
+        <a href="/faq/">FAQ</a>
+        <a href="/#visit">Visit</a>
     """
 
 
@@ -1636,8 +1658,8 @@ def section_source_cards(source_pages: list[dict]) -> str:
       <section class="section section-band">
         <div class="section-intro">
           <p class="eyebrow">Details</p>
-          <h2>Source-backed service information.</h2>
-          <p>These cards preserve the useful source content while the page takes over as the customer-facing destination.</p>
+          <h2>Service details.</h2>
+          <p>Review the most useful details, then call or visit for current availability and guidance.</p>
         </div>
         <div class="service-record-grid" data-stagger>
           {''.join(cards)}
@@ -1652,10 +1674,23 @@ def section_highlight_cards(highlights: list[str]) -> str:
         <article class="service-record is-visible">
           <span>{escape(str(index).zfill(2))}</span>
           <h3>{escape(highlight)}</h3>
-          <p>Use this page as the focused next step from the homepage showcase.</p>
+          <p>Call or visit when you are ready for current options, timing, and next steps.</p>
         </article>
         """
         for index, highlight in enumerate(highlights, start=1)
+    )
+
+
+def section_hero_actions(config: dict) -> str:
+    actions = [
+        ("button primary", config["primaryHref"], config["primaryLabel"]),
+        ("button secondary", config["secondaryHref"], config["secondaryLabel"]),
+    ]
+    for action in config.get("extraActions", []):
+        actions.append(("button secondary", action["href"], action["label"]))
+    return "\n".join(
+        f'            <a class="{escape(class_name, quote=True)}" href="{escape(href, quote=True)}">{escape(label)}</a>'
+        for class_name, href, label in actions
     )
 
 
@@ -1707,10 +1742,17 @@ def write_section_pages(data: dict) -> None:
             if page.get("category") in set(config.get("sourceCategories", []))
         ]
         if config["key"] == "tooth-gems":
-            has_specific_source_image = any(
-                page.get("image") and page.get("image") != CATEGORY_IMAGES["Tooth Gems"] for page in source_pages
+            specific_source_image = next(
+                (
+                    page.get("image")
+                    for page in source_pages
+                    if page.get("image") and page.get("image") != CATEGORY_IMAGES["Tooth Gems"]
+                ),
+                "",
             )
-            if not has_specific_source_image:
+            if specific_source_image:
+                config = {**config, "heroImage": specific_source_image}
+            else:
                 config = {**config, "heroImage": ASSET_NOT_FOUND_IMAGE}
         source_cards = section_source_cards(source_pages)
         price_section = piercing_price_section() if config["key"] == "piercing" else ""
@@ -1725,18 +1767,20 @@ def write_section_pages(data: dict) -> None:
     <meta name="description" content="{escape(config['description'])}" />
     <link rel="canonical" href="{escape(canonical_path, quote=True)}" />
     <meta name="robots" content="index, follow" />
+    <link rel="icon" href="/assets/static.wixstatic.com/media/8d0ab0_6a77779840c44b9586da1fefe272017b_mv2_d_3300_1480_s_4_2.png" type="image/png" />
     <link rel="stylesheet" href="../styles.css?v=1.2.1" />
   </head>
   <body class="detail-page section-page">
     <a class="skip-link" href="#main">Skip to content</a>
     <header class="site-header is-stuck" data-sticky-header>
       <a class="brand-mark" href="../index.html#top" aria-label="Diversity Tattoo home">
-        <img src="../assets/static.wixstatic.com/media/8d0ab0_6a77779840c44b9586da1fefe272017b_mv2_d_3300_2550_s_4_2.png" alt="Diversity Tattoo" />
+        <img src="../assets/static.wixstatic.com/media/8d0ab0_6a77779840c44b9586da1fefe272017b_mv2_d_3300_1480_s_4_2.png" alt="Diversity Tattoo" />
       </a>
       <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
       <nav class="site-nav is-detail-nav" id="site-nav" aria-label="Section navigation">
         {section_nav_html("../")}
       </nav>
+      <a class="header-cta" href="tel:17024541300">Call</a>
     </header>
     <main id="main" class="detail-shell section-shell" data-motion-root>
       <section class="section-page-hero" data-reveal="up">
@@ -1745,8 +1789,7 @@ def write_section_pages(data: dict) -> None:
           <h1 data-split>{escape(config['title'])}</h1>
           <p>{escape(config['summary'])}</p>
           <div class="hero-actions">
-            <a class="button primary" href="{escape(config['primaryHref'], quote=True)}">{escape(config['primaryLabel'])}</a>
-            <a class="button secondary" href="{escape(config['secondaryHref'], quote=True)}">{escape(config['secondaryLabel'])}</a>
+{section_hero_actions(config)}
           </div>
         </div>
         <img class="section-page-image" src="{escape(detail_image_path(config['heroImage']), quote=True)}" alt="{escape(config['title'])}" />
@@ -1755,8 +1798,8 @@ def write_section_pages(data: dict) -> None:
       <section class="section section-band">
         <div class="section-intro">
           <p class="eyebrow">Overview</p>
-          <h2>What this page owns.</h2>
-          <p>Detailed content has been moved out of the homepage and into this focused destination.</p>
+          <h2>Highlights.</h2>
+          <p>Use these quick points to decide the best next step before calling or visiting.</p>
         </div>
         <div class="service-record-grid" data-stagger>
           {section_highlight_cards(config.get('highlights', []))}
@@ -1820,18 +1863,20 @@ def write_blog_archive(data: dict) -> None:
     <meta name="description" content="Tattoo, piercing, smoke shop and product education from Diversity Tattoo in Las Vegas." />
     <link rel="canonical" href="/blog/" />
     <meta name="robots" content="index, follow" />
+    <link rel="icon" href="/assets/static.wixstatic.com/media/8d0ab0_6a77779840c44b9586da1fefe272017b_mv2_d_3300_1480_s_4_2.png" type="image/png" />
     <link rel="stylesheet" href="../styles.css?v=1.2.1" />
   </head>
   <body class="detail-page">
     <a class="skip-link" href="#main">Skip to content</a>
     <header class="site-header is-stuck" data-sticky-header>
       <a class="brand-mark" href="../index.html#top" aria-label="Diversity Tattoo home">
-        <img src="../assets/static.wixstatic.com/media/8d0ab0_6a77779840c44b9586da1fefe272017b_mv2_d_3300_2550_s_4_2.png" alt="Diversity Tattoo" />
+        <img src="../assets/static.wixstatic.com/media/8d0ab0_6a77779840c44b9586da1fefe272017b_mv2_d_3300_1480_s_4_2.png" alt="Diversity Tattoo" />
       </a>
       <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
       <nav class="site-nav is-detail-nav" id="site-nav" aria-label="Blog navigation">
         {section_nav_html("../")}
       </nav>
+      <a class="header-cta" href="tel:17024541300">Call</a>
     </header>
     <main id="main" class="detail-shell">
       <section class="section" id="blog">
@@ -1907,7 +1952,7 @@ def product_category_tiles_html(data: dict, prefix: str = "", categories: list[s
             continue
         label = product_category_label(category)
         image = CATEGORY_IMAGES.get(category, CATEGORY_IMAGES["Shop - Other Products"])
-        href = f"{prefix}shop/index.html?category={filter_slug(label)}"
+        href = f"{prefix}shop/index.html?category={filter_slug(label)}#product-filters"
         cards.append(
             f"""
             <a class="category-tile hover-lift is-visible" href="{escape(href, quote=True)}">
@@ -1938,7 +1983,7 @@ def shop_controls_html(prefix: str = "", scope: list[str] | None = None, include
         else ""
     )
     return f"""
-      <div class="product-toolbar" aria-label="Shop controls">
+      <div class="product-toolbar" id="product-filters" aria-label="Shop controls">
         <div class="filter-list" id="product-category-filter-list"></div>
         <label class="field-label" for="product-search">Search products</label>
         <input id="product-search" name="q" type="search" autocomplete="off" placeholder="Search by name, use or details" />
@@ -1969,18 +2014,20 @@ def write_shop_page(data: dict) -> None:
     <meta name="description" content="Browse body jewelry, detox products, smoke accessories, vaporizers and other products available through Diversity Tattoo." />
     <link rel="canonical" href="/shop/" />
     <meta name="robots" content="index, follow" />
+    <link rel="icon" href="/assets/static.wixstatic.com/media/8d0ab0_6a77779840c44b9586da1fefe272017b_mv2_d_3300_1480_s_4_2.png" type="image/png" />
     <link rel="stylesheet" href="../styles.css?v=1.2.1" />
   </head>
   <body class="detail-page">
     <a class="skip-link" href="#main">Skip to content</a>
     <header class="site-header is-stuck" data-sticky-header>
       <a class="brand-mark" href="../index.html#top" aria-label="Diversity Tattoo home">
-        <img src="../assets/static.wixstatic.com/media/8d0ab0_6a77779840c44b9586da1fefe272017b_mv2_d_3300_2550_s_4_2.png" alt="Diversity Tattoo" />
+        <img src="../assets/static.wixstatic.com/media/8d0ab0_6a77779840c44b9586da1fefe272017b_mv2_d_3300_1480_s_4_2.png" alt="Diversity Tattoo" />
       </a>
       <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
       <nav class="site-nav is-detail-nav" id="site-nav" aria-label="Shop navigation">
         {section_nav_html("../")}
       </nav>
+      <a class="header-cta" href="tel:17024541300">Call</a>
     </header>
     <main id="main" class="detail-shell">
       <section class="section section-band">
@@ -2101,6 +2148,11 @@ def copy_assets() -> None:
     preserved_dirs = ["products", "blog", "placeholders"]
     with tempfile.TemporaryDirectory() as tmp_name:
         tmp_root = Path(tmp_name)
+        manual_logo = OUT_DIR / LOGO_ASSET_PATH
+        preserved_logo = tmp_root / LOGO_ASSET_PATH.name
+        if manual_logo.exists():
+            shutil.copy2(manual_logo, preserved_logo)
+
         for dirname in preserved_dirs:
             source = assets_root / dirname
             if source.exists():
@@ -2118,6 +2170,20 @@ def copy_assets() -> None:
             preserved = tmp_root / dirname
             if preserved.exists():
                 shutil.copytree(preserved, assets_root / dirname)
+
+        logo_sources = [
+            preserved_logo,
+            ROOT / "v1.2 rebuild" / LOGO_ASSET_PATH,
+            ROOT / "w" / "public" / LOGO_ASSET_PATH,
+        ]
+        logo_destination = OUT_DIR / LOGO_ASSET_PATH
+        logo_destination.parent.mkdir(parents=True, exist_ok=True)
+        for logo_source in logo_sources:
+            if logo_source.exists():
+                shutil.copy2(logo_source, logo_destination)
+                break
+        else:
+            raise FileNotFoundError(f"Required cropped logo asset is missing: {LOGO_ASSET_PATH.as_posix()}")
 
 
 def ensure_asset_not_found_placeholder() -> None:

@@ -149,14 +149,14 @@ Done criteria:
 
 Done when the site reads as a business site, not an implementation report.
 
-- [ ] Use `v1.1 rebuild/index.html` only as visual/template source material.
-- [ ] Rebuild home, services, artists, shop, products, blog, visit/contact, FAQ and reviews as consumer-facing pages.
-- [ ] Convert the homepage-heavy page model into a sectioned site: homepage previews point to `/tattoo/`, `/artists/`, `/piercing/`, `/tooth-gems/`, `/smoke-shop/`, `/shop/`, `/blog/`, `/reviews/`, `/faq/`, and the homepage Visit section.
-- [ ] Move full tattoo detail to `/tattoo/`, full piercing detail and pricing to `/piercing/`, tooth gems detail to `/tooth-gems/`, smoke shop retail browsing to `/smoke-shop/`, full catalog browsing to `/shop/`, full blog archive/filtering to `/blog/`, reviews to `/reviews/`, and FAQ to `/faq/`.
-- [ ] Keep the homepage as a modern business showcase with highlighted cards, overview sections, latest 3 blog posts, a centered `See more` blog CTA, and concise CTAs into the dedicated section pages.
-- [ ] Remove public labels and phrases: `legacy`, `route`, `rebuild`, `mirror`, `QA`, `media risk`, `future section`, `should become`, `Legacy route`, `Future section`, `Media references`, `Back to v1.2 rebuild`.
-- [ ] Convert old service content into decision-focused service pages.
-- [ ] Keep utility/member-account concepts out of customer journeys.
+- [x] Use `v1.1 rebuild/index.html` only as visual/template source material.
+- [x] Rebuild home, services, artists, shop, products, blog, visit/contact, FAQ and reviews as consumer-facing pages.
+- [x] Convert the homepage-heavy page model into a sectioned site: homepage previews point to `/tattoo/`, `/artists/`, `/piercing/`, `/tooth-gems/`, `/smoke-shop/`, `/shop/`, `/blog/`, `/reviews/`, `/faq/`, and the homepage Visit section.
+- [x] Move full tattoo detail to `/tattoo/`, full piercing detail and pricing to `/piercing/`, tooth gems detail to `/tooth-gems/`, smoke shop retail browsing to `/smoke-shop/`, full catalog browsing to `/shop/`, full blog archive/filtering to `/blog/`, reviews to `/reviews/`, and FAQ to `/faq/`.
+- [x] Keep the homepage as a modern business showcase with highlighted cards, overview sections, latest 3 blog posts, a centered `See more` blog CTA, and concise CTAs into the dedicated section pages.
+- [x] Remove public labels and phrases: `legacy`, `route`, `rebuild`, `mirror`, `QA`, `media risk`, `future section`, `should become`, `Legacy route`, `Future section`, `Media references`, `Back to v1.2 rebuild`.
+- [x] Convert old service content into decision-focused service pages.
+- [x] Keep utility/member-account concepts out of customer journeys.
 
 Done criteria:
 

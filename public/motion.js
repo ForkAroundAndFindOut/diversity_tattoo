@@ -3,6 +3,7 @@
   const reducedMotionQuery = window.matchMedia("(prefers-reduced-motion: reduce)");
   const desktopMotionQuery = window.matchMedia("(min-width: 900px)");
   const hasGsap = Boolean(window.gsap && window.ScrollTrigger);
+  let hashNavigationUntil = 0;
 
   function splitText() {
     document.querySelectorAll("[data-split]").forEach((node) => {
@@ -27,12 +28,22 @@
     const header = document.querySelector("[data-sticky-header]");
     const toggle = document.querySelector(".menu-toggle");
     if (!header) return;
+    const syncHeaderHeight = () => {
+      if (header.classList.contains("nav-open")) return;
+      const height = Math.ceil(header.getBoundingClientRect().height);
+      if (height > 0) {
+        document.documentElement.style.setProperty("--header-height", `${height}px`);
+      }
+    };
     const update = () => header.classList.toggle("is-stuck", window.scrollY > 18);
     const closeMenu = () => {
       header.classList.remove("nav-open");
       toggle?.setAttribute("aria-expanded", "false");
       document.body.classList.remove("nav-lock");
+      syncHeaderHeight();
     };
+    syncHeaderHeight();
+    header.querySelector("img")?.addEventListener("load", syncHeaderHeight, { once: true });
     update();
     window.addEventListener("scroll", update, { passive: true });
     if (toggle) {
@@ -40,6 +51,7 @@
         const open = header.classList.toggle("nav-open");
         toggle.setAttribute("aria-expanded", String(open));
         document.body.classList.toggle("nav-lock", open);
+        if (!open) syncHeaderHeight();
       });
     }
     header.querySelectorAll(".site-nav a").forEach((link) => {
@@ -47,6 +59,7 @@
     });
     window.addEventListener("resize", () => {
       if (window.innerWidth > 980) closeMenu();
+      syncHeaderHeight();
     });
   }
 
@@ -253,6 +266,7 @@
   function scrollToHashTarget() {
     const target = getHashTarget();
     if (!target) return;
+    hashNavigationUntil = Date.now() + 900;
     const header = document.querySelector("[data-sticky-header]");
     const offset = header ? header.getBoundingClientRect().height + 14 : 0;
     const top = Math.max(0, target.getBoundingClientRect().top + window.scrollY - offset);
@@ -271,6 +285,127 @@
     window.addEventListener("diversity:content-updated", () => {
       window.ScrollTrigger?.refresh?.();
       forceRevealInViewport();
+    });
+  }
+
+  function setupEyebrowMagnetScroll() {
+    const pageShell = document.querySelector("main.page-shell");
+    if (!pageShell || reducedMotionQuery.matches) return;
+
+    const interactiveSelector = [
+      "a",
+      "button",
+      "input",
+      "select",
+      "textarea",
+      "[role='button']",
+      "[contenteditable='true']"
+    ].join(",");
+    let snapTimer = 0;
+    let snapDirection = 0;
+    let snapLockUntil = 0;
+    let touchStartY = 0;
+    const wheelTrigger = 36;
+    const touchTrigger = 72;
+    const targetDeadZone = 72;
+    const snapDelay = 230;
+    const snapLockMs = 900;
+
+    const getTargets = () =>
+      [...pageShell.querySelectorAll(":scope > .section .eyebrow")].filter(
+        (target) => target.offsetParent !== null && !target.closest(".marquee-section")
+      );
+
+    const getOffset = () => {
+      const header = document.querySelector("[data-sticky-header]");
+      return header ? header.getBoundingClientRect().height + 32 : 32;
+    };
+
+    const getTop = (target) => Math.max(0, target.getBoundingClientRect().top + window.scrollY - getOffset());
+
+    const interactionSuppressed = () => {
+      const active = document.activeElement;
+      return (
+        Date.now() < hashNavigationUntil ||
+        Date.now() < snapLockUntil ||
+        document.body.classList.contains("nav-lock") ||
+        Boolean(document.querySelector(".modal:not([hidden])")) ||
+        Boolean(active?.closest?.(interactiveSelector))
+      );
+    };
+
+    const pickTarget = (targets) => {
+      const offset = getOffset();
+      const current = window.scrollY + offset;
+      const maxSnapDistance = Math.min(window.innerHeight * 0.72, 620);
+      if (snapDirection > 0) {
+        return targets.find((target) => {
+          const targetTop = target.getBoundingClientRect().top + window.scrollY;
+          const distance = targetTop - current;
+          return distance > targetDeadZone && distance <= maxSnapDistance;
+        });
+      }
+      return [...targets]
+        .reverse()
+        .find((target) => {
+          const targetTop = target.getBoundingClientRect().top + window.scrollY;
+          const distance = current - targetTop;
+          return distance > targetDeadZone && distance <= maxSnapDistance;
+        });
+    };
+
+    const runSnap = () => {
+      snapTimer = 0;
+      if (!snapDirection || interactionSuppressed()) return;
+      const target = pickTarget(getTargets());
+      if (!target) return;
+      snapLockUntil = Date.now() + snapLockMs;
+      window.scrollTo({ top: getTop(target), behavior: "smooth" });
+      window.setTimeout(forceRevealInViewport, 180);
+    };
+
+    const scheduleSnap = (direction) => {
+      if (!direction || interactionSuppressed()) return;
+      snapDirection = direction;
+      window.clearTimeout(snapTimer);
+      snapTimer = window.setTimeout(runSnap, snapDelay);
+    };
+
+    window.addEventListener(
+      "wheel",
+      (event) => {
+        if (Math.abs(event.deltaY) < wheelTrigger) return;
+        scheduleSnap(event.deltaY > 0 ? 1 : -1);
+      },
+      { passive: true }
+    );
+
+    window.addEventListener(
+      "touchstart",
+      (event) => {
+        touchStartY = event.touches[0]?.clientY || 0;
+      },
+      { passive: true }
+    );
+
+    window.addEventListener(
+      "touchend",
+      (event) => {
+        const touchEndY = event.changedTouches[0]?.clientY || touchStartY;
+        const delta = touchStartY - touchEndY;
+        if (Math.abs(delta) < touchTrigger) return;
+        scheduleSnap(delta > 0 ? 1 : -1);
+      },
+      { passive: true }
+    );
+
+    window.addEventListener("keydown", (event) => {
+      if (event.defaultPrevented) return;
+      if (event.key === "ArrowDown" || event.key === "PageDown" || event.key === " ") {
+        scheduleSnap(1);
+      } else if (event.key === "ArrowUp" || event.key === "PageUp") {
+        scheduleSnap(-1);
+      }
     });
   }
 
@@ -398,6 +533,7 @@
     window.addEventListener("scroll", scheduleForceReveal, { passive: true });
     window.addEventListener("resize", scheduleForceReveal);
     setupAnchorNavigation();
+    setupEyebrowMagnetScroll();
   }
 
   if (document.readyState === "loading") {

@@ -1,6 +1,6 @@
 window.DIVERSITY_SITE_DATA = {
   "version": "1.2",
-  "generatedAt": "2026-06-15",
+  "generatedAt": "2026-06-19",
   "siteMeta": {
     "name": "Diversity Tattoo",
     "description": "Diversity Tattoo, Piercing and Smoke Shop in Las Vegas.",

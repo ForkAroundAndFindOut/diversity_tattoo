@@ -12,6 +12,14 @@
   --shadow: 0 28px 70px rgba(0, 0, 0, 0.42);
   --max: 1180px;
   --radius: 8px;
+  --header-height: 150px;
+  --header-content-gap: 40px;
+  --header-clearance: calc(var(--header-height) + var(--header-content-gap));
+  --header-scroll-offset: calc(var(--header-height) + 32px);
+  --service-card-min: 260px;
+  --service-card-max: 280px;
+  --content-card-min: 260px;
+  --content-card-max: 320px;
 }
 
 * {
@@ -20,6 +28,7 @@
 
 html {
   scroll-behavior: smooth;
+  scrollbar-gutter: stable;
   overflow-x: clip;
 }
 
@@ -78,10 +87,10 @@ textarea {
   display: grid;
   grid-template-columns: auto 1fr auto;
   align-items: center;
-  gap: 24px;
+  gap: clamp(16px, 2vw, 24px);
   padding: 14px 28px;
-  background: rgba(7, 8, 10, 0.52);
-  border-bottom: 1px solid transparent;
+  background: rgba(7, 8, 10, 0.88);
+  border-bottom: 1px solid var(--line);
   backdrop-filter: blur(18px);
   transition: background 220ms ease, border-color 220ms ease;
 }
@@ -94,7 +103,8 @@ textarea {
 .brand-mark {
   display: inline-flex;
   align-items: center;
-  width: 132px;
+  flex: 0 0 auto;
+  width: 264px;
 }
 
 .brand-mark img {
@@ -106,20 +116,32 @@ textarea {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 16px;
+  gap: clamp(4px, 0.5vw, 7px);
   flex-wrap: wrap;
-  font-size: 0.88rem;
+  font-size: 1.4rem;
   color: rgba(246, 242, 234, 0.86);
+  min-width: 0;
 }
 
 .site-nav a {
-  padding: 8px 0;
-  border-bottom: 1px solid transparent;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 38px;
+  padding: 7px 7px;
+  border: 1px solid rgba(246, 242, 234, 0.2);
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.055);
+  color: rgba(246, 242, 234, 0.9);
+  line-height: 1;
+  text-align: center;
+  white-space: nowrap;
 }
 
 .site-nav a:hover,
 .site-nav a:focus-visible {
-  border-color: var(--red);
+  background: rgba(255, 255, 255, 0.11);
+  border-color: rgba(223, 35, 40, 0.78);
   color: white;
 }
 
@@ -172,8 +194,8 @@ textarea {
   position: relative;
   min-height: 100vh;
   display: grid;
-  align-items: end;
-  padding: 150px 28px 72px;
+  align-items: start;
+  padding: var(--header-clearance) 28px 72px;
   isolation: isolate;
   overflow: hidden;
 }
@@ -323,8 +345,12 @@ h3 {
 }
 
 .section {
-  padding: 110px 28px;
-  scroll-margin-top: 112px;
+  padding: 58px 28px;
+  scroll-margin-top: var(--header-scroll-offset);
+}
+
+.page-shell > .section + .section {
+  padding-top: 36px;
 }
 
 .section-intro,
@@ -336,6 +362,9 @@ h3 {
 .product-toolbar,
 .catalog-count,
 .product-grid,
+.service-grid,
+.category-tile-grid,
+.artist-section .profile-grid,
 .artist-directory .profile-grid,
 .service-tabs,
 .service-record-grid,
@@ -347,6 +376,9 @@ h3 {
 .trust-grid,
 .faq-section,
 .qa-layout,
+.center-actions,
+.contact-section > .contact-detail-list,
+.contact-section > .hero-actions,
 .visit-section,
 .site-footer,
 .section-shell,
@@ -357,12 +389,17 @@ h3 {
 }
 
 .section-intro {
-  margin-bottom: 42px;
+  margin-bottom: 30px;
+}
+
+.section > .section-intro:last-child {
+  margin-bottom: 0;
 }
 
 .intent-grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, var(--service-card-min)), var(--service-card-max)));
+  justify-content: center;
   gap: 16px;
 }
 
@@ -537,7 +574,8 @@ h3 {
 
 .stat-grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 220px), 280px));
+  justify-content: center;
   gap: 14px;
 }
 
@@ -582,6 +620,10 @@ h3 {
 
 .product-toolbar {
   justify-content: flex-start;
+}
+
+#product-filters {
+  scroll-margin-top: calc(var(--header-height) + 12px);
 }
 
 .product-toolbar .field-label {
@@ -669,8 +711,13 @@ h3 {
 .trust-grid,
 .category-tile-grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, var(--content-card-min)), var(--content-card-max)));
+  justify-content: center;
   gap: 16px;
+}
+
+.artist-section .profile-grid {
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, var(--content-card-min)), var(--content-card-max)));
 }
 
 .product-card,
@@ -1171,15 +1218,13 @@ h3 {
   padding: 34px 0 48px;
   border-top: 1px solid var(--line);
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
+  align-items: center;
   gap: 24px;
-  color: var(--muted);
 }
 
-.site-footer nav {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 18px;
+.site-footer .site-nav {
+  width: 100%;
 }
 
 .modal[hidden] {
@@ -1253,14 +1298,14 @@ h3 {
 }
 
 .is-detail-nav {
-  justify-content: flex-end;
+  justify-content: center;
 }
 
 .detail-shell {
   width: 100%;
   max-width: calc(var(--max) + 56px);
   margin-inline: auto;
-  padding: 138px 28px 80px;
+  padding: var(--header-clearance) 28px 80px;
 }
 
 .detail-article {
@@ -1352,7 +1397,7 @@ h3 {
   transition-delay: calc(var(--word-index) * 42ms);
 }
 
-@media (max-width: 980px) {
+@media (max-width: 1240px) {
   .site-header {
     grid-template-columns: auto auto;
   }
@@ -1390,8 +1435,12 @@ h3 {
   .site-header.nav-open .site-nav a {
     display: flex;
     align-items: center;
+    justify-content: flex-start;
     min-height: 44px;
-    border-top: 1px solid var(--line);
+    border-color: var(--line);
+    border-radius: 0;
+    border-width: 1px 0 0;
+    background: transparent;
   }
 
   h1 {
@@ -1406,14 +1455,6 @@ h3 {
     font-size: 3rem;
   }
 
-  .intent-grid,
-  .stat-grid,
-  .product-grid,
-  .guide-grid,
-  .profile-grid,
-  .service-record-grid,
-  .trust-grid,
-  .category-tile-grid,
   .section-page-hero,
   .sticky-story,
   .split-feature,
@@ -1465,18 +1506,24 @@ h3 {
 }
 
 @media (max-width: 640px) {
+  :root {
+    --header-height: 118px;
+    --header-content-gap: 40px;
+    --header-scroll-offset: calc(var(--header-height) + 26px);
+  }
+
   .site-header {
     padding: 12px 16px;
   }
 
   .brand-mark {
-    width: 110px;
+    width: min(220px, 52vw);
   }
 
   .hero {
     min-height: 100svh;
-    padding: 118px 18px 28px;
-    align-content: end;
+    padding: var(--header-clearance) 18px 28px;
+    align-content: start;
     gap: 14px;
   }
 
@@ -1541,8 +1588,16 @@ h3 {
   }
 
   .section {
-    padding: 66px 18px;
+    padding: 36px 18px;
     scroll-margin-top: 92px;
+  }
+
+  .page-shell > .section + .section {
+    padding-top: 28px;
+  }
+
+  .section-intro {
+    margin-bottom: 24px;
   }
 
   .section-intro,
@@ -1553,6 +1608,7 @@ h3 {
   .catalog-count,
   .product-grid,
   .category-tile-grid,
+  .artist-section .profile-grid,
   .artist-directory .profile-grid,
   .sticky-story,
   .split-feature,
@@ -1709,7 +1765,7 @@ h3 {
 
   .detail-shell {
     width: 100%;
-    padding: 112px 18px 64px;
+    padding: var(--header-clearance) 18px 64px;
   }
 
   .detail-hero-image {

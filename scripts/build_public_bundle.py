@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import os
 import shutil
 from datetime import datetime, timezone
 from pathlib import Path
@@ -57,6 +58,15 @@ ALIAS_DIRS = [
 ]
 
 
+def filesystem_path(path: Path) -> str:
+    resolved = str(path.resolve())
+    if os.name != "nt" or resolved.startswith("\\\\?\\"):
+        return resolved
+    if resolved.startswith("\\\\"):
+        return "\\\\?\\UNC\\" + resolved[2:]
+    return "\\\\?\\" + resolved
+
+
 def assert_public_target() -> None:
     resolved = PUBLIC_DIR.resolve()
     root = ROOT.resolve()
@@ -70,7 +80,7 @@ def copy_file(relative_path: str, copied: list[str]) -> None:
         raise FileNotFoundError(f"Required public file is missing: {source}")
     destination = PUBLIC_DIR / relative_path
     destination.parent.mkdir(parents=True, exist_ok=True)
-    shutil.copy2(source, destination)
+    shutil.copy2(filesystem_path(source), filesystem_path(destination))
     copied.append(relative_path)
 
 
@@ -79,14 +89,14 @@ def copy_dir(relative_path: str, copied: list[str]) -> None:
     if not source.exists():
         return
     destination = PUBLIC_DIR / relative_path
-    shutil.copytree(source, destination, dirs_exist_ok=True)
+    shutil.copytree(filesystem_path(source), filesystem_path(destination), dirs_exist_ok=True)
     copied.append(relative_path + "/")
 
 
 def main() -> None:
     assert_public_target()
     if PUBLIC_DIR.exists():
-        shutil.rmtree(PUBLIC_DIR)
+        shutil.rmtree(filesystem_path(PUBLIC_DIR))
     PUBLIC_DIR.mkdir(parents=True)
 
     copied: list[str] = []

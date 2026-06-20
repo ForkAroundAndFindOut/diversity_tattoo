@@ -10,7 +10,16 @@ from urllib.parse import urlparse
 
 
 ROOT = Path(__file__).resolve().parents[1]
-WORKSPACE_ROOT = ROOT.parent
+
+
+def find_workspace_root(root: Path) -> Path:
+    for candidate in [root.parent, *root.parents]:
+        if (candidate / "catalog" / "canonical-page-manifest.json").exists():
+            return candidate
+    raise FileNotFoundError("Could not locate workspace catalog/canonical-page-manifest.json")
+
+
+WORKSPACE_ROOT = find_workspace_root(ROOT)
 CANONICAL_MANIFEST_PATH = WORKSPACE_ROOT / "catalog" / "canonical-page-manifest.json"
 PUBLIC_DIR = ROOT / "public"
 REPORT_PATH = ROOT / "production-readiness.txt"

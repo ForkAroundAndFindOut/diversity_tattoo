@@ -163,6 +163,7 @@
     setHtml(
       "#artist-profile-grid",
       data.artists
+        .filter((artist) => artist.title !== "TATTOO Artists")
         .map(
           (artist) => `
             <article class="profile-card hover-lift is-visible">
@@ -181,7 +182,7 @@
   }
 
   function renderServiceMatrix() {
-    const ordered = ["Tattoo Services", "Piercing", "Tooth Gems", "Smoke Shop", "Reviews", "FAQ", "Location / Contact"];
+    const ordered = ["Tattoo Services", "Piercing", "Tooth Gems", "Smoke Shop", "Reviews", "FAQ"];
     const groups = ordered
       .map((category) => ({
         category,
@@ -267,6 +268,8 @@
       sortMode = params.get("sort");
       sort.value = sortMode;
     }
+    const fullShopPath = /\/shop\/(?:index\.html)?$/.test(window.location.pathname);
+    const shouldLandAtFilters = fullShopPath && (Boolean(requestedCategory) || window.location.hash === "#product-filters");
 
     filterList.innerHTML = filters
       .map(
@@ -287,7 +290,16 @@
       if (sortMode !== "category-name") next.set("sort", sortMode);
       if (query) next.set("q", query);
       const nextQuery = next.toString();
-      window.history.replaceState(null, "", `${window.location.pathname}${nextQuery ? `?${nextQuery}` : ""}`);
+      const hash = window.location.hash === "#product-filters" ? "#product-filters" : "";
+      window.history.replaceState(null, "", `${window.location.pathname}${nextQuery ? `?${nextQuery}` : ""}${hash}`);
+    };
+
+    const scrollProductFiltersIntoView = (behavior = "auto") => {
+      const target = $("#product-filters") || filterList;
+      const header = document.querySelector("[data-sticky-header]");
+      const offset = (header?.getBoundingClientRect().height || 0) + 12;
+      const top = Math.max(0, target.getBoundingClientRect().top + window.scrollY - offset);
+      window.scrollTo({ top, behavior });
     };
 
     const productMatches = (product) => {
@@ -378,6 +390,10 @@
     });
 
     render();
+    if (shouldLandAtFilters) {
+      window.requestAnimationFrame(() => scrollProductFiltersIntoView("auto"));
+      window.setTimeout(() => scrollProductFiltersIntoView("auto"), 120);
+    }
   }
 
   function setupGuides() {
