@@ -74,6 +74,16 @@ def assert_public_target() -> None:
         raise RuntimeError(f"Refusing to clean unsafe public path: {PUBLIC_DIR}")
 
 
+def clean_public_dir() -> None:
+    assert_public_target()
+    PUBLIC_DIR.mkdir(parents=True, exist_ok=True)
+    for child in PUBLIC_DIR.iterdir():
+        if child.is_dir():
+            shutil.rmtree(filesystem_path(child))
+        else:
+            child.unlink()
+
+
 def copy_file(relative_path: str, copied: list[str]) -> None:
     source = ROOT / relative_path
     if not source.exists():
@@ -94,10 +104,7 @@ def copy_dir(relative_path: str, copied: list[str]) -> None:
 
 
 def main() -> None:
-    assert_public_target()
-    if PUBLIC_DIR.exists():
-        shutil.rmtree(filesystem_path(PUBLIC_DIR))
-    PUBLIC_DIR.mkdir(parents=True)
+    clean_public_dir()
 
     copied: list[str] = []
     for file_name in TOP_LEVEL_FILES:
