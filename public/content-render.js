@@ -142,10 +142,9 @@
     setHtml(
       "#catalog-stat-grid",
       [
-        ["Services", data.servicePages.length],
-        ["Products", data.products.length],
-        ["Blog posts", data.guides.filter((guide) => guide.type === "blog_post").length],
-        ["Artists", data.artists.length],
+        ["services", "10+"],
+        ["products", "Hundreds of"],
+        ["happy customers", "Thousands of"],
       ]
         .map(
           ([label, value]) => `

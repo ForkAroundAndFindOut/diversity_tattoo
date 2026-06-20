@@ -342,6 +342,9 @@ SECTION_PAGE_CONFIGS = [
         "primaryHref": "tel:+17024541300",
         "secondaryLabel": "Explore items",
         "secondaryHref": "#product-filters",
+        "heroImageMode": "contained",
+        "hideOverview": True,
+        "hideDetails": True,
         "productScope": SMOKE_SHOP_CATEGORIES,
         "productIntro": "Smoke shop categories.",
         "productCopy": "Browse smoke shop products and detox options before visiting. Call ahead for current availability.",
@@ -1565,12 +1568,16 @@ def html_page(
     primary_href: str = "../index.html#visit",
     robots: str = "index, follow",
     body_html_override: str = "",
+    image_html_override: str = "",
 ) -> str:
     meta_html = "\n".join(
         f"<li><strong>{escape(label)}</strong><span>{escape(value)}</span></li>" for label, value in meta if value
     )
     body_html = body_html_override or body_to_html(body)
     canonical_html = f'    <link rel="canonical" href="{escape(canonical_path, quote=True)}" />\n' if canonical_path else ""
+    image_html = image_html_override or (
+        f'<img class="detail-hero-image" src="{escape(detail_image_path(image))}" alt="{escape(title)}" />'
+    )
     return f"""<!doctype html>
 <html lang="en">
   <head>
@@ -1596,7 +1603,7 @@ def html_page(
     </header>
     <main id="main" class="detail-shell">
       <article class="detail-article">
-        <img class="detail-hero-image" src="{escape(detail_image_path(image))}" alt="{escape(title)}" />
+        {image_html}
         <div class="detail-copy">
           <p class="eyebrow">{escape(eyebrow)}</p>
           <h1>{escape(title)}</h1>
@@ -1754,10 +1761,27 @@ def write_section_pages(data: dict) -> None:
                 config = {**config, "heroImage": specific_source_image}
             else:
                 config = {**config, "heroImage": ASSET_NOT_FOUND_IMAGE}
-        source_cards = section_source_cards(source_pages)
+        source_cards = "" if config.get("hideDetails") else section_source_cards(source_pages)
         price_section = piercing_price_section() if config["key"] == "piercing" else ""
         product_section = scoped_product_section(config)
         canonical_path = public_url_path(config["path"])
+        hero_image_class = "section-page-image"
+        if config.get("heroImageMode") == "contained":
+            hero_image_class += " is-contained"
+        overview_section = ""
+        if not config.get("hideOverview"):
+            overview_section = f"""
+      <section class="section section-band">
+        <div class="section-intro">
+          <p class="eyebrow">Overview</p>
+          <h2>Highlights.</h2>
+          <p>Use these quick points to decide the best next step before calling or visiting.</p>
+        </div>
+        <div class="service-record-grid" data-stagger>
+          {section_highlight_cards(config.get('highlights', []))}
+        </div>
+      </section>
+"""
         page = f"""<!doctype html>
 <html lang="en">
   <head>
@@ -1792,20 +1816,10 @@ def write_section_pages(data: dict) -> None:
 {section_hero_actions(config)}
           </div>
         </div>
-        <img class="section-page-image" src="{escape(detail_image_path(config['heroImage']), quote=True)}" alt="{escape(config['title'])}" />
+        <img class="{escape(hero_image_class, quote=True)}" src="{escape(detail_image_path(config['heroImage']), quote=True)}" alt="{escape(config['title'])}" />
       </section>
 
-      <section class="section section-band">
-        <div class="section-intro">
-          <p class="eyebrow">Overview</p>
-          <h2>Highlights.</h2>
-          <p>Use these quick points to decide the best next step before calling or visiting.</p>
-        </div>
-        <div class="service-record-grid" data-stagger>
-          {section_highlight_cards(config.get('highlights', []))}
-        </div>
-      </section>
-
+      {overview_section}
       {source_cards}
       {price_section}
       {product_section}
@@ -2091,6 +2105,9 @@ def write_detail_pages(data: dict) -> None:
         meta = []
         if extra_meta:
             meta.extend(extra_meta)
+        image_html_override = ""
+        if destination == "artists/tank.html":
+            image_html_override = '<div class="detail-hero-placeholder">[artist profile photo here]</div>'
         path.write_text(
             html_page(
                 record["title"],
@@ -2102,6 +2119,7 @@ def write_detail_pages(data: dict) -> None:
                 primary_label=primary_label,
                 primary_href=primary_href,
                 body_html_override=record.get("bodyHtml", ""),
+                image_html_override=image_html_override,
             ),
             encoding="utf-8",
         )
