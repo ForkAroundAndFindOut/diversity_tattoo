@@ -163,10 +163,15 @@
       "#artist-profile-grid",
       data.artists
         .filter((artist) => artist.title !== "TATTOO Artists")
-        .map(
-          (artist) => `
+        .map((artist) => {
+          const isTank = (artist.destinationPath || "").toLowerCase() === "artists/tank.html";
+          const media = isTank
+            ? '<div class="profile-card-placeholder">[artist profile photo here]</div>'
+            : `<img src="${escapeHtml(assetPath(artist.image))}" alt="${escapeHtml(artist.title)}" loading="lazy" />`;
+
+          return `
             <article class="profile-card hover-lift is-visible">
-              <img src="${escapeHtml(assetPath(artist.image))}" alt="${escapeHtml(artist.title)}" loading="lazy" />
+              ${media}
               <div>
                 <p>Artist profile</p>
                 <h3>${escapeHtml(artist.title)}</h3>
@@ -174,8 +179,8 @@
                 <a href="${escapeHtml(rebuildPath(artist.destinationPath))}">View profile</a>
               </div>
             </article>
-          `
-        )
+          `;
+        })
         .join("")
     );
   }

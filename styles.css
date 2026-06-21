@@ -752,6 +752,7 @@ h3 {
 .product-card > img,
 .guide-card > img,
 .profile-card > img,
+.profile-card > .profile-card-placeholder,
 .category-tile > img {
   display: block;
   grid-row: 1;
@@ -760,6 +761,16 @@ h3 {
   min-height: var(--card-media-height);
   max-height: var(--card-media-height);
   object-fit: cover;
+}
+
+.profile-card > .profile-card-placeholder {
+  display: grid;
+  place-items: center;
+  padding: 18px;
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.055), rgba(35, 184, 172, 0.08));
+  color: var(--muted);
+  font-weight: 800;
+  text-align: center;
 }
 
 .product-card > img {
